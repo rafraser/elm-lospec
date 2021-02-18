@@ -1,4 +1,7 @@
-module Palettes exposing (findBySlug)
+module Palettes exposing
+    ( findBySlug
+    , searchByTag
+    )
 
 import Dict
 import Palette
