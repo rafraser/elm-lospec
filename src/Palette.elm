@@ -7,11 +7,13 @@ module Palette exposing
     , getUrl
     )
 
+import Color exposing (Color)
+
 
 type Palette
     = Palette
         { title : String
-        , colors : List String
+        , colors : List Color
         , tags : List String
         , authorName : Maybe String
         , url : String
@@ -20,7 +22,7 @@ type Palette
 
 createPalette :
     String
-    -> List String
+    -> List Color
     -> List String
     -> Maybe String
     -> String
@@ -40,7 +42,7 @@ getTitle (Palette palette) =
     palette.title
 
 
-getColors : Palette -> List String
+getColors : Palette -> List Color
 getColors (Palette palette) =
     palette.colors
 

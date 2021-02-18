@@ -88,6 +88,7 @@ def generate_elm_file(path, palettes):
     lines = [
         "module PaletteList exposing (paletteList)",
         "",
+        "import Color exposing (rgb255)",
         "import Dict exposing (Dict)",
         "import Palette exposing (Palette, createPalette)",
         "",
@@ -136,8 +137,13 @@ def tidy_string(string):
     )
 
 
+def hex_to_rgb(string):
+    return tuple(int(string.lstrip("#")[i : i + 2], 16) for i in (0, 2, 4))
+
+
 def generate_elm_color(string):
-    return f'"{string}"'
+    r, g, b = hex_to_rgb(string)
+    return f"rgb255 {r} {g} {b}"
 
 
 def generate_elm_tag(string):
