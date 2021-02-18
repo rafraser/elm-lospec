@@ -1,0 +1,13 @@
+{
+    "name": "elm-lospec",
+    "dependencies": {
+        "elm": "^0.19.1-5",
+        "elm-analyse": "^0.16.5",
+        "elm-format": "^0.8.5"
+    },
+    "scripts": {
+        "make": "yarn run elm make --optimize src/Palette.elm src/Palettes.elm",
+        "check-format": "yarn run elm-format --validate src/",
+        "analyse": "yarn run elm-analyse"
+    }
+}
