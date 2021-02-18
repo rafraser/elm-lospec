@@ -1,0 +1,21 @@
+name: Scrape
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: "3.7.x"
+      - run: pip install -r requirements.txt
+      - run: python ./bin/scraper.py -j -e
+      - run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git commit -am "Update generated palettes listing"
+          git push
