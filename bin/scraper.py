@@ -118,9 +118,9 @@ def generate_elm_palette(slug, data):
     author = data.get("authorName")
     maybe_author = f'(Just "{author}")' if author else "Nothing"
     title = tidy_string(data.get("title"))
-    description = tidy_string(data.get("description"))
+    # description = tidy_string(data.get("description"))
     url = data.get("url")
-    return f'( "{slug}", createPalette "{title}" "{description}" {colors_list} {tags_list} "2021-01-28T19:32:21.118Z" {maybe_author} "{url}" )'
+    return f'( "{slug}", createPalette "{title}" {colors_list} {tags_list} {maybe_author} "{url}" )'
 
 
 def tidy_string(string):
