@@ -105,7 +105,10 @@ def generate_elm_file(path, palettes):
 
 def generate_elm_dict(palettes):
     return "\n        , ".join(
-        [generate_elm_palette(slug, palette) for slug, palette in palettes.items()]
+        [
+            generate_elm_palette(slug, palette)
+            for slug, palette in sorted(palettes.items())
+        ]
     )
 
 
