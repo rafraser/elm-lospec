@@ -16,7 +16,9 @@ import Palette exposing (Palette, createPalette)
 
 This is a bit tricky to work with since we need to store the entire Dict, even if you only use a small handful of these palettes.
 I'm considering splitting this up into individual functions, eg:
+
 12bit : Palette
+
 oak21 : Palette
 
 If you're an Elm whiz and have any ideas how to make the compiler like me more, get in touch

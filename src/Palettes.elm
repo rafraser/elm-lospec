@@ -14,6 +14,7 @@ import PaletteList exposing (paletteList)
 {-| Find a palette by "key"
 
 You can easily spot the slug from a Lospec palette url, eg:
+
 <https://lospec.com/palette-list/oak21> -> "oak21"
 
 -}
