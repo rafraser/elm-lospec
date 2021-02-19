@@ -1,4 +1,42 @@
 {
+    "gogreen": {
+        "title": "GoGreen",
+        "description": "",
+        "colors": [
+            "4ec7ff",
+            "1696e0",
+            "0b69ad",
+            "003b60",
+            "031f1a",
+            "1c3e26",
+            "3c6431",
+            "709e3c",
+            "97c04f",
+            "f0c058",
+            "d69046",
+            "bb6133",
+            "833d35",
+            "562f34"
+        ],
+        "tags": [
+            "versatile blue green brown"
+        ],
+        "createdAt": "2021-02-10T06:26:52.777Z",
+        "authorName": "Joe",
+        "url": "https://lospec.com/palette-list/gogreen"
+    },
+    "nokia-3310": {
+        "title": "Nokia 3310",
+        "description": "Nokia 3310 palette.",
+        "colors": [
+            "c7f0d8",
+            "43523d"
+        ],
+        "tags": [],
+        "createdAt": "2021-02-01T22:52:24.074Z",
+        "authorName": "Marcos Padilha",
+        "url": "https://lospec.com/palette-list/nokia-3310"
+    },
     "inkpink": {
         "title": "INKPINK",
         "description": "",
@@ -5138,7 +5176,7 @@
             "mattthewafflecat"
         ],
         "createdAt": "2020-11-26T04:24:49.937Z",
-        "authorName": "MattTheWaffleCat",
+        "authorName": "mattt",
         "url": "https://lospec.com/palette-list/adventure28"
     },
     "christmas-gb-v2": {
@@ -12669,7 +12707,7 @@
             "nice31"
         ],
         "createdAt": "2020-06-26T02:13:28.284Z",
-        "authorName": "MattTheWaffleCat",
+        "authorName": "mattt",
         "url": "https://lospec.com/palette-list/31"
     },
     "mistyshore28": {
@@ -14633,7 +14671,7 @@
             "mattthewafflecat"
         ],
         "createdAt": "2020-05-21T02:53:32.097Z",
-        "authorName": "MattTheWaffleCat",
+        "authorName": "mattt",
         "url": "https://lospec.com/palette-list/matt36"
     },
     "hept32": {
