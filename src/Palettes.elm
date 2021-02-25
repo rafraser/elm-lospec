@@ -2,6 +2,11 @@ module Palettes exposing (findBySlug, searchByTag)
 
 {-| Useful functions for finding palettes from the palette list
 
+Internally, these functions search through a giant Dict of palettes.
+This does mean that if you use these functions, you'll probably increase your asset size by quite a lot.
+
+If you only need to use one specific palette, each palette has an individual function in PaletteList.elm
+
 @docs findBySlug, searchByTag
 
 -}
