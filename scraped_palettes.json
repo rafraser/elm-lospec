@@ -1,4 +1,412 @@
 {
+    "pastel-india": {
+        "title": "Pastel-India",
+        "description": "",
+        "colors": [
+            "f69e7b",
+            "f0ece3",
+            "70af85"
+        ],
+        "tags": [
+            "3 colors",
+            "pastel"
+        ],
+        "createdAt": "2021-02-23T13:18:09.721Z",
+        "authorName": "Sumedh Natu",
+        "url": "https://lospec.com/palette-list/pastel-india"
+    },
+    "generic-milk-carton": {
+        "title": "Generic Milk Carton",
+        "description": "",
+        "colors": [
+            "f5f4e9",
+            "5b88e2"
+        ],
+        "tags": [
+            "1bit",
+            "blue",
+            "white"
+        ],
+        "createdAt": "2021-02-23T15:50:33.677Z",
+        "authorName": "Something Fishy",
+        "url": "https://lospec.com/palette-list/generic-milk-carton"
+    },
+    "genericgb": {
+        "title": "GenericGB",
+        "description": "Needed a Gameboy palette, and since I was insanely bored, I created one as opposed to using one.",
+        "colors": [
+            "006636",
+            "579938",
+            "8dcc30",
+            "e1ff5b"
+        ],
+        "tags": [
+            "2bit",
+            "gameboy",
+            "gb",
+            "generic",
+            "green"
+        ],
+        "createdAt": "2021-02-24T11:33:48.652Z",
+        "authorName": "_sedona",
+        "url": "https://lospec.com/palette-list/genericgb"
+    },
+    "red-is-dead": {
+        "title": "Red is Dead",
+        "description": "A flashy red palette inspired by akira. It was actually designed for a fight game I was going to make but it works really well with science-fiction and space theme.",
+        "colors": [
+            "fffcfe",
+            "ff0015",
+            "860020",
+            "11070a"
+        ],
+        "tags": [
+            "alien",
+            "arcade",
+            "flashy",
+            "gameboy",
+            "monochrom",
+            "red",
+            "science",
+            "space",
+            "stress"
+        ],
+        "createdAt": "2021-02-17T11:10:46.803Z",
+        "authorName": "Devine Devine",
+        "url": "https://lospec.com/palette-list/red-is-dead"
+    },
+    "freezingwinter4": {
+        "title": "FreezingWinter4",
+        "description": "",
+        "colors": [
+            "f0faff",
+            "3bbdfd",
+            "0070ef",
+            "1e188d"
+        ],
+        "tags": [
+            "snow cold winter blue"
+        ],
+        "createdAt": "2021-02-15T05:54:17.156Z",
+        "authorName": "Joe",
+        "url": "https://lospec.com/palette-list/freezingwinter4"
+    },
+    "black-tar": {
+        "title": "black tar",
+        "description": "i dunno...",
+        "colors": [
+            "843c35",
+            "ffeb94",
+            "398a75",
+            "26153a"
+        ],
+        "tags": [
+            "gb",
+            "polyphorge",
+            "tar"
+        ],
+        "createdAt": "2021-02-21T09:18:21.413Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/black-tar"
+    },
+    "pix-byrg": {
+        "title": "pix BYRG",
+        "description": "I made a basic 4 color value gradient, with a complimentary darkish midtone.I made it for cities and trains, but it worked out well for trees and planes too.",
+        "colors": [
+            "010034",
+            "70210f",
+            "778543",
+            "cdc376"
+        ],
+        "tags": [
+            "2 bit",
+            "4 color",
+            "city",
+            "crimson",
+            "iron",
+            "navy blue",
+            "off white",
+            "olive green",
+            "pale yellow",
+            "sunset",
+            "tree"
+        ],
+        "createdAt": "2021-02-26T10:13:02.088Z",
+        "authorName": "Richmond Riddle",
+        "url": "https://lospec.com/palette-list/pix-byrg"
+    },
+    "sanguine-gb": {
+        "title": "Sanguine GB",
+        "description": "",
+        "colors": [
+            "bba075",
+            "734940",
+            "641010",
+            "28000e"
+        ],
+        "tags": [],
+        "createdAt": "2021-02-26T16:33:46.815Z",
+        "authorName": "Clorox_Cappuccino",
+        "url": "https://lospec.com/palette-list/sanguine-gb"
+    },
+    "retro-memories": {
+        "title": "Retro Memories",
+        "description": "",
+        "colors": [
+            "e5e2d3",
+            "ada394",
+            "2f2736",
+            "545afb",
+            "94dafc",
+            "c22d41"
+        ],
+        "tags": [
+            "retro"
+        ],
+        "createdAt": "2021-02-19T22:20:08.154Z",
+        "authorName": "Zizhen Andrew // Tadpole Tales \ud83d\udc38",
+        "url": "https://lospec.com/palette-list/retro-memories"
+    },
+    "reteocal-9": {
+        "title": "reteocal-9",
+        "description": "",
+        "colors": [
+            "7aadb4",
+            "364e57",
+            "3aa64f",
+            "fff1b2",
+            "d78d5b",
+            "77433e",
+            "3e1d3d",
+            "a2304d",
+            "748e86"
+        ],
+        "tags": [
+            "cartoony",
+            "polyphorge",
+            "retro"
+        ],
+        "createdAt": "2021-02-20T11:13:33.303Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/reteocal-9"
+    },
+    "late-valentines": {
+        "title": "Late Valentine's",
+        "description": "Just some pink colors.",
+        "colors": [
+            "e5bedd",
+            "db6cb1",
+            "c33574",
+            "7a0030"
+        ],
+        "tags": [
+            "2bits",
+            "gameboy",
+            "pink",
+            "valentineday"
+        ],
+        "createdAt": "2021-02-20T18:37:35.181Z",
+        "authorName": "AleJ",
+        "url": "https://lospec.com/palette-list/late-valentines"
+    },
+    "rgb-punch": {
+        "title": "rgb punch",
+        "description": "im working on hue shifting",
+        "colors": [
+            "414357",
+            "3c4e61",
+            "386269",
+            "2b8273",
+            "4da361",
+            "5cbd57",
+            "9bcf70",
+            "c8e687",
+            "fcffa3",
+            "ffe375",
+            "ffbe5c",
+            "ff954f",
+            "ff643d",
+            "f52c2c",
+            "b83359",
+            "852970",
+            "59226b",
+            "3d2352",
+            "4a2d75",
+            "503785",
+            "4c4296",
+            "566db0",
+            "6886ba",
+            "79abd1",
+            "8fc6e0"
+        ],
+        "tags": [],
+        "createdAt": "2021-02-18T19:00:58.877Z",
+        "authorName": "Monsterfight Tcg",
+        "url": "https://lospec.com/palette-list/rgb-punch"
+    },
+    "nostalgia36": {
+        "title": "Nostalgia36",
+        "description": "",
+        "colors": [
+            "ff9e95",
+            "d97594",
+            "b34b96",
+            "852f85",
+            "5b226b",
+            "3d1757",
+            "3e4d66",
+            "62718b",
+            "8f9cb3",
+            "c1cada",
+            "d5ecea",
+            "63dbd5",
+            "51b7c7",
+            "428ab3",
+            "29608a",
+            "133862",
+            "1e2029",
+            "1f3741",
+            "2d5c56",
+            "387450",
+            "498f45",
+            "6fa341",
+            "a3c255",
+            "cad670",
+            "f0d661",
+            "e7a747",
+            "da7239",
+            "cd5632",
+            "993328",
+            "752626",
+            "472020",
+            "663329",
+            "8a4e34",
+            "ad7245",
+            "d1a568",
+            "f0d793"
+        ],
+        "tags": [
+            "versatile"
+        ],
+        "createdAt": "2021-02-18T07:12:05.369Z",
+        "authorName": "Joe",
+        "url": "https://lospec.com/palette-list/nostalgia36"
+    },
+    "damage-dice-10-6": {
+        "title": "Damage Dice 10 & 6",
+        "description": "16 color palette, a 10 count cool blue and green slate to gray main gradient, with a 6 count warm highlight compliment.Created for making very small size dungeon and fantasy stuff.Inspired by Ultima, Warcraft, D&amp;D, Pool of Raidiance, Zelda, Gargoyle's Quest &amp; Demon's Crest.",
+        "colors": [
+            "00000d",
+            "172126",
+            "324026",
+            "3e4e59",
+            "5c7173",
+            "468c8b",
+            "76a632",
+            "99bfbd",
+            "bbd9b8",
+            "f2f1da",
+            "45002a",
+            "5e3d17",
+            "913a2c",
+            "ab7444",
+            "d4a83f",
+            "eddf48"
+        ],
+        "tags": [
+            "16 color",
+            "4 bit",
+            "dungeon",
+            "fantasy"
+        ],
+        "createdAt": "2021-02-18T20:12:28.106Z",
+        "authorName": "Richmond Riddle",
+        "url": "https://lospec.com/palette-list/damage-dice-10-6"
+    },
+    "alien-gb": {
+        "title": "Alien GB",
+        "description": "",
+        "colors": [
+            "2d293d",
+            "5c5b77",
+            "78db97",
+            "e8ffee"
+        ],
+        "tags": [
+            "2bit",
+            "4color",
+            "4colour",
+            "gameboy",
+            "gb"
+        ],
+        "createdAt": "2021-02-19T15:43:52.354Z",
+        "authorName": "Groxguy",
+        "url": "https://lospec.com/palette-list/alien-gb"
+    },
+    "midnight-ablaze": {
+        "title": "Midnight ablaze",
+        "description": "Color palette I made for a very ominous night sky. Named by one of my followers.\u00a0",
+        "colors": [
+            "ff8274",
+            "d53c6a",
+            "7c183c",
+            "460e2b",
+            "31051e",
+            "1f0510",
+            "130208"
+        ],
+        "tags": [
+            "",
+            "dark",
+            "fire",
+            "midnight",
+            "night",
+            "pink",
+            "rose"
+        ],
+        "createdAt": "2021-02-16T05:22:07.091Z",
+        "authorName": "Inkpendude ",
+        "url": "https://lospec.com/palette-list/midnight-ablaze"
+    },
+    "amazon-8": {
+        "title": "Amazon 8",
+        "description": "Based on TEDEd's video on the amazons",
+        "colors": [
+            "4dc2da",
+            "1179aa",
+            "0d4e7e",
+            "06333d",
+            "d4824a",
+            "a92c22",
+            "681517",
+            "310a0b"
+        ],
+        "tags": [
+            "3bit",
+            "amazon"
+        ],
+        "createdAt": "2021-02-17T00:55:25.844Z",
+        "authorName": "Fenrir",
+        "url": "https://lospec.com/palette-list/amazon-8"
+    },
+    "daybreak": {
+        "title": "Daybreak",
+        "description": "A 2bit (4 color) palette where the colors were taken from photo of a real-life sunrise. The lighter colors were modified slightly.",
+        "colors": [
+            "08050c",
+            "822d30",
+            "eb754d",
+            "f8b581"
+        ],
+        "tags": [
+            "2bit",
+            "gameboy",
+            "sunrise"
+        ],
+        "createdAt": "2021-02-14T22:28:37.272Z",
+        "authorName": "Poltergasm",
+        "url": "https://lospec.com/palette-list/daybreak"
+    },
     "amphibian8": {
         "title": "Amphibian8",
         "description": "Low saturation colors specifically picked for scenes on the forest floor and your amphibian needs.",
@@ -27,7 +435,7 @@
     },
     "small-sprite-greedy-40": {
         "title": "Small Sprite Greedy 40",
-        "description": "A handful of vibrant colors with sharp gradients designed for coloring and shading small images.\u00a0 Expansion of my Bright 32 palette with the addition of saturated yellow-oranges, rich browns, rosey pinks, and a cold off-white.",
+        "description": "A handful of vibrant colors with sharp gradients designed for coloring and shading small images. Expansion of Bright 32 with the addition of saturated yellow-oranges, rich browns, rosey pinks, and a cool off-white.",
         "colors": [
             "1a1a1a",
             "4d4d4d",
@@ -74,7 +482,6 @@
             "cold",
             "colorful",
             "greedy",
-            "hot",
             "saturated",
             "small",
             "sprite",
@@ -739,7 +1146,6 @@
             "bright",
             "cold",
             "colorful",
-            "hot",
             "saturated",
             "small",
             "sprite",
@@ -1003,8 +1409,8 @@
         "authorName": "zeta4m studios",
         "url": "https://lospec.com/palette-list/soul32"
     },
-    "polyphorges-official-palette": {
-        "title": "polyphorge's official palette",
+    "polyphorges-official": {
+        "title": "polyphorge's official",
         "description": "",
         "colors": [
             "360e39",
@@ -1069,7 +1475,7 @@
         ],
         "createdAt": "2021-02-07T22:23:11.311Z",
         "authorName": "polyphorge",
-        "url": "https://lospec.com/palette-list/polyphorges-official-palette"
+        "url": "https://lospec.com/palette-list/polyphorges-official"
     },
     "atomic-heat": {
         "title": "Atomic Heat",
