@@ -1,7 +1,763 @@
 {
+    "synthetic-80s": {
+        "title": "Synthetic 80s",
+        "description": "these are colors pulled from various images on google, though I did not handpick them, I did select the shades of the colors.",
+        "colors": [
+            "e46018",
+            "fcb800",
+            "008894",
+            "004058",
+            "290d28",
+            "9d2496",
+            "db24d4"
+        ],
+        "tags": [],
+        "createdAt": "2021-02-25T17:43:26.210Z",
+        "authorName": "Baylor Hood",
+        "url": "https://lospec.com/palette-list/synthetic-80s"
+    },
+    "horehound-4": {
+        "title": "horehound-4",
+        "description": "named after a root beer flavoured candy that soothes the throat.\u00a0 developed as two separate 2-bit palettes, \"root beer float\" and \"tiger tail\".a little difficult to get the hang of, but nevertheless rewarding!",
+        "colors": [
+            "3c1402",
+            "ca9a57",
+            "e96f1b",
+            "312b24"
+        ],
+        "tags": [
+            "dark",
+            "orange",
+            "sepia",
+            "spooky",
+            "warm"
+        ],
+        "createdAt": "2021-02-28T03:52:26.848Z",
+        "authorName": "beachboogeyman",
+        "url": "https://lospec.com/palette-list/horehound-4"
+    },
+    "nord-theme": {
+        "title": "Nord theme",
+        "description": "An arctic, north-bluish color palette.<i>I am not original creator </i>This palette is from <a href=\"https://www.nordtheme.com\" target=\"_blank\">here</a><span> (https://www.nordtheme.com)</span>",
+        "colors": [
+            "2e3440",
+            "3b4252",
+            "434c5e",
+            "4c566a",
+            "d8dee9",
+            "e5e9f0",
+            "eceff4",
+            "8fbcbb",
+            "88c0d0",
+            "81a1c1",
+            "5e81ac",
+            "bf616a",
+            "d08770",
+            "ebcb8b",
+            "a3be8c",
+            "b48ead"
+        ],
+        "tags": [
+            "nord"
+        ],
+        "createdAt": "2021-02-27T18:59:47.335Z",
+        "authorName": "Kendy205",
+        "url": "https://lospec.com/palette-list/nord-theme"
+    },
+    "1-bit-apple-green": {
+        "title": "1 Bit Apple Green",
+        "description": "",
+        "colors": [
+            "000000",
+            "26c30f"
+        ],
+        "tags": [
+            "1bit",
+            "black",
+            "green"
+        ],
+        "createdAt": "2021-03-01T09:08:10.204Z",
+        "authorName": "gabs",
+        "url": "https://lospec.com/palette-list/1-bit-apple-green"
+    },
+    "daydreams24": {
+        "title": "Daydreams24",
+        "description": "",
+        "colors": [
+            "443752",
+            "5f5473",
+            "827d9a",
+            "a5a4ba",
+            "dcdce6",
+            "2b4147",
+            "3d635c",
+            "4c8566",
+            "63a66c",
+            "8bc078",
+            "702931",
+            "994639",
+            "b3663f",
+            "cc9854",
+            "e0c270",
+            "f5f09a",
+            "523839",
+            "78524d",
+            "9e7762",
+            "c4a67e",
+            "45538f",
+            "5f7cb3",
+            "81aad4",
+            "acd7ee"
+        ],
+        "tags": [
+            "desaturated blue brown red yellow grey purple green soft"
+        ],
+        "createdAt": "2021-03-01T03:05:49.929Z",
+        "authorName": "Joe",
+        "url": "https://lospec.com/palette-list/daydreams24"
+    },
+    "festive30": {
+        "title": "Festive30",
+        "description": "",
+        "colors": [
+            "15151a",
+            "43434f",
+            "606070",
+            "7e7e8f",
+            "b4b4c2",
+            "ecebf5",
+            "09253d",
+            "11664f",
+            "198f4c",
+            "55c22d",
+            "b6f150",
+            "a61717",
+            "d9512b",
+            "e68535",
+            "f2ba4b",
+            "ffeb57",
+            "4a121f",
+            "702c25",
+            "a35638",
+            "d18f56",
+            "321d4d",
+            "692e80",
+            "a842a1",
+            "d16ea8",
+            "faacc3",
+            "0f2775",
+            "2c5fab",
+            "5cade0",
+            "90ddf0",
+            "d2f5fa"
+        ],
+        "tags": [
+            "grey green red yellow brown purple pink blue saturated"
+        ],
+        "createdAt": "2021-03-01T02:56:17.299Z",
+        "authorName": "Joe",
+        "url": "https://lospec.com/palette-list/festive30"
+    },
+    "nostalgia48": {
+        "title": "Nostalgia48",
+        "description": "I set it in ramps so its easy to use, its the perfected version of nostalgia36. Hope its useful for u to use. There's some skin tone there. Very soft and simple palette.\u00a0",
+        "colors": [
+            "05090f",
+            "243757",
+            "3c5275",
+            "5a7194",
+            "7f92b3",
+            "a7b7d1",
+            "ced7e8",
+            "ebeef9",
+            "0d2829",
+            "154237",
+            "235c44",
+            "317545",
+            "428f42",
+            "6ea84a",
+            "a3c255",
+            "cfdb72",
+            "751623",
+            "942a20",
+            "b34428",
+            "d16630",
+            "e68d3e",
+            "f0ae4a",
+            "f0c955",
+            "f5e85d",
+            "5c1e1c",
+            "78362a",
+            "915237",
+            "ad7044",
+            "c78c58",
+            "e0ad72",
+            "ebc48a",
+            "f5d9a6",
+            "fef1c7",
+            "3f1a4d",
+            "6d2975",
+            "943989",
+            "b3508d",
+            "cc6b8a",
+            "e6948f",
+            "f5baa9",
+            "221b52",
+            "262c70",
+            "30488c",
+            "3a72ab",
+            "53accc",
+            "76d5e0",
+            "a7e8e7",
+            "d8f0ee"
+        ],
+        "tags": [
+            "soft green purple red yellow skin blue brown silver pink ocean metal"
+        ],
+        "createdAt": "2021-03-01T02:39:39.542Z",
+        "authorName": "Joe",
+        "url": "https://lospec.com/palette-list/nostalgia48"
+    },
+    "grey-mist": {
+        "title": "grey mist",
+        "description": "",
+        "colors": [
+            "f1ffe0",
+            "988171",
+            "463534",
+            "1e1721"
+        ],
+        "tags": [
+            "gb",
+            "grey",
+            "polyphorge",
+            "stone"
+        ],
+        "createdAt": "2021-03-01T22:09:13.632Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/grey-mist"
+    },
+    "daydream-20": {
+        "title": "DAYDREAM 20",
+        "description": "",
+        "colors": [
+            "430f43",
+            "472561",
+            "205973",
+            "248077",
+            "2d9a77",
+            "5ec688",
+            "aae68f",
+            "64154d",
+            "8e184b",
+            "ba3155",
+            "d9505e",
+            "e3744f",
+            "f29e64",
+            "ffc477",
+            "ffdd96",
+            "fff4b0",
+            "c22e35",
+            "d24f38",
+            "df6939",
+            "ed9b4a"
+        ],
+        "tags": [
+            "pastel",
+            "warm"
+        ],
+        "createdAt": "2021-03-01T20:08:34.144Z",
+        "authorName": "runmry",
+        "url": "https://lospec.com/palette-list/daydream-20"
+    },
+    "technobike": {
+        "title": "Technobike",
+        "description": "A Gameboy-inspired four-color palette designed for futuristic art.",
+        "colors": [
+            "1d2938",
+            "2a616e",
+            "13b37e",
+            "07ef5c"
+        ],
+        "tags": [
+            "4color",
+            "akira",
+            "bike",
+            "cyberpunk",
+            "tech",
+            "techno"
+        ],
+        "createdAt": "2021-03-01T18:43:43.799Z",
+        "authorName": "Floatingtable Studios",
+        "url": "https://lospec.com/palette-list/technobike"
+    },
+    "rugged-gb": {
+        "title": "Rugged GB",
+        "description": "A dirty-looking palette I made for a collab on the Lospec discord",
+        "colors": [
+            "f3d5a8",
+            "b78568",
+            "396234",
+            "462e24"
+        ],
+        "tags": [
+            "collaboration",
+            "gameboy",
+            "isagamerstudios"
+        ],
+        "createdAt": "2021-02-28T22:54:32.626Z",
+        "authorName": "Isa",
+        "url": "https://lospec.com/palette-list/rugged-gb"
+    },
+    "king-16": {
+        "title": "king-16",
+        "description": "smooth dark and bright palette inspired by the c64\u00a0",
+        "colors": [
+            "1d1b20",
+            "392e3c",
+            "3d3c58",
+            "643a40",
+            "46543e",
+            "505f93",
+            "517852",
+            "a05372",
+            "886659",
+            "b972a4",
+            "9e8d80",
+            "bca766",
+            "d1a2b9",
+            "c0c783",
+            "c5d1b4",
+            "c4ccbd"
+        ],
+        "tags": [
+            "artist",
+            "soft"
+        ],
+        "createdAt": "2021-02-20T20:30:25.678Z",
+        "authorName": "orange hair boi",
+        "url": "https://lospec.com/palette-list/king-16"
+    },
+    "gty-21": {
+        "title": "GTY-21",
+        "description": "",
+        "colors": [
+            "323c39",
+            "4b692f",
+            "6abe30",
+            "99e550",
+            "ffffff"
+        ],
+        "tags": [
+            "green"
+        ],
+        "createdAt": "2021-02-20T23:08:51.599Z",
+        "authorName": "\ufe0e\ufe0e \ufe0e\ufe0e",
+        "url": "https://lospec.com/palette-list/gty-21"
+    },
+    "rusty-steam": {
+        "title": "Rusty-Steam",
+        "description": "This is a small palette inspired by few colors I saw on colorhunt.co. I thought the colors have a steampunk aesthetic and it works well with pixel-art. If you have made pixel-art with the palette send it to me and I can display it here.",
+        "colors": [
+            "314e52",
+            "f2a154",
+            "d3d3d3"
+        ],
+        "tags": [
+            "gbc",
+            "rust",
+            "steampunk"
+        ],
+        "createdAt": "2021-02-21T10:59:32.856Z",
+        "authorName": "Sumedh Natu",
+        "url": "https://lospec.com/palette-list/rusty-steam"
+    },
+    "ambr0sia": {
+        "title": " AMBR0SIA",
+        "description": "In Greek mythology, ambrosia (in Greek, <b>\u1f00\u03bc\u03b2\u03c1\u03bf\u03c3\u03af\u03b1</b>) is a substance associated with the gods, generally considered their food or drink. The word derives from the Greek terms \u1f00\u03bc- (<i>an</i>-, \u2018no\u2019) and \u03b2\u03c1\u03bf\u03c4\u03cc\u03c2 (<i>brot\u03ccs</i>, \u2018mortal\u2019); therefore having the meaning of\"immortality\".",
+        "colors": [
+            "000000",
+            "b1b1b1",
+            "575757",
+            "ffffff",
+            "666600",
+            "caca00",
+            "99004c",
+            "ff6bb5",
+            "00753a",
+            "00e572",
+            "0000a5",
+            "8989ff"
+        ],
+        "tags": [
+            "calculated",
+            "huesquare",
+            "improvement",
+            "luminance"
+        ],
+        "createdAt": "2021-02-22T00:16:13.390Z",
+        "authorName": "LKR0.5420820",
+        "url": "https://lospec.com/palette-list/ambr0sia"
+    },
+    "robotic": {
+        "title": "Robotic",
+        "description": "A sci-fi palette partially inspired by the Terminator franchise.",
+        "colors": [
+            "1d0f1d",
+            "342537",
+            "3c3748",
+            "4b5162",
+            "5f667b",
+            "708393",
+            "3b1716",
+            "8a3b06",
+            "fadd93",
+            "d4ad6a",
+            "c02811",
+            "f6a79b",
+            "f7f7f4"
+        ],
+        "tags": [
+            "13",
+            "13color",
+            "robot",
+            "scifi",
+            "terminator"
+        ],
+        "createdAt": "2021-02-23T03:59:14.435Z",
+        "authorName": "Floatingtable Studios",
+        "url": "https://lospec.com/palette-list/robotic"
+    },
+    "dialup-sunset": {
+        "title": "Dialup Sunset",
+        "description": "Colours reminiscent of a simpler time.",
+        "colors": [
+            "ffd7d7",
+            "f0a6a6",
+            "ff708b",
+            "cd5981",
+            "824882",
+            "b26e9b",
+            "dd94d2",
+            "ebcbeb"
+        ],
+        "tags": [
+            "retro",
+            "retrowave",
+            "synthwave",
+            "vapourwave"
+        ],
+        "createdAt": "2021-02-28T17:36:01.893Z",
+        "authorName": "Lavenfurr",
+        "url": "https://lospec.com/palette-list/dialup-sunset"
+    },
+    "jr-composite": {
+        "title": "Jr-Composite",
+        "description": "",
+        "colors": [
+            "030625",
+            "0000e8",
+            "077c35",
+            "028566",
+            "9f2441",
+            "6b03ca",
+            "4b7432",
+            "81899e",
+            "1c2536",
+            "0e59f0",
+            "2cc64e",
+            "0bc3a9",
+            "e85685",
+            "c137ff",
+            "a7c251",
+            "ced9ed"
+        ],
+        "tags": [
+            "computer",
+            "ibm",
+            "retro"
+        ],
+        "createdAt": "2021-02-24T22:34:00.623Z",
+        "authorName": "retroadamshow",
+        "url": "https://lospec.com/palette-list/jr-composite"
+    },
+    "jr-16": {
+        "title": "Jr-16",
+        "description": "",
+        "colors": [
+            "040404",
+            "00015d",
+            "003808",
+            "00374b",
+            "580a0a",
+            "520a54",
+            "7a3820",
+            "4b4956",
+            "81f4b1",
+            "72ffff",
+            "a2a2ac",
+            "4d84ff",
+            "d76f6c",
+            "d887f0",
+            "f6f8ad",
+            "f5fffd"
+        ],
+        "tags": [
+            "16colors",
+            "computer",
+            "ibm"
+        ],
+        "createdAt": "2021-02-21T01:46:09.286Z",
+        "authorName": "retroadamshow",
+        "url": "https://lospec.com/palette-list/jr-16"
+    },
+    "rainbowtears": {
+        "title": "RainbowTears",
+        "description": "Warm palette with all rainbow colors ramps connected along with grayscale ramp. Made by myself for my upcoming game",
+        "colors": [
+            "153b68",
+            "1d819b",
+            "34cdcd",
+            "bde6c3",
+            "34cd85",
+            "009a71",
+            "00665b",
+            "0b2c30",
+            "0b1013",
+            "17000f",
+            "41104d",
+            "4d3e82",
+            "7690b5",
+            "b8e1e6",
+            "26101c",
+            "57192a",
+            "933037",
+            "cd4931",
+            "ff6d00",
+            "f1c887",
+            "c86b44",
+            "960505",
+            "322824",
+            "6c5645",
+            "a38148",
+            "f0cc33",
+            "f9e38e",
+            "cdcd00",
+            "849a31",
+            "516638",
+            "2a302a",
+            "172118",
+            "030d06",
+            "595959",
+            "7a8173",
+            "9fa784",
+            "cdcd8d"
+        ],
+        "tags": [
+            "allcolors",
+            "medsaturation",
+            "rainbow",
+            "warm"
+        ],
+        "createdAt": "2021-02-24T16:21:30.928Z",
+        "authorName": "Max Matvienko",
+        "url": "https://lospec.com/palette-list/rainbowtears"
+    },
+    "funk-it-up": {
+        "title": "Funk It Up!",
+        "description": "help how do i add more colors",
+        "colors": [
+            "e4ffff",
+            "e63410",
+            "a23737",
+            "ffec40",
+            "81913b",
+            "26f675",
+            "4c714e",
+            "40ebda",
+            "394e4e",
+            "0a0a0a"
+        ],
+        "tags": [
+            "bomb rush cyberfunk",
+            "funky",
+            "jet set radio"
+        ],
+        "createdAt": "2021-02-24T18:23:13.373Z",
+        "authorName": "NinHenry",
+        "url": "https://lospec.com/palette-list/funk-it-up"
+    },
+    "nes-advanced": {
+        "title": "NES advanced",
+        "description": "What if the colours on the NES palette were better and closer to those you see in SNES games?Here I created a heavily SNES inspired palette with only as many unique colours as the original NES!",
+        "colors": [
+            "000000",
+            "26232f",
+            "314047",
+            "596d62",
+            "929c74",
+            "c8c5a3",
+            "fcfcfc",
+            "1b377f",
+            "147abf",
+            "40afdd",
+            "b2dbf4",
+            "181667",
+            "3b2c96",
+            "706ae1",
+            "8f95ee",
+            "440a41",
+            "812593",
+            "cc4bb9",
+            "ec99db",
+            "3f0011",
+            "b31c35",
+            "ef2064",
+            "f26282",
+            "960811",
+            "e81813",
+            "a75d69",
+            "ec9ea4",
+            "560d04",
+            "c43611",
+            "e26a12",
+            "f0af66",
+            "2a1a14",
+            "5d342a",
+            "a66e46",
+            "df9c6e",
+            "8e4e11",
+            "d89511",
+            "ead11e",
+            "f5eb6b",
+            "2f541c",
+            "5a831b",
+            "a2bb1e",
+            "c6df6b",
+            "0f450f",
+            "008b12",
+            "0bcb12",
+            "3ef33f",
+            "115153",
+            "0c8563",
+            "04bf79",
+            "6ae6aa",
+            "262726",
+            "514f4c",
+            "887e83",
+            "b3aac0"
+        ],
+        "tags": [
+            "nes",
+            "snes"
+        ],
+        "createdAt": "2021-02-24T17:25:46.563Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/nes-advanced"
+    },
+    "final-14": {
+        "title": "Final 14",
+        "description": "This palette was inspired by the last 15 contestants in BFB\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Yes, there are 14 colors, but I still count Profily as a contestant\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 BFB and all the other seasons of BFDI were made by\u00a0<a href=\"https://youtube.com/user/jacknjellify\" target=\"_blank\">Jacknjellify</a>",
+        "colors": [
+            "ffffff",
+            "ffdd84",
+            "ec955b",
+            "883a56",
+            "d95959",
+            "fc83c7",
+            "aa5ec3",
+            "443c7e",
+            "566ed0",
+            "7bb1eb",
+            "98eb77",
+            "3eca6b",
+            "49868b",
+            "10101d"
+        ],
+        "tags": [
+            "14",
+            "bfb",
+            "bfdi",
+            "final",
+            "final 14"
+        ],
+        "createdAt": "2021-02-25T16:16:13.543Z",
+        "authorName": "Adam Barrett",
+        "url": "https://lospec.com/palette-list/final-14"
+    },
+    "funky-man": {
+        "title": "funky man",
+        "description": "Cool palette made for Azathoth in Braquen's 2-bit palette collab",
+        "colors": [
+            "630c9f",
+            "f32a06",
+            "0cd5f9",
+            "ffdd00"
+        ],
+        "tags": [],
+        "createdAt": "2021-02-26T06:47:54.207Z",
+        "authorName": "Red Penguin",
+        "url": "https://lospec.com/palette-list/funky-man"
+    },
+    "opixal": {
+        "title": "opixal",
+        "description": "just a four color palette based off of the color of opals. meant to make things look light, cute, and hopefully gemstoney",
+        "colors": [
+            "ddfeff",
+            "e9ccff",
+            "87cbc5",
+            "9492d0"
+        ],
+        "tags": [
+            "2 bit",
+            "4 colors",
+            "gameboy",
+            "gem",
+            "gems",
+            "opal"
+        ],
+        "createdAt": "2021-02-26T08:01:34.773Z",
+        "authorName": "Lady Marigold (comms open!)",
+        "url": "https://lospec.com/palette-list/opixal"
+    },
+    "woeful-harvest": {
+        "title": "Woeful harvest",
+        "description": "Created during a Discord collab, this palette is a proper lens to tell a story of failing strength, decay and spotting hidden rot.",
+        "colors": [
+            "661c1d",
+            "57551d",
+            "6c5799",
+            "679173"
+        ],
+        "tags": [
+            "2bit"
+        ],
+        "createdAt": "2021-02-26T10:43:25.982Z",
+        "authorName": "Quickmarble",
+        "url": "https://lospec.com/palette-list/woeful-harvest"
+    },
+    "festive-gb": {
+        "title": "festive gb",
+        "description": "",
+        "colors": [
+            "0a092f",
+            "ffffff",
+            "008600",
+            "9f0a0a"
+        ],
+        "tags": [
+            "2bit",
+            "bright",
+            "christmas",
+            "gameboy"
+        ],
+        "createdAt": "2021-02-20T23:13:40.481Z",
+        "authorName": "orange hair boi",
+        "url": "https://lospec.com/palette-list/festive-gb"
+    },
     "pastel-india": {
         "title": "Pastel-India",
-        "description": "",
+        "description": "I made a palette with some pastel-like colors which look like the flag of India{Also Ireland :) }. Feel free to use it for your own pixel art",
         "colors": [
             "f69e7b",
             "f0ece3",
