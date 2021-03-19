@@ -1,4 +1,671 @@
 {
+    "fruity-26": {
+        "title": "Fruity-26",
+        "description": "General use palette, pretty vibrant and versatile.",
+        "colors": [
+            "dce1f9",
+            "afa8a1",
+            "8991ac",
+            "736583",
+            "4a4c6a",
+            "393439",
+            "312420",
+            "201008",
+            "451914",
+            "641b16",
+            "98312a",
+            "b46638",
+            "cd944d",
+            "e3c49a",
+            "b4ba74",
+            "69a15d",
+            "447888",
+            "1f4869",
+            "5b96c5",
+            "76c1e1",
+            "9d6aac",
+            "d070b0",
+            "f4898f",
+            "b7826b",
+            "885e42",
+            "673c2a"
+        ],
+        "tags": [],
+        "createdAt": "2021-03-12T08:58:56.141Z",
+        "authorName": "Eclipse89",
+        "url": "https://lospec.com/palette-list/fruity-26"
+    },
+    "default48": {
+        "title": "Default48",
+        "description": "",
+        "colors": [
+            "000000",
+            "1e2a33",
+            "374652",
+            "546270",
+            "7a8694",
+            "a2acb8",
+            "c6ced6",
+            "ffffff",
+            "04055c",
+            "0a1c75",
+            "133e8f",
+            "2263a8",
+            "3c8fc2",
+            "5cbbdb",
+            "89dceb",
+            "c0f5fa",
+            "2f034d",
+            "550b6b",
+            "811c8a",
+            "a83298",
+            "c7509a",
+            "e67395",
+            "f39ba3",
+            "ffc2ae",
+            "3d0604",
+            "5c1309",
+            "7a2811",
+            "99441d",
+            "b8682e",
+            "d18e47",
+            "ebb86b",
+            "ffdc97",
+            "470014",
+            "6b0a19",
+            "8f1719",
+            "b32b1f",
+            "d95023",
+            "eb7f2c",
+            "f5b23e",
+            "fee660",
+            "023328",
+            "084d35",
+            "13663c",
+            "208042",
+            "309942",
+            "48b340",
+            "78cc52",
+            "aee660"
+        ],
+        "tags": [
+            "saturated simple basic easy default"
+        ],
+        "createdAt": "2021-03-15T07:10:13.549Z",
+        "authorName": "Joe",
+        "url": "https://lospec.com/palette-list/default48"
+    },
+    "saturated-gold-8": {
+        "title": "SATURATED GOLD 8",
+        "description": "A more saturated gold pallet... can be used for basicly everything.",
+        "colors": [
+            "000000",
+            "4a0707",
+            "6b2a15",
+            "8d5129",
+            "ae752c",
+            "d7a628",
+            "e4cf34",
+            "f8f5a9"
+        ],
+        "tags": [
+            "gold",
+            "saturated"
+        ],
+        "createdAt": "2021-01-13T20:51:07.590Z",
+        "authorName": "Patser Hunger",
+        "url": "https://lospec.com/palette-list/saturated-gold-8"
+    },
+    "biohazard9": {
+        "title": "BIOHAZARD9",
+        "description": "This was palette was created for a piece with the prompt to personify 2020, after i noticed that the palette was very nice and fairly flexible so i decided to submit here.The palette itself has great contrast overall and it has a punch to the eye and feels dangerous even more with the red color accent, it can be used with themes such as biohazard or radioactive.",
+        "colors": [
+            "eeff99",
+            "e0f76e",
+            "63eb47",
+            "26d980",
+            "298fa3",
+            "283576",
+            "331f47",
+            "e6b045",
+            "d92640"
+        ],
+        "tags": [
+            "biohazard",
+            "contrasting",
+            "dangerous",
+            "ethanhunt",
+            "ethanhunt404",
+            "radioactive",
+            "toxic"
+        ],
+        "createdAt": "2020-12-29T06:43:28.334Z",
+        "authorName": "EthanHunt404",
+        "url": "https://lospec.com/palette-list/biohazard9"
+    },
+    "adobe-gb": {
+        "title": "Adobe GB",
+        "description": "",
+        "colors": [
+            "480d0d",
+            "b7451d",
+            "5aa195",
+            "e4d1b0"
+        ],
+        "tags": [],
+        "createdAt": "2021-03-03T08:10:49.049Z",
+        "authorName": "Clorox_Cappuccino",
+        "url": "https://lospec.com/palette-list/adobe-gb"
+    },
+    "northwest-gb": {
+        "title": "Northwest GB",
+        "description": "A palette based off of Native American art of the Pacific Northwest",
+        "colors": [
+            "05192f",
+            "602222",
+            "67a0b4",
+            "cab89c"
+        ],
+        "tags": [],
+        "createdAt": "2021-03-03T07:36:27.046Z",
+        "authorName": "Clorox_Cappuccino",
+        "url": "https://lospec.com/palette-list/northwest-gb"
+    },
+    "rising-sun-gb": {
+        "title": "Rising Sun GB",
+        "description": "",
+        "colors": [
+            "181322",
+            "4b372c",
+            "a2423a",
+            "cdc1a7"
+        ],
+        "tags": [],
+        "createdAt": "2021-03-03T04:45:37.773Z",
+        "authorName": "Clorox_Cappuccino",
+        "url": "https://lospec.com/palette-list/rising-sun-gb"
+    },
+    "paradise-30": {
+        "title": "PARADISE 30",
+        "description": "",
+        "colors": [
+            "1a0e14",
+            "321921",
+            "4d292d",
+            "70483c",
+            "96705a",
+            "b59571",
+            "e0c892",
+            "fff4b0",
+            "4c2126",
+            "70282b",
+            "993833",
+            "bd4c35",
+            "d9643d",
+            "f0824b",
+            "fba75d",
+            "ffc973",
+            "ffe08a",
+            "bf2b29",
+            "e64e47",
+            "ed572d",
+            "ff9130",
+            "ffbd40",
+            "364121",
+            "5a7a22",
+            "b3a720",
+            "402b50",
+            "4e59c2",
+            "48ace0",
+            "863ba1",
+            "d663d7"
+        ],
+        "tags": [
+            "colorful",
+            "warm"
+        ],
+        "createdAt": "2021-03-09T01:22:35.062Z",
+        "authorName": "runmry",
+        "url": "https://lospec.com/palette-list/paradise-30"
+    },
+    "dbpaip-18": {
+        "title": "DBPAIP 18",
+        "description": "It stands for\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Dawn\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Bringer\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Palette\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Analyser\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Inspired\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 Palette\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 You figure it out",
+        "colors": [
+            "151324",
+            "667699",
+            "b2c9d4",
+            "ffffff",
+            "8beaea",
+            "5283c1",
+            "40376f",
+            "985ba7",
+            "fb90aa",
+            "fff293",
+            "ec8f5b",
+            "a5495f",
+            "53365a",
+            "7d5563",
+            "9e9c62",
+            "95e368",
+            "50ae8d",
+            "4c6586"
+        ],
+        "tags": [
+            "a",
+            "b",
+            "d",
+            "dbpaip",
+            "i",
+            "p"
+        ],
+        "createdAt": "2021-03-04T16:53:39.259Z",
+        "authorName": "Adam Barrett",
+        "url": "https://lospec.com/palette-list/dbpaip-18"
+    },
+    "cherry-poptarts": {
+        "title": "Cherry Poptarts",
+        "description": "A simple, cute palette of shades of pink and red, inspired by its namesake.",
+        "colors": [
+            "f7c38a",
+            "ff8d8d",
+            "ff6666",
+            "a81734",
+            "620d1e"
+        ],
+        "tags": [],
+        "createdAt": "2021-03-06T19:13:50.279Z",
+        "authorName": "Blue Canary",
+        "url": "https://lospec.com/palette-list/cherry-poptarts"
+    },
+    "moonlight-gb": {
+        "title": "Moonlight GB",
+        "description": "",
+        "colors": [
+            "0f052d",
+            "203671",
+            "36868f",
+            "5fc75d"
+        ],
+        "tags": [
+            "2 bit",
+            "4 colors",
+            "4 colours",
+            "dark",
+            "gameboy",
+            "moonlight",
+            "night"
+        ],
+        "createdAt": "2021-03-08T18:36:07.365Z",
+        "authorName": "Tofu",
+        "url": "https://lospec.com/palette-list/moonlight-gb"
+    },
+    "mangavania": {
+        "title": "Mangavania",
+        "description": "This testosterone fueled palette, while looks strange, is actually rather flexible. I received the inspiration after seeing a japanese drawing in this strange palette where the colors made no sense together, yet it somehow worked.",
+        "colors": [
+            "b03e80",
+            "ff8acd",
+            "4aedff",
+            "ffffff"
+        ],
+        "tags": [
+            "2bit",
+            "4 colors",
+            "bright"
+        ],
+        "createdAt": "2021-03-09T01:38:05.192Z",
+        "authorName": "Poltergasm",
+        "url": "https://lospec.com/palette-list/mangavania"
+    },
+    "copper-cut": {
+        "title": "copper cut",
+        "description": "copper and oxidized copper palette",
+        "colors": [
+            "fffbd1",
+            "f4a374",
+            "3f7a63",
+            "1b1829"
+        ],
+        "tags": [
+            "abstract",
+            "copper",
+            "metal",
+            "polyphorge"
+        ],
+        "createdAt": "2021-03-10T00:01:04.921Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/copper-cut"
+    },
+    "consistent-15": {
+        "title": "Consistent 15",
+        "description": "I tried to make it possible to make consistently sized ramps with all the colors",
+        "colors": [
+            "80dbf8",
+            "6079dc",
+            "5d4483",
+            "cb62a9",
+            "ffc0ad",
+            "ffffff",
+            "bbcbe0",
+            "8183b6",
+            "377a77",
+            "80d566",
+            "fff475",
+            "eb795d",
+            "913d5c",
+            "2e2549",
+            "030305"
+        ],
+        "tags": [
+            "artist",
+            "consistent"
+        ],
+        "createdAt": "2021-03-10T14:05:51.545Z",
+        "authorName": "Adam Barrett",
+        "url": "https://lospec.com/palette-list/consistent-15"
+    },
+    "hard-working-robots": {
+        "title": "hard working robots",
+        "description": "",
+        "colors": [
+            "fff3eb",
+            "fedac0",
+            "aa4d66",
+            "fd7a81",
+            "ee394b",
+            "ffad60",
+            "c1d451",
+            "9b9c4d",
+            "3e694f",
+            "91e0ad",
+            "63ad9b",
+            "448b89",
+            "3e6469",
+            "243744",
+            "142130"
+        ],
+        "tags": [
+            "artist",
+            "vanity"
+        ],
+        "createdAt": "2021-03-07T23:00:05.002Z",
+        "authorName": "vanity",
+        "url": "https://lospec.com/palette-list/hard-working-robots"
+    },
+    "punolite-plus-plus": {
+        "title": "Punolite Plus Plus",
+        "description": "32 color palette, expansion/recreation of\u00a0<a href=\"https://lospec.com/palette-list/punolite\" target=\"_blank\">punolite</a>",
+        "colors": [
+            "2e2e43",
+            "4a4b5b",
+            "707b89",
+            "a9bcbf",
+            "e6eeed",
+            "fcfbf3",
+            "fceba8",
+            "f5c47c",
+            "e39764",
+            "c06852",
+            "9d4343",
+            "813645",
+            "542240",
+            "2a152d",
+            "4f2d4d",
+            "5b3a56",
+            "794e6d",
+            "3e4c7e",
+            "495f94",
+            "5a78b2",
+            "7396d5",
+            "7fbbdc",
+            "aaeeea",
+            "d5f893",
+            "96dc7f",
+            "6ec077",
+            "4e9363",
+            "3c6c54",
+            "2c5049",
+            "34404f",
+            "405967",
+            "5c8995"
+        ],
+        "tags": [
+            "32",
+            "contrast",
+            "ppp",
+            "punoliteplusplus",
+            "viberant"
+        ],
+        "createdAt": "2021-03-07T17:36:31.395Z",
+        "authorName": "Punoli",
+        "url": "https://lospec.com/palette-list/punolite-plus-plus"
+    },
+    "plushy": {
+        "title": "Plushy",
+        "description": "",
+        "colors": [
+            "140414",
+            "633b57",
+            "a15170",
+            "df6587",
+            "e08f7e",
+            "d3ae8f",
+            "e0c466",
+            "d38d53",
+            "bb6644",
+            "9b3f3b",
+            "463023",
+            "715236",
+            "a68959",
+            "aecae8",
+            "7aa4c3",
+            "457580",
+            "1c3d3b",
+            "254d33",
+            "427e46",
+            "68a863",
+            "c8d899",
+            "d3d2d8",
+            "a2a1a4",
+            "767577",
+            "4c4b4d"
+        ],
+        "tags": [
+            "25 colors",
+            "plushy",
+            "soft"
+        ],
+        "createdAt": "2021-03-07T17:58:07.267Z",
+        "authorName": "Poltergasm",
+        "url": "https://lospec.com/palette-list/plushy"
+    },
+    "fade12": {
+        "title": "Fade12",
+        "description": "A 12 color palette, focused on making the colors seem faded.",
+        "colors": [
+            "fe5f55",
+            "f5d549",
+            "5abd5c",
+            "423a60",
+            "9c579e",
+            "e986c6",
+            "ffdca8",
+            "c1ffa8",
+            "a8d9ff",
+            "000019",
+            "828282",
+            "f0fffe"
+        ],
+        "tags": [
+            "12colors"
+        ],
+        "createdAt": "2021-03-07T20:59:25.191Z",
+        "authorName": "NinHenry",
+        "url": "https://lospec.com/palette-list/fade12"
+    },
+    "pico-4": {
+        "title": "pico-4",
+        "description": "",
+        "colors": [
+            "180c21",
+            "859999",
+            "3a4a54",
+            "49ab3f",
+            "fff4b0",
+            "ce6b40",
+            "6f324e",
+            "e75e5e"
+        ],
+        "tags": [
+            "pico8",
+            "polyphorge"
+        ],
+        "createdAt": "2021-03-08T01:00:54.039Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/pico-4"
+    },
+    "iron-blues": {
+        "title": "Iron Blues",
+        "description": "This is a 1-bit palette inspired by some vintage posters I saw. I used the palette for a game I did not finish and thought it looked pretty cool. So feel free to use it how you want",
+        "colors": [
+            "596e79",
+            "e4e8d1"
+        ],
+        "tags": [
+            "1bit vintage blue"
+        ],
+        "createdAt": "2021-03-08T12:38:20.929Z",
+        "authorName": "Sumedh Natu",
+        "url": "https://lospec.com/palette-list/iron-blues"
+    },
+    "icy-night": {
+        "title": "Icy Night",
+        "description": "A palette for general use",
+        "colors": [
+            "f0f08c",
+            "f0aa58",
+            "d35e4a",
+            "943c3b",
+            "442c3a",
+            "1d1b1d",
+            "534967",
+            "5c5b8e",
+            "8490b4",
+            "adc2cf",
+            "eef0e3",
+            "97da7a",
+            "64a964",
+            "507a61",
+            "3b504e",
+            "1e2325",
+            "fff1b8",
+            "f8c392",
+            "dd856d",
+            "7f3f3a",
+            "c0bac3",
+            "9c949d",
+            "6e656c",
+            "3c3a3b",
+            "1c1b1b"
+        ],
+        "tags": [
+            "desaturated",
+            "fire",
+            "general",
+            "ice"
+        ],
+        "createdAt": "2021-03-08T13:19:08.375Z",
+        "authorName": "Mememellow",
+        "url": "https://lospec.com/palette-list/icy-night"
+    },
+    "kankei4": {
+        "title": "kankei4",
+        "description": "A vibrant 4-colour palette sampled from the cover art for haircuts for men's \" \u9003\u3057\u3066\u3057\u307e\u3063\u305f\u95a2\u4fc2\" album, which is where the inspiration for the name comes from.\u00a0I'd appreciate if you mention it or me if you use it, thanks.",
+        "colors": [
+            "ffffff",
+            "f42e1f",
+            "2f256b",
+            "060608"
+        ],
+        "tags": [
+            "kankei",
+            "saturated",
+            "vibrant"
+        ],
+        "createdAt": "2021-03-03T18:05:40.350Z",
+        "authorName": "un_deady",
+        "url": "https://lospec.com/palette-list/kankei4"
+    },
+    "dead-ice": {
+        "title": "dead ice",
+        "description": "",
+        "colors": [
+            "f5fffa",
+            "5792a5",
+            "46393f",
+            "161327"
+        ],
+        "tags": [
+            "cold",
+            "gb",
+            "ice",
+            "polxphorge",
+            "stone"
+        ],
+        "createdAt": "2021-03-02T07:43:51.429Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/dead-ice"
+    },
+    "pixelart-smp-z1": {
+        "title": "Pixelart SMP Z1",
+        "description": "",
+        "colors": [
+            "9fcc2d",
+            "ebdc34",
+            "ffffff",
+            "992b6d",
+            "6c2682",
+            "231047",
+            "c4914e",
+            "80adac",
+            "b532a6",
+            "4d96d1",
+            "448d94"
+        ],
+        "tags": [],
+        "createdAt": "2021-02-21T23:15:40.719Z",
+        "authorName": "Zant",
+        "url": "https://lospec.com/palette-list/pixelart-smp-z1"
+    },
+    "wicked-skies": {
+        "title": "Wicked Skies",
+        "description": "A palette made for soaring through a vivid and radiant sky as the sun sets.",
+        "colors": [
+            "00000f",
+            "000133",
+            "000356",
+            "0203e2",
+            "00cdfe",
+            "680880",
+            "fe007d",
+            "de1738",
+            "fd5e53",
+            "fc9c54",
+            "ffe373",
+            "fafbbd"
+        ],
+        "tags": [
+            "radiant",
+            "sky",
+            "sunset",
+            "vivid",
+            "wicked"
+        ],
+        "createdAt": "2021-02-23T16:00:47.438Z",
+        "authorName": "clonethirteen",
+        "url": "https://lospec.com/palette-list/wicked-skies"
+    },
     "synthetic-80s": {
         "title": "Synthetic 80s",
         "description": "these are colors pulled from various images on google, though I did not handpick them, I did select the shades of the colors.",
@@ -29581,7 +30248,7 @@
             "sunsetmoth"
         ],
         "createdAt": "2018-12-04T16:08:08.134Z",
-        "authorName": null,
+        "authorName": "Sunset Moth",
         "url": "https://lospec.com/palette-list/minecraft-64"
     },
     "armor-8": {
