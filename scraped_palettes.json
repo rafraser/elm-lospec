@@ -1,4 +1,759 @@
 {
+    "cafearisuki": {
+        "title": "CafeArisuki",
+        "description": "A palette designed to paint the most delightful patisseries on this side of the cloud kingdom. For the following fydo quilt: https://fy.do/quilt/173",
+        "colors": [
+            "49223f",
+            "cc2b46",
+            "f37e7e",
+            "e7a794",
+            "fbf1d1",
+            "f6cda3",
+            "ca833c",
+            "8a4646",
+            "538f5a",
+            "b4accc"
+        ],
+        "tags": [
+            "arisuki",
+            "cloudcafe",
+            "duochrome",
+            "food",
+            "fydotiles",
+            "pastel",
+            "pastry"
+        ],
+        "createdAt": "2021-03-22T05:05:49.332Z",
+        "authorName": "Arisuki",
+        "url": "https://lospec.com/palette-list/cafearisuki"
+    },
+    "sega-dc-vmu-4": {
+        "title": "Sega DC VMU-4",
+        "description": "The Extended 4-color palette of the Sega VMU! Palette by TheWolfBunny and tweaked by me.",
+        "colors": [
+            "040470",
+            "2a3aa8",
+            "4692d0",
+            "88fca8"
+        ],
+        "tags": [
+            "dreamcast",
+            "game boy",
+            "sega",
+            "thewolfbunny",
+            "vmu"
+        ],
+        "createdAt": "2020-11-27T17:54:35.508Z",
+        "authorName": "HunterRuizFan543",
+        "url": "https://lospec.com/palette-list/sega-dc-vmu-4"
+    },
+    "energy7": {
+        "title": "Energy7",
+        "description": "A small palette i made for a project of mine, somewhat versatile with a main gray ramp starting with a dark outline color and ending in pure white, and accents of yellow.",
+        "colors": [
+            "38284b",
+            "999999",
+            "6f6a89",
+            "add9d7",
+            "ffffff",
+            "faee96",
+            "fcc65b"
+        ],
+        "tags": [],
+        "createdAt": "2020-11-26T10:29:43.516Z",
+        "authorName": "Eclipse89",
+        "url": "https://lospec.com/palette-list/energy7"
+    },
+    "onion-palette": {
+        "title": "Onion Palette",
+        "description": "",
+        "colors": [
+            "090a09",
+            "210a21",
+            "41081b",
+            "780533",
+            "a50331",
+            "ba0146",
+            "e42a59",
+            "f93f6d",
+            "f85684",
+            "f488ae",
+            "edbed5",
+            "bed5d5",
+            "e9e8d0",
+            "d7d7c0",
+            "bebf9a",
+            "9a9a83",
+            "5b725b",
+            "455c46",
+            "314831",
+            "1f361f",
+            "1e1e07",
+            "351f35",
+            "56203b",
+            "8d3047",
+            "a1445c",
+            "cc5887",
+            "de6a6a",
+            "f17d7e",
+            "d9947e",
+            "c98454",
+            "9d5829",
+            "633705",
+            "4e6765",
+            "488575",
+            "6faa8b",
+            "887042"
+        ],
+        "tags": [
+            "food",
+            "onion",
+            "pink",
+            "red"
+        ],
+        "createdAt": "2020-11-22T06:11:48.435Z",
+        "authorName": "Red Penguin",
+        "url": "https://lospec.com/palette-list/onion-palette"
+    },
+    "doss-gloomy-gloss": {
+        "title": "DOS's Gloomy Gloss",
+        "description": "This is my take on the CGA/EGA colors (Though mainly inspired by the primitive 4 color palettes that everyone knows)",
+        "colors": [
+            "242424",
+            "005555",
+            "008888",
+            "55bbbb",
+            "cccccc",
+            "cc9999",
+            "bb5555",
+            "aa0000",
+            "770077",
+            "aa00aa",
+            "cc22cc",
+            "cc88aa",
+            "cccc88",
+            "55cc55",
+            "00aa00",
+            "008800"
+        ],
+        "tags": [
+            "cga",
+            "dos"
+        ],
+        "createdAt": "2020-10-28T23:53:31.733Z",
+        "authorName": "Cubby Crazes",
+        "url": "https://lospec.com/palette-list/doss-gloomy-gloss"
+    },
+    "kyu": {
+        "title": "kyu",
+        "description": "a pallete for a character of mine, thought it might be good for pixel art idk",
+        "colors": [
+            "01060f",
+            "3e2e2f",
+            "5a5475",
+            "837a7c",
+            "d5917d",
+            "f1b674",
+            "f5bca4",
+            "bdb1c2",
+            "eb83a0",
+            "b67995"
+        ],
+        "tags": [
+            "froeu"
+        ],
+        "createdAt": "2020-12-27T00:17:21.939Z",
+        "authorName": "froeu",
+        "url": "https://lospec.com/palette-list/kyu"
+    },
+    "diamond-gold": {
+        "title": "Diamond & Gold",
+        "description": "A Diamond and Gold palette, useful for GB Color type looks.",
+        "colors": [
+            "300b00",
+            "66330a",
+            "9d654c",
+            "e5d6a0",
+            "1c0933",
+            "2242b2",
+            "5a8ee2",
+            "b2fffb"
+        ],
+        "tags": [
+            "diamond gb",
+            "gold gb"
+        ],
+        "createdAt": "2020-12-17T01:08:33.406Z",
+        "authorName": "FreddySquarepants",
+        "url": "https://lospec.com/palette-list/diamond-gold"
+    },
+    "eibre-19": {
+        "title": "Eibre-19",
+        "description": "",
+        "colors": [
+            "bfb7be",
+            "f1e7d5",
+            "eed6da",
+            "e7aee3",
+            "7c69a3",
+            "4e4b87"
+        ],
+        "tags": [],
+        "createdAt": "2020-12-18T22:39:48.118Z",
+        "authorName": "Coolie172",
+        "url": "https://lospec.com/palette-list/eibre-19"
+    },
+    "submerged-chimera": {
+        "title": "Submerged Chimera",
+        "description": "A tiny purple and blue color, to use with imagination only.",
+        "colors": [
+            "f7faea",
+            "ffd2de",
+            "f792e4",
+            "de39e9",
+            "8623ae",
+            "6d4299",
+            "2e1e5c",
+            "120f28"
+        ],
+        "tags": [
+            "blue",
+            "purple",
+            "white"
+        ],
+        "createdAt": "2020-12-15T17:06:41.195Z",
+        "authorName": "MagCoin",
+        "url": "https://lospec.com/palette-list/submerged-chimera"
+    },
+    "mario-pissing": {
+        "title": "Mario Pissing",
+        "description": "The palette from\u00a0<a href=\"https://www.youtube.com/channel/UCJyogloof_Z1JGi_50mmEeg\" target=\"_blank\">Blaze the Movie Fan</a>'s popular (yet disowned) fan film\u00a0<a href=\"https://www.youtube.com/watch?v=sYqMeT5APRU\" target=\"_blank\">Mario Pissing</a>, with brightness/contrast correction.",
+        "colors": [
+            "1a191a",
+            "762300",
+            "7a4926",
+            "db0000",
+            "ce6204",
+            "e9a161",
+            "fec100",
+            "dcee7a",
+            "ffffff",
+            "00abdc",
+            "000ccb"
+        ],
+        "tags": [],
+        "createdAt": "2020-11-24T04:07:18.869Z",
+        "authorName": "P-Tux7",
+        "url": "https://lospec.com/palette-list/mario-pissing"
+    },
+    "the-roarin-80s": {
+        "title": "The Roarin' 80's",
+        "description": "IDK",
+        "colors": [
+            "ff2153",
+            "ff6200",
+            "f9eb0f",
+            "23d513",
+            "65d1f8",
+            "3a67cc",
+            "cc7bd8",
+            "101010"
+        ],
+        "tags": [
+            "80s",
+            "artist",
+            "neon"
+        ],
+        "createdAt": "2021-03-11T21:26:29.583Z",
+        "authorName": "SuperBruh64",
+        "url": "https://lospec.com/palette-list/the-roarin-80s"
+    },
+    "space-rainbow": {
+        "title": "Space Rainbow",
+        "description": "A rainbow pallete I made while messing around. I made an artwork with it and found that it looked good in a space theme, although it can probably work in other ways.",
+        "colors": [
+            "2c0054",
+            "5b327d",
+            "04517d",
+            "388cdd",
+            "38e46d",
+            "389f51",
+            "ffff8c",
+            "ffb82c",
+            "ff546a",
+            "be166a"
+        ],
+        "tags": [],
+        "createdAt": "2021-03-11T20:12:10.962Z",
+        "authorName": "the dude",
+        "url": "https://lospec.com/palette-list/space-rainbow"
+    },
+    "dead-weight-8": {
+        "title": "dead weight-8",
+        "description": "",
+        "colors": [
+            "495435",
+            "8a8e48",
+            "debf89",
+            "a4653e",
+            "902e29",
+            "24171b",
+            "5d453e",
+            "907c68"
+        ],
+        "tags": [
+            "apocalypse",
+            "monster",
+            "polyphorge",
+            "zombie"
+        ],
+        "createdAt": "2021-03-18T12:27:12.678Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/dead-weight-8"
+    },
+    "dead-flowers": {
+        "title": "dead flowers",
+        "description": "doubt this is gonna get approved lolz",
+        "colors": [
+            "624058",
+            "8e5362",
+            "ae777c",
+            "c59f85",
+            "ceb6a6",
+            "e3d18e",
+            "cca76f",
+            "837e5e",
+            "5b4d54",
+            "4f6952",
+            "528c62",
+            "75aa8d",
+            "9db7b9",
+            "82a2b8",
+            "6682a7",
+            "51568b",
+            "503c6c",
+            "5d3f8b",
+            "8547aa",
+            "b261c0",
+            "ce82a7",
+            "dbb2b6"
+        ],
+        "tags": [
+            "hueshift"
+        ],
+        "createdAt": "2021-02-14T23:25:16.229Z",
+        "authorName": "froeu",
+        "url": "https://lospec.com/palette-list/dead-flowers"
+    },
+    "keeby": {
+        "title": "keeby",
+        "description": "just another simple 2-bit palette, with a hint of cool green",
+        "colors": [
+            "c5ccb8",
+            "899b98",
+            "5d6872",
+            "333343"
+        ],
+        "tags": [
+            "2bit",
+            "4 colors",
+            "4 colours",
+            "gb",
+            "green"
+        ],
+        "createdAt": "2021-03-02T03:03:10.212Z",
+        "authorName": "Mustard",
+        "url": "https://lospec.com/palette-list/keeby"
+    },
+    "shido-cyberneon": {
+        "title": "SHIDO CYBERNEON",
+        "description": "",
+        "colors": [
+            "00033c",
+            "005260",
+            "009d4a",
+            "0aff52",
+            "003884",
+            "008ac5",
+            "00f7ff",
+            "ff5cff",
+            "ac29ce",
+            "600088",
+            "b10585",
+            "ff004e",
+            "2a2e79",
+            "4e6ea8",
+            "add4fa",
+            "ffffff"
+        ],
+        "tags": [
+            "cyber",
+            "cyberneon",
+            "neon",
+            "shido"
+        ],
+        "createdAt": "2021-03-10T01:54:30.314Z",
+        "authorName": "Shidoengie",
+        "url": "https://lospec.com/palette-list/shido-cyberneon"
+    },
+    "hollow": {
+        "title": "Hollow",
+        "description": "2bit palette based on the colors from Hollow Knight. I won't take full credit as I just pulled the ones from the game that I thought worked as a 4 color palette",
+        "colors": [
+            "0f0f1b",
+            "565a75",
+            "c6b7be",
+            "fafbf6"
+        ],
+        "tags": [
+            "2 bit",
+            "4 colors",
+            "gameboy",
+            "hollow knight"
+        ],
+        "createdAt": "2021-03-10T22:49:41.407Z",
+        "authorName": "Poltergasm",
+        "url": "https://lospec.com/palette-list/hollow"
+    },
+    "nanoc-16": {
+        "title": "NanoC-16",
+        "description": "My first real attempt to create a simple, but usable 16 colors palette. Have fun!",
+        "colors": [
+            "2a232d",
+            "3e434b",
+            "b8b8af",
+            "515983",
+            "5c7ba0",
+            "7aafc4",
+            "f6ebd3",
+            "eacf54",
+            "de7138",
+            "6c8d50",
+            "3f6d39",
+            "2e4236",
+            "dbac89",
+            "8c5d53",
+            "532a3a",
+            "a13b3a"
+        ],
+        "tags": [
+            "16 colors"
+        ],
+        "createdAt": "2021-03-14T17:13:36.058Z",
+        "authorName": "Nano",
+        "url": "https://lospec.com/palette-list/nanoc-16"
+    },
+    "pirates-adventure": {
+        "title": "Pirate's Adventure",
+        "description": "",
+        "colors": [
+            "1e121f",
+            "3d2845",
+            "503f70",
+            "7263ab",
+            "8780cf",
+            "9fa2e6",
+            "aeb8eb",
+            "c4d1f2",
+            "d4e8f7",
+            "aed1eb",
+            "79b3e0",
+            "4695b0",
+            "306b73",
+            "1f494a",
+            "14332e",
+            "0a1a13",
+            "183d24",
+            "265e26",
+            "568a37",
+            "9cbf67",
+            "c3db74",
+            "f5e5a6",
+            "f0c56e",
+            "d4a046",
+            "b58748",
+            "996731",
+            "803e21",
+            "5c2714",
+            "4a280c",
+            "291504"
+        ],
+        "tags": [],
+        "createdAt": "2021-03-14T19:09:33.620Z",
+        "authorName": "Squishy Kitty",
+        "url": "https://lospec.com/palette-list/pirates-adventure"
+    },
+    "soup11": {
+        "title": "soup11",
+        "description": "reds and blues, heavy hue shifting",
+        "colors": [
+            "4f1e45",
+            "963057",
+            "d74459",
+            "eb7060",
+            "ffb383",
+            "ffffff",
+            "7fe3bb",
+            "5cbbc4",
+            "457ea3",
+            "384276",
+            "322451"
+        ],
+        "tags": [
+            "11 colors",
+            "blue",
+            "red"
+        ],
+        "createdAt": "2021-03-15T02:50:26.106Z",
+        "authorName": "Mustard",
+        "url": "https://lospec.com/palette-list/soup11"
+    },
+    "final-8": {
+        "title": "Final 8",
+        "description": "",
+        "colors": [
+            "ffffff",
+            "ff8ad0",
+            "9b5bb4",
+            "413c74",
+            "5183b9",
+            "61d478",
+            "ffdc6d",
+            "e67d4c"
+        ],
+        "tags": [
+            "8",
+            "bfb",
+            "bfdi",
+            "final"
+        ],
+        "createdAt": "2021-03-15T14:30:39.364Z",
+        "authorName": "Adam Barrett",
+        "url": "https://lospec.com/palette-list/final-8"
+    },
+    "hydrangea-11": {
+        "title": "Hydrangea 11",
+        "description": "A pastel palette inspired by hydrangea flowers.",
+        "colors": [
+            "413652",
+            "6f577e",
+            "986f9c",
+            "c090a7",
+            "d4beb8",
+            "eae4dd",
+            "c9d4b8",
+            "90c0a0",
+            "6f919c",
+            "62778c",
+            "575f7e"
+        ],
+        "tags": [
+            "green",
+            "pastel",
+            "pink",
+            "soft"
+        ],
+        "createdAt": "2021-03-15T16:31:40.097Z",
+        "authorName": "Dinchen's Art \ud83c\udf3f\ud83c\udf1e",
+        "url": "https://lospec.com/palette-list/hydrangea-11"
+    },
+    "edg77": {
+        "title": "EDG77",
+        "description": "Successor to EDG64",
+        "colors": [
+            "181835",
+            "272745",
+            "464665",
+            "687596",
+            "9aa8b9",
+            "dcdced",
+            "ffffff",
+            "fbde9c",
+            "f5ae7b",
+            "b27b59",
+            "804b38",
+            "512b28",
+            "331a27",
+            "240426",
+            "160117",
+            "501f27",
+            "8e3438",
+            "cf552f",
+            "f28135",
+            "f7be47",
+            "ffff73",
+            "d3fd9e",
+            "75d85f",
+            "46954b",
+            "2e6447",
+            "1c4437",
+            "0c2627",
+            "041726",
+            "1e3554",
+            "305485",
+            "4d94b8",
+            "6bb6c9",
+            "c2ebed",
+            "eeeecd",
+            "e0644b",
+            "be473a",
+            "501536",
+            "160135",
+            "6f1d36",
+            "9e2a38",
+            "ee4049",
+            "9e4195",
+            "5795b8",
+            "68facc",
+            "61e8ab",
+            "4cb6a8",
+            "3684a7",
+            "225395",
+            "072594",
+            "000084",
+            "3100e8",
+            "7e24fa",
+            "df56fb",
+            "e17efb",
+            "f5aeeb",
+            "fbdeed",
+            "f49e99",
+            "f06668",
+            "df4d49",
+            "501f36",
+            "602228",
+            "ae442c",
+            "d16f3d",
+            "f181c9",
+            "ef5aa7",
+            "9e3765",
+            "330744",
+            "5f2164",
+            "8e3385",
+            "bf5296",
+            "f181a8",
+            "bababa",
+            "878787",
+            "565656",
+            "363636",
+            "272727",
+            "181818"
+        ],
+        "tags": [
+            "edg77",
+            "endesga"
+        ],
+        "createdAt": "2021-03-16T01:18:51.694Z",
+        "authorName": "ENDESGA",
+        "url": "https://lospec.com/palette-list/edg77"
+    },
+    "existential-demo": {
+        "title": "EXISTENTIAL DEMO",
+        "description": "I accepted the fact I may never find the inception of these artifacts, yet this did not discourage me.\u00a0 Choosing to persist, my ardor carried me to a trancendant existential sight.",
+        "colors": [
+            "f8f3fd",
+            "fac6b4",
+            "9adae7",
+            "97cb1d",
+            "5da2ca",
+            "da298e",
+            "0b8633",
+            "2e2b12"
+        ],
+        "tags": [
+            "3bit",
+            "demo",
+            "existential",
+            "gameboy",
+            "gb",
+            "green",
+            "magenta",
+            "teal",
+            "triadic",
+            "vision"
+        ],
+        "createdAt": "2021-03-14T04:54:15.981Z",
+        "authorName": "Kattman",
+        "url": "https://lospec.com/palette-list/existential-demo"
+    },
+    "cromatica": {
+        "title": "CROMATICA",
+        "description": "",
+        "colors": [
+            "fbf8fd",
+            "a1a9d1",
+            "007fff",
+            "24256f",
+            "141218",
+            "5f0e52",
+            "fd1a43",
+            "ffb16c",
+            "fede5b",
+            "74ead6"
+        ],
+        "tags": [
+            "10colors",
+            "colorful",
+            "radiant",
+            "vibrant"
+        ],
+        "createdAt": "2021-03-12T15:14:33.379Z",
+        "authorName": "Jecox\u2728",
+        "url": "https://lospec.com/palette-list/cromatica"
+    },
+    "tea-gb-pallete": {
+        "title": "Tea gb pallete",
+        "description": "",
+        "colors": [
+            "d6c894",
+            "b59070",
+            "875d51",
+            "422e31"
+        ],
+        "tags": [
+            "8bit",
+            "artist",
+            "gameboy",
+            "gb",
+            "kuroi",
+            "monochrome"
+        ],
+        "createdAt": "2021-03-13T01:21:29.744Z",
+        "authorName": "Kuroi",
+        "url": "https://lospec.com/palette-list/tea-gb-pallete"
+    },
+    "shortened-nes": {
+        "title": "Shortened NES",
+        "description": "It's the NES palette, but vastly simplified",
+        "colors": [
+            "0f0d1c",
+            "7b86a9",
+            "bbd1d3",
+            "ffffff",
+            "62e0f9",
+            "5575c7",
+            "4a3571",
+            "8d5fb3",
+            "9cbcff",
+            "723a84",
+            "e955ae",
+            "ffc7a2",
+            "e86262",
+            "943c59",
+            "e88a4c",
+            "ffed6b",
+            "67d758",
+            "3b786c",
+            "4db8af",
+            "a1ffce"
+        ],
+        "tags": [
+            "nes"
+        ],
+        "createdAt": "2021-03-12T16:10:05.091Z",
+        "authorName": "Adam Barrett",
+        "url": "https://lospec.com/palette-list/shortened-nes"
+    },
     "fruity-26": {
         "title": "Fruity-26",
         "description": "General use palette, pretty vibrant and versatile.",
