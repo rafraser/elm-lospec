@@ -1,4 +1,798 @@
 {
+    "leopolds-dreams": {
+        "title": "leopold's dreams",
+        "description": "a blueish melancholic palette, good for water and/or sci-fi scenarios",
+        "colors": [
+            "372134",
+            "474476",
+            "4888b7",
+            "6dbcb9",
+            "8cefb6"
+        ],
+        "tags": [
+            "aqua",
+            "blue",
+            "scifi",
+            "space",
+            "water"
+        ],
+        "createdAt": "2021-04-07T21:51:55.535Z",
+        "authorName": "sukinapan",
+        "url": "https://lospec.com/palette-list/leopolds-dreams"
+    },
+    "dustbyte": {
+        "title": "dustbyte",
+        "description": "small palette made for drawing old caverns.",
+        "colors": [
+            "788374",
+            "f5e9bf",
+            "aa644d",
+            "372a39"
+        ],
+        "tags": [
+            "polyphorge",
+            "retro"
+        ],
+        "createdAt": "2021-04-07T22:25:37.463Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/dustbyte"
+    },
+    "wednesday-pink": {
+        "title": "Wednesday Pink",
+        "description": "Extracted from Brazilian vegan cosmetics producer, Vizella. The specific product is \"\u00c0s Quartas Usamos Rosa!\" (We use pink at Wednesdays, freely translated) eyeshadow. This is a reference to 2004 movie \"Mean Girls\", a teen comedy movie about a girl who has to deal with school cliques and bullying. This specific cosmetics set is not tested in animals and thus, vegan supporters can safely buy these. The pink tones, contrasting with blue and brown, gives it a warm feeling with a good sense of presence, matching well with similarly bright attires and accessories.",
+        "colors": [
+            "f4cedb",
+            "fea6c4",
+            "c36dbe",
+            "3e214f",
+            "bc1f4a",
+            "8397e0",
+            "452426",
+            "000000"
+        ],
+        "tags": [
+            "meangirls",
+            "pink",
+            "wednesdaypink"
+        ],
+        "createdAt": "2021-04-08T12:12:58.238Z",
+        "authorName": "Gors",
+        "url": "https://lospec.com/palette-list/wednesday-pink"
+    },
+    "team-fortress-2-official": {
+        "title": "Team Fortress 2 Official",
+        "description": "The color palette of the famous FPS game Team Fortress 2 from the official press kit",
+        "colors": [
+            "395c78",
+            "5b7a8c",
+            "768a88",
+            "6b6a65",
+            "34302d",
+            "462d26",
+            "6a4535",
+            "913a1e",
+            "bd3b3b",
+            "9d312f",
+            "f08149",
+            "ef9849",
+            "f5ad87",
+            "f6b98a",
+            "f5e7de",
+            "c1a18a"
+        ],
+        "tags": [
+            "16color",
+            "4bit",
+            "calm",
+            "teamfortress"
+        ],
+        "createdAt": "2020-12-22T08:02:47.195Z",
+        "authorName": "Yelta_",
+        "url": "https://lospec.com/palette-list/team-fortress-2-official"
+    },
+    "red-ish-db-ly-desert-like-pallet": {
+        "title": "Red-ish DB LY Desert-Like pallet",
+        "description": "I don't think this one ir really umm, \"original\", I guess it's a pretty famous and common idea, yes, I did make it, but there are lots of one that look like mine, so not really an original idea, but certainly, not copied.",
+        "colors": [
+            "fbfecf",
+            "ddb687",
+            "c37648",
+            "222034",
+            "33161d",
+            "45283c",
+            "66313d",
+            "ac3232",
+            "17090d"
+        ],
+        "tags": [
+            "dbly",
+            "desert",
+            "red"
+        ],
+        "createdAt": "2020-12-07T17:12:46.325Z",
+        "authorName": "BreadBoyHalo",
+        "url": "https://lospec.com/palette-list/red-ish-db-ly-desert-like-pallet"
+    },
+    "sunset-8": {
+        "title": "Sunset 8",
+        "description": "A pallet I made to resemble the colors of the sunset sky.",
+        "colors": [
+            "ffff78",
+            "ffd647",
+            "ffc247",
+            "ffa936",
+            "ff8b6f",
+            "e67595",
+            "9a6390",
+            "464678"
+        ],
+        "tags": [
+            "",
+            "sunset"
+        ],
+        "createdAt": "2020-12-04T22:19:18.952Z",
+        "authorName": "SamRI",
+        "url": "https://lospec.com/palette-list/sunset-8"
+    },
+    "sunfall-12": {
+        "title": "sunfall 12",
+        "description": "sunfall idk i liked the purple to yellow ramp look",
+        "colors": [
+            "1f0a1f",
+            "4d1059",
+            "6b155e",
+            "8c2964",
+            "a63169",
+            "c23e6e",
+            "d94e6a",
+            "de6b5b",
+            "ed9a6d",
+            "ffc37a",
+            "ffeb99",
+            "feffcf"
+        ],
+        "tags": [
+            "dawn",
+            "day",
+            "midnight",
+            "orange",
+            "pink",
+            "purple",
+            "sunfall",
+            "sunset",
+            "yellow"
+        ],
+        "createdAt": "2020-12-06T14:25:28.130Z",
+        "authorName": "SolitaryCatK1ng",
+        "url": "https://lospec.com/palette-list/sunfall-12"
+    },
+    "vibrant09": {
+        "title": "Vibrant09",
+        "description": "my first color pallete",
+        "colors": [
+            "d82943",
+            "e2d51b",
+            "ff933a",
+            "fff9bf",
+            "1930ff",
+            "161cbd",
+            "01ff59",
+            "7a1546",
+            "28271e"
+        ],
+        "tags": [],
+        "createdAt": "2021-01-03T08:54:20.848Z",
+        "authorName": "TonkoBanjo",
+        "url": "https://lospec.com/palette-list/vibrant09"
+    },
+    "intellivision": {
+        "title": "Intellivision",
+        "description": "The Intellivision is a home video game console released by Mattel Electronics in 1979.",
+        "colors": [
+            "0c0005",
+            "a7a8a8",
+            "fffcff",
+            "ff3e00",
+            "ffa600",
+            "faea27",
+            "00780f",
+            "00a720",
+            "6ccd30",
+            "002dff",
+            "5acbff",
+            "bd95ff",
+            "c81a7d",
+            "ff3276",
+            "3c5800",
+            "c9d464"
+        ],
+        "tags": [],
+        "createdAt": "2020-11-09T09:50:52.048Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/intellivision"
+    },
+    "lemon-16": {
+        "title": "Lemon 16",
+        "description": "",
+        "colors": [
+            "d5c7da",
+            "f8cfa7",
+            "f9e6ae",
+            "dffec9",
+            "bea9c7",
+            "f5bb8f",
+            "fbde86",
+            "bffcad",
+            "7a5784",
+            "eea273",
+            "fbbd62",
+            "02c69a",
+            "401f49",
+            "e68a59",
+            "fdb14a",
+            "029776"
+        ],
+        "tags": [],
+        "createdAt": "2020-12-10T02:59:21.271Z",
+        "authorName": "Inconsistency",
+        "url": "https://lospec.com/palette-list/lemon-16"
+    },
+    "super-cassette-vision": {
+        "title": "Super Cassette Vision",
+        "description": "The Super Cassette Vision is a home video game console made by Epoch Co. and released in Japan on July 17, 1984, and in Europe, specifically France,later in 1984. A successor to the Cassette Vision, it competed with Nintendo's Family Computer and Sega's SG-1000 line in Japan.",
+        "colors": [
+            "000000",
+            "ff0000",
+            "ffa100",
+            "ffa09f",
+            "ffff00",
+            "a3a000",
+            "00a100",
+            "00ff00",
+            "a0ff9d",
+            "00009b",
+            "0000ff",
+            "a200ff",
+            "ff00ff",
+            "00ffff",
+            "a2a19f",
+            "ffffff"
+        ],
+        "tags": [
+            "console",
+            "hardware"
+        ],
+        "createdAt": "2020-10-15T01:31:35.704Z",
+        "authorName": "HunterRuizFan543",
+        "url": "https://lospec.com/palette-list/super-cassette-vision"
+    },
+    "vocodes-62": {
+        "title": "Vocodes-62",
+        "description": "",
+        "colors": [
+            "130000",
+            "4a008b",
+            "255f7c",
+            "128e75",
+            "00bd6e",
+            "78de37",
+            "f1ff00",
+            "fffffb",
+            "142745",
+            "4a544d",
+            "727653",
+            "aea85b",
+            "ccc15f",
+            "ebd964",
+            "4a0089",
+            "8f297d",
+            "d4536f",
+            "ff7728",
+            "ffb828",
+            "ffef00",
+            "360065",
+            "7200a2",
+            "ab3064",
+            "e35f26",
+            "ffb903",
+            "fff560",
+            "4b006a",
+            "8f1c6a",
+            "d2386b",
+            "ff764b",
+            "ffa673",
+            "ffd1ac",
+            "350000",
+            "630000",
+            "b50000",
+            "f54e00",
+            "ffb059",
+            "ffdab1",
+            "4d0000",
+            "962d00",
+            "cb5501",
+            "ff7d01",
+            "ffc701",
+            "ffffd0",
+            "401300",
+            "794533",
+            "b37667",
+            "c7a58f",
+            "e3d2b2",
+            "ffffd6",
+            "001d3f",
+            "2c4464",
+            "586b89",
+            "7585a2",
+            "a9bac9",
+            "def0f0",
+            "3f1500",
+            "703b20",
+            "a16240",
+            "c27c55",
+            "dd9d77",
+            "f8bf99"
+        ],
+        "tags": [
+            "texttospeech"
+        ],
+        "createdAt": "2020-10-22T19:01:02.686Z",
+        "authorName": "HunterRuizFan543",
+        "url": "https://lospec.com/palette-list/vocodes-62"
+    },
+    "bumble-bee": {
+        "title": "Bumble Bee",
+        "description": "",
+        "colors": [
+            "f8c868",
+            "ff8e65",
+            "f6f6f6",
+            "3b3c40"
+        ],
+        "tags": [
+            "2bit",
+            "bee",
+            "black",
+            "gameboy",
+            "yellow"
+        ],
+        "createdAt": "2021-03-03T21:27:13.119Z",
+        "authorName": "Mason Kaplan",
+        "url": "https://lospec.com/palette-list/bumble-bee"
+    },
+    "lost-in-the-desert": {
+        "title": "lost in the desert",
+        "description": "A fanmade \"Welcome to Nightvale\" and \"Welcome to Desert Bluffs\" inspired color palette. Both tones (as in purple and orange-y) work well together as well as on their own.",
+        "colors": [
+            "151244",
+            "60117f",
+            "922a95",
+            "be7dbc",
+            "350828",
+            "7f6962",
+            "f9cb60",
+            "f9960f",
+            "bc2f01",
+            "680703"
+        ],
+        "tags": [
+            "cold",
+            "contrast",
+            "orange",
+            "purple",
+            "red",
+            "warm"
+        ],
+        "createdAt": "2021-04-05T09:44:16.785Z",
+        "authorName": "insert name here",
+        "url": "https://lospec.com/palette-list/lost-in-the-desert"
+    },
+    "mononoke-ashitaka": {
+        "title": "Mononoke Ashitaka",
+        "description": "Palette used for Ashitaka from Mononoke.\u00a0",
+        "colors": [
+            "ffeb7c",
+            "cb444b",
+            "8f5428",
+            "173b53"
+        ],
+        "tags": [
+            "ashitaka",
+            "ghibli",
+            "mononoke",
+            "princessmononoke",
+            "studioghibli"
+        ],
+        "createdAt": "2021-04-01T13:49:27.575Z",
+        "authorName": "Winged Yeti",
+        "url": "https://lospec.com/palette-list/mononoke-ashitaka"
+    },
+    "icy-cold": {
+        "title": "Icy Cold",
+        "description": "A cold palette\u00a0\u00a0",
+        "colors": [
+            "1d1d1e",
+            "3c445b",
+            "375a78",
+            "2a87a6",
+            "50cab8",
+            "96e5ba",
+            "cbf3c4",
+            "fcfff1",
+            "ead08f",
+            "b47943",
+            "743d1a",
+            "56261c",
+            "3e2424",
+            "544343",
+            "876673",
+            "c86fb2",
+            "e895e5",
+            "f6e0f8",
+            "cae8ed",
+            "a1b0ba",
+            "607181",
+            "4e565f",
+            "383b40"
+        ],
+        "tags": [
+            "23",
+            "cold",
+            "cool",
+            "funny"
+        ],
+        "createdAt": "2021-04-03T03:59:50.005Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/icy-cold"
+    },
+    "radioactive13": {
+        "title": "RADIOACTIVE13",
+        "description": "This palette is a simple 13 color palette. All the colors are more desaturated and work well together. It's my favorite palette I've made! I'm going to use it for a game!",
+        "colors": [
+            "422c33",
+            "73514d",
+            "ac8a71",
+            "decb9f",
+            "52615d",
+            "7f8f81",
+            "bfc7af",
+            "eeecde",
+            "2a3a42",
+            "4d6476",
+            "7895ab",
+            "a8cfda",
+            "1f1a24"
+        ],
+        "tags": [
+            "13",
+            "desaturated",
+            "gameboy",
+            "rad13",
+            "radioactive",
+            "simple",
+            "space",
+            "subdued"
+        ],
+        "createdAt": "2021-04-05T17:29:36.081Z",
+        "authorName": "Miguel Lucero",
+        "url": "https://lospec.com/palette-list/radioactive13"
+    },
+    "punolite-plus": {
+        "title": "Punolite Plus",
+        "description": "Punolite put good.\u00a0",
+        "colors": [
+            "431c3f",
+            "6d324e",
+            "a65658",
+            "c57763",
+            "de9d75",
+            "f0d898",
+            "eef3aa",
+            "bef3aa",
+            "69c886",
+            "50aa82",
+            "3d766d",
+            "294e58",
+            "06041b",
+            "101b4c",
+            "1e4676",
+            "377d99",
+            "61b6b1",
+            "90d5bf",
+            "c7eada",
+            "aacec8",
+            "96b9b9",
+            "809da4",
+            "647789",
+            "535d76",
+            "3b3c58"
+        ],
+        "tags": [
+            "25",
+            "contrast",
+            "generaluse"
+        ],
+        "createdAt": "2021-04-05T18:16:52.091Z",
+        "authorName": "Punoli",
+        "url": "https://lospec.com/palette-list/punolite-plus"
+    },
+    "gbfriendlyspider": {
+        "title": "GBFriendlySpider",
+        "description": "spider colors",
+        "colors": [
+            "b1b38c",
+            "ab9d46",
+            "7d490f",
+            "35271b"
+        ],
+        "tags": [
+            "brown",
+            "earth",
+            "monster",
+            "spider"
+        ],
+        "createdAt": "2021-04-05T18:50:34.024Z",
+        "authorName": "Jose Revilla",
+        "url": "https://lospec.com/palette-list/gbfriendlyspider"
+    },
+    "cretaceous-16": {
+        "title": "Cretaceous-16",
+        "description": "",
+        "colors": [
+            "313432",
+            "323e42",
+            "454b4b",
+            "3a5f3b",
+            "7c4545",
+            "675239",
+            "625055",
+            "516b43",
+            "796c64",
+            "718245",
+            "9e805c",
+            "998579",
+            "ac9086",
+            "a6a296",
+            "b4ab8f",
+            "bcb7a5"
+        ],
+        "tags": [],
+        "createdAt": "2021-04-05T20:39:36.890Z",
+        "authorName": "Joao Vasconcelos",
+        "url": "https://lospec.com/palette-list/cretaceous-16"
+    },
+    "juliet": {
+        "title": "Juliet",
+        "description": "\"A rose by any other name would smell as sweet\" - Romeo.",
+        "colors": [
+            "292b30",
+            "613854",
+            "ab6c84",
+            "ffc4d1",
+            "ffe8e1"
+        ],
+        "tags": [
+            "5colors",
+            "juliet",
+            "pink",
+            "rose",
+            "soft"
+        ],
+        "createdAt": "2021-04-06T10:36:03.267Z",
+        "authorName": "Poltergasm",
+        "url": "https://lospec.com/palette-list/juliet"
+    },
+    "breathless-calm": {
+        "title": "Breathless Calm",
+        "description": "A palette made for a relaxing, chill evening with a campfire flickering in the background.",
+        "colors": [
+            "181818",
+            "292831",
+            "333f58",
+            "4a7a96",
+            "ee8695",
+            "f9f9f9",
+            "cf7862",
+            "a75252",
+            "773a4d",
+            "543246"
+        ],
+        "tags": [
+            "light",
+            "pale",
+            "relaxing",
+            "soft",
+            "soothing"
+        ],
+        "createdAt": "2021-04-04T02:08:55.126Z",
+        "authorName": "clonethirteen",
+        "url": "https://lospec.com/palette-list/breathless-calm"
+    },
+    "bio-chronicle": {
+        "title": "BIO CHRONICLE",
+        "description": "Official theming colors of BIONICLE sets from 2001-2004.",
+        "colors": [
+            "720012",
+            "b40000",
+            "d67923",
+            "fac80a",
+            "19325a",
+            "1e5aa8",
+            "6e99c9",
+            "aa7f2e",
+            "00451a",
+            "00852b",
+            "a5ca18",
+            "069d9f",
+            "543324",
+            "7b5d41",
+            "b0a06f",
+            "91501c",
+            "1b2a34",
+            "0a1327",
+            "545955",
+            "671f81",
+            "f4f4f4",
+            "8a928d",
+            "70819a"
+        ],
+        "tags": [
+            "bionicle",
+            "gali",
+            "kopaka",
+            "lego",
+            "lewa",
+            "onua",
+            "pohatu",
+            "tahu",
+            "toa"
+        ],
+        "createdAt": "2020-10-29T18:05:06.207Z",
+        "authorName": "Charles Painter",
+        "url": "https://lospec.com/palette-list/bio-chronicle"
+    },
+    "gun-metal-russia": {
+        "title": "Gun Metal Russia",
+        "description": "Simple ingredients to create the perfect dark and gritty weapon",
+        "colors": [
+            "6b6974",
+            "3c3b45",
+            "231d24",
+            "000000",
+            "943c0c",
+            "7c2a19",
+            "6b403d",
+            "4d071d",
+            "31181e",
+            "7c4d19",
+            "5c200a",
+            "cca171",
+            "9a6654",
+            "55634d",
+            "3f4339"
+        ],
+        "tags": [
+            "",
+            "dark",
+            "desaturated",
+            "metal",
+            "soft",
+            "warm",
+            "weapons",
+            "wood"
+        ],
+        "createdAt": "2020-12-14T20:35:01.859Z",
+        "authorName": "Mack",
+        "url": "https://lospec.com/palette-list/gun-metal-russia"
+    },
+    "spinstar": {
+        "title": "Spinstar",
+        "description": "Palette created for a game called Spinstar.",
+        "colors": [
+            "000000",
+            "332f36",
+            "585461",
+            "767585",
+            "9ba0ae",
+            "c4d1e0",
+            "ffffff",
+            "4c2699",
+            "8b40b3",
+            "d957d9",
+            "f285ce",
+            "992673",
+            "b34066",
+            "d95757",
+            "e6998a",
+            "994326",
+            "b3783e",
+            "d9b759",
+            "f0f084",
+            "26994b",
+            "40b340",
+            "82d957",
+            "ccf084",
+            "186868",
+            "28a880",
+            "38d0a0",
+            "9bf4b8",
+            "262699",
+            "4066b3",
+            "59aed9",
+            "84f0f0"
+        ],
+        "tags": [
+            "complementary",
+            "retro",
+            "scifi"
+        ],
+        "createdAt": "2021-04-01T05:16:20.384Z",
+        "authorName": "Arthur Paulino",
+        "url": "https://lospec.com/palette-list/spinstar"
+    },
+    "ice-gb": {
+        "title": "Ice GB",
+        "description": "A gb palette",
+        "colors": [
+            "d2e7af",
+            "5aded9",
+            "2979b6",
+            "081935"
+        ],
+        "tags": [
+            "gb",
+            "ice"
+        ],
+        "createdAt": "2021-04-03T04:01:35.852Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/ice-gb"
+    },
+    "naples-2bit": {
+        "title": "Naples-2bit",
+        "description": "Four soft tones, reminiscent of Neapolitan ice cream. A fun little something when you need a fluffy not-quite monoramp!",
+        "colors": [
+            "f7f6e2",
+            "ffd7c1",
+            "af9170",
+            "5f4b1f"
+        ],
+        "tags": [
+            "2bit",
+            "glacier",
+            "lowsaturation",
+            "monochrome",
+            "monoramp",
+            "pastel",
+            "soft",
+            "windfallapples"
+        ],
+        "createdAt": "2021-03-20T00:50:35.397Z",
+        "authorName": "windfallapples (glacier)",
+        "url": "https://lospec.com/palette-list/naples-2bit"
+    },
+    "florast-8": {
+        "title": "florast-8",
+        "description": "a bright palette with natural yet still cartoony looking colors.",
+        "colors": [
+            "a08a79",
+            "8b4442",
+            "35212a",
+            "9a6b52",
+            "f9e4af",
+            "809e4f",
+            "3b404a",
+            "7aa1a4"
+        ],
+        "tags": [
+            "forest",
+            "nature",
+            "plant",
+            "polyphorge"
+        ],
+        "createdAt": "2021-04-03T11:00:32.937Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/florast-8"
+    },
     "rainbow-god": {
         "title": "rainbow god",
         "description": "",
