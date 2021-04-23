@@ -1,4 +1,733 @@
 {
+    "archaon-15": {
+        "title": "Archaon 15",
+        "description": "",
+        "colors": [
+            "0f0c00",
+            "241404",
+            "693909",
+            "d09049",
+            "fef181",
+            "7f0d0c",
+            "a81c1b",
+            "b8412d",
+            "14151a",
+            "1c282a",
+            "425a5e",
+            "678280",
+            "b1c6c4",
+            "d9d3b1",
+            "fff9da"
+        ],
+        "tags": [
+            "dark",
+            "epic",
+            "red"
+        ],
+        "createdAt": "2021-03-18T21:00:44.381Z",
+        "authorName": "Raindrinker \ud83c\udf27\ufe0f",
+        "url": "https://lospec.com/palette-list/archaon-15"
+    },
+    "dawn14": {
+        "title": "Dawn14",
+        "description": "look ma i learned to hueshift\u00a0",
+        "colors": [
+            "4045a8",
+            "2d5fa3",
+            "4c809c",
+            "46bd7d",
+            "9ae354",
+            "ffed9e",
+            "ffc286",
+            "e68a92",
+            "bd6499",
+            "80618f",
+            "585669",
+            "6c6680",
+            "888db5",
+            "a6bed9"
+        ],
+        "tags": [
+            "dawn14",
+            "hueshift",
+            "internetperson"
+        ],
+        "createdAt": "2021-04-12T18:51:24.561Z",
+        "authorName": "internet person",
+        "url": "https://lospec.com/palette-list/dawn14"
+    },
+    "bitbee": {
+        "title": "Bitbee",
+        "description": "A warm 1bit color palette consisting of Black/blue and Yellow",
+        "colors": [
+            "292b30",
+            "cfab4a"
+        ],
+        "tags": [
+            "1bit",
+            "2colors"
+        ],
+        "createdAt": "2021-04-14T06:59:11.898Z",
+        "authorName": "Poltergasm",
+        "url": "https://lospec.com/palette-list/bitbee"
+    },
+    "paintnet-base-colors": {
+        "title": "paint.net base colors",
+        "description": "It's the paint.net colors! Thank you all for downloading my palette, it's my first!",
+        "colors": [
+            "000000",
+            "404040",
+            "808080",
+            "ffffff",
+            "7f0000",
+            "ff0000",
+            "7f3300",
+            "ff6a00",
+            "7f6a00",
+            "ffd800",
+            "5b7f00",
+            "b6ff00",
+            "267f00",
+            "4cff00",
+            "007f0e",
+            "00ff21",
+            "007f46",
+            "00ff90",
+            "007f7f",
+            "00ffff",
+            "004a7f",
+            "0094ff",
+            "00137f",
+            "0026ff",
+            "21007f",
+            "4800ff",
+            "57007f",
+            "b200ff",
+            "7f006e",
+            "ff00dc",
+            "7f0037",
+            "ff006e"
+        ],
+        "tags": [
+            "computer",
+            "paint"
+        ],
+        "createdAt": "2021-04-14T12:55:05.989Z",
+        "authorName": "GhostcatPNG",
+        "url": "https://lospec.com/palette-list/paintnet-base-colors"
+    },
+    "colorpop-32": {
+        "title": "Colorpop-32",
+        "description": "A versatile 32-color master palette, with saturated/bright colors.",
+        "colors": [
+            "050413",
+            "191d28",
+            "292650",
+            "36344a",
+            "34378d",
+            "496bbe",
+            "59a5dd",
+            "6cdde1",
+            "fffee0",
+            "a9bbbc",
+            "8e9398",
+            "6d7270",
+            "4a5056",
+            "407470",
+            "669669",
+            "99be7c",
+            "ced36f",
+            "f3dd96",
+            "f0b996",
+            "dc9b57",
+            "b3927c",
+            "987e59",
+            "c86d45",
+            "956350",
+            "674536",
+            "43281d",
+            "702530",
+            "983535",
+            "80489c",
+            "b34c6c",
+            "d56cae",
+            "f2a5d3"
+        ],
+        "tags": [],
+        "createdAt": "2021-04-14T13:19:47.356Z",
+        "authorName": "Eclipse89",
+        "url": "https://lospec.com/palette-list/colorpop-32"
+    },
+    "old-computers-be-like": {
+        "title": "Old Computers Be Like",
+        "description": "A palette I made in recognition that all the old computer palettes look the same\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0I still hue shifted so that the colors don't look (too) ugly",
+        "colors": [
+            "090d26",
+            "303079",
+            "727ab2",
+            "b6c5d6",
+            "ffffff",
+            "6f3156",
+            "e44b44",
+            "bc743b",
+            "fff043",
+            "27b460",
+            "177edd",
+            "21dff0",
+            "9e42c1",
+            "ff95c4"
+        ],
+        "tags": [
+            "be",
+            "computer",
+            "computers",
+            "like",
+            "old"
+        ],
+        "createdAt": "2021-04-15T13:06:59.321Z",
+        "authorName": "Adam Barrett",
+        "url": "https://lospec.com/palette-list/old-computers-be-like"
+    },
+    "slowly": {
+        "title": "SLOWLY",
+        "description": "Color palette from penpal app\u00a0SLOWLY. This palette has the potential for a nice GBA pixel art!",
+        "colors": [
+            "ffc400",
+            "ffffff",
+            "b8bcc5",
+            "081d3c"
+        ],
+        "tags": [
+            "gba",
+            "slowly",
+            "slowlyapp"
+        ],
+        "createdAt": "2020-12-04T20:13:52.017Z",
+        "authorName": "LKR0.5420820",
+        "url": "https://lospec.com/palette-list/slowly"
+    },
+    "sherbert-shark": {
+        "title": "Sherbert Shark",
+        "description": "A simultaneously cosy, spooky and sunny palette for climbing over rocks and losing things in wells, picking flowers in the woods and making food for people you love. You have permission to use this in any of your projects. Please do tweet me if you do, I love to see your work!",
+        "colors": [
+            "dde4e8",
+            "ffc97a",
+            "8dc196",
+            "5a6e93",
+            "301c44",
+            "ce2f7f",
+            "ef8a6e",
+            "514cad",
+            "877aff"
+        ],
+        "tags": [
+            "bright",
+            "retro",
+            "sherbertshark"
+        ],
+        "createdAt": "2021-04-12T23:35:58.153Z",
+        "authorName": "Polyducks",
+        "url": "https://lospec.com/palette-list/sherbert-shark"
+    },
+    "neapolitan45": {
+        "title": "Neapolitan45",
+        "description": "Neapolitan45 is a palette designed for illistrating medium to large scale sprites, partiuclarly involving portraiture and still life. Its components are all strong enough to warrent being used alone, (I did a whole month's worth of art using just the pink ramp and it worked great all the same) however together it can easily be used to make anything your heart desires.\u00a0\u00a0This palette has been my primary tool for making pixel art since 2019 and since then has grown quite a lot. (When I started it was only a pitiful Neapolitan27!) I've had a grand journey using it and I hope you do as well if you give it a fancy :)",
+        "colors": [
+            "1d1535",
+            "353461",
+            "586284",
+            "808faa",
+            "adbbca",
+            "d4dce5",
+            "e5ebf2",
+            "f5faff",
+            "ffecd0",
+            "efd0ae",
+            "ebba96",
+            "d99385",
+            "c87171",
+            "ae7069",
+            "925454",
+            "71323c",
+            "552138",
+            "501733",
+            "76183f",
+            "992349",
+            "ba2941",
+            "ef3b45",
+            "d9472b",
+            "f86c27",
+            "ff9f2e",
+            "ffc34d",
+            "ffe95a",
+            "cfd991",
+            "a4c674",
+            "7abe65",
+            "46a45f",
+            "248c73",
+            "186f5e",
+            "0a4f4f",
+            "211f5e",
+            "204f83",
+            "4775c7",
+            "599bd9",
+            "5ecdde",
+            "ff8787",
+            "ff636c",
+            "f54878",
+            "ba3872",
+            "6c2b68",
+            "3a1b55"
+        ],
+        "tags": [
+            "45colors",
+            "45colours",
+            "haboo",
+            "haboocas",
+            "portraiture",
+            "stilllife"
+        ],
+        "createdAt": "2021-04-12T19:47:32.594Z",
+        "authorName": "Haboo",
+        "url": "https://lospec.com/palette-list/neapolitan45"
+    },
+    "blue-newspaper": {
+        "title": "Blue Newspaper",
+        "description": "Monochrome blue shade pallete. I did this for a commissioned piece\u00a0",
+        "colors": [
+            "79a5af",
+            "557f8e",
+            "435c6a",
+            "3b4c5f",
+            "2f3d55",
+            "252a45"
+        ],
+        "tags": [
+            "blue",
+            "monochrome",
+            "newspaper"
+        ],
+        "createdAt": "2021-01-18T07:17:08.486Z",
+        "authorName": "BlueApollo",
+        "url": "https://lospec.com/palette-list/blue-newspaper"
+    },
+    "chocolate": {
+        "title": "Chocolate",
+        "description": "Uses two palettes: chocolate and waffle (or other staff you want), plus an outline color.",
+        "colors": [
+            "000000",
+            "341227",
+            "601d2c",
+            "88312b",
+            "854538",
+            "af6a65",
+            "9d6341",
+            "bb7f5c",
+            "cfa382",
+            "f23e3e"
+        ],
+        "tags": [
+            "artist",
+            "chocolate",
+            "okee"
+        ],
+        "createdAt": "2021-03-01T18:28:24.400Z",
+        "authorName": "Okee",
+        "url": "https://lospec.com/palette-list/chocolate"
+    },
+    "allioop-20": {
+        "title": "AlliOOP-20",
+        "description": "",
+        "colors": [
+            "33402e",
+            "56713e",
+            "7b8d43",
+            "ada63e",
+            "eabe5b",
+            "a27943",
+            "8a5d3c",
+            "5c4440",
+            "3b3243",
+            "433d69",
+            "4e5a98",
+            "5587bc",
+            "4ec0c9",
+            "95ead5",
+            "edefe2",
+            "efd0d8",
+            "ea92a8",
+            "be5d92",
+            "8d4986",
+            "492e57"
+        ],
+        "tags": [
+            "20",
+            "alligator07",
+            "allioop",
+            "allioop20",
+            "artist",
+            "blue",
+            "brown",
+            "green",
+            "pink",
+            "purple"
+        ],
+        "createdAt": "2021-04-11T06:53:07.731Z",
+        "authorName": "Alligator07",
+        "url": "https://lospec.com/palette-list/allioop-20"
+    },
+    "finale-53": {
+        "title": "Finale 53",
+        "description": "Hopefully my last master palette. Many uses, many colours and much time spent tweaking",
+        "colors": [
+            "11101b",
+            "252344",
+            "373e5e",
+            "506175",
+            "7b8f98",
+            "b6c6c6",
+            "301b22",
+            "512929",
+            "734334",
+            "9e674c",
+            "c9966d",
+            "2a1840",
+            "4c2061",
+            "84278a",
+            "c347a5",
+            "f48eaf",
+            "fad8ac",
+            "20193c",
+            "28236d",
+            "473aa0",
+            "7b57cb",
+            "cb76f1",
+            "fab5ff",
+            "334099",
+            "3e65bf",
+            "57a3d1",
+            "81e3e9",
+            "182934",
+            "0e4051",
+            "036f6f",
+            "09a862",
+            "14473c",
+            "04773e",
+            "25a51d",
+            "2f6d4a",
+            "4ca33e",
+            "87cb33",
+            "dff779",
+            "394742",
+            "526454",
+            "7a8874",
+            "262120",
+            "3e3735",
+            "625a52",
+            "928c7d",
+            "bcbea6",
+            "410f38",
+            "6d1732",
+            "a12d2d",
+            "c75f21",
+            "e19736",
+            "e7d44f",
+            "fdfff2"
+        ],
+        "tags": [
+            "isagamerstudios"
+        ],
+        "createdAt": "2021-04-11T16:29:03.949Z",
+        "authorName": "Isa",
+        "url": "https://lospec.com/palette-list/finale-53"
+    },
+    "queen-bee": {
+        "title": "Queen Bee",
+        "description": "A palette I made for a game jam. Colourful and bright, useful for flowers and plants.",
+        "colors": [
+            "9c2828",
+            "ff4242",
+            "ff9e9e",
+            "9c6828",
+            "ffa942",
+            "ffd39e",
+            "9c5028",
+            "ffef42",
+            "fff79e",
+            "3f9c28",
+            "68ff42",
+            "b1ff9e",
+            "289a9c",
+            "42fcff",
+            "9efdff",
+            "2a289c",
+            "4442ff",
+            "a09eff",
+            "9c2892",
+            "ff42f0",
+            "ff9ef7",
+            "7b289c",
+            "cb42ff",
+            "e49eff",
+            "ffffff",
+            "808080",
+            "000000"
+        ],
+        "tags": [
+            "27",
+            "bright",
+            "flowers",
+            "spring"
+        ],
+        "createdAt": "2021-04-10T00:36:42.574Z",
+        "authorName": "FennecFu Games",
+        "url": "https://lospec.com/palette-list/queen-bee"
+    },
+    "velvet-cherry-gb": {
+        "title": "Velvet Cherry GB",
+        "description": "A deep and passionate purple looking 4 colors palette.\u00a0",
+        "colors": [
+            "2d162c",
+            "412752",
+            "683a68",
+            "9775a6"
+        ],
+        "tags": [
+            "4",
+            "4colors",
+            "artist",
+            "cherry",
+            "gameboy",
+            "klafooty",
+            "purple",
+            "velvet"
+        ],
+        "createdAt": "2021-04-10T03:22:20.564Z",
+        "authorName": "Klafooty",
+        "url": "https://lospec.com/palette-list/velvet-cherry-gb"
+    },
+    "colordome-32": {
+        "title": "colordome-32",
+        "description": "",
+        "colors": [
+            "0d0b0d",
+            "fff8e1",
+            "c8b89f",
+            "987a68",
+            "674949",
+            "3a3941",
+            "6b6f72",
+            "adb9b8",
+            "add9b7",
+            "6eb39d",
+            "30555b",
+            "1a1e2d",
+            "284e43",
+            "467e3e",
+            "93ab52",
+            "f2cf5c",
+            "ec773d",
+            "b83530",
+            "722030",
+            "281721",
+            "6d2944",
+            "c85257",
+            "ec9983",
+            "dbaf77",
+            "b77854",
+            "833e35",
+            "50282f",
+            "65432f",
+            "7e6d37",
+            "6ebe70",
+            "b75834",
+            "d55c4d"
+        ],
+        "tags": [
+            "general",
+            "polyphorge"
+        ],
+        "createdAt": "2021-04-10T14:34:47.371Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/colordome-32"
+    },
+    "bmo": {
+        "title": "Bmo",
+        "description": "A palette with colors taken from everyone's favorite robot, bmo!",
+        "colors": [
+            "101e2b",
+            "183a42",
+            "407c84",
+            "8bbe93"
+        ],
+        "tags": [
+            "adventuretime",
+            "bmo",
+            "green",
+            "teal"
+        ],
+        "createdAt": "2021-04-09T04:43:35.334Z",
+        "authorName": "Visual-mov",
+        "url": "https://lospec.com/palette-list/bmo"
+    },
+    "ooo": {
+        "title": "ooo",
+        "description": "o",
+        "colors": [
+            "dfe292",
+            "619a5a",
+            "476770",
+            "3d345d"
+        ],
+        "tags": [
+            "o"
+        ],
+        "createdAt": "2021-04-09T05:58:43.109Z",
+        "authorName": "MrSponge",
+        "url": "https://lospec.com/palette-list/ooo"
+    },
+    "chasm": {
+        "title": "chasm",
+        "description": "",
+        "colors": [
+            "85daeb",
+            "5fc9e7",
+            "5fa1e7",
+            "5f6ee7",
+            "4c60aa",
+            "444774",
+            "32313b",
+            "463c5e",
+            "5d4776",
+            "855395",
+            "ab58a8",
+            "ca60ae",
+            "f3a787",
+            "f5daa7",
+            "8dd894",
+            "5dc190",
+            "4ab9a3",
+            "4593a5",
+            "5efdf7",
+            "ff5dcc",
+            "fdfe89",
+            "ffffff"
+        ],
+        "tags": [
+            "22colors",
+            "neon"
+        ],
+        "createdAt": "2021-04-08T22:36:30.855Z",
+        "authorName": "dysphoriaa",
+        "url": "https://lospec.com/palette-list/chasm"
+    },
+    "pen-n-paper": {
+        "title": "pen n paper",
+        "description": "a simple gb palette to make games look handrawn :)",
+        "colors": [
+            "e4dbba",
+            "a4929a",
+            "4f3a54",
+            "260d1c"
+        ],
+        "tags": [
+            "drawing",
+            "gb",
+            "ink",
+            "paper",
+            "polyphorge",
+            "purple"
+        ],
+        "createdAt": "2021-04-08T23:44:45.580Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/pen-n-paper"
+    },
+    "6-violets": {
+        "title": "6 Violets",
+        "description": "A simple 6 color palette for pixel art",
+        "colors": [
+            "74d7e9",
+            "4792eb",
+            "2c2fa3",
+            "2b0b76",
+            "b343d1",
+            "7d37d4"
+        ],
+        "tags": [
+            "violet violets 6violets 6 violetshadowshack violetshadow shadowshack"
+        ],
+        "createdAt": "2020-12-26T16:04:05.599Z",
+        "authorName": "Violet Shadow Shack",
+        "url": "https://lospec.com/palette-list/6-violets"
+    },
+    "gaming-in-the-flowers": {
+        "title": "gaming in the flowers",
+        "description": "my most used colour pallette on ig\u00a0",
+        "colors": [
+            "5a10e3",
+            "4678f5",
+            "4ba6f7",
+            "73f8c1",
+            "e5ffc2",
+            "a74ef5",
+            "ee78d9",
+            "ebc465",
+            "fae5a2",
+            "f9fda6",
+            "e0a9a4",
+            "f5cfba",
+            "fcefdc",
+            "fdf4f5"
+        ],
+        "tags": [
+            "bright"
+        ],
+        "createdAt": "2020-12-22T00:04:35.202Z",
+        "authorName": "mew",
+        "url": "https://lospec.com/palette-list/gaming-in-the-flowers"
+    },
+    "curiosities": {
+        "title": "curiosities",
+        "description": "A soft palette, small but with some variation across hues.",
+        "colors": [
+            "46425e",
+            "15788c",
+            "00b9be",
+            "ffeecc",
+            "ffb0a3",
+            "ff6973"
+        ],
+        "tags": [
+            "cute",
+            "green",
+            "pastel",
+            "pink",
+            "soft"
+        ],
+        "createdAt": "2021-04-08T20:49:59.386Z",
+        "authorName": "sukinapan",
+        "url": "https://lospec.com/palette-list/curiosities"
+    },
+    "henge5": {
+        "title": "HENGE5",
+        "description": "",
+        "colors": [
+            "807c79",
+            "7a6f6f",
+            "535a63",
+            "39394b",
+            "1d1d2e"
+        ],
+        "tags": [
+            "henge",
+            "henge5",
+            "soup",
+            "soup time"
+        ],
+        "createdAt": "2021-03-23T18:18:49.973Z",
+        "authorName": "soup time",
+        "url": "https://lospec.com/palette-list/henge5"
+    },
     "leopolds-dreams": {
         "title": "leopold's dreams",
         "description": "a blueish melancholic palette, good for water and/or sci-fi scenarios",
@@ -2105,16 +2834,10 @@
             "ffffff"
         ],
         "tags": [
-            "achromatopsia",
-            "color blind",
-            "color vision deficiency",
             "colorblind",
             "cvd",
-            "deuteranopia",
             "friendly",
-            "protanopia",
-            "safe",
-            "tritanopia"
+            "safe"
         ],
         "createdAt": "2021-03-08T00:28:29.319Z",
         "authorName": "\u00c1d\u00e1m Szieberth",
@@ -8742,7 +9465,7 @@
     },
     "give-me-grey-52": {
         "title": "Give Me Grey 52",
-        "description": "",
+        "description": "A palette made for drawing metal objects with colorful features. GMG52 has 4 interesting gray ramps for you to play with and a handful of generic colours you can use to complete your piece.",
         "colors": [
             "0c0101",
             "ffffff",
