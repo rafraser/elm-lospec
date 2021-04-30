@@ -1,4 +1,460 @@
 {
+    "2bit-demiboy": {
+        "title": "2BIT DEMIBOY",
+        "description": "A palette in a similar style to my\u00a02Bit Demichrome\u00a0but with desaturated greens",
+        "colors": [
+            "252525",
+            "4b564d",
+            "9aa57c",
+            "e0e9c4"
+        ],
+        "tags": [],
+        "createdAt": "2021-04-22T08:36:51.757Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/2bit-demiboy"
+    },
+    "fiery-plague-gb": {
+        "title": "Fiery Plague GB",
+        "description": "A vibrant and spooky 4 colors palette.",
+        "colors": [
+            "1a2129",
+            "312137",
+            "512839",
+            "713141"
+        ],
+        "tags": [
+            "4",
+            "4colors",
+            "artist",
+            "fiery",
+            "gameboy",
+            "klafooty",
+            "spooky"
+        ],
+        "createdAt": "2021-04-21T22:29:23.272Z",
+        "authorName": "Klafooty",
+        "url": "https://lospec.com/palette-list/fiery-plague-gb"
+    },
+    "photocorp": {
+        "title": "photo\u2022corp",
+        "description": "\"watching over you\"\u266b\u266a\u266b\u266a",
+        "colors": [
+            "f8f3ff",
+            "b67780",
+            "423568",
+            "0f0f0c"
+        ],
+        "tags": [
+            "gb",
+            "pink",
+            "polyphorge",
+            "purple"
+        ],
+        "createdAt": "2021-04-21T11:19:38.773Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/photocorp"
+    },
+    "farmland-20": {
+        "title": "Farmland-20",
+        "description": "A fairly desaturated 20 color palette, useful for landscapes and nature with a lot of earthy colors.",
+        "colors": [
+            "ecf3b0",
+            "b8ddd2",
+            "8bb3c1",
+            "879797",
+            "548ca4",
+            "536871",
+            "50486a",
+            "2d3c56",
+            "1c2025",
+            "0c0f00",
+            "40291c",
+            "672d20",
+            "953a2f",
+            "ac6b2f",
+            "c8ad56",
+            "8d9855",
+            "7a7b6b",
+            "4b5431",
+            "725336",
+            "9f865b"
+        ],
+        "tags": [],
+        "createdAt": "2021-03-30T05:45:22.825Z",
+        "authorName": "Eclipse89",
+        "url": "https://lospec.com/palette-list/farmland-20"
+    },
+    "cyclope6": {
+        "title": "Cyclope6",
+        "description": "A quick 6 color palette based on the tritanopic color spectrum.\u00a0",
+        "colors": [
+            "411d31",
+            "631b34",
+            "32535f",
+            "0b8a8f",
+            "0eaf9b",
+            "30e1b9"
+        ],
+        "tags": [
+            "blue",
+            "complementary",
+            "red",
+            "tritanopia"
+        ],
+        "createdAt": "2021-04-14T07:02:57.830Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/cyclope6"
+    },
+    "master-28": {
+        "title": "Master-28",
+        "description": "A master palette thing",
+        "colors": [
+            "1e1d24",
+            "3c3d4a",
+            "596278",
+            "728da8",
+            "9dc7d9",
+            "bce7e8",
+            "fffff5",
+            "f0f2cb",
+            "c4f5b6",
+            "82d4a9",
+            "57b5aa",
+            "467499",
+            "2d374d",
+            "443657",
+            "764787",
+            "b557b3",
+            "de7cbd",
+            "eda5c3",
+            "fadae7",
+            "b6f5e3",
+            "98f0ea",
+            "71d4e3",
+            "4b9ac2",
+            "4f343b",
+            "6e4a42",
+            "9e694f",
+            "cf9f78",
+            "dec58c"
+        ],
+        "tags": [
+            "28",
+            "master",
+            "palette"
+        ],
+        "createdAt": "2021-04-19T06:37:17.167Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/master-28"
+    },
+    "catk1ng26": {
+        "title": "CatK1ng26",
+        "description": "a very basic but usable palette i made a while ago and forgot to post, i think its nice but hey opinions are opinions.",
+        "colors": [
+            "0d0d0d",
+            "201429",
+            "292945",
+            "373445",
+            "596680",
+            "93b8b8",
+            "f2f2f2",
+            "4ab8b8",
+            "335c80",
+            "274045",
+            "138075",
+            "66b84a",
+            "d4bf60",
+            "b86840",
+            "802d3b",
+            "451f3f",
+            "663380",
+            "b8408a",
+            "d47494",
+            "d4b58a",
+            "b8866e",
+            "805546",
+            "45291f",
+            "29171b",
+            "805d2d",
+            "b88640"
+        ],
+        "tags": [
+            "26",
+            "basic",
+            "colorful",
+            "vibrant"
+        ],
+        "createdAt": "2021-04-19T05:31:01.091Z",
+        "authorName": "SolitaryCatK1ng",
+        "url": "https://lospec.com/palette-list/catk1ng26"
+    },
+    "smooth-polished-gold": {
+        "title": "Smooth, polished gold",
+        "description": "Gold palette with red-brown shadows + violet highlights",
+        "colors": [
+            "000000",
+            "361c1b",
+            "754232",
+            "cd894a",
+            "e6b983",
+            "fff8bc",
+            "ffffff",
+            "2d2433",
+            "4f4254",
+            "b092a7"
+        ],
+        "tags": [
+            "gold",
+            "metal",
+            "okee"
+        ],
+        "createdAt": "2021-04-19T07:13:52.875Z",
+        "authorName": "Okee",
+        "url": "https://lospec.com/palette-list/smooth-polished-gold"
+    },
+    "smooth-polished-silver": {
+        "title": "Smooth, polished silver",
+        "description": "Silver texture with pink light and violet and grey-grown shades of shadows",
+        "colors": [
+            "000000",
+            "28211f",
+            "4a393d",
+            "67584c",
+            "b092a7",
+            "f2d6e2",
+            "ffffff"
+        ],
+        "tags": [
+            "metal",
+            "okee",
+            "silver"
+        ],
+        "createdAt": "2021-04-19T06:59:22.333Z",
+        "authorName": "Okee",
+        "url": "https://lospec.com/palette-list/smooth-polished-silver"
+    },
+    "nature-20": {
+        "title": "Nature-20",
+        "description": "Idk what to say about this, good for nature, i guess, hence the title?\u00a0\u00a0",
+        "colors": [
+            "18181a",
+            "2f3238",
+            "515f69",
+            "8ca9ad",
+            "cdebeb",
+            "fefff7",
+            "9bcbde",
+            "618cba",
+            "364d8a",
+            "222a59",
+            "2e6980",
+            "319682",
+            "5ec788",
+            "8fe693",
+            "ddedc0",
+            "e6ccaa",
+            "bd6e5e",
+            "9e425c",
+            "6b395b",
+            "3b2c42"
+        ],
+        "tags": [
+            "20",
+            "colors",
+            "colours",
+            "nature"
+        ],
+        "createdAt": "2021-04-19T06:49:30.241Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/nature-20"
+    },
+    "orbees-master-palette": {
+        "title": "Orbee's master palette",
+        "description": "A master palette, I hope you enjoy using it!\u00a0\u00a0",
+        "colors": [
+            "18171a",
+            "2e2f36",
+            "4e5866",
+            "6b93a3",
+            "9fcdd1",
+            "fffff5",
+            "c1ecf5",
+            "7fbedb",
+            "6188ba",
+            "4b679c",
+            "313357",
+            "314e69",
+            "398585",
+            "48b37c",
+            "92e89a",
+            "eff0d3",
+            "f2cdaf",
+            "db885c",
+            "c74c66",
+            "b0316e",
+            "752a69",
+            "3c2645",
+            "8e4994",
+            "c773bd",
+            "e8a5cf",
+            "facbda",
+            "cfb88c",
+            "9e7c5d",
+            "705c4b",
+            "38302b"
+        ],
+        "tags": [
+            "master",
+            "masterpalette",
+            "palette"
+        ],
+        "createdAt": "2021-04-19T07:35:03.416Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/orbees-master-palette"
+    },
+    "wheat-gb": {
+        "title": "wheat gb",
+        "description": "another gb palette i tried to make it good",
+        "colors": [
+            "240024",
+            "7a3921",
+            "e6c12b",
+            "fffad6"
+        ],
+        "tags": [
+            "4",
+            "gameboy",
+            "gb",
+            "orangehairboi",
+            "wheat"
+        ],
+        "createdAt": "2021-04-19T20:55:16.402Z",
+        "authorName": "orange hair boi",
+        "url": "https://lospec.com/palette-list/wheat-gb"
+    },
+    "mystic-ss": {
+        "title": "Mystic SS",
+        "description": "A 24 colour palette intended to have natural colours that I can use later in art.",
+        "colors": [
+            "000000",
+            "ffffff",
+            "b4babd",
+            "69726a",
+            "534954",
+            "221f1e",
+            "4a2628",
+            "734024",
+            "a05b3c",
+            "ca7d53",
+            "e1a968",
+            "f4dd42",
+            "81b93b",
+            "4d893a",
+            "215d48",
+            "59cf8d",
+            "5e81ca",
+            "343d65",
+            "793779",
+            "a569cb",
+            "ed9fd9",
+            "dc5873",
+            "a03a2b",
+            "dc6d1c"
+        ],
+        "tags": [
+            "24",
+            "mystic",
+            "natural",
+            "spacesandwich"
+        ],
+        "createdAt": "2021-04-20T14:02:00.775Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/mystic-ss"
+    },
+    "colorquest-16": {
+        "title": "colorquest-16",
+        "description": "haha funny adventure game palette",
+        "colors": [
+            "99d4aa",
+            "498e86",
+            "324859",
+            "437a4d",
+            "7dbe58",
+            "eadb77",
+            "dc8254",
+            "c13d37",
+            "61363d",
+            "b06163",
+            "e6af89",
+            "fff9e5",
+            "c1a68c",
+            "8b6962",
+            "0d0b0d",
+            "9d5745"
+        ],
+        "tags": [
+            "polyphorge",
+            "videogame"
+        ],
+        "createdAt": "2021-04-20T21:15:33.259Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/colorquest-16"
+    },
+    "fruit-juice": {
+        "title": "Fruit Juice",
+        "description": "fruity!",
+        "colors": [
+            "000000",
+            "deeec7",
+            "ede44a",
+            "aac62b",
+            "75ad25",
+            "34a026",
+            "066829",
+            "0d4437",
+            "073036",
+            "04262b",
+            "010d13",
+            "111111",
+            "552a14",
+            "7d3f0a",
+            "9f5616",
+            "bc7a1d",
+            "ecc36a",
+            "f19613",
+            "e36d04",
+            "cb4600",
+            "921100",
+            "6c0000",
+            "450121",
+            "65061c",
+            "880515",
+            "a60d20",
+            "c61b1b",
+            "e85340"
+        ],
+        "tags": [],
+        "createdAt": "2021-04-17T19:21:32.402Z",
+        "authorName": "Pit",
+        "url": "https://lospec.com/palette-list/fruit-juice"
+    },
+    "titanstone": {
+        "title": "titanstone",
+        "description": "",
+        "colors": [
+            "150413",
+            "635c6d",
+            "ffffd1"
+        ],
+        "tags": [
+            "blue",
+            "polyphorge",
+            "stone"
+        ],
+        "createdAt": "2021-04-17T00:04:06.705Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/titanstone"
+    },
     "archaon-15": {
         "title": "Archaon 15",
         "description": "",
@@ -807,7 +1263,8 @@
             "f5ad87",
             "f6b98a",
             "f5e7de",
-            "c1a18a"
+            "c1a18a",
+            "dabdab"
         ],
         "tags": [
             "16color",
@@ -4087,8 +4544,8 @@
         "authorName": "Jecox\u2728",
         "url": "https://lospec.com/palette-list/cromatica"
     },
-    "tea-gb-pallete": {
-        "title": "Tea gb pallete",
+    "tea-gb": {
+        "title": "Tea gb ",
         "description": "",
         "colors": [
             "d6c894",
@@ -4106,7 +4563,7 @@
         ],
         "createdAt": "2021-03-13T01:21:29.744Z",
         "authorName": "Kuroi",
-        "url": "https://lospec.com/palette-list/tea-gb-pallete"
+        "url": "https://lospec.com/palette-list/tea-gb"
     },
     "shortened-nes": {
         "title": "Shortened NES",
@@ -30095,7 +30552,7 @@
     },
     "mini-7": {
         "title": "Mini 7",
-        "description": "The palette used in minisoniczx's <a href=\"http://pixeljoint.com/pixelart/125312.htm\" target=\"_blank\">Piranha Plant</a> piece. Has a somewhat faded look. Highly versatile for the small number of colors used.<br />",
+        "description": "The palette used in Minisoniczx's Piranha Plant piece. Has a somewhat faded look. Highly versatile for the small number of colors used.",
         "colors": [
             "30303d",
             "5564a0",
