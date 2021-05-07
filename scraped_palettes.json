@@ -1,4 +1,487 @@
 {
+    "fruitful-24": {
+        "title": "Fruitful-24",
+        "description": "This is a palette I made on my PC a while ago, and have used for many things because I like it. I did not intend to copy a palette if I did.",
+        "colors": [
+            "170030",
+            "320044",
+            "55005e",
+            "70005f",
+            "860055",
+            "a2004a",
+            "b02d2d",
+            "c04c00",
+            "d27f00",
+            "e0b700",
+            "f9d313",
+            "f6e094",
+            "000239",
+            "001871",
+            "003173",
+            "00537d",
+            "00798f",
+            "009881",
+            "00ab68",
+            "00c955",
+            "00e129",
+            "7cff00",
+            "ccff65",
+            "f4ffc5"
+        ],
+        "tags": [
+            "basic",
+            "game",
+            "general",
+            "vibrant"
+        ],
+        "createdAt": "2021-04-18T01:18:44.948Z",
+        "authorName": "RGB",
+        "url": "https://lospec.com/palette-list/fruitful-24"
+    },
+    "baksu-12": {
+        "title": "Baksu 12",
+        "description": "a palette that I made for a little pixel art video game that I'm making called BaksuBattle. I had to add the last color for the funds, sorry",
+        "colors": [
+            "261536",
+            "9c3e52",
+            "c27b6e",
+            "dec495",
+            "01678f",
+            "5596a6",
+            "72c0ab",
+            "cdeadd",
+            "804280",
+            "613d2f",
+            "4b7a5e",
+            "7d9c7c",
+            "7d8091"
+        ],
+        "tags": [
+            "baksubattle",
+            "lowsaturation",
+            "simple",
+            "soft"
+        ],
+        "createdAt": "2021-04-19T11:59:21.345Z",
+        "authorName": "Lautaro Salas Cismondi",
+        "url": "https://lospec.com/palette-list/baksu-12"
+    },
+    "spiral-16": {
+        "title": "Spiral 16",
+        "description": "Meant to be a master pallete for general use in video games.\u00a0 While it was inspired heavily by the palette of the Pico-8, I actually constructed this one by setting aside black, white, and 1 indermediate grey, then, in what can be seen as an idiosyncratic color ramp, drastically shifting the hues of the rest of the colors as I gradually changed the value, so that the hues go through two full \"cycles\" throughout.\u00a0 This should (hopefully) form a \"spiral\" in the RGB color space, hence the name.",
+        "colors": [
+            "000000",
+            "808080",
+            "ffffff",
+            "ffcc99",
+            "ff99cc",
+            "aa55ff",
+            "00aaff",
+            "00ff00",
+            "ffff00",
+            "ff8000",
+            "ff0000",
+            "aa0055",
+            "5500aa",
+            "0000ff",
+            "00aa55",
+            "663300"
+        ],
+        "tags": [
+            "linear"
+        ],
+        "createdAt": "2021-04-20T00:11:29.188Z",
+        "authorName": "A.J. Otero",
+        "url": "https://lospec.com/palette-list/spiral-16"
+    },
+    "autumn-decay": {
+        "title": "Autumn Decay",
+        "description": "A palette inspired by the orange tinge of leaves in Autumn.",
+        "colors": [
+            "313638",
+            "574729",
+            "975330",
+            "c57938",
+            "ffad3b",
+            "ffe596"
+        ],
+        "tags": [
+            "autumn",
+            "green",
+            "leaves",
+            "orange",
+            "six"
+        ],
+        "createdAt": "2021-04-26T16:45:57.216Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/autumn-decay"
+    },
+    "golden-sunset": {
+        "title": "golden-sunset\ud83d\udd05",
+        "description": "",
+        "colors": [
+            "ffecd6",
+            "ffb873",
+            "cb765c",
+            "7a4a5a",
+            "25213e"
+        ],
+        "tags": [
+            "gold",
+            "light",
+            "monoramp",
+            "polyphorge",
+            "purple",
+            "yellow"
+        ],
+        "createdAt": "2021-04-26T18:13:41.562Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/golden-sunset"
+    },
+    "casio-basic": {
+        "title": "Casio Basic",
+        "description": "A 1 bit pallette based on the screen of a Casio calculator.",
+        "colors": [
+            "000000",
+            "83b07e"
+        ],
+        "tags": [
+            "1bit",
+            "calculator",
+            "casio",
+            "hardware"
+        ],
+        "createdAt": "2021-04-28T22:17:07.754Z",
+        "authorName": "graph100",
+        "url": "https://lospec.com/palette-list/casio-basic"
+    },
+    "3-bit-cmy": {
+        "title": "3-Bit CMY",
+        "description": "A palette inspired by CMYK colouring. It uses printing cyan &amp; magenta to form a CMY(K) counterpart to the standard 3-bit RGB palette.",
+        "colors": [
+            "fcfcfc",
+            "fcfc00",
+            "007efc",
+            "fc007e",
+            "007e00",
+            "fc0000",
+            "00007e",
+            "000000"
+        ],
+        "tags": [
+            "3bit",
+            "bd",
+            "book",
+            "cmy",
+            "cmyk",
+            "comics",
+            "paper",
+            "print",
+            "printing",
+            "superhero"
+        ],
+        "createdAt": "2021-04-30T20:19:06.224Z",
+        "authorName": "R3cl41m3r",
+        "url": "https://lospec.com/palette-list/3-bit-cmy"
+    },
+    "bit-interior": {
+        "title": "Bit Interior",
+        "description": "",
+        "colors": [
+            "f3e2b1",
+            "f7c439",
+            "ff880b",
+            "ff5036",
+            "ae3737",
+            "e05ad1",
+            "4dd464",
+            "5fb7f3",
+            "c98c4b",
+            "a26134",
+            "bec4bb",
+            "929992",
+            "2e2823",
+            "331b0b",
+            "201208"
+        ],
+        "tags": [],
+        "createdAt": "2021-05-01T21:24:01.037Z",
+        "authorName": "VEXED",
+        "url": "https://lospec.com/palette-list/bit-interior"
+    },
+    "pastel-qt": {
+        "title": "pastel qt",
+        "description": "",
+        "colors": [
+            "cb8175",
+            "e2a97e",
+            "f0cf8e",
+            "f6edcd",
+            "a8c8a6",
+            "6d8d8a",
+            "655057"
+        ],
+        "tags": [
+            "cute",
+            "pastel",
+            "polyphorge"
+        ],
+        "createdAt": "2021-04-27T09:52:42.534Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/pastel-qt"
+    },
+    "lospec-gb": {
+        "title": "Lospec GB",
+        "description": "Simple gameboy style palette with Lospec-ish colors (a bit more saturated), made for a game on the Lospec discord. Best used for cartoonish things with no shading.",
+        "colors": [
+            "000000",
+            "382843",
+            "7c6d80",
+            "c7c6c6"
+        ],
+        "tags": [
+            "gameboy",
+            "lospec"
+        ],
+        "createdAt": "2021-04-26T15:48:43.781Z",
+        "authorName": "Sam Keddy",
+        "url": "https://lospec.com/palette-list/lospec-gb"
+    },
+    "ys-flowers-and-asbestos": {
+        "title": "Y's Flowers and Asbestos",
+        "description": "Pink and white brought to perfection. A palette created for being one of the best Colour/Light Palettes, not to be part of a certain piece.",
+        "colors": [
+            "c62b69",
+            "edf4ff"
+        ],
+        "tags": [
+            "1bit",
+            "flower",
+            "pink"
+        ],
+        "createdAt": "2021-04-24T14:39:42.212Z",
+        "authorName": "Yelta",
+        "url": "https://lospec.com/palette-list/ys-flowers-and-asbestos"
+    },
+    "choco-dream": {
+        "title": "Choco Dream",
+        "description": "",
+        "colors": [
+            "e17970",
+            "dd3c3c",
+            "9c1722",
+            "cd8e51",
+            "7f5224",
+            "5d3829",
+            "fff7e3",
+            "eed29e",
+            "ebcc70",
+            "adb588",
+            "c7a394",
+            "c67b5d",
+            "c05330",
+            "914531",
+            "613429",
+            "2e0d05",
+            "badff2",
+            "84bdc2",
+            "659086",
+            "515162"
+        ],
+        "tags": [
+            "chocolate",
+            "dessert",
+            "food",
+            "pastry"
+        ],
+        "createdAt": "2021-01-30T10:32:09.557Z",
+        "authorName": "Potvii",
+        "url": "https://lospec.com/palette-list/choco-dream"
+    },
+    "beret12": {
+        "title": "Beret12",
+        "description": "A 12 colour palette, inspired by the Bakemonogatari opening 4.",
+        "colors": [
+            "fefcf2",
+            "fee6dd",
+            "ffdfab",
+            "ffbf8f",
+            "ff8567",
+            "dd4d68",
+            "7b3945",
+            "b18458",
+            "baa268",
+            "b89fa1",
+            "7684cb",
+            "6bafe5"
+        ],
+        "tags": [],
+        "createdAt": "2021-01-28T10:54:44.163Z",
+        "authorName": "Nizart",
+        "url": "https://lospec.com/palette-list/beret12"
+    },
+    "sobeachy8": {
+        "title": "SOBEACHY8",
+        "description": "",
+        "colors": [
+            "e55388",
+            "e57d88",
+            "e59f88",
+            "e5d988",
+            "e3d5cc",
+            "bad5cc",
+            "6dd5cc",
+            "5ac5cc"
+        ],
+        "tags": [
+            "light",
+            "pastel",
+            "sobeachy"
+        ],
+        "createdAt": "2021-02-08T23:10:32.803Z",
+        "authorName": "Snowy Owl",
+        "url": "https://lospec.com/palette-list/sobeachy8"
+    },
+    "strawberry": {
+        "title": "Strawberry",
+        "description": "Strawberry Castle",
+        "colors": [
+            "ffcdb2",
+            "ffb4a2",
+            "e5989b",
+            "bf858f",
+            "79727f"
+        ],
+        "tags": [],
+        "createdAt": "2021-04-01T00:25:28.011Z",
+        "authorName": "Emma Pineda",
+        "url": "https://lospec.com/palette-list/strawberry"
+    },
+    "late-night-bath": {
+        "title": "late night bath",
+        "description": "a somewhat gloomy, low saturation palette",
+        "colors": [
+            "282d3c",
+            "5b5d70",
+            "74838c",
+            "ffc4b8",
+            "f69197"
+        ],
+        "tags": [
+            "blue",
+            "gray",
+            "pink"
+        ],
+        "createdAt": "2021-04-22T22:53:13.590Z",
+        "authorName": "sukinapan",
+        "url": "https://lospec.com/palette-list/late-night-bath"
+    },
+    "ye-olde-pirate-modde": {
+        "title": "Ye Olde Pirate Modde",
+        "description": "A custom palette designed by Levellass for her mod of Commander Keen 3: Keen Must Die!,\u00a0Ye Olde Pirate Modde. Although it replaces\u00a0the standard CGA/EGA palette\u00a0that the original game used to display, it is not a 1:1 replacement, so it is not suitable to recolor art made in the standard palette.",
+        "colors": [
+            "fcfcfc",
+            "a4a4a4",
+            "000000",
+            "24303c",
+            "55493c",
+            "b67914",
+            "eb923c",
+            "f3e375",
+            "a6cf34",
+            "559224",
+            "2438eb",
+            "3ca6f3",
+            "b2dbeb",
+            "db7996",
+            "b83044",
+            "a80c0c"
+        ],
+        "tags": [],
+        "createdAt": "2021-04-23T00:04:49.065Z",
+        "authorName": "P-Tux7",
+        "url": "https://lospec.com/palette-list/ye-olde-pirate-modde"
+    },
+    "blk-nx64": {
+        "title": "BLK NX64",
+        "description": "The successor of\u00a0BLK NEO. 18 new colors integrated, to create the final version! Rust, dirt, contamination and old age to supplement, bring life and variety to your pixelarts with BLK NX64!!!\u00a0\u00a0\u00a0\u00a0",
+        "colors": [
+            "000000",
+            "12173d",
+            "293268",
+            "464b8c",
+            "6b74b2",
+            "909edd",
+            "c1d9f2",
+            "ffffff",
+            "a293c4",
+            "7b6aa5",
+            "53427f",
+            "3c2c68",
+            "431e66",
+            "5d2f8c",
+            "854cbf",
+            "b483ef",
+            "8cff9b",
+            "42bc7f",
+            "22896e",
+            "14665b",
+            "0f4a4c",
+            "0a2a33",
+            "1d1a59",
+            "322d89",
+            "354ab2",
+            "3e83d1",
+            "50b9eb",
+            "8cdaff",
+            "53a1ad",
+            "3b768f",
+            "21526b",
+            "163755",
+            "008782",
+            "00aaa5",
+            "27d3cb",
+            "78fae6",
+            "cdc599",
+            "988f64",
+            "5c5d41",
+            "353f23",
+            "919b45",
+            "afd370",
+            "ffe091",
+            "ffaa6e",
+            "ff695a",
+            "b23c40",
+            "ff6675",
+            "dd3745",
+            "a52639",
+            "721c2f",
+            "b22e69",
+            "e54286",
+            "ff6eaf",
+            "ffa5d5",
+            "ffd3ad",
+            "cc817a",
+            "895654",
+            "61393b",
+            "3f1f3c",
+            "723352",
+            "994c69",
+            "c37289",
+            "f29faa",
+            "ffccd0"
+        ],
+        "tags": [
+            "artist",
+            "blkirl",
+            "multiuse",
+            "pixelart",
+            "update"
+        ],
+        "createdAt": "2021-04-23T03:49:46.448Z",
+        "authorName": "BlackedIRL",
+        "url": "https://lospec.com/palette-list/blk-nx64"
+    },
     "2bit-demiboy": {
         "title": "2BIT DEMIBOY",
         "description": "A palette in a similar style to my\u00a02Bit Demichrome\u00a0but with desaturated greens",
@@ -4323,7 +4806,7 @@
         ],
         "tags": [],
         "createdAt": "2021-03-14T19:09:33.620Z",
-        "authorName": "Squishy Kitty",
+        "authorName": "Siegraas",
         "url": "https://lospec.com/palette-list/pirates-adventure"
     },
     "soup11": {
@@ -5622,7 +6105,7 @@
     },
     "rusty-steam": {
         "title": "Rusty-Steam",
-        "description": "This is a small palette inspired by few colors I saw on colorhunt.co. I thought the colors have a steampunk aesthetic and it works well with pixel-art. If you have made pixel-art with the palette send it to me and I can display it here.",
+        "description": "This is a small palette inspired by few colors I saw on colorhunt.co. I thought the colors have a steampunk aesthetic and it works well with pixel-art. If you have made pixel-art using the color palette, you can submit it",
         "colors": [
             "314e52",
             "f2a154",
@@ -6771,7 +7254,7 @@
             "hueshift"
         ],
         "createdAt": "2021-02-12T17:55:03.634Z",
-        "authorName": "Squishy Kitty",
+        "authorName": "Siegraas",
         "url": "https://lospec.com/palette-list/mama-earth"
     },
     "vibrant-26": {
@@ -8449,16 +8932,10 @@
             "ffffff"
         ],
         "tags": [
-            "achromatopsia",
-            "color blind",
-            "color vision deficiency",
             "colorblind",
             "cvd",
-            "deuteranopia",
             "friendly",
-            "protanopia",
-            "safe",
-            "tritanopia"
+            "safe"
         ],
         "createdAt": "2021-01-11T23:57:19.494Z",
         "authorName": "\u00c1d\u00e1m Szieberth",
@@ -10212,16 +10689,10 @@
             "ffffff"
         ],
         "tags": [
-            "achromatopsia",
-            "color blind",
-            "color vision deficiency",
             "colorblind",
             "cvd",
-            "deuteranopia",
             "friendly",
-            "protanopia",
-            "safe",
-            "tritanopia"
+            "safe"
         ],
         "createdAt": "2020-12-30T01:13:49.720Z",
         "authorName": "\u00c1d\u00e1m Szieberth",
@@ -11818,7 +12289,7 @@
     },
     "ibm-color-blind-safe": {
         "title": "IBM Color Blind Safe",
-        "description": "<a href=\"https://web.archive.org/web/20201114172754/https://www.ibm.com/design/v1/language/resources/color-library/\" target=\"_blank\">Color Blind Safe Palette of IBM Design Language v1</a>\u00a0Color Names: Ultramarine 40, Indigo 50, Magenta 50\r\n, Orange 40, Gold 20, Black 100, White 0",
+        "description": "Color Blind Safe Palette of IBM Design Language v1\u00a0Color Names: Ultramarine 40, Indigo 50, Magenta 50\r\n, Orange 40, Gold 20, Black 100, White 0",
         "colors": [
             "648fff",
             "785ef0",
@@ -11829,9 +12300,9 @@
             "ffffff"
         ],
         "tags": [
-            "blind",
             "colorblind",
             "deuteranopia",
+            "friendly",
             "ibm",
             "protanopia",
             "safe",
