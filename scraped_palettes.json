@@ -1,4 +1,326 @@
 {
+    "magik16": {
+        "title": "Magik16",
+        "description": "Magik-y palette",
+        "colors": [
+            "1c1e1f",
+            "3c4348",
+            "668b90",
+            "bee5e1",
+            "fbfceb",
+            "e9cea8",
+            "9b5a44",
+            "591e37",
+            "6d2fa7",
+            "d454c6",
+            "e98bb3",
+            "f0f3c4",
+            "bde9bf",
+            "82d3b0",
+            "58aaad",
+            "234663"
+        ],
+        "tags": [
+            "cool",
+            "magic"
+        ],
+        "createdAt": "2021-05-04T01:23:21.250Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/magik16"
+    },
+    "cyberpunk-neons": {
+        "title": "Cyberpunk Neons",
+        "description": "A palette that was inspired by the great colour choices of the anime BNA.\u00a0 Please note the that this has been renamed to Cyberpunk Neons after settling on a different name with Shidoengie.",
+        "colors": [
+            "53ebe4",
+            "0f9595",
+            "084f64",
+            "03274c",
+            "08173d",
+            "0b001b",
+            "4d004f",
+            "c1115a",
+            "e13a6a",
+            "e46a87",
+            "eca6c0"
+        ],
+        "tags": [
+            "bna",
+            "cyber",
+            "cyberpunk",
+            "neon"
+        ],
+        "createdAt": "2021-05-03T16:35:26.714Z",
+        "authorName": "Chippix",
+        "url": "https://lospec.com/palette-list/cyberpunk-neons"
+    },
+    "washed-over-16": {
+        "title": "Washed-Over 16",
+        "description": "I wanted to create a 16-color master pallete that was a little less eye-damagingly saturated that my Spiral-16 palette, something like the Commodore 64, so I made this.",
+        "colors": [
+            "000000",
+            "555555",
+            "aaaaaa",
+            "ffffff",
+            "aa3344",
+            "773300",
+            "bb7744",
+            "ffbb88",
+            "dddd66",
+            "66dd99",
+            "007733",
+            "003377",
+            "4477bb",
+            "88bbff",
+            "8844bb",
+            "ff88cc"
+        ],
+        "tags": [
+            "artist",
+            "linear"
+        ],
+        "createdAt": "2021-05-02T19:45:04.237Z",
+        "authorName": "A.J. Otero",
+        "url": "https://lospec.com/palette-list/washed-over-16"
+    },
+    "paper-pixels": {
+        "title": "Paper Pixels",
+        "description": "",
+        "colors": [
+            "eee1c4",
+            "e6d9bd",
+            "dbcfb1",
+            "d6c7a3",
+            "c3b797",
+            "ada387",
+            "cc9970",
+            "a97e5c",
+            "937b6a",
+            "a0a0a0",
+            "838383",
+            "9eb5c0",
+            "839ca9",
+            "6d838e",
+            "c87e7e",
+            "a05e5e",
+            "b089ab",
+            "8e6d89",
+            "b9ab73",
+            "978c63",
+            "87a985",
+            "6f8b6e"
+        ],
+        "tags": [
+            "cute",
+            "desaturated",
+            "pastel"
+        ],
+        "createdAt": "2021-05-01T19:50:45.665Z",
+        "authorName": "VEXED",
+        "url": "https://lospec.com/palette-list/paper-pixels"
+    },
+    "cold-sands": {
+        "title": "cold sands",
+        "description": "a cold feeling palette",
+        "colors": [
+            "442252",
+            "61433c",
+            "807456",
+            "adab8e",
+            "d6dea5"
+        ],
+        "tags": [
+            "cold"
+        ],
+        "createdAt": "2021-04-30T14:34:04.169Z",
+        "authorName": "haex",
+        "url": "https://lospec.com/palette-list/cold-sands"
+    },
+    "hetzelfde": {
+        "title": "Hetzelfde",
+        "description": "Little (mostly gray) colour pallette based on Agent Anders, from the Friday Night Funkin Mod",
+        "colors": [
+            "3e3f4a",
+            "5d606b",
+            "6f687c",
+            "91929b",
+            "1d1e26",
+            "2e2a34",
+            "293455",
+            "4c5f81",
+            "b4d8f7",
+            "ffffff",
+            "6e053d",
+            "ff0100"
+        ],
+        "tags": [
+            "black",
+            "blue",
+            "edgy",
+            "gray",
+            "grim",
+            "red",
+            "serious",
+            "white"
+        ],
+        "createdAt": "2021-04-30T13:45:42.446Z",
+        "authorName": "Phanpy100",
+        "url": "https://lospec.com/palette-list/hetzelfde"
+    },
+    "senpai": {
+        "title": "Senpai",
+        "description": "Pallete based on Senpai from FNF",
+        "colors": [
+            "f44c79",
+            "fb88c4",
+            "ffb6dc",
+            "a1a4c6",
+            "fbffff",
+            "b2e5e9",
+            "9cc7ff",
+            "8aa2ff",
+            "805dce",
+            "695d83",
+            "4b4163",
+            "201246",
+            "b75d35",
+            "ca6722",
+            "ffa668",
+            "fcd5a6",
+            "ffcf5e",
+            "fff6ee",
+            "9a3232",
+            "9e4933",
+            "c8755c",
+            "ffbba4",
+            "ffdbc2",
+            "59223a",
+            "ff4545",
+            "ff6868",
+            "065819",
+            "3a8b34",
+            "85b767"
+        ],
+        "tags": [
+            "anime",
+            "pastel",
+            "senpai"
+        ],
+        "createdAt": "2021-04-30T19:34:20.729Z",
+        "authorName": "Phanpy100",
+        "url": "https://lospec.com/palette-list/senpai"
+    },
+    "afr-32": {
+        "title": "AFR-32",
+        "description": "An earthy palette with plenty of natural colors. If you want to make a pretty pixel forest, or a mushroom village full of fairies, this palette is the perfect choice!\u00a0",
+        "colors": [
+            "ecebe7",
+            "cbc6c1",
+            "b28b78",
+            "847066",
+            "695b59",
+            "4f4240",
+            "352f2e",
+            "723012",
+            "845425",
+            "a76343",
+            "dc6a36",
+            "f682bf",
+            "d74060",
+            "c5452b",
+            "b02222",
+            "8d1931",
+            "6a1325",
+            "3e1909",
+            "406a3b",
+            "76771d",
+            "939446",
+            "d3bd46",
+            "99e0a8",
+            "399a4d",
+            "204f1a",
+            "0f2c0c",
+            "1a0a01",
+            "14266a",
+            "194f80",
+            "2067a7",
+            "49a3b4",
+            "1de9de"
+        ],
+        "tags": [
+            "afr30",
+            "awesome",
+            "colorful",
+            "forest",
+            "mushroom",
+            "nature",
+            "pixelart",
+            "retro"
+        ],
+        "createdAt": "2021-05-04T14:45:59.179Z",
+        "authorName": "Alpha6",
+        "url": "https://lospec.com/palette-list/afr-32"
+    },
+    "compliment6": {
+        "title": "Compliment6",
+        "description": "A 6 color palette based on the\u00a0CVD6\u00a0palette by\u00a0\u00c1d\u00e1m Szieberth. I have not only brought their values closer together and modified their saturations, but also replaced the pure black and white by a deep green and a soft, pinkish white.",
+        "colors": [
+            "1d2b21",
+            "3d315d",
+            "774126",
+            "4a7383",
+            "bb863c",
+            "d2bdbd"
+        ],
+        "tags": [
+            "6color",
+            "complimentary",
+            "saturated",
+            "soft"
+        ],
+        "createdAt": "2021-05-03T18:08:41.994Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/compliment6"
+    },
+    "ciboulette-6": {
+        "title": "Ciboulette 6",
+        "description": "Ciboulette (French chives) are known in culinary for its fresh, mild onion-like flavor and are employed in many dishes throughout the world. This palette captures the greenery of the leaves, the brown dirt and the delicate pink flowers to compose a pastel-like, well-rounded palette which goes well with mellow, natural compositions but will also work for slimes and grime.",
+        "colors": [
+            "ffffff",
+            "f7c8dd",
+            "b5c4c4",
+            "599b86",
+            "6868ac",
+            "552f30"
+        ],
+        "tags": [
+            "blue",
+            "ciboulette",
+            "green",
+            "natural",
+            "pink"
+        ],
+        "createdAt": "2021-05-02T20:12:51.779Z",
+        "authorName": "Gors",
+        "url": "https://lospec.com/palette-list/ciboulette-6"
+    },
+    "retro-vibes": {
+        "title": "Retro vibes",
+        "description": "A retro-ish palette with 4 colours\u00a0\u00a0",
+        "colors": [
+            "564756",
+            "507dba",
+            "5acca0",
+            "e5f7d2"
+        ],
+        "tags": [
+            "4",
+            "retro"
+        ],
+        "createdAt": "2021-04-26T00:06:06.637Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/retro-vibes"
+    },
     "fruitful-24": {
         "title": "Fruitful-24",
         "description": "This is a palette I made on my PC a while ago, and have used for many things because I like it. I did not intend to copy a palette if I did.",
@@ -6199,8 +6521,8 @@
         "authorName": "Lavenfurr",
         "url": "https://lospec.com/palette-list/dialup-sunset"
     },
-    "jr-composite": {
-        "title": "Jr-Composite",
+    "jr-comp": {
+        "title": "Jr-Comp",
         "description": "",
         "colors": [
             "030625",
@@ -6227,7 +6549,7 @@
         ],
         "createdAt": "2021-02-24T22:34:00.623Z",
         "authorName": "retroadamshow",
-        "url": "https://lospec.com/palette-list/jr-composite"
+        "url": "https://lospec.com/palette-list/jr-comp"
     },
     "jr-16": {
         "title": "Jr-16",
