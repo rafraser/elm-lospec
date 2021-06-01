@@ -1,8 +1,10 @@
 name: Check Code
 on:
   push:
-    branches:
-      - master
+    branches: [main]
+
+  pull_request:
+    branches: [main]
 
 jobs:
   elm:
