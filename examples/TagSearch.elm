@@ -80,6 +80,7 @@ viewInput model =
     Html.input
         [ Attributes.placeholder "Enter a palette tag!"
         , Attributes.value model.content
+        , Attributes.style "margin" "8px auto"
         , onChange Change
         ]
         []
