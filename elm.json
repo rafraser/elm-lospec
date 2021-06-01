@@ -3,7 +3,7 @@
     "name": "rafraser/elm-lospec",
     "summary": "Work with the Lospec Palettes API",
     "license": "MIT",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "exposed-modules": [
         "Palette",
         "PaletteList",
