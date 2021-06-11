@@ -1,4 +1,70 @@
 {
+    "cyber-ping-pong": {
+        "title": "cyber ping pong",
+        "description": "kind of an icy palette, a variation of leopold's dreams",
+        "colors": [
+            "4c282f",
+            "554c80",
+            "569bc9",
+            "84cec9",
+            "d3d6b2"
+        ],
+        "tags": [
+            "blue",
+            "cold",
+            "ice",
+            "scifi",
+            "winter"
+        ],
+        "createdAt": "2021-05-30T04:05:33.188Z",
+        "authorName": "sukinapan",
+        "url": "https://lospec.com/palette-list/cyber-ping-pong"
+    },
+    "genericmonochrome": {
+        "title": "GenericMonochrome",
+        "description": "A generic monochrome palette.",
+        "colors": [
+            "36241e",
+            "4a3d35",
+            "747769",
+            "a29d8d",
+            "cfc1ab"
+        ],
+        "tags": [
+            "gameboy",
+            "greyscale",
+            "monochrome"
+        ],
+        "createdAt": "2021-05-26T02:49:19.882Z",
+        "authorName": "internet person",
+        "url": "https://lospec.com/palette-list/genericmonochrome"
+    },
+    "shifty16": {
+        "title": "Shifty16",
+        "description": "So this is me basically trying out the same kind of hue-shifted palettes everyone else on lospec has been making, this one another 16-color palette of mine.",
+        "colors": [
+            "000000",
+            "555555",
+            "aaaaaa",
+            "ffffff",
+            "55ffff",
+            "00aaff",
+            "0055ff",
+            "0000aa",
+            "550055",
+            "aa0000",
+            "ff5500",
+            "ffaa00",
+            "ffff55",
+            "55ff00",
+            "00aa55",
+            "005555"
+        ],
+        "tags": [],
+        "createdAt": "2021-05-27T00:24:14.933Z",
+        "authorName": "A.J. Otero",
+        "url": "https://lospec.com/palette-list/shifty16"
+    },
     "cozy-cup-o-coffee": {
         "title": "Cozy Cup O' Coffee",
         "description": "A little palette designed to feel warm and cozy.",
@@ -5814,7 +5880,7 @@
         ],
         "tags": [],
         "createdAt": "2021-03-23T20:09:30.046Z",
-        "authorName": "Nannerman",
+        "authorName": "Nanner",
         "url": "https://lospec.com/palette-list/nanner-pancakes"
     },
     "cloudy-28": {
@@ -5878,7 +5944,7 @@
         ],
         "tags": [],
         "createdAt": "2021-03-23T20:22:53.157Z",
-        "authorName": "Nannerman",
+        "authorName": "Nanner",
         "url": "https://lospec.com/palette-list/nanner-jam"
     },
     "harpy-16": {
@@ -15724,7 +15790,7 @@
             "nanner"
         ],
         "createdAt": "2020-11-13T19:54:04.894Z",
-        "authorName": "Nannerman",
+        "authorName": "Nanner",
         "url": "https://lospec.com/palette-list/nanner-32"
     },
     "elemental": {
@@ -18155,7 +18221,7 @@
         ],
         "tags": [],
         "createdAt": "2020-09-13T15:00:23.916Z",
-        "authorName": "Nannerman",
+        "authorName": "Nanner",
         "url": "https://lospec.com/palette-list/nanner-16"
     },
     "scrix24": {
@@ -26909,7 +26975,7 @@
     },
     "brightadventure38": {
         "title": "BrightAdventure38",
-        "description": "This is the palette I used in my game,\u00a0<a href=\"https://gamejolt.com/games/Distancy/399641\" target=\"_blank\">Distancy</a>;\u00a0The palette is meant to be like those in some Game Boy Color games (But with a small modernized twist!)",
+        "description": "This is the palette I used in my game,\u00a0Distancy (2019 Beta).",
         "colors": [
             "131216",
             "3c3041",
@@ -32401,7 +32467,7 @@
             "pretty"
         ],
         "createdAt": "2019-10-24T14:05:02.473Z",
-        "authorName": "Midnite\ud83c\udfa8\ud83c\udfae",
+        "authorName": "Midnitepixel_",
         "url": "https://lospec.com/palette-list/midnites-pastel-57"
     },
     "midnites-light-pastel": {
@@ -32438,7 +32504,7 @@
             "pretty"
         ],
         "createdAt": "2019-10-24T13:43:16.113Z",
-        "authorName": "Midnite\ud83c\udfa8\ud83c\udfae",
+        "authorName": "Midnitepixel_",
         "url": "https://lospec.com/palette-list/midnites-light-pastel"
     },
     "zaebucca-forest-8": {
@@ -37123,7 +37189,7 @@
     },
     "minecraft-64": {
         "title": "Minecraft 64",
-        "description": "Created by <a target=\"_blank\" href=\"https://moths-pixels.tumblr.com/\">Sunset Moth</a> from early minecraft textures.",
+        "description": "A sample of the colors that early Minecraft textures used. Intended to be used in the way a palette of paints would be, mixing colors to get the needed shades, rather than a restrictive hardware palette such as that of the NES, but it works either way.",
         "colors": [
             "a53618",
             "bf4917",
@@ -37191,7 +37257,7 @@
             "6d2aa7"
         ],
         "tags": [
-            "artist",
+            "minecraft",
             "sunsetmoth"
         ],
         "createdAt": "2018-12-04T16:08:08.134Z",
