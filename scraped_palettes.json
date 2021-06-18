@@ -1,4 +1,48 @@
 {
+    "overpast": {
+        "title": "Overpast",
+        "description": "Created by sampling a this image of a crossstich LoZ:LttP overworld map (then heavily tweaking), with some help from Poltergasm.",
+        "colors": [
+            "191919",
+            "c4d4c2",
+            "a2b4a8",
+            "7f9381",
+            "5e7167",
+            "3d504e",
+            "1c2d39",
+            "194774",
+            "2361a9",
+            "3698b6",
+            "7ab1ae",
+            "162f24",
+            "204628",
+            "206d33",
+            "54842a",
+            "949e3f",
+            "cdb473",
+            "b3913d",
+            "98742b",
+            "7e4c27",
+            "5a3021",
+            "421e1e",
+            "792426",
+            "a04339",
+            "c26f49",
+            "d2985c",
+            "63304b",
+            "87466b",
+            "af6069",
+            "ce8877"
+        ],
+        "tags": [
+            "artist",
+            "desaturated",
+            "skeddles"
+        ],
+        "createdAt": "2021-05-30T17:45:42.509Z",
+        "authorName": "skeddles",
+        "url": "https://lospec.com/palette-list/overpast"
+    },
     "cyber-ping-pong": {
         "title": "cyber ping pong",
         "description": "kind of an icy palette, a variation of leopold's dreams",
@@ -6425,7 +6469,7 @@
             "froeu"
         ],
         "createdAt": "2020-12-27T00:17:21.939Z",
-        "authorName": "froeu",
+        "authorName": "finn",
         "url": "https://lospec.com/palette-list/kyu"
     },
     "diamond-gold": {
@@ -6604,7 +6648,7 @@
             "hueshift"
         ],
         "createdAt": "2021-02-14T23:25:16.229Z",
-        "authorName": "froeu",
+        "authorName": "finn",
         "url": "https://lospec.com/palette-list/dead-flowers"
     },
     "keeby": {
@@ -9670,7 +9714,7 @@
             "gameboy"
         ],
         "createdAt": "2021-01-21T03:20:38.555Z",
-        "authorName": "froeu",
+        "authorName": "finn",
         "url": "https://lospec.com/palette-list/gum-gameboy"
     },
     "that-one-tacobell-table": {
@@ -11395,7 +11439,7 @@
     },
     "discord-squares": {
         "title": "Discord Squares",
-        "description": "The range of colours of emoticon square found in the emoji library of popular text-voice-and-video-chat and digital distrubution platform \"Discord.\"(This palette represents the colours of Discord's basic-square icons, not the entire library of icons available by default.)Discovered with\u00a0<a href=\"https://twitter.com/Haboocas\" target=\"_blank\">Haboo</a>, who suggested the name \"DISCO-9\" after I had submitted this palette which is a shame because that is a much better name. :1<a href=\"https://twitter.com/search?q=%23disco9\" target=\"_blank\">Also find it under #DISCO9 on Twitter!</a>",
+        "description": "The range of colours of emoticon square found in the emoji library of popular text-voice-and-video-chat and digital distrubution platform \"Discord.\" (This palette represents the colours of Discord's basic-square icons, not the entire library of icons available by default.)Discovered with\u00a0Haboo, who suggested the name \"DISCO-9\" after I had submitted this palette which is a shame because that is a much better name. :1\u00a0Also find it under #DISCO9 on Twitter!",
         "colors": [
             "31373d",
             "dd2e44",
@@ -11413,7 +11457,10 @@
             "discordsquares",
             "emoji",
             "emoticon",
-            "practicaljoke"
+            "glacier",
+            "haboo",
+            "practicaljoke",
+            "windfallapples"
         ],
         "createdAt": "2021-01-16T00:04:29.315Z",
         "authorName": "windfallapples (glacier)",
@@ -11630,7 +11677,7 @@
             "froeu"
         ],
         "createdAt": "2021-01-20T04:43:50.572Z",
-        "authorName": "froeu",
+        "authorName": "finn",
         "url": "https://lospec.com/palette-list/sadness"
     },
     "maurice": {
@@ -11647,7 +11694,7 @@
             "maurice"
         ],
         "createdAt": "2021-01-20T04:49:33.205Z",
-        "authorName": "froeu",
+        "authorName": "finn",
         "url": "https://lospec.com/palette-list/maurice"
     },
     "ludi-25": {
@@ -12025,7 +12072,7 @@
             "purple"
         ],
         "createdAt": "2021-01-10T19:47:29.347Z",
-        "authorName": "froeu",
+        "authorName": "finn",
         "url": "https://lospec.com/palette-list/nebula"
     },
     "lavender-gb": {
@@ -13714,7 +13761,7 @@
             "blue"
         ],
         "createdAt": "2020-12-11T15:09:53.407Z",
-        "authorName": "froeu",
+        "authorName": "finn",
         "url": "https://lospec.com/palette-list/pacific"
     },
     "lf-28": {
