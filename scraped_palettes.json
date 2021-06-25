@@ -1,4 +1,245 @@
 {
+    "starthrall": {
+        "title": "Starthrall",
+        "description": "9 bit, sega megadrive",
+        "colors": [
+            "000000",
+            "d86c90",
+            "6c6cd8",
+            "48d8fc",
+            "006cfc",
+            "0024d8",
+            "4848b4",
+            "009048",
+            "6cb46c",
+            "482400",
+            "b42490",
+            "fc906c",
+            "6c4824",
+            "d8fcfc",
+            "fcd86c",
+            "001997",
+            "0020c1"
+        ],
+        "tags": [],
+        "createdAt": "2021-06-02T22:52:47.083Z",
+        "authorName": "Rail/ slave",
+        "url": "https://lospec.com/palette-list/starthrall"
+    },
+    "dreamhaze8": {
+        "title": "DreamHaze8",
+        "description": "A small palette I made for a minecraft skin never made. Made to calm while also providing a chaotic swingy color range",
+        "colors": [
+            "e8d3df",
+            "d1d0c2",
+            "a6b5ba",
+            "8f968c",
+            "726d7d",
+            "665a5a",
+            "464c4b",
+            "393b33"
+        ],
+        "tags": [
+            "pastel"
+        ],
+        "createdAt": "2021-06-03T19:32:54.739Z",
+        "authorName": "500poundsofnothing",
+        "url": "https://lospec.com/palette-list/dreamhaze8"
+    },
+    "quested-mountain": {
+        "title": "quested mountain",
+        "description": "a larger version of the\u00a0quested-valley\u00a0palette.",
+        "colors": [
+            "000000",
+            "4a2300",
+            "2b2f35",
+            "931800",
+            "b05500",
+            "5b4e7d",
+            "63714f",
+            "e36648",
+            "9c9d49",
+            "a4a3b5",
+            "f4c955",
+            "ffffff"
+        ],
+        "tags": [
+            "polyphorge",
+            "retro"
+        ],
+        "createdAt": "2021-05-31T20:29:43.603Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/quested-mountain"
+    },
+    "origami-clouds": {
+        "title": "Origami Clouds",
+        "description": "",
+        "colors": [
+            "dee3e2",
+            "fccbcb",
+            "78b3d6",
+            "d86969",
+            "4f7969"
+        ],
+        "tags": [
+            "blue",
+            "clouds",
+            "green",
+            "japanese",
+            "paper",
+            "pink"
+        ],
+        "createdAt": "2021-04-29T18:26:56.987Z",
+        "authorName": "TheArtisan",
+        "url": "https://lospec.com/palette-list/origami-clouds"
+    },
+    "hazy-glow": {
+        "title": "Hazy Glow",
+        "description": "A palette intended for those neon lights drowning in fog, you can use it for whatever you want though. This is my first palette, and as such will not be the best.",
+        "colors": [
+            "fffdc9",
+            "3992e6",
+            "295acc",
+            "2037c1",
+            "1a219c",
+            "0d106c",
+            "060840",
+            "d059ff",
+            "9c2ee6",
+            "7120c1",
+            "40199f",
+            "251377",
+            "e6ba5c",
+            "cc933d",
+            "b36234",
+            "99352e",
+            "66222d",
+            "330d0f",
+            "b0d27c",
+            "82c120",
+            "1eae42",
+            "137741",
+            "074f30",
+            "012820",
+            "0e0522"
+        ],
+        "tags": [
+            "foggy",
+            "glow",
+            "hazy",
+            "neon"
+        ],
+        "createdAt": "2021-05-24T22:58:08.586Z",
+        "authorName": "PixelDud",
+        "url": "https://lospec.com/palette-list/hazy-glow"
+    },
+    "mroning": {
+        "title": "Mroning",
+        "description": "",
+        "colors": [
+            "302626",
+            "5d5d75",
+            "608f82",
+            "cccba3"
+        ],
+        "tags": [
+            "2bit",
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "createdAt": "2021-05-17T19:48:10.020Z",
+        "authorName": "Jibs Jerky",
+        "url": "https://lospec.com/palette-list/mroning"
+    },
+    "shido-50x": {
+        "title": "SHIDO 50X",
+        "description": "SHIDO50X The successor to shido 50. A pallet created with eye pleasing colors and to have as many options with a 50 color limit while keeping balance with tones for a pallet just for you and you also better be prepared to witness a whole new world of color.\u00a0",
+        "colors": [
+            "fafafa",
+            "ced7db",
+            "a8b0bb",
+            "838799",
+            "616278",
+            "4b475e",
+            "312547",
+            "010001",
+            "032b34",
+            "024c43",
+            "18724f",
+            "299746",
+            "71d05c",
+            "c4ff72",
+            "329c70",
+            "6dcd97",
+            "acfac1",
+            "481926",
+            "692a30",
+            "8b433b",
+            "b06550",
+            "d28e6d",
+            "e9bd98",
+            "db9464",
+            "ffd17b",
+            "864141",
+            "ac5f5f",
+            "d78a7f",
+            "ffbda4",
+            "480027",
+            "700a3a",
+            "921c3d",
+            "b63442",
+            "db5859",
+            "ff907f",
+            "b6413b",
+            "db735c",
+            "ffac89",
+            "351550",
+            "5d1a6b",
+            "862d78",
+            "b24c90",
+            "d97ba6",
+            "ffbccd",
+            "181c5a",
+            "13367d",
+            "205799",
+            "2c89b3",
+            "41bfd0",
+            "79faeb"
+        ],
+        "tags": [
+            "shido",
+            "shido50",
+            "shido50x"
+        ],
+        "createdAt": "2021-05-18T09:02:57.013Z",
+        "authorName": "Shidoengie",
+        "url": "https://lospec.com/palette-list/shido-50x"
+    },
+    "painted-parchment-9": {
+        "title": "Painted Parchment 9",
+        "description": "Inspired by art by Adam Rufino. Perhaps could be expanded.",
+        "colors": [
+            "dda963",
+            "c9814b",
+            "25272a",
+            "dbc1af",
+            "cf6a4f",
+            "e0b94a",
+            "b2af5c",
+            "a7a79e",
+            "9b6970"
+        ],
+        "tags": [
+            "artist",
+            "paper",
+            "pastel",
+            "skeddles"
+        ],
+        "createdAt": "2021-05-30T18:36:46.605Z",
+        "authorName": "skeddles",
+        "url": "https://lospec.com/palette-list/painted-parchment-9"
+    },
     "overpast": {
         "title": "Overpast",
         "description": "Created by sampling a this image of a crossstich LoZ:LttP overworld map (then heavily tweaking), with some help from Poltergasm.",
