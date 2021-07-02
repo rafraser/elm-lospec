@@ -1,4 +1,91 @@
 {
+    "triple-fin": {
+        "title": "Triple Fin",
+        "description": "Pallette based on the Finsexuality pride flag, with an additional burgundy.",
+        "colors": [
+            "ffcfb9",
+            "ffaec9",
+            "fe5ba9",
+            "b01550"
+        ],
+        "tags": [
+            "burgundy",
+            "fin",
+            "finic",
+            "finsexual",
+            "orange",
+            "pink",
+            "pride"
+        ],
+        "createdAt": "2021-06-18T13:32:20.818Z",
+        "authorName": "Phanpy100",
+        "url": "https://lospec.com/palette-list/triple-fin"
+    },
+    "snail-village": {
+        "title": "Snail Village",
+        "description": "A 6 color palette I've used to draw a big snail with a village on top of its shell. I've been told the desaturated yellow and green, coupled with a purple accent, feel quite nostalgic.",
+        "colors": [
+            "323c39",
+            "524b24",
+            "7d5563",
+            "917a46",
+            "a3ad54",
+            "99e550"
+        ],
+        "tags": [
+            "6colors",
+            "dark",
+            "desaturated",
+            "nostalgic",
+            "retro",
+            "snail"
+        ],
+        "createdAt": "2021-06-19T18:00:02.228Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/snail-village"
+    },
+    "oxygen-16": {
+        "title": "Oxygen 16",
+        "description": "A simple 16 colour palette - bright and versatile.",
+        "colors": [
+            "f9fff2",
+            "f5d678",
+            "6be0bf",
+            "bab197",
+            "96d45b",
+            "f56c77",
+            "e0864a",
+            "59909e",
+            "579460",
+            "9e4891",
+            "6e6660",
+            "505273",
+            "ab3737",
+            "693c36",
+            "3a363d",
+            "202026"
+        ],
+        "tags": [],
+        "createdAt": "2021-06-17T04:41:34.834Z",
+        "authorName": "Tellurium _",
+        "url": "https://lospec.com/palette-list/oxygen-16"
+    },
+    "coldgb": {
+        "title": "ColdGB",
+        "description": "My first attempt at a gameboy palette, with intense hue shifting through the cool color range",
+        "colors": [
+            "220022",
+            "334455",
+            "779988",
+            "ffffdd"
+        ],
+        "tags": [
+            "gameboy"
+        ],
+        "createdAt": "2021-06-07T01:39:03.114Z",
+        "authorName": "A.J. Otero",
+        "url": "https://lospec.com/palette-list/coldgb"
+    },
     "starthrall": {
         "title": "Starthrall",
         "description": "9 bit, sega megadrive",
@@ -1774,7 +1861,7 @@
         ],
         "tags": [],
         "createdAt": "2021-05-11T18:45:57.938Z",
-        "authorName": "Hunter Ruiz 543-Lospec",
+        "authorName": "RuzziHuntuu",
         "url": "https://lospec.com/palette-list/evening32"
     },
     "blue-monochrome-lcd": {
@@ -3596,7 +3683,7 @@
             "fdfff2"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2021-04-11T16:29:03.949Z",
         "authorName": "Isa",
@@ -4154,7 +4241,7 @@
             "hardware"
         ],
         "createdAt": "2020-10-15T01:31:35.704Z",
-        "authorName": "HunterRuizFan543",
+        "authorName": "RuzziOther",
         "url": "https://lospec.com/palette-list/super-cassette-vision"
     },
     "vocodes-62": {
@@ -4228,7 +4315,7 @@
             "texttospeech"
         ],
         "createdAt": "2020-10-22T19:01:02.686Z",
-        "authorName": "HunterRuizFan543",
+        "authorName": "RuzziOther",
         "url": "https://lospec.com/palette-list/vocodes-62"
     },
     "bumble-bee": {
@@ -5384,7 +5471,7 @@
         ],
         "tags": [
             "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2021-03-21T22:52:35.315Z",
         "authorName": "Isa",
@@ -6355,7 +6442,7 @@
         ],
         "tags": [],
         "createdAt": "2020-12-02T12:23:46.489Z",
-        "authorName": "HunterRuizFan543",
+        "authorName": "RuzziOther",
         "url": "https://lospec.com/palette-list/winterfes-16"
     },
     "nyankos16": {
@@ -6591,7 +6678,7 @@
             "vmu"
         ],
         "createdAt": "2020-11-27T17:54:35.508Z",
-        "authorName": "HunterRuizFan543",
+        "authorName": "RuzziOther",
         "url": "https://lospec.com/palette-list/sega-dc-vmu-4"
     },
     "energy7": {
@@ -8272,7 +8359,7 @@
         "tags": [
             "collaboration",
             "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2021-02-28T22:54:32.626Z",
         "authorName": "Isa",
@@ -10721,7 +10808,7 @@
             "vibrant"
         ],
         "createdAt": "2021-02-01T01:17:03.804Z",
-        "authorName": "Hunter Ruiz 543-Lospec",
+        "authorName": "RuzziHuntuu",
         "url": "https://lospec.com/palette-list/hunter-ruiz-master"
     },
     "reverie38": {
@@ -11110,7 +11197,7 @@
             "martin lambie nairn"
         ],
         "createdAt": "2021-01-11T13:07:28.751Z",
-        "authorName": "Hunter Ruiz 543-Lospec",
+        "authorName": "RuzziHuntuu",
         "url": "https://lospec.com/palette-list/channel-4-1982-cgi"
     },
     "16dan": {
@@ -13278,7 +13365,7 @@
     },
     "colodore-vic-64": {
         "title": "Colodore VIC-64",
-        "description": "A 16 colour mixture of the\u00a0<a href=\"https://lospec.com/palette-list/colodore\" target=\"_blank\">Colodore</a>,\u00a0<a href=\"https://lospec.com/palette-list/commodore-vic-20\" target=\"_blank\">Commodore VIC-20</a>\u00a0and\u00a0<a href=\"https://lospec.com/palette-list/commodore64\" target=\"_blank\">Commodore 64</a>\u00a0palettes",
+        "description": "A 16 colour mixture of the\u00a0Colodore,\u00a0Commodore VIC-20\u00a0and\u00a0Commodore 64\u00a0palettes",
         "colors": [
             "813338",
             "e9b287",
@@ -13299,7 +13386,7 @@
         ],
         "tags": [
             "commodore",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-12-21T21:14:00.764Z",
         "authorName": "Isa",
@@ -14397,7 +14484,7 @@
         ],
         "tags": [],
         "createdAt": "2020-11-24T20:39:08.930Z",
-        "authorName": "HunterRuizFan543",
+        "authorName": "RuzziOther",
         "url": "https://lospec.com/palette-list/mega-20"
     },
     "isla-negra": {
@@ -14831,7 +14918,7 @@
     },
     "mappletosh-16": {
         "title": "Mappletosh 16",
-        "description": "A combination of\u00a0<a href=\"https://lospec.com/palette-list/macintosh-ii\" target=\"_blank\">Macintosh II</a>\u00a0and\u00a0<a href=\"https://lospec.com/palette-list/apple-ii\" target=\"_blank\">Apple II</a>",
+        "description": "A combination of\u00a0Macintosh II\u00a0and\u00a0Apple II",
         "colors": [
             "dc0000",
             "ea7d27",
@@ -14854,7 +14941,7 @@
             "apple",
             "computer",
             "hardware",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-11-29T01:49:54.865Z",
         "authorName": "Isa",
@@ -16189,7 +16276,7 @@
             "071a11"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-11-09T01:48:33.545Z",
         "authorName": "Isa",
@@ -16211,7 +16298,7 @@
             "2f2e33"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-11-01T20:27:40.488Z",
         "authorName": "Isa",
@@ -16299,7 +16386,7 @@
     },
     "thanksmas-16": {
         "title": "Thanksmas 16",
-        "description": "A <strike>Christmas</strike>\u00a0palette collab organized by the Lospec Discord. Contributors: Me, Grunion, KingAsbestos, KingW, Sk3ll, Pongles, fydo and Charm",
+        "description": "A Christmas\u00a0palette collab organized by the Lospec Discord. Contributors: Me, Grunion, KingAsbestos, KingW, Sk3ll, Pongles, fydo and Charm",
         "colors": [
             "341d6d",
             "000001",
@@ -16320,7 +16407,7 @@
         ],
         "tags": [
             "collaboration",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-11-08T14:54:34.053Z",
         "authorName": "Isa",
@@ -16445,7 +16532,7 @@
         ],
         "tags": [
             "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-11-03T23:30:28.341Z",
         "authorName": "Isa",
@@ -16804,7 +16891,7 @@
             "f53a43"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-10-25T23:30:04.143Z",
         "authorName": "Isa",
@@ -17046,9 +17133,7 @@
             "2a1c1e"
         ],
         "tags": [
-            "2bit",
-            "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-10-24T12:59:40.630Z",
         "authorName": "Isa",
@@ -17147,7 +17232,7 @@
     },
     "deep-16": {
         "title": "Deep 16",
-        "description": "Based off the\u00a0<a href=\"https://lospec.com/palette-list/deep-forest\" target=\"_blank\">Deep Forest</a>\u00a0and\u00a0<a href=\"https://lospec.com/palette-list/deep-forest-24\" target=\"_blank\">Deep Forest 24</a>\u00a0palettes by: ShinyTseul",
+        "description": "Based off the\u00a0Deep Forest\u00a0and\u00a0Deep Forest 24\u00a0palettes by ShinyTseul",
         "colors": [
             "f5f5d9",
             "d9c68d",
@@ -17167,7 +17252,7 @@
             "0d0814"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-10-19T21:35:38.848Z",
         "authorName": "Isa",
@@ -17480,7 +17565,7 @@
             "e8fffb"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-10-12T14:15:23.333Z",
         "authorName": "Isa",
@@ -17552,7 +17637,7 @@
         "tags": [
             "2bit",
             "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-10-12T00:17:22.510Z",
         "authorName": "Isa",
@@ -17683,7 +17768,7 @@
             "9dba6c"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-09-25T23:29:17.317Z",
         "authorName": "Isa",
@@ -17792,7 +17877,7 @@
             "ffffff"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-09-20T02:33:42.834Z",
         "authorName": "Isa",
@@ -18307,7 +18392,7 @@
         "tags": [
             "2bit",
             "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-09-09T18:33:48.686Z",
         "authorName": "Isa",
@@ -18315,7 +18400,7 @@
     },
     "hellfire-gb": {
         "title": "Hellfire GB",
-        "description": "A firey Gameboy palette\u00a0<img class=\"emoji p16\" src=\"/emoji/lospec-discord/cool.png\" />\u00a0",
+        "description": "A lit Gameboy palette\u00a0\u00a0",
         "colors": [
             "52243e",
             "ab2e56",
@@ -18325,7 +18410,7 @@
         "tags": [
             "2bit",
             "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-09-09T18:35:23.810Z",
         "authorName": "Isa",
@@ -18345,7 +18430,7 @@
             "23574d"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-09-13T17:40:01.019Z",
         "authorName": "Isa",
@@ -18565,7 +18650,7 @@
         "tags": [
             "2bit",
             "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-09-09T18:37:12.391Z",
         "authorName": "Isa",
@@ -18648,7 +18733,8 @@
             "b8a7b9"
         ],
         "tags": [
-            "collaboration"
+            "collaboration",
+            "isasstudio"
         ],
         "createdAt": "2020-09-06T12:53:54.070Z",
         "authorName": "Isa",
@@ -18915,7 +19001,7 @@
             "c8765c"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-09-03T16:26:43.411Z",
         "authorName": "Isa",
@@ -19089,7 +19175,7 @@
     },
     "a-sweet-revamp": {
         "title": "A Sweet Revamp",
-        "description": "My own little revamp of\u00a0<a href=\"https://lospec.com/palette-list/sweetie-16\" target=\"_blank\">Sweetie 16</a>",
+        "description": "My own little revamp of\u00a0Sweetie 16",
         "colors": [
             "f8ffd7",
             "ffd270",
@@ -19115,7 +19201,7 @@
             "0b0d19"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-08-31T11:35:00.418Z",
         "authorName": "Isa",
@@ -19300,7 +19386,7 @@
     },
     "gold-gb": {
         "title": "Gold GB",
-        "description": "2nd gameboy palette... If you want, you can make it into a 6 colour palette by adding #ffffff and #000000!\u00a0<img class=\"emoji p16\" src=\"/emoji/lospec-discord/ah.png\" />\u00a0",
+        "description": "2nd gameboy palette... If you want, you can make it into a 6 colour palette by adding #ffffff and #000000!\u00a0\u00a0",
         "colors": [
             "210b1b",
             "4d222c",
@@ -19310,7 +19396,7 @@
         "tags": [
             "gameboy",
             "gold",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-08-30T13:53:10.081Z",
         "authorName": "Isa",
@@ -19584,7 +19670,7 @@
     },
     "isas-limited-ramps": {
         "title": "Isa's Limited Ramps",
-        "description": "7 ramps, each with 4 colours and black &amp; white!\u00a0<img class=\"emoji p16\" src=\"/emoji/lospec-discord/cool.png\" />\u00a0",
+        "description": "7 ramps, each with 4 colours and black &amp; white!\u00a0\u00a0",
         "colors": [
             "ffffd5",
             "f7e952",
@@ -19616,7 +19702,7 @@
             "150d20"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-08-19T14:48:36.063Z",
         "authorName": "Isa",
@@ -19748,8 +19834,7 @@
             "69dbf5"
         ],
         "tags": [
-            "isagamerstudios",
-            "smooth"
+            "isasstudio"
         ],
         "createdAt": "2020-08-12T12:51:08.637Z",
         "authorName": "Isa",
@@ -19866,7 +19951,7 @@
             "383e51"
         ],
         "tags": [
-            "isagamerstudios",
+            "isasstudio",
             "smooth"
         ],
         "createdAt": "2020-07-08T19:03:52.772Z",
@@ -20043,7 +20128,7 @@
     },
     "ocean-gb": {
         "title": "Ocean GB",
-        "description": "My first Gameboy Palette!\u00a0<img class=\"emoji p16\" src=\"/emoji/lospec-discord/proud.png\" />\u00a0",
+        "description": "My first Gameboy Palette!\u00a0\u00a0",
         "colors": [
             "1c1530",
             "2a308b",
@@ -20051,9 +20136,7 @@
             "8de2f6"
         ],
         "tags": [
-            "2bit",
-            "gameboy",
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-08-08T23:12:02.930Z",
         "authorName": "Isa",
@@ -20979,7 +21062,7 @@
             "000000"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-07-22T20:52:52.825Z",
         "authorName": "Isa",
@@ -21561,7 +21644,7 @@
             "90f1f8"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-07-24T20:24:58.306Z",
         "authorName": "Isa",
@@ -21649,7 +21732,7 @@
             "ffffee"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-07-09T16:34:05.767Z",
         "authorName": "Isa",
@@ -21737,7 +21820,7 @@
             "ffbf93"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-07-16T18:53:40.328Z",
         "authorName": "Isa",
@@ -21916,7 +21999,7 @@
             "404e60"
         ],
         "tags": [
-            "isagamerstudios",
+            "isasstudio",
             "smooth"
         ],
         "createdAt": "2020-07-10T23:18:20.036Z",
@@ -21945,7 +22028,7 @@
             "ffcc9d"
         ],
         "tags": [
-            "isagamerstudios",
+            "isasstudio",
             "smooth"
         ],
         "createdAt": "2020-07-10T17:55:17.238Z",
@@ -22756,7 +22839,7 @@
             "3a0121"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-06-23T18:48:02.637Z",
         "authorName": "Isa",
@@ -24849,7 +24932,7 @@
             "cadbe8"
         ],
         "tags": [
-            "isagamerstudios"
+            "isasstudio"
         ],
         "createdAt": "2020-05-07T21:47:39.148Z",
         "authorName": "Isa",
