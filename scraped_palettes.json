@@ -1,7 +1,597 @@
 {
+    "hyperchill-10": {
+        "title": "HYPERCHILL-10",
+        "description": "A palette for lofi, snythwave and chill things",
+        "colors": [
+            "ffb845",
+            "fb7974",
+            "f97698",
+            "ce5f9f",
+            "a348a6",
+            "8549ad",
+            "674ab3",
+            "556dc8",
+            "6783db",
+            "7998ee"
+        ],
+        "tags": [
+            "10",
+            "chill",
+            "lofi",
+            "snythwave",
+            "vibe"
+        ],
+        "createdAt": "2021-07-06T07:17:29.202Z",
+        "authorName": "TheEvilGoat",
+        "url": "https://lospec.com/palette-list/hyperchill-10"
+    },
+    "lego-colors-pearl": {
+        "title": "Lego Colors (Pearl)",
+        "description": "From Ryan Howerter's Lego color list http://ryanhowerter.net/colors.php (only the pearl colors)",
+        "colors": [
+            "deac66",
+            "a0a0a0",
+            "764d3b",
+            "5b7590",
+            "817590",
+            "83724f",
+            "484d48",
+            "0a1327",
+            "989b99",
+            "60564c",
+            "945148",
+            "ab673a",
+            "737271",
+            "f6f2df",
+            "d60026",
+            "0059a3",
+            "008e3c",
+            "57392c",
+            "ac8247",
+            "6a7944",
+            "adadad",
+            "aa7f2e",
+            "8c8c8c",
+            "3e3c39"
+        ],
+        "tags": [
+            "howerter",
+            "ldd",
+            "pearl",
+            "ryan"
+        ],
+        "createdAt": "2021-07-06T18:58:21.086Z",
+        "authorName": "Jasper Speelman",
+        "url": "https://lospec.com/palette-list/lego-colors-pearl"
+    },
+    "lego-colors-solid": {
+        "title": "Lego Colors (Solid)",
+        "description": "From Ryan Howerter's Lego color list http://ryanhowerter.net/colors.php (only the solid colors)",
+        "colors": [
+            "f4f4f4",
+            "8a928d",
+            "ffd67f",
+            "f2705e",
+            "b0a06f",
+            "add9a8",
+            "ff8500",
+            "8c00ff",
+            "f6a9bb",
+            "abd9ff",
+            "d86d2c",
+            "ff8014",
+            "78fc78",
+            "fff230",
+            "ff879c",
+            "ff9494",
+            "bb805a",
+            "cf8a47",
+            "b40000",
+            "d05098",
+            "1e5aa8",
+            "fac80a",
+            "543324",
+            "1b2a34",
+            "545955",
+            "00852b",
+            "7fc475",
+            "fdc383",
+            "58ab41",
+            "91501c",
+            "afbed6",
+            "97cbd9",
+            "f9b7a5",
+            "f06d61",
+            "7396c8",
+            "bcb4a5",
+            "671fa1",
+            "f58624",
+            "d67923",
+            "069d9f",
+            "56472f",
+            "26469a",
+            "4861ac",
+            "b7d425",
+            "00aaa4",
+            "9cd6cc",
+            "a5ca18",
+            "deea92",
+            "f89a39",
+            "ee5434",
+            "901f76",
+            "f9a777",
+            "ad6140",
+            "ef5828",
+            "cddd34",
+            "70819a",
+            "75657d",
+            "f48147",
+            "897d62",
+            "19325a",
+            "00451a",
+            "708e7c",
+            "88605e",
+            "720012",
+            "dd982e",
+            "009ece",
+            "ffcf0b",
+            "fcac00",
+            "5f3109",
+            "ec441d",
+            "969696",
+            "1c58a7",
+            "0e3e9a",
+            "312b87",
+            "8a12a8",
+            "646464",
+            "c8c8c8",
+            "a47624",
+            "468a5f",
+            "3fb6a9",
+            "9dc3f7",
+            "476fb6",
+            "872b17",
+            "7b5d41",
+            "8e5597",
+            "564e9d",
+            "9195ca",
+            "d3359d",
+            "ff9ecd",
+            "f17880",
+            "f3c988",
+            "faa964",
+            "ffec6c",
+            "77c9d8",
+            "60ba76",
+            "441a91",
+            "3e95b6",
+            "ffc995",
+            "372100",
+            "aa7d55",
+            "469bc3",
+            "68c3e2",
+            "d3f2ea",
+            "a06eb9",
+            "cda4de",
+            "e2f99a",
+            "77774e",
+            "ff6d77"
+        ],
+        "tags": [
+            "howerter",
+            "ldd",
+            "lego",
+            "ryan",
+            "solid"
+        ],
+        "createdAt": "2021-07-06T17:08:57.303Z",
+        "authorName": "Jasper Speelman",
+        "url": "https://lospec.com/palette-list/lego-colors-solid"
+    },
+    "optimized-grayscale-4": {
+        "title": "Optimized Grayscale 4",
+        "description": "These are the most optimized 4 colors to represent grayscale graphics.",
+        "colors": [
+            "dfdfdf",
+            "9f9f9f",
+            "606060",
+            "202020"
+        ],
+        "tags": [
+            "2bit",
+            "4",
+            "4colors",
+            "calculated",
+            "gray",
+            "grayscale",
+            "monochrome",
+            "monoramp"
+        ],
+        "createdAt": "2021-07-07T23:46:11.765Z",
+        "authorName": "Yousurname",
+        "url": "https://lospec.com/palette-list/optimized-grayscale-4"
+    },
+    "1-bit-pepper": {
+        "title": "1 Bit - Pepper",
+        "description": "Easy to use 1 bit pallete based on warm tones for different moods, even when working 1 bit!",
+        "colors": [
+            "100101",
+            "ebb5b5"
+        ],
+        "tags": [
+            "1bit",
+            "pepper",
+            "red",
+            "warm"
+        ],
+        "createdAt": "2021-07-22T19:13:13.005Z",
+        "authorName": "Waldo San",
+        "url": "https://lospec.com/palette-list/1-bit-pepper"
+    },
+    "mac-paint": {
+        "title": "Mac Paint",
+        "description": "Sampled from a genuine Apple Macintosh CRT in 2021, it uses the light blue and faded black to carry 1bit art in the closest you can get to looking at an Apple Macintosh screen's colours without sitting in front of one. Take note that the colours are sampled from a daylight photograph of actual hardware then manually adjusted to best match the image, and is thus a representation of how the art displays as opposed to how it's recorded in software (which definitely would've been true black or white). Anyone has permission to use this palette for any purpose.",
+        "colors": [
+            "8bc8fe",
+            "051b2c"
+        ],
+        "tags": [
+            "1bit",
+            "applemac",
+            "blue",
+            "hardware",
+            "lowspecification",
+            "macintosh",
+            "simple"
+        ],
+        "createdAt": "2021-07-22T12:42:15.297Z",
+        "authorName": "Polyducks",
+        "url": "https://lospec.com/palette-list/mac-paint"
+    },
+    "neonscape": {
+        "title": "neonscape",
+        "description": "neon pallete i guess",
+        "colors": [
+            "fe1951",
+            "0dfaa3",
+            "ffc144",
+            "06062c",
+            "0b294b"
+        ],
+        "tags": [
+            "neon"
+        ],
+        "createdAt": "2021-07-13T11:19:55.479Z",
+        "authorName": "Caps",
+        "url": "https://lospec.com/palette-list/neonscape"
+    },
+    "vosp": {
+        "title": "V.O.S.P ",
+        "description": "V.O.S.P stands for Vibrant ocean summer pallete.",
+        "colors": [
+            "c22d4b",
+            "e45042",
+            "e35e3d",
+            "f09469",
+            "17233d",
+            "224168",
+            "67b6d0",
+            "45b3bf",
+            "67dcf0",
+            "7af0ee",
+            "bdece9",
+            "609884",
+            "79bc92",
+            "65c7ab",
+            "ace3c8",
+            "23988e"
+        ],
+        "tags": [
+            "ocean",
+            "summer",
+            "vibrant"
+        ],
+        "createdAt": "2021-07-18T14:08:02.457Z",
+        "authorName": "Kyubo",
+        "url": "https://lospec.com/palette-list/vosp"
+    },
+    "game-watch-gb": {
+        "title": "Game & Watch GB",
+        "description": "Based on the classic Game &amp; Watch line of systems.",
+        "colors": [
+            "06160f",
+            "535b4e",
+            "b0b3a6",
+            "efeee8"
+        ],
+        "tags": [
+            "2bit",
+            "gameandwatch",
+            "gameboy",
+            "gb",
+            "mrgameandwatch",
+            "smashbros",
+            "supersmashbros"
+        ],
+        "createdAt": "2021-07-21T21:23:08.992Z",
+        "authorName": "MINTY",
+        "url": "https://lospec.com/palette-list/game-watch-gb"
+    },
+    "virtual-sky": {
+        "title": "virtual sky",
+        "description": "This was originally a 4 colour palette but I added an extra colour to make a smoother ramp with a retro aesthetic or virtual vibe",
+        "colors": [
+            "3f3f3f",
+            "3e7b7a",
+            "9ba2c8",
+            "f1b8de",
+            "ffffff"
+        ],
+        "tags": [
+            "retro"
+        ],
+        "createdAt": "2021-07-22T10:38:28.214Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/virtual-sky"
+    },
+    "super-colorful-3": {
+        "title": "Super Colorful 3",
+        "description": "Super Colorful 3 is inspired in Super Mario Bros 3 palette, I hope you enjoy it.",
+        "colors": [
+            "ff533f",
+            "ee1841",
+            "a51140",
+            "1c0911",
+            "bd382b",
+            "faaa39",
+            "ffe86b",
+            "c9de3e",
+            "62b824",
+            "277b30",
+            "091321",
+            "2c5071",
+            "1b84c2",
+            "56cfde",
+            "fff3db",
+            "aaa4a5",
+            "5e595e",
+            "18161c",
+            "5f5fec",
+            "7993f6",
+            "f65699",
+            "ff8b97"
+        ],
+        "tags": [
+            "colorful",
+            "nes"
+        ],
+        "createdAt": "2021-07-14T17:06:10.691Z",
+        "authorName": "Miko",
+        "url": "https://lospec.com/palette-list/super-colorful-3"
+    },
+    "marumaru-gum": {
+        "title": "marumaru gum",
+        "description": "a cute pastel palette, tweaked from Sadakiyo5\u00a0",
+        "colors": [
+            "fda9a9",
+            "f3eded",
+            "b9eedc",
+            "96beb1",
+            "82939b"
+        ],
+        "tags": [
+            "bubblegum",
+            "cute",
+            "kawaii",
+            "pastel",
+            "pink"
+        ],
+        "createdAt": "2021-07-16T20:20:56.153Z",
+        "authorName": "sukinapan",
+        "url": "https://lospec.com/palette-list/marumaru-gum"
+    },
+    "shido-10": {
+        "title": "Shido 10",
+        "description": "An extremely tweaked pallet to get as much ramps out of the 10 colors\u00a0",
+        "colors": [
+            "000000",
+            "58122b",
+            "af4040",
+            "faa174",
+            "ffc783",
+            "359097",
+            "22337d",
+            "88aec0",
+            "c4fff0",
+            "f7f7f7"
+        ],
+        "tags": [
+            "10",
+            "shido",
+            "shido10"
+        ],
+        "createdAt": "2021-07-17T00:41:05.159Z",
+        "authorName": "Shidoengie",
+        "url": "https://lospec.com/palette-list/shido-10"
+    },
+    "brazil-flag": {
+        "title": "Brazil Flag++",
+        "description": "brazil flag with black and orange.",
+        "colors": [
+            "272135",
+            "425e9a",
+            "39a441",
+            "de9139",
+            "e6cb47",
+            "e0e8cd"
+        ],
+        "tags": [
+            "6",
+            "br",
+            "brasil",
+            "brazil",
+            "flag",
+            "nored"
+        ],
+        "createdAt": "2021-07-17T21:15:21.232Z",
+        "authorName": "Ep!cO",
+        "url": "https://lospec.com/palette-list/brazil-flag"
+    },
+    "lospec-emoji": {
+        "title": "Lospec Emoji",
+        "description": "Palette created and used by the Lospec Discord emojis. Made to be linear ramps of 2 colors (not meant to be mixed)",
+        "colors": [
+            "000000",
+            "22212e",
+            "454450",
+            "7e8064",
+            "bfbfb9",
+            "97b7d9",
+            "ffffff",
+            "8a251a",
+            "b6703d",
+            "be0000",
+            "ff5826",
+            "cc4600",
+            "ffae00",
+            "098f26",
+            "96c615",
+            "1667c4",
+            "00a7df",
+            "6a2076",
+            "9521e6",
+            "ac316d",
+            "db5fac"
+        ],
+        "tags": [
+            "linear",
+            "lospec"
+        ],
+        "createdAt": "2021-07-19T19:18:39.720Z",
+        "authorName": "skeddles",
+        "url": "https://lospec.com/palette-list/lospec-emoji"
+    },
+    "shadow-4": {
+        "title": "Shadow-4",
+        "description": "A dark spooky 4 color themed palate.",
+        "colors": [
+            "1b1114",
+            "30091c",
+            "d36020",
+            "f0a42c"
+        ],
+        "tags": [],
+        "createdAt": "2021-06-30T18:58:20.858Z",
+        "authorName": "Sans 7657",
+        "url": "https://lospec.com/palette-list/shadow-4"
+    },
+    "oldsummer": {
+        "title": "OLDSUMMER",
+        "description": "",
+        "colors": [
+            "bd956a",
+            "5a655a",
+            "415073",
+            "8b697b",
+            "94384a",
+            "e6d6a4",
+            "6a918b",
+            "8399b4",
+            "9c899c",
+            "de9194"
+        ],
+        "tags": [
+            "love",
+            "retro",
+            "summer",
+            "sun",
+            "warm"
+        ],
+        "createdAt": "2021-07-01T09:50:54.999Z",
+        "authorName": "Eliimperio",
+        "url": "https://lospec.com/palette-list/oldsummer"
+    },
+    "love-puppy": {
+        "title": "Love Puppy",
+        "description": "It's a cute pink palette.\u00a0\u00a0\u00a0",
+        "colors": [
+            "fdd9ff",
+            "f2798d",
+            "851f99",
+            "19004d"
+        ],
+        "tags": [
+            "love",
+            "pink",
+            "valentines"
+        ],
+        "createdAt": "2021-07-01T21:34:10.943Z",
+        "authorName": "Something Fishy",
+        "url": "https://lospec.com/palette-list/love-puppy"
+    },
+    "aerugo": {
+        "title": "Aerugo",
+        "description": "A palette based on pixel art I made last year, with some edits.",
+        "colors": [
+            "2f1e1a",
+            "4f3322",
+            "723627",
+            "95392c",
+            "c75533",
+            "e76d46",
+            "934e28",
+            "a2663c",
+            "c87d40",
+            "f5a95b",
+            "6b8b8c",
+            "81a38e",
+            "aac39e",
+            "ffffff",
+            "d1d0ce",
+            "bab7b2",
+            "898a8a",
+            "686461",
+            "554d4b",
+            "3c3d3b",
+            "343230",
+            "87d1ef",
+            "64a1c2",
+            "466480",
+            "2f485c",
+            "242e35",
+            "1b2026",
+            "aa9c8a",
+            "917f6d",
+            "86624a",
+            "715b48",
+            "5e4835"
+        ],
+        "tags": [
+            "beige",
+            "blue",
+            "brown",
+            "cyan",
+            "gold",
+            "gray",
+            "green",
+            "grey",
+            "limited",
+            "mint",
+            "orange",
+            "pixelart",
+            "red",
+            "silver",
+            "taupe",
+            "teal",
+            "white"
+        ],
+        "createdAt": "2021-07-03T02:56:00.618Z",
+        "authorName": "Lizalot",
+        "url": "https://lospec.com/palette-list/aerugo"
+    },
     "grayfruit8": {
         "title": "Grayfruit8",
-        "description": "Inspired by streamer Grayfruit, Grayfruit8 is a 3-bit palette for funky neon nights, dense nature atmospheres or big industrial settings!",
+        "description": "Inspired by streamer Grayfruit, Grayfruit8 is a 8-color palette for funky neon nights, dense nature atmospheres or big industrial settings!",
         "colors": [
             "000000",
             "ffffff",
@@ -9556,13 +10146,13 @@
     },
     "iron-blues": {
         "title": "Iron Blues",
-        "description": "This is a 1-bit palette inspired by some vintage posters I saw. I used the palette for a game I did not finish and thought it looked pretty cool. So feel free to use it how you want",
+        "description": "This is a 1-bit palette inspired by some vintage posters I saw. I used the palette for a game I did not finish. Feel free to use it how you want",
         "colors": [
             "596e79",
             "e4e8d1"
         ],
         "tags": [
-            "1bit vintage blue"
+            "1bitvintageblue"
         ],
         "createdAt": "2021-03-08T12:38:20.929Z",
         "authorName": "Sumedh Natu",
@@ -10053,7 +10643,7 @@
     },
     "rusty-steam": {
         "title": "Rusty-Steam",
-        "description": "This is a small palette inspired by few colors I saw on colorhunt.co. I thought the colors have a steampunk aesthetic and it works well with pixel-art. If you have made pixel-art using the color palette, you can submit it",
+        "description": "This is a small palette inspired by few colors I saw on\u00a0color-hunt.\u00a0I thought the colors had a steampunk aesthetic and would well with pixel-art. Feel free to use it how you want.",
         "colors": [
             "314e52",
             "f2a154",
@@ -10453,14 +11043,14 @@
     },
     "pastel-india": {
         "title": "Pastel-India",
-        "description": "I made a palette with some pastel-like colors which look like the flag of India{Also Ireland :) }. Feel free to use it for your own pixel art",
+        "description": "I made a pastel version of the colors seen in the Indian [and Irish :)] flag. Feel free to use it how you want\u00a0",
         "colors": [
             "f69e7b",
             "f0ece3",
             "70af85"
         ],
         "tags": [
-            "3 colors",
+            "3colors",
             "pastel"
         ],
         "createdAt": "2021-02-23T13:18:09.721Z",
