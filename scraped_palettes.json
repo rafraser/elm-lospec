@@ -1,4 +1,482 @@
 {
+    "nicole-punk-82": {
+        "title": "Nicole Punk 82",
+        "description": "A relaxing palette that any artist can use, also kinda limited i guess?",
+        "colors": [
+            "faf5d8",
+            "d8ae8b",
+            "21181b",
+            "cd5f2a",
+            "f2ab37"
+        ],
+        "tags": [
+            "brown",
+            "orange"
+        ],
+        "createdAt": "2021-07-29T21:05:44.628Z",
+        "authorName": "RetroPunkZ",
+        "url": "https://lospec.com/palette-list/nicole-punk-82"
+    },
+    "coolpix": {
+        "title": "COOLPIX",
+        "description": "Inspired by google pixel colora",
+        "colors": [
+            "141720",
+            "0a5aa1",
+            "46e0e0",
+            "fff04f",
+            "f14141"
+        ],
+        "tags": [],
+        "createdAt": "2021-06-06T11:47:04.445Z",
+        "authorName": "mrdarip",
+        "url": "https://lospec.com/palette-list/coolpix"
+    },
+    "four-green": {
+        "title": "Four Green",
+        "description": "4 color greens with a shift in hue to yellow. can be versatile if used carefully.",
+        "colors": [
+            "588f3d",
+            "36633d",
+            "293d36",
+            "aabf40"
+        ],
+        "tags": [
+            "4green",
+            "fourgreen",
+            "grass",
+            "greenandyellow",
+            "greenfour",
+            "greens",
+            "onlygreen"
+        ],
+        "createdAt": "2021-06-01T00:39:38.153Z",
+        "authorName": "Kartheek raj",
+        "url": "https://lospec.com/palette-list/four-green"
+    },
+    "fluffy8": {
+        "title": "fluffy8",
+        "description": "cotton candy inspired palette!",
+        "colors": [
+            "933a63",
+            "ff95b1",
+            "ffc4cf",
+            "ffecf0",
+            "d4d5f6",
+            "96b3fd",
+            "7679db",
+            "44387a"
+        ],
+        "tags": [],
+        "createdAt": "2021-07-11T15:38:35.671Z",
+        "authorName": "vee\ud83d\udd2a\ud83d\udc30",
+        "url": "https://lospec.com/palette-list/fluffy8"
+    },
+    "yamazaki": {
+        "title": "Yamazaki",
+        "description": "This palette was sampled and edited from an advertisement for Yamazaki Baking Company, a Japanese company that was founded in 9 March, 1948. In post-World War II Japan, food supplies were dangerously low and the American food aid was Western-centric, supplying them with culturally alien foodstuffs like bread. A holdover from this period is the modern term for sliced white bread, \u98df\u30d1\u30f3 'shokupan', meaning \"bread for eating\" - back then, Japanese people would use it as pencil erasers. In the following years, bread started to be incorporated in the Japanese diet, with the local bakeries opening their businesses; the creation of 'anpan', a sweet roll filled with azuki bean paste, was created to cater to the local preferences, and now several bread and pastry products exist in Japan. It is also worthy to note that during the post-war era, efforts were made to create food that was easy to make and culturally appropriate to Asian palates. This saw the creation of ramen stands, or 'shina-soba' as it was known - noodles in pork broth - that also became an iconic element of the Japanese cuisine. This palette brings memories of this era, with six warm colors that resemble printing from Japanese Showa era - the creamy white matches well with the duotone blue-black and red-pink combo, bringing a sense of nostalgia and warmth, while also being slightly melancholic, bringing about memories of a war-torn country trying to rebuild itself from the rubble. While we all know the effects of the WWII, small cultural elements like those can give us further insight on how world-changing this event was.",
+        "colors": [
+            "363a54",
+            "8c7e7d",
+            "d9c8be",
+            "d699a0",
+            "c74061",
+            "843451"
+        ],
+        "tags": [
+            "retro",
+            "showa",
+            "yamazaki"
+        ],
+        "createdAt": "2021-07-19T11:47:24.045Z",
+        "authorName": "Gors",
+        "url": "https://lospec.com/palette-list/yamazaki"
+    },
+    "siegraass-favorite-colors": {
+        "title": "Siegraas's Favorite Colors",
+        "description": "I like these colors.",
+        "colors": [
+            "feffad",
+            "d5ff63",
+            "9ef53b",
+            "63c930",
+            "2a8f28",
+            "195e36",
+            "0d291e",
+            "121212",
+            "363636",
+            "5e5e5e",
+            "919191",
+            "c2c2c2",
+            "ffffff",
+            "ffd9b2",
+            "e6a86e",
+            "9a6b3d",
+            "7c4d3b",
+            "552d2d",
+            "2b1811",
+            "090c0f",
+            "1f2931",
+            "354f5a",
+            "54929e",
+            "5bc5a6",
+            "b1ffad",
+            "dbffc4",
+            "f7ff86",
+            "eed964",
+            "ffae5e",
+            "ff925e",
+            "ff5e5e",
+            "d93c3c",
+            "9c3368",
+            "69127a",
+            "3f1756",
+            "16102c"
+        ],
+        "tags": [],
+        "createdAt": "2021-07-21T01:00:55.594Z",
+        "authorName": "Siegraas",
+        "url": "https://lospec.com/palette-list/siegraass-favorite-colors"
+    },
+    "retro-2600": {
+        "title": "Retro-2600",
+        "description": "based on the dig dug nes and atari port",
+        "colors": [
+            "000000",
+            "ffffff",
+            "b6b6b6",
+            "ffc70f",
+            "ed7f09",
+            "b60707",
+            "21bf02",
+            "395901",
+            "002609",
+            "408ce1",
+            "164dbb",
+            "440580",
+            "f480ad",
+            "db33ac",
+            "ca1252",
+            "ebaa8a",
+            "b06641",
+            "752f0c",
+            "c708d1",
+            "7807b0",
+            "120054",
+            "777777",
+            "414141",
+            "161616"
+        ],
+        "tags": [],
+        "createdAt": "2021-07-21T21:59:00.729Z",
+        "authorName": "ARTBOY",
+        "url": "https://lospec.com/palette-list/retro-2600"
+    },
+    "orbitron-32": {
+        "title": "Orbitron 32",
+        "description": "A vibrant 32 colour palette that can be used for a wid variety of artworks\u00a0\u00a0",
+        "colors": [
+            "cce3e1",
+            "a3bab8",
+            "859899",
+            "647982",
+            "505966",
+            "363a42",
+            "212429",
+            "110f1f",
+            "2f1d42",
+            "2f3675",
+            "365680",
+            "538abd",
+            "78c2db",
+            "82eff5",
+            "c4ffff",
+            "ffffff",
+            "fcff5c",
+            "a4eb84",
+            "55c281",
+            "408a91",
+            "75265c",
+            "ab3057",
+            "ed2139",
+            "ff6052",
+            "ff8636",
+            "fab941",
+            "f0d787",
+            "cfa25d",
+            "b0734a",
+            "8f4d34",
+            "803636",
+            "592444"
+        ],
+        "tags": [
+            "32",
+            "colors",
+            "colours",
+            "master",
+            "orbitron",
+            "palette",
+            "vibrant"
+        ],
+        "createdAt": "2021-07-23T23:04:08.451Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/orbitron-32"
+    },
+    "unearthly": {
+        "title": "UNEARTHLY",
+        "description": "",
+        "colors": [
+            "625a95",
+            "7a78a7",
+            "888baf",
+            "000000",
+            "361538",
+            "412850",
+            "463663",
+            "454d89",
+            "4365a1",
+            "7b95bc",
+            "abcdd9",
+            "d9edec",
+            "ffffff",
+            "a75540",
+            "d89673",
+            "e8c589",
+            "f7f0a7",
+            "334d43",
+            "4f695c",
+            "5d7e6a",
+            "749d6f",
+            "c6d598",
+            "8a3234",
+            "a63c35",
+            "c85e3e",
+            "cf885b",
+            "702837",
+            "824055",
+            "965a74",
+            "946f8b",
+            "b594b4"
+        ],
+        "tags": [],
+        "createdAt": "2021-07-23T13:36:30.049Z",
+        "authorName": "AshyToons",
+        "url": "https://lospec.com/palette-list/unearthly"
+    },
+    "3xdesk": {
+        "title": "3xDesk",
+        "description": "A colorful 30-color palette for colorful pixel art.",
+        "colors": [
+            "000000",
+            "3248a0",
+            "3a62fb",
+            "667dd8",
+            "7720d4",
+            "580ea9",
+            "805ea4",
+            "87cb9a",
+            "34e127",
+            "18860f",
+            "cfc911",
+            "c29916",
+            "f6c014",
+            "f69114",
+            "a45b00",
+            "d8ad77",
+            "ffb3b3",
+            "ee5555",
+            "e10808",
+            "ff1ae7",
+            "ff5eee",
+            "860e7a",
+            "491b09",
+            "522c1d",
+            "825342",
+            "3d3a3a",
+            "111111",
+            "ffffff",
+            "fff1d9",
+            "e9e9e9"
+        ],
+        "tags": [
+            "3xdesk",
+            "colorful",
+            "fun",
+            "oofas"
+        ],
+        "createdAt": "2021-07-21T00:51:35.116Z",
+        "authorName": "Oofas the Oofasaur",
+        "url": "https://lospec.com/palette-list/3xdesk"
+    },
+    "st-gameboy-lightgrey": {
+        "title": "ST-GameBoy-LightGrey",
+        "description": "My 2-nd palette and the lighting edition",
+        "colors": [
+            "281d73",
+            "4f388c",
+            "7850b3",
+            "b082d9"
+        ],
+        "tags": [
+            "artist",
+            "gameboy",
+            "gb",
+            "light",
+            "lightgray",
+            "purple",
+            "skillerthomson"
+        ],
+        "createdAt": "2021-05-15T19:27:39.899Z",
+        "authorName": "Skiller Thomson",
+        "url": "https://lospec.com/palette-list/st-gameboy-lightgrey"
+    },
+    "fairydust-8": {
+        "title": "Fairydust 8",
+        "description": "A pastel color palette with 8 colors that covers a range of hues. Note: The DB Palette Analysis uses the old version of the palette.",
+        "colors": [
+            "f0dab1",
+            "e39aac",
+            "c45d9f",
+            "634b7d",
+            "6461c2",
+            "2ba9b4",
+            "93d4b5",
+            "f0f6e8"
+        ],
+        "tags": [
+            "blue",
+            "colorful",
+            "fairy",
+            "light",
+            "pastel",
+            "pink",
+            "soft"
+        ],
+        "createdAt": "2021-07-12T23:15:31.675Z",
+        "authorName": "Yousurname",
+        "url": "https://lospec.com/palette-list/fairydust-8"
+    },
+    "angelic": {
+        "title": "ANGELIC",
+        "description": "A palette to be used for all kinds of holy and heavenly objects",
+        "colors": [
+            "e9db71",
+            "bf9c57",
+            "8c8781",
+            "91806a",
+            "667f7f",
+            "925c89",
+            "7d6969",
+            "70615b",
+            "645169",
+            "703d46"
+        ],
+        "tags": [
+            "gray",
+            "grey",
+            "moody",
+            "sun",
+            "sunlight"
+        ],
+        "createdAt": "2021-07-22T19:22:46.243Z",
+        "authorName": "Mememellow",
+        "url": "https://lospec.com/palette-list/angelic"
+    },
+    "shine-16": {
+        "title": "Shine 16",
+        "description": "A general use vibrant palette with 16 colors. It is a bit challenging to use.",
+        "colors": [
+            "9de4e4",
+            "5d9ddd",
+            "070760",
+            "612f93",
+            "bf66bf",
+            "fdefff",
+            "b99cd4",
+            "784a5f",
+            "2b0000",
+            "49132f",
+            "be3131",
+            "efa65d",
+            "ecec77",
+            "97d954",
+            "2d892d",
+            "153f2f"
+        ],
+        "tags": [
+            "bright",
+            "colorful",
+            "general",
+            "vibrant"
+        ],
+        "createdAt": "2021-07-25T15:17:51.812Z",
+        "authorName": "Yousurname",
+        "url": "https://lospec.com/palette-list/shine-16"
+    },
+    "monday-4": {
+        "title": "Monday 4",
+        "description": "",
+        "colors": [
+            "ac8876",
+            "906776",
+            "634d69",
+            "353546"
+        ],
+        "tags": [
+            "dark",
+            "desaturated",
+            "gameboy",
+            "monoramp",
+            "muted",
+            "purple",
+            "warm"
+        ],
+        "createdAt": "2021-07-27T14:05:07.628Z",
+        "authorName": "Yousurname",
+        "url": "https://lospec.com/palette-list/monday-4"
+    },
+    "snowflake-4": {
+        "title": "Snowflake 4",
+        "description": "A palette of cool colors that can be used to draw winter-related things.",
+        "colors": [
+            "e7edeb",
+            "8ecece",
+            "62a1c7",
+            "3f6ecc"
+        ],
+        "tags": [
+            "blue",
+            "cold",
+            "gameboy",
+            "ice",
+            "light",
+            "monoramp",
+            "snow",
+            "winter"
+        ],
+        "createdAt": "2021-07-20T14:54:38.784Z",
+        "authorName": "Yousurname",
+        "url": "https://lospec.com/palette-list/snowflake-4"
+    },
+    "bluedream4": {
+        "title": "bluedream4",
+        "description": "",
+        "colors": [
+            "1f285d",
+            "4b849a",
+            "98d8b1",
+            "ecf2cb"
+        ],
+        "tags": [
+            "blue",
+            "dream",
+            "gameboy",
+            "gb"
+        ],
+        "createdAt": "2021-07-25T20:11:03.523Z",
+        "authorName": "Snowy Owl",
+        "url": "https://lospec.com/palette-list/bluedream4"
+    },
     "hyperchill-10": {
         "title": "HYPERCHILL-10",
         "description": "A palette for lofi, snythwave and chill things",
@@ -9087,27 +9565,6 @@
         "authorName": "MagCoin",
         "url": "https://lospec.com/palette-list/submerged-chimera"
     },
-    "mario-pissing": {
-        "title": "Mario Pissing",
-        "description": "The palette from\u00a0<a href=\"https://www.youtube.com/channel/UCJyogloof_Z1JGi_50mmEeg\" target=\"_blank\">Blaze the Movie Fan</a>'s popular (yet disowned) fan film\u00a0<a href=\"https://www.youtube.com/watch?v=sYqMeT5APRU\" target=\"_blank\">Mario Pissing</a>, with brightness/contrast correction.",
-        "colors": [
-            "1a191a",
-            "762300",
-            "7a4926",
-            "db0000",
-            "ce6204",
-            "e9a161",
-            "fec100",
-            "dcee7a",
-            "ffffff",
-            "00abdc",
-            "000ccb"
-        ],
-        "tags": [],
-        "createdAt": "2020-11-24T04:07:18.869Z",
-        "authorName": "P-Tux7",
-        "url": "https://lospec.com/palette-list/mario-pissing"
-    },
     "the-roarin-80s": {
         "title": "The Roarin' 80's",
         "description": "IDK",
@@ -15461,7 +15918,7 @@
     },
     "luap-40": {
         "title": "Luap 40",
-        "description": "",
+        "description": "40 colors palette created with 6 primar shades : blue, green, red, pink, brown, gray.",
         "colors": [
             "597080",
             "6da18a",
@@ -34210,7 +34667,7 @@
             "pixel"
         ],
         "createdAt": "2019-11-05T00:38:31.715Z",
-        "authorName": "GravityAaron",
+        "authorName": "GravityWeeb",
         "url": "https://lospec.com/palette-list/rgb-principle"
     },
     "king-kong": {
