@@ -1,4 +1,494 @@
 {
+    "royal8": {
+        "title": "Royal8",
+        "description": "Purples and golds, useful for lots of different things!",
+        "colors": [
+            "2e0fa8",
+            "8916f5",
+            "b067fa",
+            "bd7013",
+            "f5c813",
+            "faee67",
+            "ffffff",
+            "1b1636"
+        ],
+        "tags": [
+            "gold",
+            "purple",
+            "royal"
+        ],
+        "createdAt": "2021-02-11T19:57:29.935Z",
+        "authorName": "Meteor",
+        "url": "https://lospec.com/palette-list/royal8"
+    },
+    "biome19": {
+        "title": "BIOME19",
+        "description": "Palette made for CarnISOl over at PixelJoint.",
+        "colors": [
+            "eeeeaa",
+            "666644",
+            "444422",
+            "779977",
+            "99ddbb",
+            "112233",
+            "442255",
+            "993300",
+            "aa6600",
+            "ff9900",
+            "66cc33",
+            "225577",
+            "226622",
+            "4477aa",
+            "ffdd00",
+            "ee6644",
+            "00bbaa",
+            "bbcc00",
+            "110011"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-16T14:54:37.532Z",
+        "authorName": "ckelsallpxls",
+        "url": "https://lospec.com/palette-list/biome19"
+    },
+    "blood-mints": {
+        "title": "blood mints",
+        "description": "",
+        "colors": [
+            "281b3a",
+            "c9643c",
+            "67aa92",
+            "feff94"
+        ],
+        "tags": [
+            "blood",
+            "mint",
+            "polyphorge"
+        ],
+        "createdAt": "2021-08-14T05:18:03.028Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/blood-mints"
+    },
+    "cybergum6": {
+        "title": "CyberGum6",
+        "description": "CyberGum6 is a personal attempt at a palette combining teal and pink. This resulted in some great colors for cyberpunk enviroments.",
+        "colors": [
+            "3a2b3b",
+            "2d4a54",
+            "0c7475",
+            "bc4a9b",
+            "eb8d9c",
+            "ffd8ba"
+        ],
+        "tags": [
+            "6color",
+            "cyber",
+            "cyberpunk",
+            "gum",
+            "night",
+            "pink",
+            "teal"
+        ],
+        "createdAt": "2021-08-17T09:28:14.213Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/cybergum6"
+    },
+    "icywitch": {
+        "title": "IcyWitch",
+        "description": "A palette made to convey a teal, murky water frozen into yellowy ice. Like a magical, wintery swamp, if you will.",
+        "colors": [
+            "313638",
+            "32535f",
+            "0a777a",
+            "4aa881",
+            "73efe8",
+            "ecf3b0"
+        ],
+        "tags": [
+            "6colors",
+            "bright",
+            "frozen",
+            "ice",
+            "magic",
+            "teal",
+            "witch"
+        ],
+        "createdAt": "2021-08-17T09:21:47.198Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/icywitch"
+    },
+    "retro-115": {
+        "title": "Retro 115",
+        "description": "Great palette to make contrast images",
+        "colors": [
+            "040026",
+            "004bc0",
+            "0097ec",
+            "00f3fc",
+            "ffbcff",
+            "d569f6",
+            "6c1fd3"
+        ],
+        "tags": [
+            "blue",
+            "lofi",
+            "retro"
+        ],
+        "createdAt": "2021-08-21T03:58:10.180Z",
+        "authorName": "antorcha.exe",
+        "url": "https://lospec.com/palette-list/retro-115"
+    },
+    "feelinwitchy9": {
+        "title": "FeelinWitchy9",
+        "description": "Just a halloween-ish inspired palette",
+        "colors": [
+            "1a171c",
+            "3f2f5e",
+            "4a4789",
+            "447866",
+            "a1796c",
+            "fc7e35",
+            "ffa994",
+            "ffe098",
+            "ffffdb"
+        ],
+        "tags": [
+            "9",
+            "autumn",
+            "brown",
+            "fall",
+            "gold",
+            "green",
+            "halloween",
+            "nine",
+            "purple",
+            "spooky",
+            "witch",
+            "yellow"
+        ],
+        "createdAt": "2021-08-21T20:25:56.143Z",
+        "authorName": "Sarahboev",
+        "url": "https://lospec.com/palette-list/feelinwitchy9"
+    },
+    "fruitpunch-8": {
+        "title": "fruitpunch-8 \ud83c\udf47\ud83c\udf53\ud83c\udf4d\ud83c\udf4f",
+        "description": "COLORS YAY!!!",
+        "colors": [
+            "120e23",
+            "472859",
+            "225875",
+            "c53062",
+            "249e4f",
+            "f28941",
+            "b4dc3a",
+            "fff1a9"
+        ],
+        "tags": [
+            "fruit",
+            "polyphorge",
+            "rainbow"
+        ],
+        "createdAt": "2021-08-22T00:28:21.661Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/fruitpunch-8"
+    },
+    "anarkis-27": {
+        "title": "Anarkis 27",
+        "description": "A palette based on\u00a0Amstrad CPC\u00a0and other palettes with the \"computer\" tag (name suggested by Prof. Lavenfurr on Discord)",
+        "colors": [
+            "000000",
+            "7b133e",
+            "653333",
+            "562f8d",
+            "1b4a36",
+            "27436c",
+            "2f3f8d",
+            "423f5f",
+            "4a3f3d",
+            "e62d99",
+            "e04141",
+            "c8541c",
+            "008d52",
+            "008a8a",
+            "b55e41",
+            "ac661f",
+            "b35dc5",
+            "3284be",
+            "847a6e",
+            "727d8d",
+            "edb000",
+            "7ed12c",
+            "61cece",
+            "ffa87c",
+            "f9a6c8",
+            "bebeb1",
+            "ffffff"
+        ],
+        "tags": [
+            "computer",
+            "isasstudio"
+        ],
+        "createdAt": "2021-08-15T20:25:28.946Z",
+        "authorName": "Isa",
+        "url": "https://lospec.com/palette-list/anarkis-27"
+    },
+    "sky-pirate-studios-palette": {
+        "title": "Sky Pirate Studios Palette",
+        "description": "",
+        "colors": [
+            "fffffe",
+            "cdcfcf",
+            "647487",
+            "000000",
+            "50e0e8",
+            "29adff",
+            "0078fc",
+            "004058",
+            "fff090",
+            "a3ce27",
+            "28b645",
+            "177698",
+            "fffa20",
+            "fabc20",
+            "f58000",
+            "6b47ff",
+            "ff3fc1",
+            "f80828",
+            "b6155e"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-16T01:12:05.119Z",
+        "authorName": "Sky Pirate Studios",
+        "url": "https://lospec.com/palette-list/sky-pirate-studios-palette"
+    },
+    "byte-12": {
+        "title": "BYTE-12",
+        "description": "byte palette.\u00a0\u00a0",
+        "colors": [
+            "992323",
+            "beb225",
+            "3561af",
+            "94bb4f",
+            "7e529a",
+            "dd997f",
+            "e05e95",
+            "636363",
+            "d1d1d1",
+            "202020",
+            "5b41c5",
+            "161b82"
+        ],
+        "tags": [
+            "fun",
+            "games"
+        ],
+        "createdAt": "2021-07-30T11:36:14.361Z",
+        "authorName": "Alicja Kruszy\u0144ska",
+        "url": "https://lospec.com/palette-list/byte-12"
+    },
+    "dream-haze-8": {
+        "title": "Dream Haze 8",
+        "description": "A 8 colors dreamy palette, ranging from deep blue to a soft yellow, witha purple tint in between.",
+        "colors": [
+            "3c42c4",
+            "6e51c8",
+            "a065cd",
+            "ce79d2",
+            "d68fb8",
+            "dda2a3",
+            "eac4ae",
+            "f4dfbe"
+        ],
+        "tags": [
+            "8",
+            "8colors",
+            "aesthetic",
+            "artist",
+            "blue",
+            "cute",
+            "dream",
+            "fantasy",
+            "klafooty",
+            "pink",
+            "purple",
+            "yellow"
+        ],
+        "createdAt": "2021-08-01T13:20:10.330Z",
+        "authorName": "Klafooty",
+        "url": "https://lospec.com/palette-list/dream-haze-8"
+    },
+    "desat": {
+        "title": "desat",
+        "description": "",
+        "colors": [
+            "291a1f",
+            "675650",
+            "bea87d",
+            "f0e0cf"
+        ],
+        "tags": [
+            "brown",
+            "coffee",
+            "decaf",
+            "gb",
+            "polyphorge"
+        ],
+        "createdAt": "2021-08-02T16:12:38.713Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/desat"
+    },
+    "rainbow-24": {
+        "title": "Rainbow-24",
+        "description": "A slightly desaturated palette for artwork both vibrant and cozy.",
+        "colors": [
+            "171a1f",
+            "445158",
+            "b7d7d8",
+            "471e1b",
+            "91362e",
+            "c63c3c",
+            "5e2f0f",
+            "93530e",
+            "fb9e27",
+            "4d4519",
+            "7f7024",
+            "ddc410",
+            "2d4c23",
+            "4e9142",
+            "75db60",
+            "1b4a48",
+            "198089",
+            "12c7e0",
+            "423d76",
+            "5e4b9d",
+            "7a7ae0",
+            "593558",
+            "944997",
+            "de43d8"
+        ],
+        "tags": [
+            "24",
+            "blue",
+            "desaturated",
+            "green",
+            "orange",
+            "pink",
+            "purple",
+            "rainbow",
+            "rainbowth",
+            "red",
+            "yellow"
+        ],
+        "createdAt": "2021-07-31T10:09:26.229Z",
+        "authorName": "Rainbow The Hedgehog",
+        "url": "https://lospec.com/palette-list/rainbow-24"
+    },
+    "wisteria-mystery": {
+        "title": "Wisteria Mystery",
+        "description": "A soft palette for a soft drawing ;3 ",
+        "colors": [
+            "ffffdb",
+            "ffc5bb",
+            "ff99a1",
+            "a06689"
+        ],
+        "tags": [
+            "2bit",
+            "flower",
+            "monoramp",
+            "pastel",
+            "pink",
+            "soft"
+        ],
+        "createdAt": "2021-07-11T21:20:41.616Z",
+        "authorName": "CopheeMoth \u2615",
+        "url": "https://lospec.com/palette-list/wisteria-mystery"
+    },
+    "cartoon-candy": {
+        "title": "cartoon-candy \ud83c\udf6c",
+        "description": "i took lots of colors from many cartoony games and took out the most prevalent ramps and colors and worked them into a single palette.",
+        "colors": [
+            "ff8741",
+            "ffce95",
+            "f18b69",
+            "d04153",
+            "662d39",
+            "ae5b39",
+            "e89e56",
+            "ffdc6a",
+            "d5f66e",
+            "8dc156",
+            "4a7a47",
+            "2d4443",
+            "17111a",
+            "6e516a",
+            "aa8c94",
+            "dfcbbf",
+            "ffffff",
+            "ff99a9",
+            "c766b2",
+            "833a95",
+            "3b2c4a",
+            "495588",
+            "60a8b0",
+            "9ae7c9"
+        ],
+        "tags": [
+            "candy",
+            "cartoon",
+            "polyphorge"
+        ],
+        "createdAt": "2021-07-15T11:55:17.039Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/cartoon-candy"
+    },
+    "1-bit-chill": {
+        "title": "1-bit Chill",
+        "description": "This is a 1-bit pallete where the two colors have a blue tint. Enjoy!  ",
+        "colors": [
+            "110c22",
+            "c3dce5"
+        ],
+        "tags": [
+            "1bit",
+            "monochrome"
+        ],
+        "createdAt": "2021-07-27T22:48:55.550Z",
+        "authorName": "Spicygame Studios",
+        "url": "https://lospec.com/palette-list/1-bit-chill"
+    },
+    "system-mini-16": {
+        "title": "System Mini 16",
+        "description": "My take on a standard classic computer 16 colour palette. Takes influence from Windows and CGA",
+        "colors": [
+            "000000",
+            "68605c",
+            "b0b0b8",
+            "fcfcfc",
+            "1c38ac",
+            "7070fc",
+            "a82814",
+            "fc4848",
+            "208800",
+            "70f828",
+            "b82cd0",
+            "fc74ec",
+            "ac581c",
+            "f8a850",
+            "3cd4e4",
+            "f8ec20"
+        ],
+        "tags": [
+            "computer",
+            "fantasy",
+            "hardware",
+            "os",
+            "software",
+            "system"
+        ],
+        "createdAt": "2021-07-28T14:28:11.545Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/system-mini-16"
+    },
     "rggb-4-bit-color-palette": {
         "title": "RGGB 4-bit color palette",
         "description": "This palette is generated by maping 4 bits in this way: 1 bit for red, 2 bits for green, 1 bit for blue.",
@@ -586,6 +1076,41 @@
         "createdAt": "2021-07-06T18:58:21.086Z",
         "authorName": "Jasper Speelman",
         "url": "https://lospec.com/palette-list/lego-colors-pearl"
+    },
+    "lego-colors-transparent": {
+        "title": "Lego Colors (Transparent)",
+        "description": "From Ryan Howerter's Lego color list http://ryanhowerter.net/colors.php (only the transparent colors)",
+        "colors": [
+            "eeeeee",
+            "b82700",
+            "addded",
+            "77b7cc",
+            "faf15d",
+            "d06d4f",
+            "73b464",
+            "faf15b",
+            "bbb29e",
+            "fd8ecf",
+            "9c95c7",
+            "d0e5ff",
+            "fff65c",
+            "f18ebb",
+            "e18d0a",
+            "c9e788",
+            "55a5af",
+            "acd4de",
+            "eca3c9",
+            "fcb76d",
+            "fbe890",
+            "8d73b3",
+            "e0d0e5",
+            "e4d6da",
+            "afd246"
+        ],
+        "tags": [],
+        "createdAt": "2021-07-06T18:41:33.445Z",
+        "authorName": "Jasper Speelman",
+        "url": "https://lospec.com/palette-list/lego-colors-transparent"
     },
     "lego-colors-solid": {
         "title": "Lego Colors (Solid)",
@@ -4664,6 +5189,23 @@
         "authorName": "Cycpix",
         "url": "https://lospec.com/palette-list/brewerviridis"
     },
+    "ys-postapocalyptic-sunset": {
+        "title": "Y's Postapocalyptic Sunset",
+        "description": "In the last light of the evening sun you notice that Color/Color palettes are not as ugly as you thought. Used in \"Heaven?\" by Yelta (me).",
+        "colors": [
+            "1d0f44",
+            "f44e38"
+        ],
+        "tags": [
+            "1bit",
+            "orange",
+            "purple",
+            "sunset"
+        ],
+        "createdAt": "2021-05-10T12:44:50.415Z",
+        "authorName": "Yelta",
+        "url": "https://lospec.com/palette-list/ys-postapocalyptic-sunset"
+    },
     "mystic-16": {
         "title": "mystic-16",
         "description": "",
@@ -6180,6 +6722,22 @@
         "createdAt": "2021-04-15T13:06:59.321Z",
         "authorName": "Adam Barrett",
         "url": "https://lospec.com/palette-list/old-computers-be-like"
+    },
+    "rubiks-cube-colors": {
+        "title": "Rubiks Cube Colors",
+        "description": "The colors of a standard Rubik's Cube",
+        "colors": [
+            "f6240f",
+            "1df60f",
+            "270ff6",
+            "f2f60f",
+            "f6890f",
+            "ffffff"
+        ],
+        "tags": [],
+        "createdAt": "2021-04-11T18:17:40.068Z",
+        "authorName": "Andrey",
+        "url": "https://lospec.com/palette-list/rubiks-cube-colors"
     },
     "slowly": {
         "title": "SLOWLY",
@@ -37408,6 +37966,98 @@
         "authorName": "WildLeoKnight",
         "url": "https://lospec.com/palette-list/muddysand"
     },
+    "spf-804": {
+        "title": "SPF-804",
+        "description": "Shares some colors with Cabana-64, but offers a little more flexibility when it comes to contrast.\r\n\r\nCreated by <a target=\"_blank\" href=\"https://www.patreon.com/posts/spf-80-palette-21584041\">Crabby</a>",
+        "colors": [
+            "ffffff",
+            "d2ccf3",
+            "a392d4",
+            "615476",
+            "332f3a",
+            "3f0d76",
+            "611894",
+            "8f4bec",
+            "d291ff",
+            "edcaff",
+            "ffaffc",
+            "f276ff",
+            "d63be9",
+            "951cbc",
+            "680b76",
+            "30201a",
+            "473513",
+            "67541f",
+            "a79a5f",
+            "ffe22c",
+            "fda414",
+            "ff8d3e",
+            "f16e03",
+            "c3680a",
+            "e0a186",
+            "db8060",
+            "c37053",
+            "a65133",
+            "88512b",
+            "6d4734",
+            "452d25",
+            "600119",
+            "900c47",
+            "974c7a",
+            "c02214",
+            "dd3939",
+            "ff7693",
+            "ffb7b7",
+            "fffcdb",
+            "ffd887",
+            "f7a357",
+            "d7863d",
+            "cc7037",
+            "b24e2c",
+            "823314",
+            "5a260b",
+            "3a1603",
+            "0a2563",
+            "0d396f",
+            "1c8393",
+            "42c39c",
+            "4cd494",
+            "aaffd8",
+            "dafffe",
+            "d1ffcc",
+            "b6ff8c",
+            "5bbe61",
+            "4dae53",
+            "118448",
+            "1b744a",
+            "10594c",
+            "084339",
+            "033017",
+            "221478",
+            "2c17a5",
+            "321cbd",
+            "343af1",
+            "2274ff",
+            "39aeff",
+            "96daff",
+            "acdecd",
+            "90d5bd",
+            "4e9884",
+            "26795f",
+            "a2bcc5",
+            "69849c",
+            "435655",
+            "2c3233",
+            "101010"
+        ],
+        "tags": [
+            "artist",
+            "crabby"
+        ],
+        "createdAt": "2019-08-18T08:47:13.648Z",
+        "authorName": "P-Tux7",
+        "url": "https://lospec.com/palette-list/spf-804"
+    },
     "funkyfuture-8": {
         "title": "FunkyFuture 8",
         "description": "Neon and futuristic palette that was mainly inspired by retrowave aesthics",
@@ -40676,6 +41326,35 @@
         "createdAt": "2018-10-28T21:07:44.890Z",
         "authorName": null,
         "url": "https://lospec.com/palette-list/boomboom"
+    },
+    "team-fortress": {
+        "title": "Team Fortress",
+        "description": "Based on the <a target=\"_blank\" href=\"http://www.teamfortress.com/workshop/\">TF Color Family</a> used for painting textures for <a target=\"_blank\" href=\"http://www.teamfortress.com/\">Team Fortress</a>.",
+        "colors": [
+            "6b6a65",
+            "34302d",
+            "395c78",
+            "5b7a8c",
+            "768a88",
+            "ef9849",
+            "f6b98a",
+            "6a4535",
+            "462d26",
+            "9d312f",
+            "bd3b3b",
+            "913a1e",
+            "f08149",
+            "f5ad87",
+            "c1a18a",
+            "dabdab",
+            "f5e7de"
+        ],
+        "tags": [
+            "game"
+        ],
+        "createdAt": "2018-10-28T17:23:49.640Z",
+        "authorName": null,
+        "url": "https://lospec.com/palette-list/team-fortress"
     },
     "rkbv": {
         "title": "RKBV",
@@ -44096,6 +44775,51 @@
         "createdAt": "2018-03-15T14:18:05.083Z",
         "authorName": null,
         "url": "https://lospec.com/palette-list/mortmort"
+    },
+    "softmilk-32": {
+        "title": "Softmilk 32",
+        "description": "Created by <a target=\"_blank\" href=\"https://gumroad.com/mnrart\">MortMort</a>. #SoftMilk32",
+        "colors": [
+            "23213d",
+            "d95b9a",
+            "9e4491",
+            "633662",
+            "903d62",
+            "bd515a",
+            "d69a4e",
+            "f3d040",
+            "ffe88c",
+            "f2f2f0",
+            "94e092",
+            "1f9983",
+            "22636b",
+            "57546f",
+            "c56876",
+            "76747d",
+            "5c3841",
+            "945848",
+            "d17f6b",
+            "eb9f7f",
+            "f1c28f",
+            "b9b5c3",
+            "454194",
+            "425bbd",
+            "4884d4",
+            "45a1de",
+            "7cd8eb",
+            "e2f266",
+            "c3d442",
+            "82aa28",
+            "597f1e",
+            "376129"
+        ],
+        "tags": [
+            "artist",
+            "mortmort"
+        ],
+        "createdAt": "2018-03-15T14:16:46.715Z",
+        "authorName": null,
+        "url": "https://lospec.com/palette-list/softmilk-32"
     },
     "colodore": {
         "title": "Colodore",
