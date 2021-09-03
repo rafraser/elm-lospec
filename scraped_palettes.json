@@ -1,4 +1,857 @@
 {
+    "autumn-fire-12": {
+        "title": "Autumn Fire 12",
+        "description": "Autumn Fire 12 is a small 12 color palette with warm tones and a comforting, nostalgic vibe. It has enough color to create a lot of visual variety, but it's also good for challenging yourself to work with simpler palettes.",
+        "colors": [
+            "5e0808",
+            "8f1313",
+            "d93838",
+            "290c07",
+            "4d1912",
+            "753128",
+            "9c2700",
+            "d1491b",
+            "f76c3e",
+            "5c282e",
+            "8f4f56",
+            "bd777f"
+        ],
+        "tags": [
+            "autumn",
+            "fall",
+            "nostalgia",
+            "red",
+            "warm"
+        ],
+        "createdAt": "2021-07-13T19:18:39.663Z",
+        "authorName": "Witchy Rhisa",
+        "url": "https://lospec.com/palette-list/autumn-fire-12"
+    },
+    "farlands-48": {
+        "title": "FARLANDS-48",
+        "description": "",
+        "colors": [
+            "0f0329",
+            "324054",
+            "718396",
+            "8d9eb1",
+            "acc5d0",
+            "fbf9f8",
+            "280e47",
+            "461c6a",
+            "712c8e",
+            "8e349b",
+            "bb66b9",
+            "e899d5",
+            "360744",
+            "870871",
+            "c52482",
+            "ed4a7e",
+            "f28082",
+            "f6a4a4",
+            "360734",
+            "77133a",
+            "c22640",
+            "dd4635",
+            "ef845a",
+            "f8bf8b",
+            "2a0e2b",
+            "6c2a3e",
+            "be5940",
+            "e7914c",
+            "f8c85d",
+            "f9ce8a",
+            "132637",
+            "32625d",
+            "498c5c",
+            "7bac39",
+            "c9d93f",
+            "f4f268",
+            "131d37",
+            "1f4564",
+            "1d8b89",
+            "3bc578",
+            "4ef479",
+            "affa93",
+            "0e1243",
+            "1b4485",
+            "508ac8",
+            "73b1e5",
+            "88dcf3",
+            "a8fbeb"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-11T02:08:55.184Z",
+        "authorName": "SrHazarD",
+        "url": "https://lospec.com/palette-list/farlands-48"
+    },
+    "lovepal-16": {
+        "title": "LovePal 16",
+        "description": "Using the L\u00d6VE2D workspace for Lua I designed a program that finds the most diverse palette in terms of color and grayscale.",
+        "colors": [
+            "000000",
+            "573449",
+            "af3c7b",
+            "c89be3",
+            "7a7d91",
+            "0ff8aa",
+            "98f3ff",
+            "ffffff",
+            "e50010",
+            "ff9118",
+            "ffff00",
+            "83e563",
+            "3db602",
+            "a1a200",
+            "237b4b",
+            "2060ce"
+        ],
+        "tags": [
+            "algorithm",
+            "calculated"
+        ],
+        "createdAt": "2021-08-11T03:48:02.688Z",
+        "authorName": "mije nasa",
+        "url": "https://lospec.com/palette-list/lovepal-16"
+    },
+    "colordome-24": {
+        "title": "colordome-24",
+        "description": "",
+        "colors": [
+            "83858b",
+            "b6b3ae",
+            "817570",
+            "4d3f3d",
+            "13130f",
+            "665544",
+            "8b7851",
+            "9e6348",
+            "c69e66",
+            "ead195",
+            "d69246",
+            "e3e26a",
+            "90b353",
+            "5e8d63",
+            "4d575c",
+            "549693",
+            "62c2a5",
+            "90f6bd",
+            "ffffff",
+            "f79c83",
+            "d35a52",
+            "72434b",
+            "944995",
+            "e267b1"
+        ],
+        "tags": [
+            "polyphorge"
+        ],
+        "createdAt": "2021-08-14T14:25:05.661Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/colordome-24"
+    },
+    "padhi-rangulu": {
+        "title": "Padhi Rangulu",
+        "description": "10 low saturation colors that impart a natural appeal. The term Padhi Rangulu (\u0c2a\u0c26\u0c3f \u0c30\u0c02\u0c17\u0c41\u0c32\u0c41) means 10 colors in the Telugu language",
+        "colors": [
+            "e9ba5b",
+            "729b6b",
+            "9aa38b",
+            "bdc2b3",
+            "19121a",
+            "6e6634",
+            "b9a08b",
+            "a67c59",
+            "40382d",
+            "9e8b61"
+        ],
+        "tags": [
+            "10colors",
+            "padhirangulu"
+        ],
+        "createdAt": "2021-08-17T18:07:10.315Z",
+        "authorName": "Kartheek raj",
+        "url": "https://lospec.com/palette-list/padhi-rangulu"
+    },
+    "vibrant-14": {
+        "title": "Vibrant 14",
+        "description": "A vibrant and colorful 14-color pallete with plenty of limitation. ",
+        "colors": [
+            "1c162d",
+            "3d083b",
+            "841252",
+            "da2424",
+            "f77622",
+            "ecab11",
+            "fee761",
+            "ffeee5",
+            "07e5a0",
+            "0099db",
+            "124e89",
+            "3e4a6d",
+            "5a7088",
+            "43bd35"
+        ],
+        "tags": [
+            "bright",
+            "colorful",
+            "limited",
+            "retro",
+            "vibrant"
+        ],
+        "createdAt": "2021-08-02T22:46:02.350Z",
+        "authorName": "Spicygame Studios",
+        "url": "https://lospec.com/palette-list/vibrant-14"
+    },
+    "neongp": {
+        "title": "NeonGP",
+        "description": "A little glitch-like green and pink neon effect. Kinda like the red and blue style, but edgier\u00a0",
+        "colors": [
+            "000000",
+            "ffffff",
+            "09ff00",
+            "ff00c5"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-03T21:03:25.631Z",
+        "authorName": "The Bois",
+        "url": "https://lospec.com/palette-list/neongp"
+    },
+    "2-bit-matrix": {
+        "title": "2 Bit Matrix",
+        "description": "2 Bit Palette (4 colors) based on Matrix color scheme (low saturated).",
+        "colors": [
+            "f2fff2",
+            "add9bc",
+            "5b8c7c",
+            "0d1a1a"
+        ],
+        "tags": [
+            "2bit",
+            "gameboy",
+            "green",
+            "matrix"
+        ],
+        "createdAt": "2021-08-04T16:45:35.603Z",
+        "authorName": "Luap",
+        "url": "https://lospec.com/palette-list/2-bit-matrix"
+    },
+    "super-pocket-boy": {
+        "title": "super pocket boy",
+        "description": "A collection of colors that I gathered together based on the Super Game Boy palette used for Pokemon RBY. Hope you enjoy!",
+        "colors": [
+            "3a3a3a",
+            "81719a",
+            "a777b7",
+            "d8b0c0",
+            "efafbf",
+            "df77a7",
+            "cf4f2f",
+            "f79f4f",
+            "f7df6f",
+            "cf9f00",
+            "a76f47",
+            "479f57",
+            "9fcf7f",
+            "a0d0f8",
+            "88a0f0",
+            "f8e8f8"
+        ],
+        "tags": [
+            "16",
+            "pokemon",
+            "sgb"
+        ],
+        "createdAt": "2021-08-04T21:10:40.511Z",
+        "authorName": "lop choco",
+        "url": "https://lospec.com/palette-list/super-pocket-boy"
+    },
+    "russian12": {
+        "title": "Russian12",
+        "description": "My approximations of the 12 \"basic color categories\" in the Russian language according to this video: https://www.youtube.com/watch?v=gMqZR3pqMjg",
+        "colors": [
+            "000000",
+            "777777",
+            "ffffff",
+            "cc3333",
+            "dd9922",
+            "eeee55",
+            "33cc33",
+            "55eeee",
+            "2244dd",
+            "774488",
+            "ffaaaa",
+            "996633"
+        ],
+        "tags": [
+            "categories",
+            "named",
+            "russia"
+        ],
+        "createdAt": "2021-08-08T21:23:19.123Z",
+        "authorName": "A.J. Otero",
+        "url": "https://lospec.com/palette-list/russian12"
+    },
+    "melody-16": {
+        "title": "Melody 16",
+        "description": "Softer alternative to my\u00a0Shine 16\u00a0palette.",
+        "colors": [
+            "c686ca",
+            "7853a7",
+            "3c3e66",
+            "5d91d8",
+            "9dddf0",
+            "eff5f5",
+            "a3b0bb",
+            "676b8b",
+            "23232e",
+            "4d3347",
+            "8e516a",
+            "ce6374",
+            "f4ae70",
+            "f1de82",
+            "6fc453",
+            "3d8367"
+        ],
+        "tags": [
+            "bright",
+            "colorful",
+            "general",
+            "soft"
+        ],
+        "createdAt": "2021-08-08T23:16:02.355Z",
+        "authorName": "Yousurname",
+        "url": "https://lospec.com/palette-list/melody-16"
+    },
+    "nature-10": {
+        "title": "nature 10",
+        "description": "a low saturation 10 colors pallet, good to do portraits of nature",
+        "colors": [
+            "bbc8c8",
+            "ccd9d8",
+            "715148",
+            "85685c",
+            "514e39",
+            "948e69",
+            "b7b399",
+            "95ac71",
+            "c88e55",
+            "ebe6be"
+        ],
+        "tags": [
+            "10colors",
+            "lowsaturation"
+        ],
+        "createdAt": "2021-08-09T00:47:03.794Z",
+        "authorName": "Roninho",
+        "url": "https://lospec.com/palette-list/nature-10"
+    },
+    "avatar-palette": {
+        "title": "Avatar palette",
+        "description": "this palette is for the Tabletop Rpg Avatar Legends-https://www.kickstarter.com/projects/magpiegames/avatar-legends-the-roleplaying-game.",
+        "colors": [
+            "a78125",
+            "d3aa49",
+            "6a4f0e",
+            "49a5c1",
+            "8f5317",
+            "000000",
+            "ffffff",
+            "1a5202",
+            "553e29",
+            "ffca99",
+            "93c3d2",
+            "95714f",
+            "fca044",
+            "edb582",
+            "94b352",
+            "4c7913",
+            "d27e2a",
+            "d2522a",
+            "8f1734",
+            "c9c9c9",
+            "a76458",
+            "fcc644",
+            "516388",
+            "feff99"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-09T16:08:27.789Z",
+        "authorName": "ARTBOY",
+        "url": "https://lospec.com/palette-list/avatar-palette"
+    },
+    "sepia6": {
+        "title": "Sepia6",
+        "description": "Feel free to use this palette, works well for Western/old art",
+        "colors": [
+            "212529",
+            "614750",
+            "8c5c47",
+            "b47d58",
+            "d9b77e",
+            "ead9a7"
+        ],
+        "tags": [
+            "old",
+            "sepia",
+            "western"
+        ],
+        "createdAt": "2021-08-10T16:16:06.906Z",
+        "authorName": "HappyPiggy",
+        "url": "https://lospec.com/palette-list/sepia6"
+    },
+    "eggdealer6": {
+        "title": "EggDealer6",
+        "description": "EggDealer6 is a palette like no other. Years of color combination technology has finally brought humanity to the only set of colors that truly matter: one perfectly apt to the drawing of eggs. May its desaturated orange, its calm purples and its greenish whites bring you to the golden gates of egg heaven.",
+        "colors": [
+            "47323b",
+            "5c4657",
+            "735a55",
+            "b0764f",
+            "baac81",
+            "e9d79d"
+        ],
+        "tags": [
+            "6colors",
+            "dealer",
+            "desaturated",
+            "egg",
+            "night",
+            "royalnaym",
+            "yolk"
+        ],
+        "createdAt": "2021-08-17T09:03:13.163Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/eggdealer6"
+    },
+    "singularity": {
+        "title": "Singularity",
+        "description": "Singularity is a simple, easy to use 4 color palette. It's also one of the palettes I'm using for my new, ASCII inspired series of wallpapers. Black and white for contrast; red for objects of importance; green for detailing.",
+        "colors": [
+            "222323",
+            "f0f6f0",
+            "c93038",
+            "7fa663"
+        ],
+        "tags": [
+            "4color",
+            "blackhole",
+            "elegant",
+            "journey",
+            "simple",
+            "singularity",
+            "wanderer"
+        ],
+        "createdAt": "2021-08-17T09:11:46.017Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/singularity"
+    },
+    "jonk-16": {
+        "title": "JONK 16",
+        "description": "Collection of subdued colors I sampled from photos of oil paint.\u00a0 Multiple ramps in this small palatte allow for lots of play :)",
+        "colors": [
+            "242e36",
+            "455951",
+            "798766",
+            "b7bca2",
+            "d6d6d6",
+            "f4f0ea",
+            "6988a1",
+            "a1b0be",
+            "595b7c",
+            "95819d",
+            "c9a5a9",
+            "f4dec2",
+            "704f4f",
+            "b7635b",
+            "e39669",
+            "ebc790"
+        ],
+        "tags": [
+            "jonk",
+            "paint",
+            "subdued"
+        ],
+        "createdAt": "2021-08-17T21:29:14.334Z",
+        "authorName": "Jonk Make Game",
+        "url": "https://lospec.com/palette-list/jonk-16"
+    },
+    "hope-diamond": {
+        "title": "Hope Diamond",
+        "description": "Vivify your nights with these lustrous blue tones",
+        "colors": [
+            "150e10",
+            "272739",
+            "393849",
+            "3b4152",
+            "4f5a64",
+            "77888c"
+        ],
+        "tags": [
+            "blue",
+            "chill",
+            "midnight",
+            "moon"
+        ],
+        "createdAt": "2021-08-18T18:49:01.317Z",
+        "authorName": "patchoulitei",
+        "url": "https://lospec.com/palette-list/hope-diamond"
+    },
+    "journey-6": {
+        "title": "JOURNEY 6",
+        "description": "\u00a0",
+        "colors": [
+            "261f1f",
+            "c0aa74",
+            "f1f1d1",
+            "319835",
+            "0f4d32",
+            "ff2d2d"
+        ],
+        "tags": [
+            "bright",
+            "limited",
+            "nes",
+            "retro",
+            "strongcolors",
+            "zelda"
+        ],
+        "createdAt": "2021-08-19T07:07:16.030Z",
+        "authorName": "Momen",
+        "url": "https://lospec.com/palette-list/journey-6"
+    },
+    "shanty": {
+        "title": "Shanty",
+        "description": "Just another palette I put together for a game. Pirate themed this time, hence the name \"Sea Shanty\". If you're wondering about the low contrast blues and greens, I used them primarily for background objects far away.",
+        "colors": [
+            "1e1526",
+            "343147",
+            "404861",
+            "5a758f",
+            "8eb2bd",
+            "152b24",
+            "1d4732",
+            "488535",
+            "77c242",
+            "c6e563",
+            "ddf19c",
+            "a9da86",
+            "8ab27d",
+            "f28ddb",
+            "de4ee6",
+            "9143cc",
+            "3a2d73",
+            "214780",
+            "1875cc",
+            "18b3f5",
+            "3de5f5",
+            "f5f5f7",
+            "bfeaf5",
+            "93cfed",
+            "f5915b",
+            "bd5044",
+            "6e2b23",
+            "301b2a",
+            "4f293b",
+            "854657",
+            "b06a72",
+            "e69e97",
+            "facc34",
+            "fa9a41",
+            "e86d25",
+            "96181e",
+            "d10f2f",
+            "f02645",
+            "362427",
+            "693c3c",
+            "875340",
+            "b38247",
+            "deb87a",
+            "e7dbad",
+            "ad9e7b",
+            "94866b",
+            "73695a",
+            "5a514a"
+        ],
+        "tags": [
+            "48colors",
+            "master",
+            "poltergasm",
+            "shanty"
+        ],
+        "createdAt": "2021-08-20T21:42:05.047Z",
+        "authorName": "Poltergasm",
+        "url": "https://lospec.com/palette-list/shanty"
+    },
+    "wizards-breath-34": {
+        "title": "Wizards Breath-34",
+        "description": "",
+        "colors": [
+            "354f5a",
+            "54929e",
+            "5bc5a6",
+            "b1ffad",
+            "dbffc4",
+            "121212",
+            "ffffff",
+            "9ef53b",
+            "63c930",
+            "7c4d3b",
+            "552d2d"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-22T17:47:17.571Z",
+        "authorName": "PixelPanda",
+        "url": "https://lospec.com/palette-list/wizards-breath-34"
+    },
+    "morning-32": {
+        "title": "Morning 32",
+        "description": "",
+        "colors": [
+            "fff7b9",
+            "f1cea0",
+            "da9f8a",
+            "9d6e68",
+            "6b4c52",
+            "44323a",
+            "7f3c4c",
+            "cb4251",
+            "f37a2e",
+            "ffbe34",
+            "fffd4d",
+            "b5e82a",
+            "53b825",
+            "2b8d38",
+            "1f5e3f",
+            "1f4137",
+            "18191f",
+            "313748",
+            "4b596f",
+            "728697",
+            "bcd1d9",
+            "fcfefe",
+            "8feeee",
+            "67c9e7",
+            "4e95d7",
+            "436ca5",
+            "3c4879",
+            "2c2b48",
+            "643e8b",
+            "a34ea7",
+            "e988cf",
+            "ffcae1"
+        ],
+        "tags": [
+            "bright",
+            "colorful",
+            "general",
+            "soft",
+            "vibrant"
+        ],
+        "createdAt": "2021-08-21T01:46:09.244Z",
+        "authorName": "Yousurname",
+        "url": "https://lospec.com/palette-list/morning-32"
+    },
+    "hero-beyond-time": {
+        "title": "Hero beyond time! ",
+        "description": "",
+        "colors": [
+            "113555",
+            "1f4795",
+            "2a55d5",
+            "564baa",
+            "804180",
+            "aa3656",
+            "d52c2c",
+            "d15226",
+            "ce7820",
+            "db941e",
+            "dcb340",
+            "f6e646",
+            "c3db80",
+            "8bcb59",
+            "62c122",
+            "24ad28",
+            "21873c",
+            "16683b",
+            "0f4725",
+            "18a889",
+            "20dda1",
+            "6ce2bd",
+            "0bc1f2",
+            "4ccbea",
+            "99dbfa",
+            "b9e8e4",
+            "f7fdfd",
+            "c1e2ec",
+            "90b6d6",
+            "647fbc",
+            "484e92",
+            "3b365e",
+            "251f2f",
+            "311446",
+            "4b2469",
+            "68348c",
+            "7f57b3",
+            "a484f3",
+            "d2abff",
+            "611863",
+            "831c5d",
+            "a60e91",
+            "b43399",
+            "bd54ac",
+            "ce71a3",
+            "de8c9a",
+            "eda890",
+            "ffe4d8",
+            "fdcbb0",
+            "d49f8b",
+            "ac7b76",
+            "835669",
+            "634451",
+            "473449",
+            "6f3d44",
+            "8c5250",
+            "ab947a",
+            "82797f",
+            "6b6670",
+            "54575d",
+            "424b49",
+            "313831",
+            "252620",
+            "131110"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-06T02:48:40.636Z",
+        "authorName": "ThePixelArtBoy",
+        "url": "https://lospec.com/palette-list/hero-beyond-time"
+    },
+    "gx-game": {
+        "title": "GX Game",
+        "description": "",
+        "colors": [
+            "121019",
+            "641142",
+            "b71056",
+            "fa1e4e",
+            "fed7cd"
+        ],
+        "tags": [
+            "game"
+        ],
+        "createdAt": "2021-07-29T17:58:00.765Z",
+        "authorName": "Lucas Felipe",
+        "url": "https://lospec.com/palette-list/gx-game"
+    },
+    "synthwave-city": {
+        "title": "Synthwave City",
+        "description": "",
+        "colors": [
+            "f36688",
+            "da3182",
+            "9e316b",
+            "bb3ad3",
+            "684dda",
+            "5033db",
+            "261a5a",
+            "1a1044"
+        ],
+        "tags": [
+            "80s",
+            "pixeljeff",
+            "retro",
+            "retrowave",
+            "scifi"
+        ],
+        "createdAt": "2021-05-26T12:41:38.985Z",
+        "authorName": "Pixel Jeff",
+        "url": "https://lospec.com/palette-list/synthwave-city"
+    },
+    "hallowen-dream": {
+        "title": "Hallowen Dream",
+        "description": "Hello! This is my first palette! I hope you like it!\u00a0\u00a0",
+        "colors": [
+            "6d009c",
+            "ffcf00",
+            "ff8100",
+            "000000"
+        ],
+        "tags": [
+            "hallowen"
+        ],
+        "createdAt": "2021-05-24T10:37:08.682Z",
+        "authorName": "PolishGuy",
+        "url": "https://lospec.com/palette-list/hallowen-dream"
+    },
+    "superficial-35": {
+        "title": "superficial-35",
+        "description": "",
+        "colors": [
+            "ffcd9e",
+            "e0a575",
+            "b5714c",
+            "825244",
+            "5c3c41",
+            "853550",
+            "bd4844",
+            "e3773d",
+            "ffbc57",
+            "f7ed7b",
+            "c8db4b",
+            "7ac259",
+            "699434",
+            "3e7330",
+            "29524e",
+            "38423b",
+            "312836",
+            "1b1a2b",
+            "09090f",
+            "323266",
+            "296080",
+            "3678b5",
+            "4fa7b8",
+            "83dbce",
+            "c7e0e3",
+            "9fb2b5",
+            "918891",
+            "757575",
+            "575651",
+            "47264d",
+            "8a4576",
+            "de81ac",
+            "f5aec8",
+            "fae3dc",
+            "ffffff"
+        ],
+        "tags": [
+            "general",
+            "retro",
+            "superficial",
+            "vibrant"
+        ],
+        "createdAt": "2021-05-16T16:44:36.538Z",
+        "authorName": "daniel",
+        "url": "https://lospec.com/palette-list/superficial-35"
+    },
+    "nm5": {
+        "title": "NM5",
+        "description": "Inspired by an afternoon strolling through Santa Fe, New Mexico.\u00a0",
+        "colors": [
+            "d69770",
+            "d56d42",
+            "3cca96",
+            "917d64",
+            "3c2911"
+        ],
+        "tags": [
+            "adobe",
+            "desert",
+            "newmexico"
+        ],
+        "createdAt": "2021-08-22T13:18:44.679Z",
+        "authorName": "James Medd",
+        "url": "https://lospec.com/palette-list/nm5"
+    },
     "royal8": {
         "title": "Royal8",
         "description": "Purples and golds, useful for lots of different things!",
@@ -18272,7 +19125,7 @@
             "retro"
         ],
         "createdAt": "2020-11-30T15:33:52.195Z",
-        "authorName": "Mooncatdog",
+        "authorName": "Pixel",
         "url": "https://lospec.com/palette-list/moonlit-gb"
     },
     "robots-are-cool": {
@@ -18496,7 +19349,7 @@
             "calmness32"
         ],
         "createdAt": "2020-11-20T19:51:23.982Z",
-        "authorName": "Mooncatdog",
+        "authorName": "Pixel",
         "url": "https://lospec.com/palette-list/calmness"
     },
     "cgax16": {
@@ -27031,7 +27884,7 @@
     },
     "baba32": {
         "title": "Baba32",
-        "description": "A general purpose pallette, I personally use in my games<br />",
+        "description": "A general purpose pallette, I personally use in my games",
         "colors": [
             "52002d",
             "682e2e",
@@ -47417,9 +48270,9 @@
         "authorName": null,
         "url": "https://lospec.com/palette-list/nintendo-gameboy-arne"
     },
-    "zx-spectrum": {
-        "title": "ZX Spectrum",
-        "description": "The <a href=\"https://en.wikipedia.org/wiki/ZX_Spectrum\">ZX Spectrum</a> was an 8-bit personal computer released in 1982.",
+    "zx-spectrum-adjusted": {
+        "title": "ZX Spectrum (adjusted)",
+        "description": "Original one submitted to lospec, found to be innacurate",
         "colors": [
             "000000",
             "0022c7",
@@ -47443,7 +48296,7 @@
         ],
         "createdAt": "2017-04-25T16:47:29.651Z",
         "authorName": null,
-        "url": "https://lospec.com/palette-list/zx-spectrum"
+        "url": "https://lospec.com/palette-list/zx-spectrum-adjusted"
     },
     "crimso-22": {
         "title": "Crimso 22",
