@@ -1,4 +1,787 @@
 {
+    "nightclub": {
+        "title": "nightclub",
+        "description": "simplified version of: https://www.pixilart.com/palettes/nightclub-590 by ThaSilentArtist .",
+        "colors": [
+            "000000",
+            "0a264d",
+            "134fa3",
+            "38c5f8",
+            "f7fefe"
+        ],
+        "tags": [],
+        "createdAt": "2021-09-07T19:00:28.502Z",
+        "authorName": "Razor",
+        "url": "https://lospec.com/palette-list/nightclub"
+    },
+    "gameboy-yellow": {
+        "title": "GameBoy (Yellow)",
+        "description": "Custom SNES player palette for the original game boy.",
+        "colors": [
+            "292406",
+            "72611c",
+            "b99d32",
+            "f2ce44"
+        ],
+        "tags": [
+            "gameboy"
+        ],
+        "createdAt": "2021-09-06T23:16:30.300Z",
+        "authorName": "Vectorial Transcooler",
+        "url": "https://lospec.com/palette-list/gameboy-yellow"
+    },
+    "flipnote-dsi": {
+        "title": "Flipnote DSI",
+        "description": "Palette use limitation for Flipnote Studio software from the DS era. Note that artists use dithering techniques to blend the colors together.",
+        "colors": [
+            "000000",
+            "ff0000",
+            "0000ff",
+            "ffffff"
+        ],
+        "tags": [
+            "dsi"
+        ],
+        "createdAt": "2021-09-06T22:55:38.579Z",
+        "authorName": "Vectorial Transcooler",
+        "url": "https://lospec.com/palette-list/flipnote-dsi"
+    },
+    "flipnote-3ds": {
+        "title": "Flipnote 3DS",
+        "description": "Palette use limitation for Flipnote Studio software from the 3DS era. Note that artists use dithering techniques to blend the colors together.",
+        "colors": [
+            "000000",
+            "ff1010",
+            "0039ce",
+            "008431",
+            "ffe700",
+            "ffffff"
+        ],
+        "tags": [
+            "3ds"
+        ],
+        "createdAt": "2021-09-06T22:58:50.627Z",
+        "authorName": "Vectorial Transcooler",
+        "url": "https://lospec.com/palette-list/flipnote-3ds"
+    },
+    "def-16": {
+        "title": "Def 16",
+        "description": "Cool",
+        "colors": [
+            "e8e4ba",
+            "e6c66e",
+            "9bd98f",
+            "91b57e",
+            "41b547",
+            "d9784e",
+            "b89f7b",
+            "84a2c9",
+            "4293ab",
+            "86b8b6",
+            "d488ae",
+            "d474d4",
+            "6c84c7",
+            "c24695",
+            "a26dc7",
+            "3f59d9"
+        ],
+        "tags": [],
+        "createdAt": "2021-09-06T21:32:48.458Z",
+        "authorName": "Zant Gamer",
+        "url": "https://lospec.com/palette-list/def-16"
+    },
+    "mother-nature": {
+        "title": "Mother nature",
+        "description": "https://www.pixilart.com/art/mountain-8c70d46a340b940. \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0\u00a0A collection of soft greens and blues. \u00a0",
+        "colors": [
+            "6a8a99",
+            "84ada7",
+            "afcfc2",
+            "637f67",
+            "4e6e60",
+            "456356",
+            "2d434d",
+            "2b3e47",
+            "364d57",
+            "81967e",
+            "385450"
+        ],
+        "tags": [
+            "mountain",
+            "mountains",
+            "nature"
+        ],
+        "createdAt": "2021-09-06T21:02:22.489Z",
+        "authorName": "Razor",
+        "url": "https://lospec.com/palette-list/mother-nature"
+    },
+    "emphasis10": {
+        "title": "Emphasis10 ",
+        "description": "Purply blues turning to vibrant greens, colorful and zesty.",
+        "colors": [
+            "0d0613",
+            "051722",
+            "012c43",
+            "114b60",
+            "237178",
+            "399478",
+            "57b67f",
+            "6bd077",
+            "85e879",
+            "9ff26e"
+        ],
+        "tags": [
+            "blue",
+            "green",
+            "monoramp"
+        ],
+        "createdAt": "2021-09-06T02:27:06.328Z",
+        "authorName": "Glowberry",
+        "url": "https://lospec.com/palette-list/emphasis10"
+    },
+    "vaporsthetic": {
+        "title": "Vaporsthetic",
+        "description": "A palette inspired by outrun/vaporwave imagery",
+        "colors": [
+            "ffe0f7",
+            "f5c9eb",
+            "f5c1e5",
+            "fc92fa",
+            "fb6cff",
+            "ff7dcb",
+            "ff4aa7",
+            "feffbe",
+            "ffd08a",
+            "ff8370",
+            "cbffe6",
+            "83ded2",
+            "66b9c1",
+            "afe9ff",
+            "94c4ff",
+            "8f8cf3",
+            "a453f5",
+            "764ead",
+            "6a1483",
+            "482254"
+        ],
+        "tags": [
+            "80s",
+            "outrun",
+            "retro",
+            "vaporwave"
+        ],
+        "createdAt": "2021-09-05T18:07:58.114Z",
+        "authorName": "Pixl_Arty",
+        "url": "https://lospec.com/palette-list/vaporsthetic"
+    },
+    "autumn-breeze": {
+        "title": "Autumn Breeze",
+        "description": "The perfect palette for rosy cheecks, falltime fun, and suspicious imposters. Includes shades of brown, red, orange, and yellow.",
+        "colors": [
+            "2d1a15",
+            "6b2511",
+            "b61d1d",
+            "ce421a",
+            "e56520",
+            "e77e1b",
+            "f7a31b",
+            "ffbb18",
+            "d9cdbd",
+            "f6f0e9",
+            "e5d1a3",
+            "e5c57b",
+            "e1b36a",
+            "703424",
+            "904936",
+            "a35c49"
+        ],
+        "tags": [
+            "16",
+            "autumn",
+            "fall",
+            "orange",
+            "red",
+            "yellow"
+        ],
+        "createdAt": "2021-09-05T22:33:30.096Z",
+        "authorName": "Fractured Polygon",
+        "url": "https://lospec.com/palette-list/autumn-breeze"
+    },
+    "wheat-field": {
+        "title": "Wheat Field",
+        "description": "",
+        "colors": [
+            "97c89b",
+            "3e8e92",
+            "305472",
+            "1c1f2b",
+            "2c313c",
+            "625e60",
+            "999172",
+            "dfcd6d",
+            "b78f43",
+            "895c35"
+        ],
+        "tags": [
+            "bess",
+            "cozy",
+            "field",
+            "nature",
+            "soft",
+            "warm",
+            "wheat",
+            "wheatfield"
+        ],
+        "createdAt": "2021-09-05T17:23:18.470Z",
+        "authorName": "bess",
+        "url": "https://lospec.com/palette-list/wheat-field"
+    },
+    "autumn-comfort-18": {
+        "title": "Autumn Comfort 18",
+        "description": "Autumn Comfort 18 is a versatile 18 color palette with all your fall color needs. It has several easy to use color ramps with a lot of ways to mix and match shades to get those perfect autumn vibes. ",
+        "colors": [
+            "827b85",
+            "3d3640",
+            "14070e",
+            "95ab54",
+            "556641",
+            "31422d",
+            "ebd575",
+            "c9a455",
+            "946a2f",
+            "de5a21",
+            "8a3c0f",
+            "45240d",
+            "ad4737",
+            "7d2822",
+            "4a1309",
+            "945664",
+            "61202f",
+            "30101d"
+        ],
+        "tags": [
+            "18",
+            "autumn",
+            "fall",
+            "seasonal",
+            "warm"
+        ],
+        "createdAt": "2021-09-04T22:27:45.427Z",
+        "authorName": "River",
+        "url": "https://lospec.com/palette-list/autumn-comfort-18"
+    },
+    "guy-with-a-golden-circle-on-head": {
+        "title": "guy with a golden circle on head",
+        "description": "",
+        "colors": [
+            "290606",
+            "617673",
+            "9daabb",
+            "ffe100",
+            "ffce96"
+        ],
+        "tags": [],
+        "createdAt": "2021-09-04T11:25:33.775Z",
+        "authorName": "Rhiddhi Prasad Das",
+        "url": "https://lospec.com/palette-list/guy-with-a-golden-circle-on-head"
+    },
+    "serenity-25": {
+        "title": "Serenity 25",
+        "description": "A palette with really natural and earthy tones",
+        "colors": [
+            "332824",
+            "4d3826",
+            "70573f",
+            "827d71",
+            "cc9962",
+            "dbd6bc",
+            "defaff",
+            "edde6b",
+            "a3ab46",
+            "418244",
+            "394d3f",
+            "21294a",
+            "355b75",
+            "70838f",
+            "69c8db",
+            "adfff3",
+            "ffbf47",
+            "ff711f",
+            "c93f38",
+            "853d6e",
+            "4d2747",
+            "423b39",
+            "694e54",
+            "8f755a",
+            "b8a66c"
+        ],
+        "tags": [
+            "25",
+            "natural",
+            "nature",
+            "scenery",
+            "serenity"
+        ],
+        "createdAt": "2021-09-04T14:18:46.273Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/serenity-25"
+    },
+    "army-pallet": {
+        "title": "army pallet",
+        "description": "a 4 color comifloge pallet i made",
+        "colors": [
+            "000000",
+            "4b3a20",
+            "005d10",
+            "ced587"
+        ],
+        "tags": [
+            "4color",
+            "army",
+            "camo"
+        ],
+        "createdAt": "2021-09-03T15:49:26.304Z",
+        "authorName": "helperman",
+        "url": "https://lospec.com/palette-list/army-pallet"
+    },
+    "plume-edema": {
+        "title": "plume edema",
+        "description": "",
+        "colors": [
+            "262420",
+            "215fa3",
+            "fcfffb"
+        ],
+        "tags": [
+            "polyphorge",
+            "swelling",
+            "water"
+        ],
+        "createdAt": "2021-09-03T10:55:26.956Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/plume-edema"
+    },
+    "lowlands15": {
+        "title": "Lowlands15",
+        "description": "A nice pal.\u00a0",
+        "colors": [
+            "181824",
+            "17252e",
+            "223438",
+            "26452e",
+            "406b3e",
+            "5f874c",
+            "99a867",
+            "bdbd6a",
+            "e0d9ac",
+            "a69c53",
+            "8c6c35",
+            "6e462a",
+            "4f291b",
+            "4a1728",
+            "2d1d3b"
+        ],
+        "tags": [],
+        "createdAt": "2021-09-02T13:02:21.468Z",
+        "authorName": "Zant",
+        "url": "https://lospec.com/palette-list/lowlands15"
+    },
+    "shadow-slime": {
+        "title": "Shadow Slime",
+        "description": "It's night time, and you can barely make out something in the corner of your bedroom. It's... slimy?",
+        "colors": [
+            "1a1a04",
+            "3e3e3d",
+            "31825b",
+            "56e39f"
+        ],
+        "tags": [
+            "gameboy",
+            "gb",
+            "green",
+            "slime"
+        ],
+        "createdAt": "2021-09-01T23:47:41.844Z",
+        "authorName": "slimysubstance",
+        "url": "https://lospec.com/palette-list/shadow-slime"
+    },
+    "the-last-autumn": {
+        "title": "The Last Autumn",
+        "description": "",
+        "colors": [
+            "cbb917",
+            "cba017",
+            "ba7015",
+            "9f4312",
+            "801e0f",
+            "5a080e",
+            "390c05"
+        ],
+        "tags": [
+            "7colors",
+            "autumn",
+            "fall",
+            "nature",
+            "saturated"
+        ],
+        "createdAt": "2021-09-01T13:24:34.306Z",
+        "authorName": "AteBits",
+        "url": "https://lospec.com/palette-list/the-last-autumn"
+    },
+    "spoozy": {
+        "title": "Spoozy",
+        "description": "A Halloween styled Palette centered around the Color Orange. A mix of Spooky and Cozy, Spoozy\u00a0",
+        "colors": [
+            "fffef6",
+            "ffc118",
+            "ff8b18",
+            "653611",
+            "261305",
+            "160c09"
+        ],
+        "tags": [
+            "halloween"
+        ],
+        "createdAt": "2021-09-01T00:50:43.837Z",
+        "authorName": "ItzFred",
+        "url": "https://lospec.com/palette-list/spoozy"
+    },
+    "seabed-1": {
+        "title": "Seabed 1",
+        "description": "",
+        "colors": [
+            "695665",
+            "7c768d",
+            "7eccb8",
+            "b4e1c1",
+            "e6bdf0",
+            "c491d0",
+            "91659c"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-31T20:48:28.243Z",
+        "authorName": "NorwegianLasanga",
+        "url": "https://lospec.com/palette-list/seabed-1"
+    },
+    "lamore-luce": {
+        "title": "L'Amore Luce",
+        "description": "",
+        "colors": [
+            "ff4ca6",
+            "14b9a0",
+            "190033"
+        ],
+        "tags": [],
+        "createdAt": "2021-08-31T17:46:18.215Z",
+        "authorName": "Saywanay",
+        "url": "https://lospec.com/palette-list/lamore-luce"
+    },
+    "collaborative64beta-lospec1000": {
+        "title": "Collaborative64(Beta LOSPEC1000)",
+        "description": "A palatte from a near-forgotten collab in the Lospec Discord server. 20plus contributers submitted hues including Space Sandwich, Pizza Machine, Skeddles, Lady Marigold, Unsettled, Glacier, Crub, Isa, myself, and more which I will archive if I have time.",
+        "colors": [
+            "010f0c",
+            "161b22",
+            "281e3f",
+            "3d2219",
+            "172d4d",
+            "2f3031",
+            "2c2977",
+            "273a33",
+            "5e154b",
+            "363943",
+            "243397",
+            "522c78",
+            "4d3d3d",
+            "36446a",
+            "15513e",
+            "663c23",
+            "7a2e27",
+            "4b4948",
+            "851f2b",
+            "5d5e58",
+            "2f60c4",
+            "b52033",
+            "815c46",
+            "8b46ba",
+            "227b41",
+            "526e9d",
+            "a5494c",
+            "b63d80",
+            "756e65",
+            "a05d3e",
+            "a8625c",
+            "3e9339",
+            "dc443e",
+            "83897a",
+            "aa823e",
+            "409ecc",
+            "70a246",
+            "de72b3",
+            "a39ad3",
+            "ce8c86",
+            "c09871",
+            "da886f",
+            "f1824b",
+            "a6a69b",
+            "42bf67",
+            "e8a283",
+            "b7b5c5",
+            "94bed1",
+            "e0a4fb",
+            "dabb55",
+            "94d74a",
+            "e4c28d",
+            "c8ccb9",
+            "f6bf63",
+            "f8bbb2",
+            "54e7e7",
+            "fece36",
+            "d7d5fd",
+            "cee758",
+            "79f7be",
+            "fcd8b0",
+            "f8e770",
+            "ffe6f8",
+            "f3ffef"
+        ],
+        "tags": [
+            "64",
+            "6bit",
+            "collab",
+            "collaboration",
+            "discord",
+            "general"
+        ],
+        "createdAt": "2021-08-30T22:03:31.685Z",
+        "authorName": "Kattman",
+        "url": "https://lospec.com/palette-list/collaborative64beta-lospec1000"
+    },
+    "murky-water-10": {
+        "title": "Murky Water 10",
+        "description": "This is my first palette! But this is a lowly saturated palette with greens and blues, designed for murky or darker pixel art.\u00a0",
+        "colors": [
+            "17261a",
+            "364d39",
+            "66806a",
+            "9bb38f",
+            "bcccad",
+            "211726",
+            "3d364d",
+            "666a80",
+            "8f9bb3",
+            "adc7cc"
+        ],
+        "tags": [
+            "10",
+            "blue",
+            "dark",
+            "fog",
+            "green",
+            "murky",
+            "pastel",
+            "unsaturated",
+            "water"
+        ],
+        "createdAt": "2021-08-30T19:25:40.522Z",
+        "authorName": "DaSunfish",
+        "url": "https://lospec.com/palette-list/murky-water-10"
+    },
+    "neo-5": {
+        "title": "NEO-5",
+        "description": "",
+        "colors": [
+            "0e0e0e",
+            "5433be",
+            "e624af",
+            "3df9ea",
+            "effafa"
+        ],
+        "tags": [
+            "neo",
+            "neon"
+        ],
+        "createdAt": "2021-08-29T22:34:34.288Z",
+        "authorName": "MunchE",
+        "url": "https://lospec.com/palette-list/neo-5"
+    },
+    "comfy52": {
+        "title": "comfy52",
+        "description": "Wide range of colors with the focus on stylized landscape and character design.",
+        "colors": [
+            "3f4328",
+            "5f7132",
+            "94ad39",
+            "c2d64f",
+            "eff37c",
+            "e3e6ac",
+            "a5c67c",
+            "739a70",
+            "4d6659",
+            "343f41",
+            "282e3b",
+            "1a1f2e",
+            "1e314b",
+            "2f4c6c",
+            "3d80a3",
+            "63c4cc",
+            "9ae5d5",
+            "e5efef",
+            "bac9cd",
+            "8d99a4",
+            "696f80",
+            "414453",
+            "b8a1c2",
+            "7e659b",
+            "5c3a6f",
+            "39275e",
+            "2f193e",
+            "4e1a49",
+            "7b234c",
+            "b23657",
+            "d16974",
+            "edaaa3",
+            "eecb90",
+            "e1a845",
+            "c57835",
+            "8d4830",
+            "e47259",
+            "c33c40",
+            "8d3649",
+            "5c2b34",
+            "3c252b",
+            "684039",
+            "825646",
+            "b77862",
+            "7d595d",
+            "533b41",
+            "3f333b",
+            "2b222a",
+            "6d4e4b",
+            "867066",
+            "b49d7e",
+            "c4c6b8"
+        ],
+        "tags": [
+            "52",
+            "bess",
+            "character",
+            "comfy",
+            "comfy52",
+            "nature",
+            "soft",
+            "warm"
+        ],
+        "createdAt": "2021-08-30T04:45:54.719Z",
+        "authorName": "bess",
+        "url": "https://lospec.com/palette-list/comfy52"
+    },
+    "pirates-adventure-ii": {
+        "title": "Pirate's Adventure II",
+        "description": "Second edition of: https://lospec.com/palette-list/pirates-adventure\u00a0",
+        "colors": [
+            "070108",
+            "3f004a",
+            "65218f",
+            "4b1bcf",
+            "4253ed",
+            "5786f2",
+            "76c7fa",
+            "ffffff",
+            "9cbf67",
+            "568a37",
+            "265e26",
+            "183d24",
+            "062105",
+            "080201",
+            "3d0800",
+            "592505",
+            "8c5200",
+            "c79e08",
+            "f7db23",
+            "fdff8f",
+            "ffe596",
+            "e08f77",
+            "b58057",
+            "8a503e",
+            "5c3a41",
+            "3c2940",
+            "1e121f",
+            "151d40",
+            "2c437a",
+            "236d7a",
+            "4c93ad",
+            "63c2c9",
+            "88ebeb",
+            "b8fdff"
+        ],
+        "tags": [
+            "sequel"
+        ],
+        "createdAt": "2021-08-30T01:09:30.911Z",
+        "authorName": "Siegraas",
+        "url": "https://lospec.com/palette-list/pirates-adventure-ii"
+    },
+    "chee48": {
+        "title": "Chee48",
+        "description": "A pallete which is desaturated and comes with all your basic colors.",
+        "colors": [
+            "000000",
+            "282828",
+            "424242",
+            "676767",
+            "858585",
+            "b9b9b9",
+            "d9d9d9",
+            "e5efff",
+            "c7dcff",
+            "a0b7e0",
+            "7a81b7",
+            "5b5c8f",
+            "464270",
+            "3a3456",
+            "211b2d",
+            "362c44",
+            "4e3f5b",
+            "6b5373",
+            "98799b",
+            "bb79ae",
+            "9f628a",
+            "834c68",
+            "733f51",
+            "5d2c36",
+            "4b2022",
+            "311612",
+            "1e0e09",
+            "501619",
+            "5e1e1e",
+            "7e3135",
+            "943d46",
+            "a64e60",
+            "bd5c74",
+            "cb6886",
+            "773c36",
+            "885042",
+            "966651",
+            "ad7f66",
+            "c79f7d",
+            "e0c193",
+            "ecdba6",
+            "9ccecd",
+            "78b0a9",
+            "508a7a",
+            "42795e",
+            "2e603b",
+            "1d4624",
+            "0d250b"
+        ],
+        "tags": [
+            "chee48"
+        ],
+        "createdAt": "2021-08-29T22:48:35.881Z",
+        "authorName": "IAmCheeseman",
+        "url": "https://lospec.com/palette-list/chee48"
+    },
     "skyline": {
         "title": "Skyline",
         "description": "A dullish pallet made for landscapes. This can be used to draw simple landscape features in a not distracting way so it balances with objects farther away.\u00a0",
@@ -2074,7 +2857,13 @@
             "348780",
             "c2f0ea"
         ],
-        "tags": [],
+        "tags": [
+            "4color",
+            "blue",
+            "creepy",
+            "dark",
+            "mist"
+        ],
         "createdAt": "2021-08-24T17:33:23.336Z",
         "authorName": "helperman",
         "url": "https://lospec.com/palette-list/dark-night"
@@ -2107,7 +2896,9 @@
             "667dcc",
             "b3e6e1"
         ],
-        "tags": [],
+        "tags": [
+            "lightinthenight"
+        ],
         "createdAt": "2021-08-24T19:34:06.190Z",
         "authorName": "helperman",
         "url": "https://lospec.com/palette-list/night-light"
@@ -5177,7 +5968,7 @@
             "moon"
         ],
         "createdAt": "2021-08-18T18:49:01.317Z",
-        "authorName": "patchoulitei",
+        "authorName": "patchouli",
         "url": "https://lospec.com/palette-list/hope-diamond"
     },
     "journey-6": {
@@ -6380,7 +7171,7 @@
         "url": "https://lospec.com/palette-list/3xdesk"
     },
     "st-gameboy-lightgrey": {
-        "title": "ST-GameBoy-LightGrey",
+        "title": "ST GameBoy LightGrey",
         "description": "My 2-nd palette and the lighting edition",
         "colors": [
             "281d73",
@@ -6395,7 +7186,7 @@
             "light",
             "lightgray",
             "purple",
-            "skillerthomson"
+            "thest1076"
         ],
         "createdAt": "2021-05-15T19:27:39.899Z",
         "authorName": "Skiller Thomson",
@@ -14288,7 +15079,7 @@
         "url": "https://lospec.com/palette-list/pixelplace-palette-selection"
     },
     "st-gameboy": {
-        "title": "ST-GameBoy",
+        "title": "ST GameBoy",
         "description": "My first palette in Lospec, if you liked it? Then like or write in the comments.",
         "colors": [
             "141433",
@@ -14301,7 +15092,7 @@
             "gameboy",
             "gb",
             "purple",
-            "skillerthomson"
+            "thest1076"
         ],
         "createdAt": "2021-03-27T07:57:25.811Z",
         "authorName": "Skiller Thomson",
