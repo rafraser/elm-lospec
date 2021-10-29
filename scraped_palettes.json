@@ -1,4 +1,410 @@
 {
+    "useful-25": {
+        "title": "Useful 25",
+        "description": "A very versatile palette :)",
+        "colors": [
+            "5e6282",
+            "748499",
+            "afc3d1",
+            "ffffff",
+            "ffe7c7",
+            "99e067",
+            "24c786",
+            "61a15f",
+            "1b854e",
+            "255959",
+            "2e3e52",
+            "2a2540",
+            "5d4d75",
+            "3a6d96",
+            "569ac7",
+            "f0ac7f",
+            "fc7c41",
+            "cc3f67",
+            "82385b",
+            "542c4a",
+            "3d2a26",
+            "1a131a",
+            "2e1d25",
+            "614238",
+            "8a5b3f"
+        ],
+        "tags": [
+            "25",
+            "master",
+            "palette",
+            "useful"
+        ],
+        "createdAt": "2021-10-22T21:24:47.482Z",
+        "authorName": "Orbitron",
+        "url": "https://lospec.com/palette-list/useful-25"
+    },
+    "honeyskin-palette": {
+        "title": "Honeyskin palette",
+        "description": "",
+        "colors": [
+            "e7bd8b",
+            "bc844c",
+            "947454",
+            "67533c"
+        ],
+        "tags": [],
+        "createdAt": "2021-10-22T20:23:26.531Z",
+        "authorName": "iker fernandez",
+        "url": "https://lospec.com/palette-list/honeyskin-palette"
+    },
+    "st-gameboy-redrose": {
+        "title": "ST GameBoy RedRose",
+        "description": "Which side are you on? Blue (Auqa) or Red (RedRose)?",
+        "colors": [
+            "260f0d",
+            "591616",
+            "991f27",
+            "cc3d50"
+        ],
+        "tags": [
+            "artist",
+            "gameboy",
+            "gb",
+            "red",
+            "rose",
+            "scarlet",
+            "thest1076"
+        ],
+        "createdAt": "2021-10-21T15:42:55.357Z",
+        "authorName": "Skiller Thomson",
+        "url": "https://lospec.com/palette-list/st-gameboy-redrose"
+    },
+    "dreamful-space": {
+        "title": "Dreamful Space",
+        "description": "A sweet space palette that mainly uses purple and yellow.",
+        "colors": [
+            "21193c",
+            "932f7b",
+            "e67b8b",
+            "f5d2b8"
+        ],
+        "tags": [
+            "2bit",
+            "4color",
+            "dream",
+            "soft",
+            "space"
+        ],
+        "createdAt": "2021-10-21T13:56:52.804Z",
+        "authorName": "PowerAV",
+        "url": "https://lospec.com/palette-list/dreamful-space"
+    },
+    "4-spoopy-4-u": {
+        "title": "4 spoopy 4 u",
+        "description": "haha funny october thing!",
+        "colors": [
+            "151c15",
+            "5a521a",
+            "fc6231",
+            "fcde84"
+        ],
+        "tags": [
+            "halloween",
+            "polyphorge",
+            "pumpkin"
+        ],
+        "createdAt": "2021-10-21T22:31:46.595Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/4-spoopy-4-u"
+    },
+    "archererer24": {
+        "title": "archererer24",
+        "description": "i made palette",
+        "colors": [
+            "201616",
+            "492b3a",
+            "753636",
+            "b22a46",
+            "e34949",
+            "ff8149",
+            "ffbf5b",
+            "ffdecf",
+            "ffffff",
+            "93ffce",
+            "70ccff",
+            "6f80eb",
+            "306c9e",
+            "573082",
+            "7c339e",
+            "bc51be",
+            "eb73c9",
+            "ffadc6",
+            "69eb5f",
+            "1bca7b",
+            "439e99",
+            "825f3b",
+            "7f864d",
+            "aa9a56"
+        ],
+        "tags": [
+            "archera"
+        ],
+        "createdAt": "2021-10-22T01:11:56.132Z",
+        "authorName": "archer-a",
+        "url": "https://lospec.com/palette-list/archererer24"
+    },
+    "maomaoyts-doodle": {
+        "title": "MaoMaoYT's Doodle",
+        "description": "32 colors i use for doodling",
+        "colors": [
+            "310041",
+            "6f0286",
+            "ff2b5e",
+            "ffa804",
+            "fcff92",
+            "22ff5b",
+            "5f86d5",
+            "523b73",
+            "183553",
+            "22578d",
+            "b0d7ff",
+            "22cccc",
+            "feda68",
+            "e94963",
+            "a83f5d",
+            "532a48",
+            "351232",
+            "772d46",
+            "cc4452",
+            "e4b79a",
+            "f7e4ac",
+            "dbd7a8",
+            "fca19e",
+            "ff3c7e",
+            "5a2949",
+            "18183a",
+            "9f1793",
+            "f43c7c",
+            "ffb39b",
+            "ffe0a9",
+            "eef663",
+            "9dec5f"
+        ],
+        "tags": [],
+        "createdAt": "2021-10-20T22:34:08.056Z",
+        "authorName": "MaoMaoYT owo",
+        "url": "https://lospec.com/palette-list/maomaoyts-doodle"
+    },
+    "vicron": {
+        "title": "Vicron",
+        "description": "-INJECT\u00a0 \u00a0 \u00a0 \u00a0 -B Lymphocyte has not called for help. Yet.",
+        "colors": [
+            "573746",
+            "703d57",
+            "994551",
+            "8f6f6a",
+            "a38b87",
+            "baa4a0"
+        ],
+        "tags": [
+            "6colors",
+            "blood",
+            "desaturated",
+            "red",
+            "veins",
+            "virus",
+            "white"
+        ],
+        "createdAt": "2021-10-21T07:18:22.847Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/vicron"
+    },
+    "custodian-8": {
+        "title": "CUSTODIAN-8",
+        "description": "Palette of the Stalwart Custodian : Multi-purpose palette for painting-style pixel art, dark atmosphere. if you working on a lovecraftian point-and-click, these muddy colors are perfect for sickly skin tones, mummified flesh, rotting wallpapers and worn out wood :^)\u00a0",
+        "colors": [
+            "2b3634",
+            "474848",
+            "6e5f52",
+            "a2856c",
+            "a0a294",
+            "dcb9a0",
+            "f3dbc6",
+            "fffefe"
+        ],
+        "tags": [],
+        "createdAt": "2021-10-21T02:15:19.600Z",
+        "authorName": "Shmeuh",
+        "url": "https://lospec.com/palette-list/custodian-8"
+    },
+    "rampy16": {
+        "title": "Rampy16",
+        "description": "The palette I'm using currently for my pixel arts. 7 color ramps (gray, red, purple, blue, cyan, green and yellow) that can be used for each other",
+        "colors": [
+            "252945",
+            "515369",
+            "848fa1",
+            "d9d9cc",
+            "a13567",
+            "e06767",
+            "7d309c",
+            "bd46b7",
+            "4e4cc7",
+            "5d74cf",
+            "7994d4",
+            "79bee0",
+            "63b04f",
+            "a7d950",
+            "d4996a",
+            "d9cf91"
+        ],
+        "tags": [
+            "16",
+            "anoob",
+            "pixelart",
+            "rampy16"
+        ],
+        "createdAt": "2021-10-20T14:45:28.601Z",
+        "authorName": "ANoob",
+        "url": "https://lospec.com/palette-list/rampy16"
+    },
+    "green-top-down": {
+        "title": "Green Top-Down",
+        "description": "Excellent for practicing",
+        "colors": [
+            "f0fa37",
+            "9fd943",
+            "72b046",
+            "51946a",
+            "267049",
+            "28594f"
+        ],
+        "tags": [],
+        "createdAt": "2021-10-20T04:07:09.018Z",
+        "authorName": "By8Bits",
+        "url": "https://lospec.com/palette-list/green-top-down"
+    },
+    "wooden-gameboy": {
+        "title": "Wooden Gameboy",
+        "description": "Wood color variation for gameboy.",
+        "colors": [
+            "56342a",
+            "986b41",
+            "b68e65",
+            "d7ba89"
+        ],
+        "tags": [
+            "custom"
+        ],
+        "createdAt": "2021-10-19T20:49:08.639Z",
+        "authorName": "Vectorial Transcooler",
+        "url": "https://lospec.com/palette-list/wooden-gameboy"
+    },
+    "tzi-24": {
+        "title": "TZI 24",
+        "description": "",
+        "colors": [
+            "251b2b",
+            "4c343f",
+            "3f414a",
+            "52606a",
+            "759c7f",
+            "8cba9c",
+            "bdd1a2",
+            "8a8475",
+            "678c92",
+            "8bacc9",
+            "95dfe3",
+            "633f61",
+            "724d8f",
+            "aa69c9",
+            "ed9dd7",
+            "a8596d",
+            "df6464",
+            "ff9f60",
+            "f9cb57",
+            "875c5c",
+            "b67d66",
+            "d0a176",
+            "ffcc79",
+            "e7e3ad"
+        ],
+        "tags": [
+            "unsaturated"
+        ],
+        "createdAt": "2021-10-20T02:10:23.931Z",
+        "authorName": "Rytzi",
+        "url": "https://lospec.com/palette-list/tzi-24"
+    },
+    "red-dragon-18": {
+        "title": "Red-Dragon-18",
+        "description": "",
+        "colors": [
+            "4d1933",
+            "733041",
+            "853539",
+            "9c3333",
+            "a34a2f",
+            "ab5933",
+            "c78654",
+            "d1a464",
+            "e3bf76",
+            "ebdb8a",
+            "e6caa1",
+            "dba27f",
+            "c9826e",
+            "ab6767",
+            "995e68",
+            "80496a",
+            "4f3c4f",
+            "2b2730"
+        ],
+        "tags": [
+            "red"
+        ],
+        "createdAt": "2021-10-19T12:15:02.936Z",
+        "authorName": "Valerie Lynn",
+        "url": "https://lospec.com/palette-list/red-dragon-18"
+    },
+    "e-16": {
+        "title": "E-16",
+        "description": "",
+        "colors": [
+            "0f0012",
+            "004f3f",
+            "009e4a",
+            "1cba33",
+            "d4f250",
+            "ffed87",
+            "330033",
+            "b3122d",
+            "cc2929",
+            "e6653a",
+            "ffbb5c",
+            "330066",
+            "1a0099",
+            "1433cc",
+            "30d2f2",
+            "4cffb4"
+        ],
+        "tags": [],
+        "createdAt": "2021-10-19T14:16:24.939Z",
+        "authorName": "yedamameday",
+        "url": "https://lospec.com/palette-list/e-16"
+    },
+    "solarize": {
+        "title": "Solarize",
+        "description": "A warm palette based on artwork from the game Destiny 2",
+        "colors": [
+            "ffff4e",
+            "fece84",
+            "e59c7b",
+            "f5704b",
+            "a86577"
+        ],
+        "tags": [
+            "warm"
+        ],
+        "createdAt": "2021-10-18T19:07:18.260Z",
+        "authorName": "Glamdring804",
+        "url": "https://lospec.com/palette-list/solarize"
+    },
     "untitled37": {
         "title": "Untitled37",
         "description": "Colorful and vibrant master palette with 37 colors.",
