@@ -1,4 +1,567 @@
 {
+    "shadow-violet": {
+        "title": "shadow violet",
+        "description": "",
+        "colors": [
+            "191818",
+            "7b60a6",
+            "d4c8bb"
+        ],
+        "tags": [
+            "polyphorge",
+            "purple"
+        ],
+        "createdAt": "2021-11-25T17:14:54.720Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/shadow-violet"
+    },
+    "banan4": {
+        "title": "Banan4",
+        "description": "Just a banana colored pallete.\u00a0",
+        "colors": [
+            "fff749",
+            "fff516",
+            "924826",
+            "773314"
+        ],
+        "tags": [
+            "banan",
+            "banana",
+            "umbl"
+        ],
+        "createdAt": "2021-11-23T04:30:55.117Z",
+        "authorName": "Umbl",
+        "url": "https://lospec.com/palette-list/banan4"
+    },
+    "atom-8": {
+        "title": "atom-8 \u2622",
+        "description": "very retro ;)",
+        "colors": [
+            "b30000",
+            "ff8000",
+            "ffffaa",
+            "6cd900",
+            "008000",
+            "000000",
+            "404080",
+            "888888"
+        ],
+        "tags": [
+            "atom",
+            "polyphorge",
+            "retro",
+            "vibbrant"
+        ],
+        "createdAt": "2021-11-24T00:38:57.451Z",
+        "authorName": "polyphorge",
+        "url": "https://lospec.com/palette-list/atom-8"
+    },
+    "ty-old-90s-adventure-29": {
+        "title": "[TY Old 90s Adventure] - 29 -",
+        "description": "Yet another depressing looking palette i made. It could be used to create something retro from the 90s? or atleast that's the point. To get the most out of it you have to combine colors and not only follow the ramps, be creative!",
+        "colors": [
+            "7899bf",
+            "425a58",
+            "31444a",
+            "182029",
+            "eed2cd",
+            "cd959c",
+            "7a6260",
+            "534255",
+            "2f2f4a",
+            "4a3434",
+            "caa982",
+            "856440",
+            "666145",
+            "5a483a",
+            "352e24",
+            "8bb28b",
+            "628f3e",
+            "616528",
+            "ba9450",
+            "705e2c",
+            "3f4029",
+            "855139",
+            "703c22",
+            "9c4429",
+            "53241e",
+            "bababa",
+            "737d7b",
+            "454545",
+            "000000"
+        ],
+        "tags": [
+            "29",
+            "adventure",
+            "darkfantasy",
+            "desaturated",
+            "medieval",
+            "retro",
+            "tobyyasha"
+        ],
+        "createdAt": "2021-11-24T08:25:23.761Z",
+        "authorName": "Toby_Yasha",
+        "url": "https://lospec.com/palette-list/ty-old-90s-adventure-29"
+    },
+    "enchanted-purple": {
+        "title": "Enchanted Purple",
+        "description": "a palette that can be used for purple glowing objects\u00a0",
+        "colors": [
+            "16254a",
+            "3a4278",
+            "4d4e8f",
+            "605a9e",
+            "746fb3",
+            "8071b5",
+            "917ac2",
+            "9877c5",
+            "c594e6",
+            "e1a8fa",
+            "f5c1ff",
+            "fccfff"
+        ],
+        "tags": [
+            "enchanted",
+            "glow",
+            "purple"
+        ],
+        "createdAt": "2021-11-24T09:28:32.337Z",
+        "authorName": "Kaiburn",
+        "url": "https://lospec.com/palette-list/enchanted-purple"
+    },
+    "4pi": {
+        "title": "4pi",
+        "description": "A small, vibrant palette based off a shortened version of the PICO-8 palette.",
+        "colors": [
+            "ffe2ce",
+            "f56214",
+            "ffc414",
+            "3bd827",
+            "147658",
+            "14c4ce",
+            "1d3162",
+            "a73176"
+        ],
+        "tags": [
+            "pico8",
+            "vibrant"
+        ],
+        "createdAt": "2021-11-23T14:53:22.429Z",
+        "authorName": "Bo Tie",
+        "url": "https://lospec.com/palette-list/4pi"
+    },
+    "from-blue-to-green": {
+        "title": "from blue to green",
+        "description": "its my first pallet for a game im creating",
+        "colors": [
+            "03012b",
+            "0a164a",
+            "163b74",
+            "215c8c",
+            "2398b8",
+            "23907a",
+            "1f7a5d",
+            "19613b",
+            "135324",
+            "0e3511"
+        ],
+        "tags": [
+            "blue",
+            "gameboy",
+            "green",
+            "oldschool"
+        ],
+        "createdAt": "2021-11-20T21:49:26.828Z",
+        "authorName": "WesleyWays",
+        "url": "https://lospec.com/palette-list/from-blue-to-green"
+    },
+    "ghost-town": {
+        "title": "Ghost Town",
+        "description": "A green, Erie and ghostly palette.",
+        "colors": [
+            "2f325d",
+            "39456d",
+            "425879",
+            "496b83",
+            "517d91",
+            "528c9f",
+            "54a295",
+            "70bc93",
+            "8cd589",
+            "b7e097",
+            "daefab",
+            "f1f2b6"
+        ],
+        "tags": [
+            "erie",
+            "spooky"
+        ],
+        "createdAt": "2021-11-22T06:23:31.762Z",
+        "authorName": "Kaiburn",
+        "url": "https://lospec.com/palette-list/ghost-town"
+    },
+    "viridian-vibrant": {
+        "title": "Viridian Vibrant",
+        "description": "This Palette Was Made By ViridianTelamon.",
+        "colors": [
+            "d50000",
+            "616161",
+            "ffeb3b",
+            "5d4037",
+            "1a237e",
+            "673ab7",
+            "388e3c",
+            "ff5722",
+            "ffffff",
+            "000000"
+        ],
+        "tags": [
+            "cool",
+            "fun",
+            "game",
+            "vibrant"
+        ],
+        "createdAt": "2021-11-20T20:02:54.951Z",
+        "authorName": "Viridian",
+        "url": "https://lospec.com/palette-list/viridian-vibrant"
+    },
+    "viridian-blue": {
+        "title": "Viridian Blue",
+        "description": "This Palette was made by ViridianTelamon.",
+        "colors": [
+            "1a237e",
+            "303f9f",
+            "1565c0",
+            "82b1ff",
+            "ffffff",
+            "000000"
+        ],
+        "tags": [
+            "blue",
+            "cool",
+            "game",
+            "sky"
+        ],
+        "createdAt": "2021-11-20T19:34:33.289Z",
+        "authorName": "Viridian",
+        "url": "https://lospec.com/palette-list/viridian-blue"
+    },
+    "cl8uds": {
+        "title": "CL8UDS",
+        "description": "This palette is particularly suited for drawing clouds at sunset, but feel free to use it in any way you'd like to :)",
+        "colors": [
+            "fcb08c",
+            "ef9d7f",
+            "d6938a",
+            "b48d92",
+            "a597a1",
+            "8fa0bf",
+            "9aabc9",
+            "a5b7d4"
+        ],
+        "tags": [
+            "clouds",
+            "sunset",
+            "unsettled"
+        ],
+        "createdAt": "2021-11-24T21:00:52.433Z",
+        "authorName": "_Nicola",
+        "url": "https://lospec.com/palette-list/cl8uds"
+    },
+    "red-poster": {
+        "title": "Red Poster",
+        "description": "Someday I came up with idea to make a palette based on color sheme which was used in many Soviet propaganda posters wich use grey, red and black colors on a biege paper.",
+        "colors": [
+            "e8d6c0",
+            "92938d",
+            "a1281c",
+            "000000"
+        ],
+        "tags": [
+            "gameboy",
+            "gb",
+            "poster",
+            "soviet",
+            "vb",
+            "virtualboy"
+        ],
+        "createdAt": "2021-11-21T16:40:17.758Z",
+        "authorName": "Nenner KN",
+        "url": "https://lospec.com/palette-list/red-poster"
+    },
+    "ancientheritage30": {
+        "title": "AncientHeritage30",
+        "description": "A palette created for a game jam project (itch.io's Cultural Heritage Game Jam)",
+        "colors": [
+            "020405",
+            "15212b",
+            "203242",
+            "2d475e",
+            "436879",
+            "64a6c2",
+            "77d9d5",
+            "e9f1f2",
+            "b0b2b5",
+            "7a818c",
+            "53585e",
+            "7d4534",
+            "af6b42",
+            "ffa861",
+            "fff09c",
+            "5f1a29",
+            "92283e",
+            "c74e33",
+            "f0783e",
+            "1e3838",
+            "294d46",
+            "336353",
+            "6d996a",
+            "611f49",
+            "8c4c80",
+            "9a74b5",
+            "ab9de3",
+            "332614",
+            "4d3b22",
+            "715948"
+        ],
+        "tags": [
+            "30",
+            "ancient",
+            "artifact",
+            "atlantean",
+            "atlantis",
+            "blue",
+            "brown",
+            "gold",
+            "green",
+            "heritage",
+            "purple",
+            "white"
+        ],
+        "createdAt": "2021-11-21T17:44:16.989Z",
+        "authorName": "Sarahboev",
+        "url": "https://lospec.com/palette-list/ancientheritage30"
+    },
+    "purplemorning8": {
+        "title": "PurpleMorning8",
+        "description": "Palette from my PJ secret santa 2020 piece.\u00a0",
+        "colors": [
+            "211d38",
+            "2e2a4f",
+            "3b405e",
+            "60556e",
+            "9a6278",
+            "c7786f",
+            "cfa98a",
+            "cdd4a5"
+        ],
+        "tags": [
+            "8",
+            "blue",
+            "cool",
+            "eight",
+            "gold",
+            "indigo",
+            "morning",
+            "purple",
+            "sunrise",
+            "sunset",
+            "warm",
+            "yellow"
+        ],
+        "createdAt": "2021-11-21T18:28:46.831Z",
+        "authorName": "Sarahboev",
+        "url": "https://lospec.com/palette-list/purplemorning8"
+    },
+    "punolit": {
+        "title": "Punolit",
+        "description": "Why did this take me so long",
+        "colors": [
+            "caebe0",
+            "729aa1",
+            "446077",
+            "2e3850",
+            "1e182e",
+            "14081a",
+            "070109",
+            "091820",
+            "123735",
+            "2f6b4e",
+            "4b974f",
+            "91b95b",
+            "e6e29e",
+            "dccd93",
+            "b7836b",
+            "995154",
+            "6b2c40",
+            "310e25",
+            "3a2140",
+            "6e3f5f",
+            "97576c"
+        ],
+        "tags": [
+            "blue",
+            "green",
+            "lighthing",
+            "purple",
+            "red",
+            "yellow"
+        ],
+        "createdAt": "2021-11-21T21:41:00.819Z",
+        "authorName": "Punoli",
+        "url": "https://lospec.com/palette-list/punolit"
+    },
+    "moonlight-15": {
+        "title": "Moonlight 15",
+        "description": "Larger, updated version of my Moonlight GB palette. Palette is suitable for night scenes, underwater, or bioluminescence. It has a mystical, ethereal feeling.",
+        "colors": [
+            "030206",
+            "070918",
+            "090f33",
+            "091e4d",
+            "083253",
+            "0d2f87",
+            "0a4ca0",
+            "2684ce",
+            "36b5f5",
+            "3afffb",
+            "83c16f",
+            "63a460",
+            "3d824e",
+            "2e6749",
+            "1f4b43"
+        ],
+        "tags": [
+            "bioluminescent",
+            "blue",
+            "bright",
+            "glow",
+            "green",
+            "moonlight",
+            "natural",
+            "night",
+            "saturated",
+            "underwater",
+            "water"
+        ],
+        "createdAt": "2021-11-20T20:21:42.955Z",
+        "authorName": "Tofu",
+        "url": "https://lospec.com/palette-list/moonlight-15"
+    },
+    "pixel-joint-ranks": {
+        "title": "Pixel Joint Ranks",
+        "description": "This is the palette for the Pixel Joint ranks by [thUg]/Ensellitis. Use it if you want to make your own Pixel Joint ranks.",
+        "colors": [
+            "000000",
+            "2f2f2f",
+            "4a4a4a",
+            "555555",
+            "696969",
+            "808080",
+            "aeaeae",
+            "ffffff",
+            "dee7ec",
+            "c8cfff",
+            "b8c3e0",
+            "899aff",
+            "716bde",
+            "4944b8",
+            "2c2c7c",
+            "580065",
+            "9100a8",
+            "c800e9",
+            "ff7d8c",
+            "de2245",
+            "a60033",
+            "641e26",
+            "650019",
+            "862900",
+            "975b2b",
+            "be7400",
+            "db8145",
+            "efa633",
+            "f2baa0",
+            "ffd6bb",
+            "ffd489",
+            "fff8a7",
+            "e8ebb5",
+            "dae9ad",
+            "dcf47c",
+            "87ce34",
+            "359d35",
+            "1b6921",
+            "164817",
+            "6c792f",
+            "a08b44",
+            "b7bf8b",
+            "908ac0",
+            "7f6892",
+            "5f455a"
+        ],
+        "tags": [
+            "pixeljoint"
+        ],
+        "createdAt": "2021-11-20T07:59:34.999Z",
+        "authorName": "Nightmare 3711",
+        "url": "https://lospec.com/palette-list/pixel-joint-ranks"
+    },
+    "lush-green": {
+        "title": "lush green",
+        "description": "a leafy color palette!",
+        "colors": [
+            "469c58",
+            "3a875e",
+            "417070",
+            "3f5b69",
+            "3c4c63",
+            "39425c"
+        ],
+        "tags": [],
+        "createdAt": "2021-11-19T20:57:19.362Z",
+        "authorName": "EerieJam",
+        "url": "https://lospec.com/palette-list/lush-green"
+    },
+    "muted-ally-6": {
+        "title": "Muted Ally 6",
+        "description": "A six-color palette made from purples and bleeds into brown.\u00a0",
+        "colors": [
+            "2c2c39",
+            "7a7a93",
+            "96b0b3",
+            "7f6a62",
+            "d9c7b4",
+            "ebe7e5"
+        ],
+        "tags": [],
+        "createdAt": "2021-11-19T19:06:28.556Z",
+        "authorName": "Danielle Lard",
+        "url": "https://lospec.com/palette-list/muted-ally-6"
+    },
+    "nostalgi8": {
+        "title": "Nostalgi8",
+        "description": "A modified and extended version of the\u00a0Nostalgi2\u00a0palette. equipped with 8 desaturated colors that can give a nostalgic feeling to your art.",
+        "colors": [
+            "bfbfbf",
+            "71a668",
+            "6a86b0",
+            "76568f",
+            "ab5c74",
+            "b89d6e",
+            "4c5b6b",
+            "2e253d"
+        ],
+        "tags": [
+            "8",
+            "anoob",
+            "artist",
+            "desaturated",
+            "nostalgi8",
+            "pixelart"
+        ],
+        "createdAt": "2021-11-19T13:11:31.182Z",
+        "authorName": "ANoob",
+        "url": "https://lospec.com/palette-list/nostalgi8"
+    },
     "the-purrfect-crime-gamejam": {
         "title": "'The Purrfect Crime' Gamejam",
         "description": "The 8 colours that we used to make 'The Purrfect Crime' during Palette Jam 2.",
@@ -3484,7 +4047,15 @@
             "30d2f2",
             "4cffb4"
         ],
-        "tags": [],
+        "tags": [
+            "blue",
+            "bright",
+            "colorful",
+            "green",
+            "red",
+            "vibrant",
+            "yedamameday"
+        ],
         "createdAt": "2021-10-19T14:16:24.939Z",
         "authorName": "yedamameday",
         "url": "https://lospec.com/palette-list/e-16"
@@ -22951,9 +23522,9 @@
         "authorName": "Star",
         "url": "https://lospec.com/palette-list/dull-glow-8"
     },
-    "minecraft-map-palette-for-112": {
-        "title": "Minecraft Map Palette for 1.12+",
-        "description": "This is the palette of colors that can be displayed on <b>minecraft</b> maps/canvas in version <b>1.12+</b>. This was tested in 1.16.4 and contains all available colors. Minecraft Maps are frequently used for pixel arts, which is why this palette is relevant.The origin of this palette is from the game minecraft and the values were taken from\u00a0<a href=\"https://minecraft.gamepedia.com/Map_item_format#Map_colors\" target=\"_blank\">the official wiki</a>\u00a0and do represent the actual values in the code. The first color (#000000) is not included as a visible color in the palette, but represents <b>complete transparency</b>. Colors were de-duplicated (for example there are four color codes that represent total transparency, therefore only the first one is included). Colors can only be completely visible or transparent, there is no partial opacity. The original color that was used for complete transparency is irrelevant, every pixel with more than 50% transparency is converted to complete transparency, everything with less than this transparency is converted to the base color without any transparency.",
+    "minecraft-map-palette-for-116": {
+        "title": "Minecraft Map Palette for 1.16",
+        "description": "This is the palette of colors that can be displayed on minecraft maps/canvas in version 1.16. This was tested in 1.16.4\u00a0and contains all available colors. Minecraft Maps are frequently used for pixel arts, which is why this palette is relevant.The origin of this palette is from the game\u00a0Minecraft\u00a0and the values were taken from\u00a0the\u00a0official wiki\u00a0and do represent the actual values in the code.\u00a0The first color (#000000) is not included as a visible color in the palette, but represents complete transparency. Colors were de-duplicated (for example there are four color codes that represent total transparency, therefore only the first one is included). Colors can only be completely visible or transparent, there is no partial opacity. The original color that was used for complete transparency is irrelevant, every pixel with more than 50% transparency is converted to complete transparency, everything with less than this transparency is converted to the base color without any transparency.",
         "colors": [
             "000000",
             "597d27",
@@ -23196,7 +23767,7 @@
         ],
         "createdAt": "2020-11-07T13:40:50.887Z",
         "authorName": "Scrayos",
-        "url": "https://lospec.com/palette-list/minecraft-map-palette-for-112"
+        "url": "https://lospec.com/palette-list/minecraft-map-palette-for-116"
     },
     "pixelplace-palette-selection": {
         "title": "Pixelplace palette selection",
@@ -34691,7 +35262,7 @@
     },
     "web-safe-216": {
         "title": "Web Safe 216",
-        "description": "The 216 \"web safe\" colors used by early web browsers. This is a good palette for pixel art on its own, or it can  be used as a starting point for making smaller palettes as a subset. Limitations breed creativity!",
+        "description": "The 216 \"web safe\" colors used by early web browsers. This is a good palette for pixel art on its own, or it can  be used as a starting point for making smaller palettes as a subset. ",
         "colors": [
             "000000",
             "000033",
