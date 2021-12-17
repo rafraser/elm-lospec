@@ -1,4 +1,1042 @@
 {
+    "foggy": {
+        "title": "Foggy",
+        "description": "",
+        "colors": [
+            "ffffff",
+            "000000",
+            "b86161",
+            "522c2c",
+            "b8b161",
+            "524d2c",
+            "b88561",
+            "52352c",
+            "7bb861",
+            "35522c",
+            "6182b8",
+            "2c3a52",
+            "8f61b8",
+            "3e2c52"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-05T20:22:55.669Z",
+        "authorName": "Hayden Heard",
+        "url": "https://lospec.com/palette-list/foggy"
+    },
+    "piet": {
+        "title": "Piet",
+        "description": "A group of twenty colours (based on three lightnesses of RGBCMY, plus black and white) that serve a specific and practical purpose - pixels of these colours, when arranged and saved in an image, and the image is ran through a code interpreter, serve as code commands (or blank space) in the\u00a0Piet programming language\u00a0by\u00a0David Morgan-Mar\u00a0(though some details vary depending on the implementation of the image/code interpreter). The language was named after\u00a0Piet Mondrain, whose abstract works of art Piet programs often resemble.",
+        "colors": [
+            "ffffff",
+            "000000",
+            "ffc0c0",
+            "ff0000",
+            "c00000",
+            "ffffc0",
+            "ffff00",
+            "c0c000",
+            "c0ffc0",
+            "00ff00",
+            "00c000",
+            "c0ffff",
+            "00ffff",
+            "00c0c0",
+            "c0c0ff",
+            "0000ff",
+            "0000c0",
+            "ffc0ff",
+            "ff00ff",
+            "c000c0"
+        ],
+        "tags": [
+            "dadaism"
+        ],
+        "createdAt": "2021-12-07T20:20:50.891Z",
+        "authorName": "P-Tux7",
+        "url": "https://lospec.com/palette-list/piet"
+    },
+    "cyber-37": {
+        "title": "Cyber-37",
+        "description": "",
+        "colors": [
+            "2a1e42",
+            "2d2640",
+            "353b4d",
+            "4e5075",
+            "75619c",
+            "a184bd",
+            "ae9cd6",
+            "a099cc",
+            "817dbd",
+            "7676a3",
+            "5f7094",
+            "495182",
+            "343166",
+            "1f1f57",
+            "421b4a",
+            "6b2b61",
+            "872f4f",
+            "a82828",
+            "d44c2a",
+            "d9894c",
+            "dea76d",
+            "e8d899",
+            "f0f5c7",
+            "ccdbb8",
+            "8dab89",
+            "79947d",
+            "708078",
+            "4e6160",
+            "38464d",
+            "2c3545",
+            "373a5e",
+            "535280",
+            "807594",
+            "a2a2b0",
+            "c3c8d6",
+            "dfe5f5",
+            "e5f5ff"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-07T20:41:09.419Z",
+        "authorName": "Valerie Lynn",
+        "url": "https://lospec.com/palette-list/cyber-37"
+    },
+    "lagoon": {
+        "title": "Lagoon",
+        "description": "Paleta que encontr\u00e9 en las im\u00e1genes de googleOrigin: https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fwww.xn--nosotros-los-diseadores-8hc.com%2F2019%2F10%2F11%2F25-hermosas-paletas-de-colores-para-tu-proximo-proyecto-de-diseno%2F&amp;psig=AOvVaw3msfUEq_V4j_LfYwBaBWzv&amp;ust=1638915348882000&amp;source=images&amp;cd=vfe&amp;ved=0CAsQjRxqFwoTCMCG5c6Z0PQCFQAAAAAdAAAAABAJ",
+        "colors": [
+            "26798e",
+            "63caa7",
+            "ffc172",
+            "ffe383"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-06T22:23:24.019Z",
+        "authorName": "Netic",
+        "url": "https://lospec.com/palette-list/lagoon"
+    },
+    "minecraft-map-palette-for-117": {
+        "title": "Minecraft Map Palette for 1.17",
+        "description": "This is the palette of colors that can be displayed on minecraft maps/canvas in version 1.17. This was tested in 1.17.1 and contains all available colors. Minecraft Maps are frequently used for pixel arts, which is why this palette is relevant.The origin of this palette is from the game\u00a0Minecraft\u00a0and the values were taken from\u00a0the\u00a0official wiki\u00a0and do represent the actual values in the code. Colors can only be completely visible or transparent, there is no partial opacity. In addition to all colors of\u00a0 this palette it is (technically) possible to add complete transparency (alpha layer).",
+        "colors": [
+            "597d27",
+            "6d9930",
+            "7fb238",
+            "435e1d",
+            "aea473",
+            "d5c98c",
+            "f7e9a3",
+            "827b56",
+            "8c8c8c",
+            "ababab",
+            "c7c7c7",
+            "696969",
+            "b40000",
+            "dc0000",
+            "ff0000",
+            "870000",
+            "7070b4",
+            "8a8adc",
+            "a0a0ff",
+            "545487",
+            "757575",
+            "909090",
+            "a7a7a7",
+            "585858",
+            "005700",
+            "006a00",
+            "007c00",
+            "004100",
+            "b4b4b4",
+            "dcdcdc",
+            "ffffff",
+            "878787",
+            "737681",
+            "8d909e",
+            "a4a8b8",
+            "565861",
+            "6a4c36",
+            "825e42",
+            "976d4d",
+            "4f3928",
+            "4f4f4f",
+            "606060",
+            "707070",
+            "3b3b3b",
+            "2d2db4",
+            "3737dc",
+            "4040ff",
+            "212187",
+            "645432",
+            "7b663e",
+            "8f7748",
+            "4b3f26",
+            "b4b1ac",
+            "dcd9d3",
+            "fffcf5",
+            "878581",
+            "985924",
+            "ba6d2c",
+            "d87f33",
+            "72431b",
+            "7d3598",
+            "9941ba",
+            "b24cd8",
+            "5e2872",
+            "486c98",
+            "5884ba",
+            "6699d8",
+            "365172",
+            "a1a124",
+            "c5c52c",
+            "e5e533",
+            "79791b",
+            "599011",
+            "6db015",
+            "7fcc19",
+            "436c0d",
+            "aa5974",
+            "d06d8e",
+            "f27fa5",
+            "804357",
+            "353535",
+            "414141",
+            "4c4c4c",
+            "282828",
+            "6c6c6c",
+            "848484",
+            "999999",
+            "515151",
+            "35596c",
+            "416d84",
+            "4c7f99",
+            "284351",
+            "592c7d",
+            "6d3699",
+            "7f3fb2",
+            "43215e",
+            "24357d",
+            "2c4199",
+            "334cb2",
+            "1b285e",
+            "483524",
+            "58412c",
+            "664c33",
+            "36281b",
+            "485924",
+            "586d2c",
+            "667f33",
+            "36431b",
+            "6c2424",
+            "842c2c",
+            "993333",
+            "511b1b",
+            "111111",
+            "151515",
+            "191919",
+            "0d0d0d",
+            "b0a836",
+            "d7cd42",
+            "faee4d",
+            "847e28",
+            "409a96",
+            "4fbcb7",
+            "5cdbd5",
+            "307370",
+            "345ab4",
+            "3f6edc",
+            "4a80ff",
+            "274387",
+            "009928",
+            "00bb32",
+            "00d93a",
+            "00721e",
+            "5b3c22",
+            "6f4a2a",
+            "815631",
+            "442d19",
+            "4f0100",
+            "600100",
+            "700200",
+            "3b0100",
+            "937c71",
+            "b4988a",
+            "d1b1a1",
+            "6e5d55",
+            "703919",
+            "89461f",
+            "9f5224",
+            "542b13",
+            "693d4c",
+            "804b5d",
+            "95576c",
+            "4e2e39",
+            "4f4c61",
+            "605d77",
+            "706c8a",
+            "3b3949",
+            "835d19",
+            "a0721f",
+            "ba8524",
+            "624613",
+            "485225",
+            "58642d",
+            "677535",
+            "363d1c",
+            "703637",
+            "8a4243",
+            "a04d4e",
+            "542829",
+            "281c18",
+            "31231e",
+            "392923",
+            "1e1512",
+            "5f4b45",
+            "745c54",
+            "876b62",
+            "473833",
+            "3d4040",
+            "4b4f4f",
+            "575c5c",
+            "2e3030",
+            "56333e",
+            "693e4b",
+            "7a4958",
+            "40262e",
+            "352b40",
+            "41354f",
+            "4c3e5c",
+            "282030",
+            "352318",
+            "412b1e",
+            "4c3223",
+            "281a12",
+            "35391d",
+            "414624",
+            "4c522a",
+            "282b16",
+            "642a20",
+            "7a3327",
+            "8e3c2e",
+            "4b1f18",
+            "1a0f0b",
+            "1f120d",
+            "251610",
+            "130b08",
+            "852122",
+            "a3292a",
+            "bd3031",
+            "641919",
+            "682c44",
+            "7f3653",
+            "943f61",
+            "4e2133",
+            "401114",
+            "4f1519",
+            "5c191d",
+            "300d0f",
+            "0f585e",
+            "126c73",
+            "167e86",
+            "0b4246",
+            "286462",
+            "327a78",
+            "3a8e8c",
+            "1e4b4a",
+            "3c1f2b",
+            "4a2535",
+            "562c3e",
+            "2d1720",
+            "0e7f5d",
+            "119b72",
+            "14b485",
+            "0a5f46",
+            "464646",
+            "565656",
+            "646464",
+            "343434",
+            "987b67",
+            "ba967e",
+            "d8af93",
+            "725c4d",
+            "597569",
+            "6d9081",
+            "7fa796",
+            "43584f"
+        ],
+        "tags": [
+            "maps",
+            "minecraft",
+            "palette"
+        ],
+        "createdAt": "2021-12-02T23:37:20.274Z",
+        "authorName": "Scrayos",
+        "url": "https://lospec.com/palette-list/minecraft-map-palette-for-117"
+    },
+    "enneagon": {
+        "title": "Enneagon",
+        "description": "Four colors carefully chosen to invoke a nighttime, moody and geometric pieces.",
+        "colors": [
+            "1a1d1e",
+            "251e2f",
+            "5a332a",
+            "4a5981"
+        ],
+        "tags": [
+            "enneagon",
+            "geometric"
+        ],
+        "createdAt": "2021-10-04T20:31:43.151Z",
+        "authorName": "Gors",
+        "url": "https://lospec.com/palette-list/enneagon"
+    },
+    "shockwaver-v1": {
+        "title": "Shockwaver V.1",
+        "description": "This is my first color palette uh i hope you like it, it has shiny colors and you can use it if you want",
+        "colors": [
+            "000000",
+            "0d072f",
+            "16072f",
+            "191150",
+            "251a8a",
+            "3528ab",
+            "3e44cc",
+            "2b66cc",
+            "48b9ff",
+            "64eadd",
+            "ffffff",
+            "cfd1f6",
+            "a5a7d5",
+            "999ac7",
+            "8483ab",
+            "79789d",
+            "545473",
+            "271859",
+            "362375",
+            "5532ab",
+            "7a33d7",
+            "a65de3",
+            "f68cff",
+            "ed35ff",
+            "ff46d5",
+            "ff5bdb",
+            "ff74dd",
+            "ff7edf",
+            "ff93dd",
+            "ffe2c8",
+            "ffcdb4",
+            "f49f9c",
+            "c75d7c",
+            "a94d6a",
+            "863253",
+            "ad4f69",
+            "a23855",
+            "7f2147",
+            "621f3a",
+            "401329",
+            "3b0d2a",
+            "270b2d",
+            "691a8a",
+            "831a8a",
+            "ab2864",
+            "dd293b",
+            "f4513c",
+            "ff8a43",
+            "ffeb3a",
+            "c7ff25",
+            "67f43c",
+            "29dd40",
+            "28ab61",
+            "1a8a6f",
+            "235675",
+            "161a42"
+        ],
+        "tags": [
+            "artist",
+            "bright",
+            "vibrant"
+        ],
+        "createdAt": "2021-12-06T03:35:32.763Z",
+        "authorName": "Loop",
+        "url": "https://lospec.com/palette-list/shockwaver-v1"
+    },
+    "yoghurtish": {
+        "title": "Yoghurtish",
+        "description": "I decided to post this one I made a while back",
+        "colors": [
+            "39254e",
+            "5951bb",
+            "d765bf",
+            "d5a2e2"
+        ],
+        "tags": [
+            "cold",
+            "pastel",
+            "pink",
+            "soft"
+        ],
+        "createdAt": "2021-12-06T14:47:44.855Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/yoghurtish"
+    },
+    "ss-24": {
+        "title": "SS-24",
+        "description": "Sort of a remake of\u00a0Sandwich 6 ramps\u00a0but with 24 colours across 5 ramps. I may use it for a fantasy console idea",
+        "colors": [
+            "3e1114",
+            "9b2818",
+            "cd5924",
+            "f09a2d",
+            "f7e348",
+            "96c52f",
+            "3b932e",
+            "186133",
+            "062e23",
+            "000000",
+            "281f23",
+            "554247",
+            "8f7165",
+            "d4b593",
+            "ffffff",
+            "fbadad",
+            "e86d9a",
+            "c941a6",
+            "6f2574",
+            "261740",
+            "333887",
+            "4074b6",
+            "54b4d5",
+            "93f3e7"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-06T15:42:39.319Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/ss-24"
+    },
+    "neon-night-sky": {
+        "title": "Neon Night Sky",
+        "description": "I was listening to LoFi music when making this palette, which is pretty clear from the example image. Hope you like it!",
+        "colors": [
+            "131626",
+            "4d4d80",
+            "e6a1cf",
+            "ffe6ea"
+        ],
+        "tags": [
+            "2bit",
+            "neon",
+            "night",
+            "sky",
+            "soundsdotzip"
+        ],
+        "createdAt": "2021-12-05T22:48:16.787Z",
+        "authorName": "SoundsDotZip",
+        "url": "https://lospec.com/palette-list/neon-night-sky"
+    },
+    "st-24-christmas": {
+        "title": "ST 24 Christmas",
+        "description": "Merry Christmas and Happy New Year! How long have I not laid out palettes, but you will wait for \"ST 64 Natural\".",
+        "colors": [
+            "1a0d0f",
+            "331416",
+            "4d1717",
+            "73201d",
+            "8c2a23",
+            "a63229",
+            "cc4733",
+            "e56545",
+            "f28861",
+            "f2aa85",
+            "f2ceb6",
+            "ffffff",
+            "d8f2c2",
+            "b8f291",
+            "98d977",
+            "7acc5c",
+            "5db347",
+            "50993d",
+            "3a802d",
+            "2f6624",
+            "234d1b",
+            "1f401a",
+            "1b3317",
+            "162613"
+        ],
+        "tags": [
+            "artist",
+            "christmas",
+            "green",
+            "holiday",
+            "red",
+            "st24",
+            "thest1076",
+            "xmas"
+        ],
+        "createdAt": "2021-12-03T20:01:46.436Z",
+        "authorName": "Skiller Thomson",
+        "url": "https://lospec.com/palette-list/st-24-christmas"
+    },
+    "yume-nikki": {
+        "title": "Yume Nikki",
+        "description": "The aura of the game Yume Nikki in 24 colors",
+        "colors": [
+            "ffffff",
+            "e81623",
+            "000000",
+            "59283e",
+            "b94562",
+            "ec687c",
+            "f0a3d2",
+            "ffc9c5",
+            "bba2d3",
+            "8467a6",
+            "443555",
+            "131523",
+            "1b1516",
+            "3a3133",
+            "6c5050",
+            "ae9763",
+            "ecd05f",
+            "876121",
+            "68362b",
+            "3e111c",
+            "0b360b",
+            "2f4240",
+            "56742c",
+            "62d1dc"
+        ],
+        "tags": [
+            "dark",
+            "dream",
+            "game",
+            "yumenikki"
+        ],
+        "createdAt": "2021-12-05T11:51:12.177Z",
+        "authorName": "Space Sandwich",
+        "url": "https://lospec.com/palette-list/yume-nikki"
+    },
+    "the-y-masters": {
+        "title": "The Y masters",
+        "description": "My first master palette with 14 diffrent shades and 70 colours",
+        "colors": [
+            "caf5ff",
+            "91d8ff",
+            "3ca4f3",
+            "205ee6",
+            "041a68",
+            "143f99",
+            "277ecc",
+            "41b2da",
+            "55ede9",
+            "a3ffe0",
+            "e5e2aa",
+            "cdaf83",
+            "b37b6b",
+            "8d4550",
+            "682942",
+            "220817",
+            "401627",
+            "804646",
+            "a67962",
+            "e7d0a0",
+            "ded6a6",
+            "bfa68f",
+            "8d706a",
+            "674e5a",
+            "ffbdf5",
+            "dc60f4",
+            "8828cc",
+            "430c8c",
+            "2e0541",
+            "451881",
+            "694bc0",
+            "7ea7ff",
+            "bfe1ff",
+            "4f105a",
+            "9b265f",
+            "b33d5a",
+            "e59478",
+            "ffd08b",
+            "fff1be",
+            "e4ffb0",
+            "3fda4d",
+            "18a671",
+            "095667",
+            "03284d",
+            "086751",
+            "158e49",
+            "2ab237",
+            "85da64",
+            "d2fc7b",
+            "ecfff2",
+            "b8dac9",
+            "8da7a3",
+            "576567",
+            "2b3033",
+            "342f30",
+            "665559",
+            "b4a596",
+            "e5dec1",
+            "fffde4",
+            "effcff",
+            "cbe5f2",
+            "97a6b4",
+            "575566",
+            "232026",
+            "5d5667",
+            "9b8ba8",
+            "f3caf3",
+            "ffe4fb",
+            "000000",
+            "ffffff"
+        ],
+        "tags": [
+            "70",
+            "colourful",
+            "yedamameday"
+        ],
+        "createdAt": "2021-12-04T06:43:14.211Z",
+        "authorName": "yedamameday",
+        "url": "https://lospec.com/palette-list/the-y-masters"
+    },
+    "shido-101": {
+        "title": "Shido 101",
+        "description": "A palette for beginners! Purpose made to fit every begginers needs featuring great colors and being completely linear for a more easy experience!",
+        "colors": [
+            "06373e",
+            "0b7259",
+            "45bd57",
+            "a7f966",
+            "ffffff",
+            "cad4d1",
+            "93a0a3",
+            "5a6a75",
+            "2a3340",
+            "000000",
+            "312262",
+            "7f3d95",
+            "d367bd",
+            "ffbfe3",
+            "222d60",
+            "2e5d9d",
+            "42a8cc",
+            "9cf9ec",
+            "5e082f",
+            "9f2245",
+            "e65663",
+            "ffb1a2",
+            "5e2035",
+            "883f44",
+            "c87671",
+            "f8bda3",
+            "5c2609",
+            "995717",
+            "d1983d",
+            "f8f17d",
+            "4c2627",
+            "865645",
+            "bb8563",
+            "e7bf94"
+        ],
+        "tags": [
+            "101",
+            "beginner",
+            "shido",
+            "shido101"
+        ],
+        "createdAt": "2021-12-04T10:52:42.703Z",
+        "authorName": "Shidoengie",
+        "url": "https://lospec.com/palette-list/shido-101"
+    },
+    "new-worlds-46": {
+        "title": "New Worlds 46",
+        "description": "My default palette that I use, it contains the full spectrum of colour options and the excessive amount of greys find themselves very nicely placed in portions of all other ramps.",
+        "colors": [
+            "6e2727",
+            "962626",
+            "cd2424",
+            "e25d26",
+            "e68127",
+            "f4aa41",
+            "f8cd7c",
+            "dbae65",
+            "c89050",
+            "ab6f3b",
+            "82502e",
+            "5b3728",
+            "33211c",
+            "261918",
+            "000000",
+            "121017",
+            "21212c",
+            "333443",
+            "4c505b",
+            "777e86",
+            "9da1a4",
+            "cbcbcb",
+            "e2e2e2",
+            "ffffff",
+            "f9ffb7",
+            "fdff90",
+            "f3f647",
+            "9bd24d",
+            "59b341",
+            "35823a",
+            "2a5641",
+            "466573",
+            "40898e",
+            "34c5a3",
+            "41ee95",
+            "8fc8d6",
+            "4f99ba",
+            "3577a3",
+            "265a86",
+            "1d355e",
+            "1b254e",
+            "331a3b",
+            "662a71",
+            "c756be",
+            "e284d0",
+            "eebed1"
+        ],
+        "tags": [
+            "blue",
+            "grey",
+            "neon",
+            "new",
+            "rainbow",
+            "world",
+            "worlds"
+        ],
+        "createdAt": "2021-12-04T12:21:45.104Z",
+        "authorName": "Count Moriarty",
+        "url": "https://lospec.com/palette-list/new-worlds-46"
+    },
+    "zool": {
+        "title": "Zool",
+        "description": "Colour palette from the Amiga A500 version of Zool. Created using Maptapper and a savestate from the game using WinUAE. There's 17 colours due to the copper list changing the blue to a darker shade.\u00a0",
+        "colors": [
+            "000000",
+            "ffffff",
+            "eeeeee",
+            "cccccc",
+            "999999",
+            "ddaa00",
+            "cc8800",
+            "ff6611",
+            "ff77cc",
+            "993366",
+            "00aaff",
+            "2244dd",
+            "aa3300",
+            "cc0000",
+            "880000",
+            "229933",
+            "226600"
+        ],
+        "tags": [
+            "a500",
+            "amiga",
+            "ocs",
+            "zool"
+        ],
+        "createdAt": "2021-11-24T17:56:56.809Z",
+        "authorName": "Craig Robinson",
+        "url": "https://lospec.com/palette-list/zool"
+    },
+    "mr-colors": {
+        "title": "Mr. colors",
+        "description": ":D",
+        "colors": [
+            "027baa",
+            "149098",
+            "5ac68e",
+            "a9e4a3",
+            "e7e880",
+            "fff8f9",
+            "ffffff",
+            "300036",
+            "410018",
+            "5f090c",
+            "761b0b",
+            "9a370b",
+            "e99b1e",
+            "f0f0f0",
+            "4f0044",
+            "780236",
+            "8a082b",
+            "c0180a",
+            "db3a05",
+            "ec5903",
+            "f98d00",
+            "000882",
+            "004498",
+            "007ba3",
+            "0097a5",
+            "0dd4b4",
+            "9bd668",
+            "ededed",
+            "1c1c1c",
+            "35063f",
+            "4c0b3e",
+            "981464",
+            "c82362",
+            "e72f5e",
+            "f0658a",
+            "f95cde",
+            "ff7bd4",
+            "ff8ad7",
+            "ffcfef",
+            "fafafa",
+            "ec407a",
+            "ff8594",
+            "febbac",
+            "fbf79d"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-01T18:39:52.523Z",
+        "authorName": "Yonathan \ud83d\udd36",
+        "url": "https://lospec.com/palette-list/mr-colors"
+    },
+    "frostical": {
+        "title": "Frostical",
+        "description": "A cold, desaturated dungeon pallete",
+        "colors": [
+            "588484",
+            "385560",
+            "233543",
+            "101929",
+            "020107",
+            "2f3262",
+            "68789c",
+            "889fb3",
+            "b0c0c9",
+            "d7dddf",
+            "464654",
+            "60697b",
+            "8292a5",
+            "98b0c1",
+            "211538",
+            "422c5b",
+            "876090",
+            "a885a8"
+        ],
+        "tags": [
+            "cold",
+            "desaturated",
+            "frostical",
+            "lowsaturated",
+            "yedamameday"
+        ],
+        "createdAt": "2021-12-03T01:42:17.754Z",
+        "authorName": "yedamameday",
+        "url": "https://lospec.com/palette-list/frostical"
+    },
+    "moderna-24": {
+        "title": "Moderna 24",
+        "description": "A modern, universal pallete that is bright",
+        "colors": [
+            "82066c",
+            "b3085b",
+            "ff3151",
+            "ff9058",
+            "ffcf6c",
+            "efffa4",
+            "7dff72",
+            "20d97e",
+            "0fa68d",
+            "1267c0",
+            "209cdf",
+            "3ce6ff",
+            "7efff8",
+            "d8fffa",
+            "a8c7c3",
+            "768c89",
+            "455250",
+            "262a2a",
+            "200f73",
+            "5315a6",
+            "a84fe6",
+            "cc7de5",
+            "f2c89b",
+            "fff2cb"
+        ],
+        "tags": [
+            "artist",
+            "bright",
+            "colorful",
+            "yedamameday"
+        ],
+        "createdAt": "2021-12-03T11:54:08.574Z",
+        "authorName": "yedamameday",
+        "url": "https://lospec.com/palette-list/moderna-24"
+    },
+    "rubiks-paint": {
+        "title": "Rubik's Paint",
+        "description": "A Vibrant Palette Made WIth The Original Rubik's Cube Colors!",
+        "colors": [
+            "181823",
+            "5e6e8b",
+            "ffffff",
+            "ee978c",
+            "ba0c2f",
+            "470d27",
+            "dc2e18",
+            "ffa880",
+            "ff5001",
+            "6f180d",
+            "ff9301",
+            "ffeb80",
+            "fed700",
+            "014e24",
+            "7fb923",
+            "c0dd93",
+            "009b46",
+            "011f52",
+            "006c76",
+            "82b7bc",
+            "003da5",
+            "011f53",
+            "5d246a",
+            "dc8597",
+            "f5d0ad",
+            "712e10",
+            "3a0c06",
+            "802902",
+            "cc8f74"
+        ],
+        "tags": [
+            "real",
+            "rubiks",
+            "rubix",
+            "toy",
+            "vibrant"
+        ],
+        "createdAt": "2021-12-03T15:55:43.443Z",
+        "authorName": "le",
+        "url": "https://lospec.com/palette-list/rubiks-paint"
+    },
+    "cave-moss": {
+        "title": "Cave Moss",
+        "description": "This palette was made for one of my friends, who saw my previous palettes and wanted me to make one for them. He wanted something dark, with moss green as its main colour. This is what I came up with. Hope you like it!",
+        "colors": [
+            "1a1714",
+            "38403a",
+            "617851",
+            "b3b282"
+        ],
+        "tags": [
+            "2bit",
+            "cave",
+            "cavemoss",
+            "moss",
+            "soundsdotzip"
+        ],
+        "createdAt": "2021-12-03T10:13:08.613Z",
+        "authorName": "SoundsDotZip",
+        "url": "https://lospec.com/palette-list/cave-moss"
+    },
     "comicscapes-50": {
         "title": "Comicscapes 50",
         "description": "An universal pallete with desaturated colour and papery vibes",
@@ -77,10 +1115,10 @@
             "15926d"
         ],
         "tags": [
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-12-01T06:28:45.425Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/wooden-teeth"
     },
     "graveyard-mist": {
@@ -108,7 +1146,8 @@
             "16",
             "desaturated",
             "graveyard",
-            "mist"
+            "mist",
+            "soundsdotzip"
         ],
         "createdAt": "2021-12-01T11:51:11.267Z",
         "authorName": "SoundsDotZip",
@@ -125,6 +1164,7 @@
         ],
         "tags": [
             "2bit",
+            "soundsdotzip",
             "sunrise"
         ],
         "createdAt": "2021-12-02T11:18:55.279Z",
@@ -354,7 +1394,7 @@
         ],
         "tags": [],
         "createdAt": "2021-11-27T23:54:42.771Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/crayon-paint"
     },
     "minimalist-retro": {
@@ -699,7 +1739,7 @@
         ],
         "tags": [],
         "createdAt": "2021-11-26T11:37:05.944Z",
-        "authorName": "CopheeMoth \u2615",
+        "authorName": "CopheeMoth",
         "url": "https://lospec.com/palette-list/omnia"
     },
     "banana-cartoon": {
@@ -818,7 +1858,7 @@
         "tags": [
             "24",
             "cheerful",
-            "colour"
+            "soundsdotzip"
         ],
         "createdAt": "2021-11-25T21:55:40.716Z",
         "authorName": "SoundsDotZip",
@@ -904,11 +1944,11 @@
             "d4c8bb"
         ],
         "tags": [
-            "polyphorge",
+            "polyphrog",
             "purple"
         ],
         "createdAt": "2021-11-25T17:14:54.720Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/shadow-violet"
     },
     "banan4": {
@@ -944,12 +1984,12 @@
         ],
         "tags": [
             "atom",
-            "polyphorge",
+            "polyphrog",
             "retro",
-            "vibbrant"
+            "vibrant"
         ],
         "createdAt": "2021-11-24T00:38:57.451Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/atom-8"
     },
     "ty-old-90s-adventure-29": {
@@ -1840,7 +2880,7 @@
             "543b49"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-11-16T03:33:02.846Z",
         "authorName": "RuzziOther",
@@ -1878,7 +2918,7 @@
             "393e54"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-11-16T03:33:39.544Z",
         "authorName": "RuzziOther",
@@ -2064,11 +3104,11 @@
             "e0de62"
         ],
         "tags": [
-            "polyphorge",
+            "polyphrog",
             "vaporwave"
         ],
         "createdAt": "2021-11-15T00:06:44.861Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/digital-disco"
     },
     "vibrant-gun-24": {
@@ -2817,7 +3857,7 @@
             "ea48ea"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-11-04T09:40:25.836Z",
         "authorName": "RuzziHuntuu",
@@ -4177,7 +5217,7 @@
         "tags": [
             "artist",
             "palette",
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-10-28T06:31:12.248Z",
         "authorName": "RuzziHuntuu",
@@ -4666,11 +5706,11 @@
         ],
         "tags": [
             "halloween",
-            "polyphorge",
+            "polyphrog",
             "pumpkin"
         ],
         "createdAt": "2021-10-21T22:31:46.595Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/4-spoopy-4-u"
     },
     "archererer24": {
@@ -6311,11 +7351,11 @@
             "blood",
             "grey",
             "horror",
-            "polyphorge",
+            "polyphrog",
             "red"
         ],
         "createdAt": "2021-10-11T21:39:10.372Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/red-horns"
     },
     "laugh-8": {
@@ -6952,7 +7992,7 @@
             "moth"
         ],
         "createdAt": "2021-10-05T07:56:44.002Z",
-        "authorName": "CopheeMoth \u2615",
+        "authorName": "CopheeMoth",
         "url": "https://lospec.com/palette-list/mariposa-4"
     },
     "besalt": {
@@ -7066,7 +8106,7 @@
             "vintage"
         ],
         "createdAt": "2021-10-04T13:53:06.303Z",
-        "authorName": "CopheeMoth \u2615",
+        "authorName": "CopheeMoth",
         "url": "https://lospec.com/palette-list/poisson-23"
     },
     "sundrop-diamond": {
@@ -7846,7 +8886,7 @@
         "tags": [
             "24",
             "artist",
-            "ruzzihuntuu",
+            "ruzikb",
             "vibrant"
         ],
         "createdAt": "2021-09-24T15:27:21.289Z",
@@ -8392,7 +9432,7 @@
         "tags": [
             "computer",
             "hardware",
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-09-20T19:57:59.944Z",
         "authorName": "RuzziHuntuu",
@@ -8952,7 +9992,7 @@
             "fantasyconsole"
         ],
         "createdAt": "2021-09-16T18:51:45.724Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/famicube-16"
     },
     "discord-8": {
@@ -9529,11 +10569,11 @@
             "dirt",
             "moss",
             "nature",
-            "polyphorge",
+            "polyphrog",
             "stone"
         ],
         "createdAt": "2021-09-09T17:03:56.044Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/magicolor-16"
     },
     "pixel-mage": {
@@ -9982,12 +11022,12 @@
             "fcfffb"
         ],
         "tags": [
-            "polyphorge",
+            "polyphrog",
             "swelling",
             "water"
         ],
         "createdAt": "2021-09-03T10:55:26.956Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/plume-edema"
     },
     "lowlands15": {
@@ -11777,15 +12817,15 @@
             "00eaaa"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-05-05T21:03:39.660Z",
         "authorName": "RuzziHuntuu",
         "url": "https://lospec.com/palette-list/ruzzihuntuu-32-color"
     },
-    "hunter-ruiz-master-pallete-v-20": {
-        "title": "Hunter Ruiz Master Pallete V 2.0",
-        "description": "This is version 2 of my master palette and stuff",
+    "hunter-ruiz-master-pallete-v3": {
+        "title": "Hunter Ruiz Master Pallete V3",
+        "description": "This is version 3 of my master palette and stuff",
         "colors": [
             "000000",
             "490b15",
@@ -11853,15 +12893,15 @@
             "e3cdd9"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-04-14T23:17:04.883Z",
         "authorName": "RuzziHuntuu",
-        "url": "https://lospec.com/palette-list/hunter-ruiz-master-pallete-v-20"
+        "url": "https://lospec.com/palette-list/hunter-ruiz-master-pallete-v3"
     },
-    "ruzzihuntuu-master-pallete-v31": {
-        "title": "RuzziHuntuu Master Pallete V3.1",
-        "description": "Version 3.1 of my palette, now the grey is back in town!",
+    "ruzzihuntuu-master-pallete-v2": {
+        "title": "RuzziHuntuu Master Pallete V2",
+        "description": "Version 2 of my palette, now the grey is back in town!",
         "colors": [
             "000000",
             "490b15",
@@ -11929,14 +12969,14 @@
             "e3cdd9"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-04-28T21:26:39.522Z",
         "authorName": "RuzziHuntuu",
-        "url": "https://lospec.com/palette-list/ruzzihuntuu-master-pallete-v31"
+        "url": "https://lospec.com/palette-list/ruzzihuntuu-master-pallete-v2"
     },
-    "project-ruzzihuntuu-86": {
-        "title": "Project RUZZIHUNTUU 86",
+    "project-ruzikb-86": {
+        "title": "Project RUZIKB 86",
         "description": "The final version of my Master palette!",
         "colors": [
             "000000",
@@ -12027,11 +13067,11 @@
             "0098cc"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-05-05T20:39:31.549Z",
         "authorName": "RuzziHuntuu",
-        "url": "https://lospec.com/palette-list/project-ruzzihuntuu-86"
+        "url": "https://lospec.com/palette-list/project-ruzikb-86"
     },
     "spoohouse": {
         "title": "SpooHouse",
@@ -12690,16 +13730,16 @@
             "amstrad",
             "computer",
             "hardware",
-            "ruzzihuntuu",
+            "ruzikb",
             "vibrant"
         ],
         "createdAt": "2021-06-21T02:15:08.294Z",
         "authorName": "RuzziHuntuu",
         "url": "https://lospec.com/palette-list/ruzzi-cpc"
     },
-    "ruzzi64": {
-        "title": "Ruzzi64",
-        "description": "",
+    "ruzikb64": {
+        "title": "RuziKB64",
+        "description": "This title is self-explanatory.",
         "colors": [
             "000000",
             "150930",
@@ -12767,11 +13807,11 @@
             "ff0000"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-06-13T19:15:36.107Z",
         "authorName": "RuzziHuntuu",
-        "url": "https://lospec.com/palette-list/ruzzi64"
+        "url": "https://lospec.com/palette-list/ruzikb64"
     },
     "ruzzi30": {
         "title": "Ruzzi30",
@@ -12809,7 +13849,7 @@
             "d3a8ff"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2021-06-29T00:52:09.541Z",
         "authorName": "RuzziHuntuu",
@@ -13182,7 +14222,7 @@
             "pink"
         ],
         "createdAt": "2021-06-01T04:23:15.860Z",
-        "authorName": "CopheeMoth \u2615",
+        "authorName": "CopheeMoth",
         "url": "https://lospec.com/palette-list/june-flower"
     },
     "moonlight": {
@@ -14059,7 +15099,7 @@
             "videogame"
         ],
         "createdAt": "2021-05-17T23:16:23.667Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/enviromental-station-alpha"
     },
     "cold-morning-32": {
@@ -15247,10 +16287,10 @@
             "e267b1"
         ],
         "tags": [
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-08-14T14:25:05.661Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/colordome-24"
     },
     "padhi-rangulu": {
@@ -16018,10 +17058,10 @@
         "tags": [
             "blood",
             "mint",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-08-14T05:18:03.028Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/blood-mints"
     },
     "cybergum6": {
@@ -16140,11 +17180,11 @@
         ],
         "tags": [
             "fruit",
-            "polyphorge",
+            "polyphrog",
             "rainbow"
         ],
         "createdAt": "2021-08-22T00:28:21.661Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/fruitpunch-8"
     },
     "anarkis-27": {
@@ -16286,10 +17326,10 @@
             "coffee",
             "decaf",
             "gb",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-08-02T16:12:38.713Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/desat"
     },
     "rainbow-24": {
@@ -16356,7 +17396,7 @@
             "soft"
         ],
         "createdAt": "2021-07-11T21:20:41.616Z",
-        "authorName": "CopheeMoth \u2615",
+        "authorName": "CopheeMoth",
         "url": "https://lospec.com/palette-list/wisteria-mystery"
     },
     "cartoon-candy": {
@@ -16391,10 +17431,10 @@
         "tags": [
             "candy",
             "cartoon",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-07-15T11:55:17.039Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/cartoon-candy"
     },
     "1-bit-chill": {
@@ -16482,12 +17522,12 @@
             "120a02"
         ],
         "tags": [
-            "polyphorge",
+            "polyphrog",
             "red",
             "sand"
         ],
         "createdAt": "2021-07-29T09:43:31.507Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/red-sand"
     },
     "nicole-punk-82": {
@@ -18795,7 +19835,7 @@
             "polyphorge"
         ],
         "createdAt": "2021-07-05T10:12:39.204Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/pigment"
     },
     "sunny-days": {
@@ -18813,11 +19853,11 @@
             "abstract",
             "jungle",
             "modern",
-            "polyphorge",
+            "polyphrog",
             "vaporwave"
         ],
         "createdAt": "2021-07-01T08:12:55.643Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/sunny-days"
     },
     "equalrgb": {
@@ -18898,7 +19938,7 @@
             "retro"
         ],
         "createdAt": "2021-07-05T14:49:17.810Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/colorquest-retro-recolor"
     },
     "the-internet-raised-you": {
@@ -18913,10 +19953,10 @@
         "tags": [
             "gameboy",
             "internet",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-06-25T22:53:42.835Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/the-internet-raised-you"
     },
     "mega-drive-blue": {
@@ -19352,7 +20392,7 @@
     },
     "quested-mountain": {
         "title": "quested mountain",
-        "description": "a larger version of the\u00a0quested-valley\u00a0palette.",
+        "description": "an extended version of the\u00a0quested-valley\u00a0palette.",
         "colors": [
             "000000",
             "4a2300",
@@ -19368,11 +20408,11 @@
             "ffffff"
         ],
         "tags": [
-            "polyphorge",
+            "polyphrog",
             "retro"
         ],
         "createdAt": "2021-05-31T20:29:43.603Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/quested-mountain"
     },
     "origami-clouds": {
@@ -19753,12 +20793,12 @@
             "ffffff"
         ],
         "tags": [
-            "polyphorge",
+            "polyphrog",
             "retro",
             "warm"
         ],
         "createdAt": "2021-05-25T07:49:32.273Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/quested-valley"
     },
     "crm37": {
@@ -21082,7 +22122,11 @@
             "d2c8b8"
         ],
         "tags": [
-            "ruzzihuntuu"
+            "12",
+            "artist",
+            "evening",
+            "ruzikb",
+            "slavfox"
         ],
         "createdAt": "2021-05-11T18:45:57.938Z",
         "authorName": "RuzziHuntuu",
@@ -21116,7 +22160,7 @@
             "monoramp"
         ],
         "createdAt": "2021-05-10T22:23:27.177Z",
-        "authorName": "CopheeMoth \u2615",
+        "authorName": "CopheeMoth",
         "url": "https://lospec.com/palette-list/cophee-4"
     },
     "brewerviridis": {
@@ -21190,7 +22234,7 @@
             "polyphorge"
         ],
         "createdAt": "2021-05-08T15:57:46.200Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/mystic-16"
     },
     "loop-hero": {
@@ -21681,12 +22725,12 @@
             "gold",
             "light",
             "monoramp",
-            "polyphorge",
+            "polyphrog",
             "purple",
             "yellow"
         ],
         "createdAt": "2021-04-26T18:13:41.562Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/golden-sunset"
     },
     "casio-basic": {
@@ -21778,10 +22822,10 @@
         "tags": [
             "cute",
             "pastel",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-04-27T09:52:42.534Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/pastel-qt"
     },
     "lospec-gb": {
@@ -22088,11 +23132,11 @@
         "tags": [
             "gb",
             "pink",
-            "polyphorge",
+            "polyphrog",
             "purple"
         ],
         "createdAt": "2021-04-21T11:19:38.773Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/photocorp"
     },
     "farmland-20": {
@@ -22436,11 +23480,11 @@
             "9d5745"
         ],
         "tags": [
-            "polyphorge",
+            "polyphrog",
             "videogame"
         ],
         "createdAt": "2021-04-20T21:15:33.259Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/colorquest-16"
     },
     "fruit-juice": {
@@ -22491,11 +23535,11 @@
         ],
         "tags": [
             "blue",
-            "polyphorge",
+            "polyphrog",
             "stone"
         ],
         "createdAt": "2021-04-17T00:04:06.705Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/titanstone"
     },
     "archaon-15": {
@@ -23062,10 +24106,10 @@
         ],
         "tags": [
             "general",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-04-10T14:34:47.371Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/colordome-32"
     },
     "bmo": {
@@ -23152,11 +24196,11 @@
             "gb",
             "ink",
             "paper",
-            "polyphorge",
+            "polyphrog",
             "purple"
         ],
         "createdAt": "2021-04-08T23:44:45.580Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/pen-n-paper"
     },
     "6-violets": {
@@ -23276,11 +24320,11 @@
             "372a39"
         ],
         "tags": [
-            "polyphorge",
+            "polyphrog",
             "retro"
         ],
         "createdAt": "2021-04-07T22:25:37.463Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/dustbyte"
     },
     "wednesday-pink": {
@@ -23374,8 +24418,13 @@
             "464678"
         ],
         "tags": [
-            "",
-            "sunset"
+            "cool",
+            "moon",
+            "night",
+            "sunrise",
+            "sunset",
+            "sunset8",
+            "warm"
         ],
         "createdAt": "2020-12-04T22:19:18.952Z",
         "authorName": "SamRI",
@@ -23508,7 +24557,7 @@
         "tags": [
             "console",
             "hardware",
-            "ruzzihuntuu"
+            "ruzikb"
         ],
         "createdAt": "2020-10-15T01:31:35.704Z",
         "authorName": "RuzziOther",
@@ -24034,10 +25083,10 @@
             "forest",
             "nature",
             "plant",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-04-03T11:00:32.937Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/florast-8"
     },
     "rainbow-god": {
@@ -24279,11 +25328,11 @@
         ],
         "tags": [
             "monster",
-            "polyphorge",
+            "polyphrog",
             "retro"
         ],
         "createdAt": "2021-03-29T15:52:54.861Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/retro-perfect"
     },
     "pb-48-01": {
@@ -25935,9 +26984,9 @@
         "authorName": "Arisuki",
         "url": "https://lospec.com/palette-list/cafearisuki"
     },
-    "sega-dc-vmu-4": {
-        "title": "Sega DC VMU-4",
-        "description": "The Extended 4-color palette of the Sega VMU! Palette by TheWolfBunny and tweaked by me.",
+    "sega-vmu-boy": {
+        "title": "Sega VMU BOY",
+        "description": "The Sega VMU's palette, in the style of the Game Boy palette!\u00a0\u00a0",
         "colors": [
             "040470",
             "2a3aa8",
@@ -25945,15 +26994,14 @@
             "88fca8"
         ],
         "tags": [
-            "dreamcast",
-            "game boy",
+            "gameboy",
+            "ruzikb",
             "sega",
-            "thewolfbunny",
             "vmu"
         ],
         "createdAt": "2020-11-27T17:54:35.508Z",
         "authorName": "RuzziOther",
-        "url": "https://lospec.com/palette-list/sega-dc-vmu-4"
+        "url": "https://lospec.com/palette-list/sega-vmu-boy"
     },
     "energy7": {
         "title": "Energy7",
@@ -26193,11 +27241,11 @@
         "tags": [
             "apocalypse",
             "monster",
-            "polyphorge",
+            "polyphrog",
             "zombie"
         ],
         "createdAt": "2021-03-18T12:27:12.678Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/dead-weight-8"
     },
     "dead-flowers": {
@@ -26980,7 +28028,7 @@
             "polyphorge"
         ],
         "createdAt": "2021-03-10T00:01:04.921Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/copper-cut"
     },
     "consistent-15": {
@@ -27165,10 +28213,10 @@
         ],
         "tags": [
             "pico8",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-03-08T01:00:54.039Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/pico-4"
     },
     "iron-blues": {
@@ -27260,7 +28308,7 @@
             "stone"
         ],
         "createdAt": "2021-03-02T07:43:51.429Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/dead-ice"
     },
     "pixelart-smp-z1": {
@@ -27543,11 +28591,11 @@
         "tags": [
             "gb",
             "grey",
-            "polyphorge",
+            "polyphrog",
             "stone"
         ],
         "createdAt": "2021-03-01T22:09:13.632Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/grey-mist"
     },
     "daydream-20": {
@@ -28171,11 +29219,11 @@
         ],
         "tags": [
             "gb",
-            "polyphorge",
+            "polyphrog",
             "tar"
         ],
         "createdAt": "2021-02-21T09:18:21.413Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/black-tar"
     },
     "pix-byrg": {
@@ -28256,7 +29304,7 @@
             "retro"
         ],
         "createdAt": "2021-02-20T11:13:33.303Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/reteocal-9"
     },
     "late-valentines": {
@@ -29016,10 +30064,10 @@
         ],
         "tags": [
             "bubble",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-02-11T20:08:32.103Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/retrobubble"
     },
     "griefwards-and-through": {
@@ -29479,8 +30527,8 @@
         "authorName": "zeta4m studios",
         "url": "https://lospec.com/palette-list/soul32"
     },
-    "overcolor": {
-        "title": "overcolor",
+    "basicolor": {
+        "title": "basicolor",
         "description": "",
         "colors": [
             "360e39",
@@ -29541,11 +30589,11 @@
         ],
         "tags": [
             "general",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-02-07T22:23:11.311Z",
-        "authorName": "polyphorge",
-        "url": "https://lospec.com/palette-list/overcolor"
+        "authorName": "polyphrog",
+        "url": "https://lospec.com/palette-list/basicolor"
     },
     "atomic-heat": {
         "title": "Atomic Heat",
@@ -29648,11 +30696,11 @@
             "anxiety",
             "gb",
             "harsh",
-            "polyphorge",
+            "polyphrog",
             "sharp"
         ],
         "createdAt": "2021-02-08T17:37:01.286Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/anxietas"
     },
     "serenitas": {
@@ -29667,12 +30715,12 @@
         "tags": [
             "calm",
             "gb",
-            "polyphorge",
+            "polyphrog",
             "serenity",
             "smooth"
         ],
         "createdAt": "2021-02-08T18:09:30.489Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/serenitas"
     },
     "challenge-9": {
@@ -30062,7 +31110,7 @@
             "artist",
             "colorful",
             "hardware",
-            "ruzzihuntuu",
+            "ruzikb",
             "vibrant"
         ],
         "createdAt": "2021-02-01T01:17:03.804Z",
@@ -30542,7 +31590,7 @@
             "polyphorge"
         ],
         "createdAt": "2021-01-23T20:24:51.766Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/overgrowth"
     },
     "argeebey-8": {
@@ -30592,10 +31640,10 @@
             "gb",
             "hot",
             "lava",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-01-23T18:48:45.125Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/lava-level"
     },
     "lovey-dovey-16": {
@@ -31017,10 +32065,10 @@
             "candy",
             "jungle",
             "plant",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-01-15T18:27:41.565Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/junglecandy-8"
     },
     "discord-squares": {
@@ -31158,7 +32206,7 @@
             "polyphorge"
         ],
         "createdAt": "2021-01-17T17:02:42.480Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/poly-32"
     },
     "beach-front": {
@@ -31489,12 +32537,12 @@
             "polyphorge"
         ],
         "createdAt": "2021-01-23T16:10:17.471Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/prospecal-8"
     },
     "laser-lab": {
         "title": "laser lab",
-        "description": "gb palette for making games from my\u00a0<a href=\"https://polyphorge.itch.io/laser-labs-asset-pack\" target=\"_blank\">Laser Lab</a>.\u00a0asset pack",
+        "description": "gb palette for making games from my\u00a0Laser Lab.\u00a0asset pack",
         "colors": [
             "e01f3f",
             "fff8ed",
@@ -31506,10 +32554,10 @@
             "lab",
             "laser",
             "metal",
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-01-23T17:47:49.723Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/laser-lab"
     },
     "server-colors": {
@@ -32452,12 +33500,12 @@
             "polyphorge"
         ],
         "createdAt": "2020-12-25T20:19:49.020Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/andrew-kensler-16-stylized"
     },
     "retrocal-4": {
         "title": "retrocal-4",
-        "description": "the palette that inspired the\u00a0<a href=\"https://polyphorge.itch.io/retro-map-tileset\" target=\"_blank\">4-color retro map tileset</a>.",
+        "description": "the palette that inspired the\u00a04-color retro map tileset.",
         "colors": [
             "268856",
             "dcd579",
@@ -32466,11 +33514,11 @@
         ],
         "tags": [
             "gameboy",
-            "polyphorge",
+            "polyphrog",
             "retro"
         ],
         "createdAt": "2020-12-27T12:00:45.522Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/retrocal-4"
     },
     "ys-1-bit": {
@@ -32619,7 +33667,7 @@
             "polyphorge"
         ],
         "createdAt": "2020-12-21T13:26:17.804Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/prospeccal"
     },
     "colodore-vic-64": {
@@ -32728,11 +33776,11 @@
         ],
         "tags": [
             "general",
-            "polyphorge",
+            "polyphrog",
             "vampire"
         ],
         "createdAt": "2020-12-24T16:51:44.471Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/vampire-16"
     },
     "carpet-rose": {
@@ -32774,7 +33822,7 @@
             "polyphorge"
         ],
         "createdAt": "2020-12-25T23:36:41.961Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/jungle-8"
     },
     "organic-christmas-8": {
@@ -32827,10 +33875,10 @@
             "ee9c5d"
         ],
         "tags": [
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2020-12-17T15:21:42.314Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/retrocal-8"
     },
     "sin": {
@@ -33997,7 +35045,7 @@
     },
     "retrocal": {
         "title": "retro_cal",
-        "description": "a palette that i made for the gedot 27 game jam game\u00a0<a href=\"https://lapspider45.itch.io/gwj27-spider\" target=\"_blank\">through the light and dark</a>.",
+        "description": "a palette that i made for the gedot 27 game jam game\u00a0through the light and dark.",
         "colors": [
             "2e1b37",
             "4e53a2",
@@ -34017,10 +35065,10 @@
             "b49a8d"
         ],
         "tags": [
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2020-11-28T03:34:33.151Z",
-        "authorName": "polyphorge",
+        "authorName": "polyphrog",
         "url": "https://lospec.com/palette-list/retrocal"
     },
     "jolly-elf": {
