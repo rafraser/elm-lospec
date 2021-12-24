@@ -1,4 +1,627 @@
 {
+    "echo8": {
+        "title": "Echo8",
+        "description": "A blue and green palette Perfect for night scenes. colors are taken from a fractal I made.",
+        "colors": [
+            "002429",
+            "0c335a",
+            "20506a",
+            "5a8994",
+            "acd2bd",
+            "b8e4c0",
+            "d7eed2",
+            "eeffed"
+        ],
+        "tags": [
+            "8colors",
+            "blue",
+            "coolcolors",
+            "green",
+            "night"
+        ],
+        "createdAt": "2021-12-15T19:31:31.625Z",
+        "authorName": "Matthew Fulmer",
+        "url": "https://lospec.com/palette-list/echo8"
+    },
+    "popcorn-12": {
+        "title": "popcorn-12",
+        "description": "a little self insert palette that I worked hard on with versatility in mind. it focuses on warm, pastel-like colors and is something I am proud of.",
+        "colors": [
+            "0e1012",
+            "654e78",
+            "7a73ff",
+            "ffdbab",
+            "a33665",
+            "ff524c",
+            "ff8cd7",
+            "539c81",
+            "4cff79",
+            "f7a359",
+            "ffed78",
+            "fff9d6"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-16T15:04:29.949Z",
+        "authorName": "popcorn",
+        "url": "https://lospec.com/palette-list/popcorn-12"
+    },
+    "red-panda": {
+        "title": "red panda",
+        "description": "honestly had no idea where i was going with this, not really a good ramp just four colors i really like lol",
+        "colors": [
+            "03030f",
+            "ff5730",
+            "bbc1c4",
+            "fde4d4"
+        ],
+        "tags": [
+            "2bit",
+            "gb"
+        ],
+        "createdAt": "2021-12-16T18:04:17.574Z",
+        "authorName": "maine",
+        "url": "https://lospec.com/palette-list/red-panda"
+    },
+    "ty-future-computer-20": {
+        "title": "TY Future Computer 20",
+        "description": "In the far distant future where most humans activities are now assisted by machines, future computers simulate real-like worlds to keep humans safe from themselves and to have absolute control over the world.",
+        "colors": [
+            "e6dac5",
+            "bab3a9",
+            "a49983",
+            "6e705c",
+            "4a484a",
+            "af9daf",
+            "8f5c66",
+            "5a4256",
+            "252124",
+            "000000",
+            "e4c183",
+            "bf8d77",
+            "9f5745",
+            "6a232b",
+            "c1cfcd",
+            "627c80",
+            "424b5a",
+            "606a40",
+            "80592e",
+            "554323"
+        ],
+        "tags": [
+            "20",
+            "computer",
+            "future",
+            "futuristic",
+            "game",
+            "toby",
+            "yasha"
+        ],
+        "createdAt": "2021-12-15T10:04:07.946Z",
+        "authorName": "Toby_Yasha",
+        "url": "https://lospec.com/palette-list/ty-future-computer-20"
+    },
+    "fantasy": {
+        "title": "fantasy_",
+        "description": "designed for the fantasy_ tilesets and sprites @itch.io [https://itch.io/c/1507436/fantasy-]",
+        "colors": [
+            "ede4da",
+            "bfb8b4",
+            "918d8d",
+            "636167",
+            "353540",
+            "a94949",
+            "ca5954",
+            "e56f4b",
+            "e39347",
+            "eeb551",
+            "e8c65b",
+            "bda351",
+            "8b9150",
+            "557d55",
+            "446350",
+            "3e554c",
+            "8bb0ad",
+            "769fa6",
+            "668da9",
+            "5c699f",
+            "5a5888",
+            "7c6da2",
+            "947a9d",
+            "bc87a5",
+            "d9a6a6",
+            "d4c2b6",
+            "bdaa97",
+            "86735b",
+            "7e674c",
+            "735b42",
+            "604b3d",
+            "4d3f38"
+        ],
+        "tags": [
+            "fantasy",
+            "pixelart"
+        ],
+        "createdAt": "2021-12-14T16:58:41.914Z",
+        "authorName": "analogStudios_",
+        "url": "https://lospec.com/palette-list/fantasy"
+    },
+    "mr-colors-v3": {
+        "title": "Mr. colors v3",
+        "description": ":D",
+        "colors": [
+            "027baa",
+            "149098",
+            "5ac68e",
+            "a9e4a3",
+            "e7e880",
+            "300036",
+            "410018",
+            "5f090c",
+            "761b0b",
+            "9a370b",
+            "e99b1e",
+            "e9b41e",
+            "4f0044",
+            "780236",
+            "8a082b",
+            "c0180a",
+            "db3a05",
+            "ec5903",
+            "f98d00",
+            "000882",
+            "004498",
+            "007ba3",
+            "0097a5",
+            "0dd4b4",
+            "9bd668",
+            "c3e072",
+            "dbed79",
+            "1c1c1c",
+            "35063f",
+            "4c0b3e",
+            "981464",
+            "c82362",
+            "e72f5e",
+            "f0658a",
+            "f95cde",
+            "ff7bd4",
+            "ff8ad7",
+            "ffcfef",
+            "faffe2",
+            "ec407a",
+            "ff8594",
+            "febbac",
+            "fbf79d",
+            "f96900",
+            "f99d00",
+            "f9d200",
+            "f9ec00",
+            "ecf900",
+            "d2f900",
+            "20181f",
+            "30252f",
+            "423440",
+            "544251",
+            "6e576b",
+            "846a81",
+            "bd99b8",
+            "000c6e",
+            "3500a7",
+            "4a11c6",
+            "5d11c6",
+            "7320e5",
+            "b83ce5",
+            "d65ced",
+            "4936ed",
+            "485af2",
+            "6382f6",
+            "77abf2",
+            "84bef2",
+            "97d3f6",
+            "e2fdff",
+            "edfeff",
+            "0e85ca",
+            "0d9eb9",
+            "0db90d",
+            "07c12f",
+            "21cf21",
+            "9ee524",
+            "f28451",
+            "f2a166",
+            "edc292",
+            "f6e89b",
+            "f2ec8c",
+            "ecf28c"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-13T23:35:56.656Z",
+        "authorName": "Yonathan \ud83d\udd36",
+        "url": "https://lospec.com/palette-list/mr-colors-v3"
+    },
+    "lightning-crush": {
+        "title": "lightning crush",
+        "description": "a simple pallete for the homies",
+        "colors": [
+            "eef5e4",
+            "9ff179",
+            "575268",
+            "282336"
+        ],
+        "tags": [
+            "7"
+        ],
+        "createdAt": "2021-12-13T05:02:17.100Z",
+        "authorName": "stin stin",
+        "url": "https://lospec.com/palette-list/lightning-crush"
+    },
+    "zombie-apocalipse": {
+        "title": "Zombie Apocalipse!",
+        "description": "This one is my favourite so far",
+        "colors": [
+            "786775",
+            "a0909b",
+            "b4c6b9",
+            "dcece1"
+        ],
+        "tags": [
+            "4colors",
+            "green",
+            "zombie"
+        ],
+        "createdAt": "2021-12-12T18:53:22.361Z",
+        "authorName": "Rexsarus",
+        "url": "https://lospec.com/palette-list/zombie-apocalipse"
+    },
+    "melon-tree": {
+        "title": "Melon Tree",
+        "description": "First pixel art palette, yay!\u00a0 Something I tried doing is having every color go down in luminance, so you have this sort of gradiant effect to it.\u00a0 Please do give constructive criticism on anything I should improve!",
+        "colors": [
+            "451c22",
+            "61342b",
+            "4b7332",
+            "799e51",
+            "f02259",
+            "ff5c7c",
+            "f78fa5",
+            "ffdae7"
+        ],
+        "tags": [
+            "brown",
+            "green",
+            "natural",
+            "pink",
+            "warm"
+        ],
+        "createdAt": "2021-12-12T02:02:29.028Z",
+        "authorName": "Kikasuru",
+        "url": "https://lospec.com/palette-list/melon-tree"
+    },
+    "moth": {
+        "title": "Moth",
+        "description": "Hey bro, got any lamps? A 20-color palette of gray-browns inspired by moths, as well as a spectrum of warm primary tones inspired by lightbulbs, little beady red moth eyes, and blue carpet (a moth's favorite color to munch on).",
+        "colors": [
+            "d3d4c1",
+            "b1b1a0",
+            "8e8d7f",
+            "6c695e",
+            "49453d",
+            "26211b",
+            "fceecc",
+            "ecd49b",
+            "dcbb6a",
+            "cca139",
+            "bd8809",
+            "9a6f08",
+            "c02e13",
+            "8a210e",
+            "531409",
+            "1c0703",
+            "b5dfe9",
+            "5d7a8c",
+            "3f596d",
+            "22374e"
+        ],
+        "tags": [
+            "blue",
+            "brown",
+            "gold",
+            "gray",
+            "lostinindigo",
+            "moth",
+            "mothpalette",
+            "navy",
+            "primaries",
+            "primarycolors",
+            "red",
+            "redorange",
+            "warmtones",
+            "yellow"
+        ],
+        "createdAt": "2021-12-11T00:37:56.378Z",
+        "authorName": "LostInIndigo",
+        "url": "https://lospec.com/palette-list/moth"
+    },
+    "cozy-christmas": {
+        "title": "Cozy Christmas",
+        "description": "Christmas is almost here, so I thought I'd make a small palette with a Christmas vibe. Hope you like it!",
+        "colors": [
+            "121a16",
+            "1f3325",
+            "36593b",
+            "80193b",
+            "cc2944",
+            "ffb3bf"
+        ],
+        "tags": [
+            "christmas",
+            "cozy",
+            "soundsdotzip"
+        ],
+        "createdAt": "2021-12-12T01:58:19.480Z",
+        "authorName": "SoundsDotZip",
+        "url": "https://lospec.com/palette-list/cozy-christmas"
+    },
+    "neon-cyber": {
+        "title": "neon cyber",
+        "description": "old palette from 2020 i made",
+        "colors": [
+            "2efedd",
+            "aa2bfd",
+            "700aff",
+            "2c06a3"
+        ],
+        "tags": [
+            "bright",
+            "cyber",
+            "cyberpunk",
+            "neon"
+        ],
+        "createdAt": "2021-12-08T14:23:14.509Z",
+        "authorName": "nauseous",
+        "url": "https://lospec.com/palette-list/neon-cyber"
+    },
+    "acidic-gb": {
+        "title": "acidic gb",
+        "description": "A small, gameboy-like pallette to match the green of an evil lab, the stew of a witch, or the leafness of spring.",
+        "colors": [
+            "253a38",
+            "7aa44d",
+            "91ea3a",
+            "d2deca"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-09T13:53:10.222Z",
+        "authorName": "popcorn",
+        "url": "https://lospec.com/palette-list/acidic-gb"
+    },
+    "garfield-gameboyd-blue": {
+        "title": "Garfield Gameboy'd: Blue",
+        "description": "The Blue Gameboy Palette Used In The Animations By The Name Of\u00a0Garfield: Gameboy'd, Created By\u00a0Lumpy Touch",
+        "colors": [
+            "102533",
+            "42678e",
+            "6f9edf",
+            "cecece"
+        ],
+        "tags": [
+            "garfield",
+            "gb",
+            "lumpy",
+            "lumpytouch"
+        ],
+        "createdAt": "2021-12-09T14:46:04.518Z",
+        "authorName": "le",
+        "url": "https://lospec.com/palette-list/garfield-gameboyd-blue"
+    },
+    "hot-highlights-cold-shadows": {
+        "title": "Hot Highlights, Cold Shadows",
+        "description": "A palette with vibrant saturated colors that maintain a grounded and balanced style. With highlights ramping towards hot colors, and the shadows ramping towards cold you will have an immersive contrast that is pleasing to the eye.",
+        "colors": [
+            "100f24",
+            "300e39",
+            "4d1446",
+            "6d1d51",
+            "8b1842",
+            "ac162d",
+            "d31212",
+            "f26e26",
+            "460b18",
+            "771818",
+            "9f3b14",
+            "bc5810",
+            "da810b",
+            "f9aa1f",
+            "ffd94d",
+            "743015",
+            "9a4f18",
+            "b06e17",
+            "dea112",
+            "f4ca2f",
+            "fff261",
+            "fffea3",
+            "0d352f",
+            "195238",
+            "1d772f",
+            "3ea121",
+            "91ce22",
+            "cee82c",
+            "f4f14e",
+            "245b84",
+            "2a8da7",
+            "30b7c0",
+            "46ddb1",
+            "60f0a7",
+            "90f99e",
+            "d0ffcc",
+            "131458",
+            "213373",
+            "264e92",
+            "2271bf",
+            "1fabe0",
+            "4deae9",
+            "7ef7db",
+            "150c41",
+            "291970",
+            "4a23af",
+            "7521ca",
+            "8e22e2",
+            "c436ec",
+            "ea59f7",
+            "38166a",
+            "6a2692",
+            "9d27be",
+            "cc28dc",
+            "e944d3",
+            "f773c0",
+            "ff99c5",
+            "231b32",
+            "2c2a46",
+            "3a3d59",
+            "4c546b",
+            "57697f",
+            "607f90",
+            "86b4bb",
+            "413c5d",
+            "53527a",
+            "7377a0",
+            "95a2c1",
+            "b1c5d8",
+            "dbe9f0",
+            "f5feff",
+            "503030",
+            "714841",
+            "925f4f",
+            "ad795c",
+            "c5a07d",
+            "dabe9a",
+            "ebdec2",
+            "74254d",
+            "a93759",
+            "d45e4e",
+            "e18966",
+            "f4c09a",
+            "faddb7",
+            "feeec7",
+            "301712",
+            "3e2014",
+            "4f2b17",
+            "683918",
+            "8b5018",
+            "ac6d1b",
+            "e2971d"
+        ],
+        "tags": [
+            "andre",
+            "asarge",
+            "cold",
+            "color",
+            "highlights",
+            "hot",
+            "ramps",
+            "sargeant",
+            "saturated",
+            "shadows",
+            "vibrant"
+        ],
+        "createdAt": "2021-12-10T21:10:06.344Z",
+        "authorName": "Asarge",
+        "url": "https://lospec.com/palette-list/hot-highlights-cold-shadows"
+    },
+    "ramp-rainbow": {
+        "title": "ramp-rainbow ",
+        "description": "ramps!",
+        "colors": [
+            "c64d43",
+            "633324",
+            "b16b33",
+            "e7b860",
+            "648228",
+            "134332",
+            "0c0c14",
+            "5f2b44",
+            "9c4c91",
+            "e79299",
+            "f7f9f0",
+            "5bceb9",
+            "427a9e",
+            "343265",
+            "7a6b79",
+            "b3a3b1"
+        ],
+        "tags": [
+            "polyphorge"
+        ],
+        "createdAt": "2021-12-10T21:30:16.186Z",
+        "authorName": "polyphrog",
+        "url": "https://lospec.com/palette-list/ramp-rainbow"
+    },
+    "mountain": {
+        "title": "Mountain",
+        "description": "",
+        "colors": [
+            "44702d",
+            "a6b04f",
+            "303843",
+            "2f4d2f",
+            "819447",
+            "3d3333",
+            "7a5859",
+            "593e47",
+            "734c44",
+            "546756",
+            "636663",
+            "a57855",
+            "87857c",
+            "bcad9f",
+            "d4c692",
+            "89a477",
+            "fee1b8",
+            "b55945",
+            "eb9661",
+            "a4c5af",
+            "cae6d9",
+            "f2b888",
+            "de9f47",
+            "f1f6f0"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-11T03:43:38.932Z",
+        "authorName": "Angela Scheeler",
+        "url": "https://lospec.com/palette-list/mountain"
+    },
+    "vintagedalsy": {
+        "title": "VINTAGE_DALSY",
+        "description": "FANSO",
+        "colors": [
+            "ccc7c0",
+            "322c2a",
+            "665e5c"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-11T06:58:30.619Z",
+        "authorName": "Maximiliano Lazcano olvera",
+        "url": "https://lospec.com/palette-list/vintagedalsy"
+    },
+    "vintage-voltage": {
+        "title": "Vintage Voltage",
+        "description": "Vintage Voltage is a palette I made because I love the way the dark blue contrasts with the light yellow. Hope you like it!",
+        "colors": [
+            "191930",
+            "263d6e",
+            "2f729e",
+            "eba254",
+            "f5d689",
+            "fff5d9"
+        ],
+        "tags": [
+            "electric",
+            "soundsdotzip",
+            "voltage"
+        ],
+        "createdAt": "2021-12-11T17:03:05.021Z",
+        "authorName": "SoundsDotZip",
+        "url": "https://lospec.com/palette-list/vintage-voltage"
+    },
     "foggy": {
         "title": "Foggy",
         "description": "",
@@ -5746,7 +6369,7 @@
             "archera"
         ],
         "createdAt": "2021-10-22T01:11:56.132Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/archererer24"
     },
     "maomaoyts-doodle": {
@@ -33412,7 +34035,7 @@
             "duo"
         ],
         "createdAt": "2020-12-28T15:57:31.790Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/1985"
     },
     "woodland-5": {
@@ -34188,7 +34811,7 @@
             "archera"
         ],
         "createdAt": "2020-12-12T15:16:51.098Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/amp29"
     },
     "bloo22": {
@@ -37107,7 +37730,7 @@
             "mintyfresh"
         ],
         "createdAt": "2020-10-26T14:40:59.604Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/minty-fresh"
     },
     "amaryllis-garden-8": {
@@ -37626,7 +38249,7 @@
             "ineedglasses"
         ],
         "createdAt": "2020-10-17T18:19:56.438Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/i-need-glasses"
     },
     "prismatica": {
@@ -38263,7 +38886,7 @@
             "general"
         ],
         "createdAt": "2020-09-12T22:56:47.139Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/funny31"
     },
     "apollo": {
@@ -38633,7 +39256,7 @@
             "timeless"
         ],
         "createdAt": "2020-09-13T22:34:42.647Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/timeless"
     },
     "soft-dirty": {
@@ -40112,7 +40735,7 @@
             "tropical33"
         ],
         "createdAt": "2020-08-12T13:48:08.558Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/tropica33"
     },
     "ramp-20": {
@@ -40181,7 +40804,7 @@
             "videogame"
         ],
         "createdAt": "2020-08-16T23:11:59.908Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/gamer19"
     },
     "astro-boy": {
@@ -40871,7 +41494,7 @@
             "masterpalette"
         ],
         "createdAt": "2020-07-10T22:32:16.693Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/archers-master-palette"
     },
     "mc-fupery-artmap-shades-gg": {
@@ -41476,7 +42099,7 @@
         ],
         "tags": [],
         "createdAt": "2020-07-17T16:36:06.460Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/archerer48"
     },
     "limelight18": {
@@ -42607,7 +43230,7 @@
         ],
         "tags": [],
         "createdAt": "2020-07-01T23:00:56.641Z",
-        "authorName": "archer-a",
+        "authorName": "archer",
         "url": "https://lospec.com/palette-list/archerer36"
     },
     "deepfry": {
