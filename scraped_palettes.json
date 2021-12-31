@@ -1,4 +1,796 @@
 {
+    "masterful-103": {
+        "title": "Masterful-103",
+        "description": "my newest master palette (i thought this curse was over)",
+        "colors": [
+            "000000",
+            "1c1c4a",
+            "342d78",
+            "6040a0",
+            "9c5abe",
+            "da85d2",
+            "f3bdd8",
+            "5644af",
+            "8066d1",
+            "b993e6",
+            "e8c7f3",
+            "1d1244",
+            "312081",
+            "3942ac",
+            "4971c2",
+            "6ba8e3",
+            "9adef6",
+            "3b1f62",
+            "683084",
+            "a949a9",
+            "e676c1",
+            "ffb1cb",
+            "1b1c28",
+            "24314a",
+            "2e4f6f",
+            "307c8a",
+            "4bbba9",
+            "93f6c3",
+            "157d87",
+            "31bb81",
+            "95f68c",
+            "26323d",
+            "2d5955",
+            "358750",
+            "6dc54f",
+            "c2e972",
+            "191d1f",
+            "213130",
+            "315640",
+            "4b8745",
+            "81bb56",
+            "d2e086",
+            "2a3234",
+            "495654",
+            "75847b",
+            "a4afa3",
+            "cfd4c5",
+            "1c0e17",
+            "2d283d",
+            "45475c",
+            "697484",
+            "94a8af",
+            "c2d7d5",
+            "312327",
+            "503f3f",
+            "7b6d65",
+            "a6a093",
+            "d1d0c5",
+            "312014",
+            "533915",
+            "7b641d",
+            "a9a036",
+            "dada64",
+            "341922",
+            "592d2d",
+            "875645",
+            "b88c5f",
+            "e3cb81",
+            "592828",
+            "90513c",
+            "c89043",
+            "f3d543",
+            "9a4b31",
+            "e38426",
+            "f9cc76",
+            "3a133a",
+            "6c254e",
+            "a94b64",
+            "dd8675",
+            "310f31",
+            "59153d",
+            "931f45",
+            "e03e3e",
+            "f68f6d",
+            "fcc7a1",
+            "d14b62",
+            "f68c8c",
+            "ffc6b5",
+            "3c2d59",
+            "4f4b87",
+            "6c76ac",
+            "97aed1",
+            "c6dce6",
+            "3e2475",
+            "4f45be",
+            "6379d0",
+            "7dace1",
+            "adf2f9",
+            "5643b8",
+            "746ae0",
+            "92a2f0",
+            "b7d8f9",
+            "ffffff"
+        ],
+        "tags": [
+            "isasstudio"
+        ],
+        "createdAt": "2021-12-27T17:38:08.506Z",
+        "authorName": "Isa",
+        "url": "https://lospec.com/palette-list/masterful-103"
+    },
+    "wine-gameboy": {
+        "title": "Wine Gameboy",
+        "description": "",
+        "colors": [
+            "280b0b",
+            "6c2e53",
+            "d17c7c",
+            "f6c6a8"
+        ],
+        "tags": [
+            "gameboy"
+        ],
+        "createdAt": "2021-12-27T20:37:06.418Z",
+        "authorName": "onion",
+        "url": "https://lospec.com/palette-list/wine-gameboy"
+    },
+    "colorbase-32": {
+        "title": "colorbase 32",
+        "description": "",
+        "colors": [
+            "70c6aa",
+            "378493",
+            "2c4766",
+            "25273c",
+            "193425",
+            "2f6333",
+            "379e60",
+            "79d683",
+            "fcfcf4",
+            "aad150",
+            "6a9935",
+            "4d5c1d",
+            "31320f",
+            "432718",
+            "6d4324",
+            "a0703f",
+            "ddb274",
+            "e9ba53",
+            "c06e31",
+            "84411b",
+            "5c1c27",
+            "9e3329",
+            "dc5b45",
+            "f79b8f",
+            "bc5b80",
+            "7e3566",
+            "402040",
+            "0a0a09",
+            "282a2b",
+            "4a434a",
+            "76756d",
+            "b6aea8"
+        ],
+        "tags": [
+            "polyphrog"
+        ],
+        "createdAt": "2021-12-25T22:04:16.048Z",
+        "authorName": "polyphrog",
+        "url": "https://lospec.com/palette-list/colorbase-32"
+    },
+    "colorful-42": {
+        "title": "Colorful-42",
+        "description": "I made this palette for Minecraft Texture Pack, Game Developing and Palmodding, a pack of 42 colors for you to enjoy (:",
+        "colors": [
+            "94fef1",
+            "5bd2ff",
+            "0482ff",
+            "0027b0",
+            "000764",
+            "fba368",
+            "f76d46",
+            "ec0d0d",
+            "a70a21",
+            "780737",
+            "cdff9b",
+            "78ff37",
+            "32df00",
+            "01b80b",
+            "016321",
+            "fffeca",
+            "fffc77",
+            "ffed0f",
+            "df9200",
+            "ac3902",
+            "d0d68b",
+            "8ba550",
+            "537849",
+            "385f3c",
+            "214136",
+            "f76cb9",
+            "ed23cf",
+            "9f12b4",
+            "470c78",
+            "22064f",
+            "f7f7f2",
+            "a7a698",
+            "6e6e6e",
+            "454663",
+            "2e3149",
+            "121429",
+            "ef9a45",
+            "e76b18",
+            "bc4218",
+            "942114",
+            "671010",
+            "360710"
+        ],
+        "tags": [
+            "colorful",
+            "gabz",
+            "minecraft",
+            "palmod"
+        ],
+        "createdAt": "2021-12-21T23:00:03.323Z",
+        "authorName": "Gabizu46512",
+        "url": "https://lospec.com/palette-list/colorful-42"
+    },
+    "basic-16": {
+        "title": "Basic-16",
+        "description": "Basic, and minimalism, 16 colors palette. Made this for a friend for 8-bit pixel art",
+        "colors": [
+            "f2c0a2",
+            "e98472",
+            "d82323",
+            "98183c",
+            "1fcb23",
+            "126d30",
+            "26dddd",
+            "1867a0",
+            "934226",
+            "6c251e",
+            "f7e26c",
+            "edb329",
+            "e76d14",
+            "f2f2f9",
+            "6a5fa0",
+            "161423"
+        ],
+        "tags": [
+            "8bit",
+            "pixelart",
+            "retro"
+        ],
+        "createdAt": "2021-12-22T03:21:00.604Z",
+        "authorName": "Gabizu46512",
+        "url": "https://lospec.com/palette-list/basic-16"
+    },
+    "festivepanthera10": {
+        "title": "FestivePanthera10",
+        "description": "Palette from my PJ secret santa 2021 piece.\u00a0",
+        "colors": [
+            "191d21",
+            "434e57",
+            "7c7b73",
+            "b3a08d",
+            "e6cab1",
+            "3471b3",
+            "54adb0",
+            "73f0c6",
+            "87323f",
+            "d1605c"
+        ],
+        "tags": [
+            "black",
+            "blue",
+            "cat",
+            "feline",
+            "festive",
+            "gray",
+            "leopard",
+            "lynx",
+            "maroon",
+            "navy",
+            "panthera",
+            "red",
+            "snow",
+            "teal"
+        ],
+        "createdAt": "2021-12-23T16:04:26.488Z",
+        "authorName": "Sarahboev",
+        "url": "https://lospec.com/palette-list/festivepanthera10"
+    },
+    "space-dust-9": {
+        "title": "SPACE DUST 9",
+        "description": "A palette for space stuff.",
+        "colors": [
+            "302c2e",
+            "5a5353",
+            "dff6f5",
+            "8aebf1",
+            "8e478c",
+            "564064",
+            "39314b",
+            "e6482e",
+            "a93b3b"
+        ],
+        "tags": [
+            "cyan",
+            "purple",
+            "red",
+            "space"
+        ],
+        "createdAt": "2021-12-23T17:47:52.615Z",
+        "authorName": "Hana",
+        "url": "https://lospec.com/palette-list/space-dust-9"
+    },
+    "laying-in-the-shade": {
+        "title": "Laying in the Shade",
+        "description": "",
+        "colors": [
+            "533a71",
+            "6184d8",
+            "4fc2b7",
+            "9aed5d",
+            "f1f465"
+        ],
+        "tags": [],
+        "createdAt": "2021-12-23T23:02:03.278Z",
+        "authorName": "tokki",
+        "url": "https://lospec.com/palette-list/laying-in-the-shade"
+    },
+    "greedpit": {
+        "title": "GreedPit",
+        "description": "\"As our engines, born of steam and cog, grew both in complexity and output, so did our primordial greed for gold. Mind ablaze, we sought wealth in the subterranean bellies of our mechanical cities: amid pipes and petrol, we had lost all control -but couldn\u2019t and wouldn\u2019t care. Our bodies were machines; our minds shine-seekers.\"",
+        "colors": [
+            "263b28",
+            "2d452f",
+            "525236",
+            "8a6800",
+            "c48931",
+            "ccb4af"
+        ],
+        "tags": [
+            "6color",
+            "abiss",
+            "cog",
+            "gold",
+            "greed",
+            "green",
+            "money",
+            "pipes",
+            "pit",
+            "royalnaym",
+            "steampunk"
+        ],
+        "createdAt": "2021-12-22T09:10:30.579Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/greedpit"
+    },
+    "shockwaver-v2": {
+        "title": "Shockwaver V.2",
+        "description": "Hey guys! I saw that some of you liked a lot the Shockwaver palette so i made an updated version of the palette, it has some new Colors and some color corrections, i hope you like this new version! \ud83d\udc40",
+        "colors": [
+            "222340",
+            "2c314e",
+            "414965",
+            "636d8a",
+            "7a85a6",
+            "8c9cbb",
+            "a5b8d5",
+            "cfd6f6",
+            "ffffff",
+            "16072f",
+            "191150",
+            "251a8a",
+            "3528ab",
+            "3e44cc",
+            "2b66cc",
+            "48b9ff",
+            "5deaff",
+            "93fff6",
+            "271859",
+            "362375",
+            "5532ab",
+            "7a33d7",
+            "a65de3",
+            "f68cff",
+            "ffacdd",
+            "700083",
+            "a200bb",
+            "bc00c2",
+            "db1adc",
+            "ff33e6",
+            "ff54e5",
+            "ff79d9",
+            "42122d",
+            "60203b",
+            "863253",
+            "a94d6a",
+            "c75d7c",
+            "f49f9c",
+            "ffcdb4",
+            "ffe2c8",
+            "1a030c",
+            "370a14",
+            "50141c",
+            "6a2023",
+            "86312d",
+            "9f3f3a",
+            "bb5954",
+            "c9736e",
+            "080b21",
+            "161a42",
+            "235675",
+            "1a8a6f",
+            "28ab61",
+            "6ae843",
+            "b2ff19",
+            "fff948",
+            "feff8e",
+            "35013b",
+            "6e0d61",
+            "831166",
+            "9d144f",
+            "ea2633",
+            "ea5e26",
+            "ff9317",
+            "ffd010"
+        ],
+        "tags": [
+            "artist",
+            "bright",
+            "colorful",
+            "energetic",
+            "shiny",
+            "vibrant"
+        ],
+        "createdAt": "2021-12-15T03:47:40.771Z",
+        "authorName": "Loop",
+        "url": "https://lospec.com/palette-list/shockwaver-v2"
+    },
+    "interstate-28": {
+        "title": "interstate 28",
+        "description": "absolutely loathe this palette but i worked on it too long to not upload it",
+        "colors": [
+            "fefedf",
+            "f4eaa3",
+            "f4d565",
+            "edb048",
+            "bb5e25",
+            "903a25",
+            "6f1519",
+            "a11920",
+            "da453c",
+            "f2846c",
+            "e8676a",
+            "c14166",
+            "942a5e",
+            "631649",
+            "23192d",
+            "342e4c",
+            "465374",
+            "5a8090",
+            "78ccb9",
+            "57a386",
+            "3a716c",
+            "27424b",
+            "1f2a2c",
+            "474214",
+            "55632e",
+            "89954c",
+            "a1b974",
+            "b6e3b3"
+        ],
+        "tags": [
+            "blue",
+            "brown",
+            "cyan",
+            "magenta",
+            "red",
+            "yellow"
+        ],
+        "createdAt": "2021-12-21T18:38:33.905Z",
+        "authorName": "maine",
+        "url": "https://lospec.com/palette-list/interstate-28"
+    },
+    "gloomy-dungeon": {
+        "title": "Gloomy Dungeon",
+        "description": "a gloomy doomy dungeon...",
+        "colors": [
+            "000000",
+            "222034",
+            "45283c",
+            "643a57"
+        ],
+        "tags": [
+            "dark",
+            "doom",
+            "dungeon",
+            "gloom"
+        ],
+        "createdAt": "2021-12-21T20:53:34.209Z",
+        "authorName": "SandwichBlamwich",
+        "url": "https://lospec.com/palette-list/gloomy-dungeon"
+    },
+    "berry-nebula": {
+        "title": "Berry Nebula",
+        "description": "An 8-color palette ranging from neon blue raspberry to a deep grape-y purple. Great for space and underground scenes where you need a little bit of otherworldly glow.",
+        "colors": [
+            "6ceded",
+            "6cb9c9",
+            "6d85a5",
+            "6e5181",
+            "6f1d5c",
+            "4f1446",
+            "2e0a30",
+            "0d001a"
+        ],
+        "tags": [
+            "blue",
+            "blueraspberry",
+            "cool",
+            "cooltone",
+            "glow",
+            "grape",
+            "lostinindigo",
+            "nebula",
+            "otherworldy",
+            "purple",
+            "space",
+            "stars",
+            "undergound",
+            "violet"
+        ],
+        "createdAt": "2021-12-21T21:11:32.223Z",
+        "authorName": "LostInIndigo",
+        "url": "https://lospec.com/palette-list/berry-nebula"
+    },
+    "deuterospill": {
+        "title": "DeuteroSpill",
+        "description": "A follow up from one of my first palette. 9 colors going from a very dark blue, to a sickly yellow, all the way to a cold white. Based on the deuteranopian color spectrum.",
+        "colors": [
+            "153457",
+            "183c5c",
+            "1d4961",
+            "45585d",
+            "6d6e46",
+            "7f8068",
+            "96998e",
+            "acb2b1",
+            "cbd5fc"
+        ],
+        "tags": [
+            "9colors",
+            "blue",
+            "colorblind",
+            "deuteranopia",
+            "dust",
+            "mechanical",
+            "pollution",
+            "royalnaym",
+            "sick",
+            "water",
+            "yellow"
+        ],
+        "createdAt": "2021-12-22T09:03:23.405Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/deuterospill"
+    },
+    "royalguard": {
+        "title": "RoyalGuard",
+        "description": "A follow up from Cyclope6, my most downloaded palette yet. RoyalGuard uses a more balanced value ramp, while also merging the colors in a more organic way.",
+        "colors": [
+            "423030",
+            "3b3f3f",
+            "365252",
+            "007281",
+            "6f989b",
+            "c0c5c9"
+        ],
+        "tags": [
+            "6colors",
+            "atmospheric",
+            "cyan",
+            "cyclope",
+            "fantasy",
+            "mechanical",
+            "red",
+            "royalnaym"
+        ],
+        "createdAt": "2021-12-22T09:05:54.360Z",
+        "authorName": "Royal_Naym",
+        "url": "https://lospec.com/palette-list/royalguard"
+    },
+    "snowmans-land": {
+        "title": "Snowman's Land",
+        "description": "Hastily created for a snowman creating collaboration",
+        "colors": [
+            "fdfaf3",
+            "d9d5d3",
+            "b7bac2",
+            "8599b6",
+            "5e7ba3",
+            "2e3440",
+            "893631",
+            "ca3739",
+            "dc703f",
+            "3a93de",
+            "3b7851"
+        ],
+        "tags": [
+            "blue",
+            "snow",
+            "white",
+            "winter"
+        ],
+        "createdAt": "2021-12-06T17:49:01.766Z",
+        "authorName": "skeddles",
+        "url": "https://lospec.com/palette-list/snowmans-land"
+    },
+    "h2o": {
+        "title": "H2O",
+        "description": "inspired by lake and pond colors, blues and greens alternate &amp; can be separated into their respective ramps (i really need to make examples for these but i have no motivation)",
+        "colors": [
+            "090909",
+            "18173c",
+            "293329",
+            "244457",
+            "315c3d",
+            "3b8271",
+            "519a59",
+            "92b0a8",
+            "82cc92",
+            "efd7e6"
+        ],
+        "tags": [
+            "blue",
+            "green",
+            "lagoon"
+        ],
+        "createdAt": "2021-12-18T01:42:19.335Z",
+        "authorName": "maine",
+        "url": "https://lospec.com/palette-list/h2o"
+    },
+    "blue-exe": {
+        "title": "blue exe",
+        "description": "perfect blue colors for pixel art",
+        "colors": [
+            "0c1449",
+            "3b59d0",
+            "6f9be2",
+            "c6dcf6"
+        ],
+        "tags": [
+            "blue"
+        ],
+        "createdAt": "2021-12-18T06:26:01.450Z",
+        "authorName": "small oof",
+        "url": "https://lospec.com/palette-list/blue-exe"
+    },
+    "wyrm-24": {
+        "title": "Wyrm 24",
+        "description": "Made this warm toned set for myself. I think this website is real neat so here's my contribution!",
+        "colors": [
+            "1b0203",
+            "402f32",
+            "833f39",
+            "bc6e5a",
+            "d1603f",
+            "e9914e",
+            "ffdc94",
+            "51304c",
+            "684763",
+            "6e1e3e",
+            "971d28",
+            "d8352c",
+            "f6a57a",
+            "1f2c37",
+            "334059",
+            "495a6f",
+            "7f8285",
+            "c3c6bb",
+            "796546",
+            "baa862",
+            "564952",
+            "a28e8d",
+            "d1c6b7",
+            "fbf5dc"
+        ],
+        "tags": [
+            "24",
+            "24colors",
+            "frogwyrm",
+            "warm"
+        ],
+        "createdAt": "2021-12-18T08:14:44.440Z",
+        "authorName": "FrogWyrm",
+        "url": "https://lospec.com/palette-list/wyrm-24"
+    },
+    "shallowmarsh26": {
+        "title": "shallowmarsh26",
+        "description": "looks cool i guess\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "colors": [
+            "100f10",
+            "29292d",
+            "3d3d3d",
+            "4d594a",
+            "64695f",
+            "5e8e6e",
+            "8cc676",
+            "cbdbc4",
+            "9aacb6",
+            "83808a",
+            "54575d",
+            "4d688a",
+            "4f87a6",
+            "50b1b6",
+            "fffcf6",
+            "ffeec7",
+            "ffd56c",
+            "f79c3f",
+            "db7055",
+            "b24b56",
+            "794f4a",
+            "513a40",
+            "8b5692",
+            "d26bb5",
+            "fba2b4",
+            "ffd6cb"
+        ],
+        "tags": [
+            "26",
+            "archera",
+            "desaturated",
+            "general"
+        ],
+        "createdAt": "2021-12-18T15:13:31.962Z",
+        "authorName": "archer",
+        "url": "https://lospec.com/palette-list/shallowmarsh26"
+    },
+    "reeses-puffs-1-bit": {
+        "title": "Reeses Puffs 1-Bit",
+        "description": "PEANUT BUTTA CHOCOLATE FLAVAA",
+        "colors": [
+            "6f4d3d",
+            "cb9867"
+        ],
+        "tags": [
+            "cereal"
+        ],
+        "createdAt": "2021-12-21T16:28:08.088Z",
+        "authorName": "skeddles",
+        "url": "https://lospec.com/palette-list/reeses-puffs-1-bit"
+    },
+    "mushroom": {
+        "title": "Mushroom",
+        "description": "",
+        "colors": [
+            "2e222f",
+            "45293f",
+            "7a3045",
+            "993d41",
+            "cd683d",
+            "fbb954",
+            "f2ec8b",
+            "b0a987",
+            "997f73",
+            "665964",
+            "443846",
+            "576069",
+            "788a87",
+            "a9b2a2"
+        ],
+        "tags": [
+            "brown",
+            "fire",
+            "green",
+            "jimison3",
+            "mushroom",
+            "orange",
+            "purple",
+            "red"
+        ],
+        "createdAt": "2021-12-17T10:06:44.711Z",
+        "authorName": "Jimison3",
+        "url": "https://lospec.com/palette-list/mushroom"
+    },
     "echo8": {
         "title": "Echo8",
         "description": "A blue and green palette Perfect for night scenes. colors are taken from a fractal I made.",
@@ -549,7 +1341,7 @@
             "b3a3b1"
         ],
         "tags": [
-            "polyphorge"
+            "polyphrog"
         ],
         "createdAt": "2021-12-10T21:30:16.186Z",
         "authorName": "polyphrog",
@@ -2845,7 +3637,7 @@
             "virtualboy"
         ],
         "createdAt": "2021-11-21T16:40:17.758Z",
-        "authorName": "Nenner KN",
+        "authorName": "Bruno Weinberger",
         "url": "https://lospec.com/palette-list/red-poster"
     },
     "ancientheritage30": {
@@ -3506,7 +4298,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-11-16T03:33:02.846Z",
-        "authorName": "RuzziOther",
+        "authorName": "RuziKB\u00b2",
         "url": "https://lospec.com/palette-list/ruziwarm"
     },
     "ruzicold": {
@@ -3544,7 +4336,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-11-16T03:33:39.544Z",
-        "authorName": "RuzziOther",
+        "authorName": "RuziKB\u00b2",
         "url": "https://lospec.com/palette-list/ruzicold"
     },
     "clown-wing-monster": {
@@ -4483,7 +5275,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-11-04T09:40:25.836Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzzishakedmilk-v2"
     },
     "zants-pastels": {
@@ -4789,7 +5581,7 @@
             "hardware"
         ],
         "createdAt": "2021-11-02T19:59:19.821Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzzidore-96"
     },
     "dark-autumn": {
@@ -5843,7 +6635,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-10-28T06:31:12.248Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzzis-ultimate-palette-yet"
     },
     "nieu15": {
@@ -9513,7 +10305,7 @@
             "vibrant"
         ],
         "createdAt": "2021-09-24T15:27:21.289Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzzishakedmilk"
     },
     "pixelunalived-palette-v1": {
@@ -10058,7 +10850,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-09-20T19:57:59.944Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzx-spectrum"
     },
     "zenith": {
@@ -12134,8 +12926,8 @@
         "authorName": "Zant",
         "url": "https://lospec.com/palette-list/skyline"
     },
-    "awful-64": {
-        "title": "Awful 64",
+    "emptytitle123": {
+        "title": "emptytitle123",
         "description": "\u00a0",
         "colors": [
             "502d55",
@@ -12204,13 +12996,11 @@
             "fdd5b0"
         ],
         "tags": [
-            "awful",
-            "awful64",
-            "deadfulcat"
+            "emptytitle123"
         ],
         "createdAt": "2021-08-27T13:42:11.303Z",
-        "authorName": "Deadful Cat",
-        "url": "https://lospec.com/palette-list/awful-64"
+        "authorName": "emptyname123",
+        "url": "https://lospec.com/palette-list/emptytitle123"
     },
     "crazy-moon": {
         "title": "Crazy Moon",
@@ -13402,8 +14192,8 @@
         "authorName": "TheChurchGuy",
         "url": "https://lospec.com/palette-list/world-of-horror"
     },
-    "ruzzihuntuu-32-color": {
-        "title": "RuzziHuntuu 32-color",
+    "ruzikb-32-color": {
+        "title": "RuziKB 32-color",
         "description": "",
         "colors": [
             "04003a",
@@ -13443,8 +14233,8 @@
             "ruzikb"
         ],
         "createdAt": "2021-05-05T21:03:39.660Z",
-        "authorName": "RuzziHuntuu",
-        "url": "https://lospec.com/palette-list/ruzzihuntuu-32-color"
+        "authorName": "RuziKB\u00b9",
+        "url": "https://lospec.com/palette-list/ruzikb-32-color"
     },
     "hunter-ruiz-master-pallete-v3": {
         "title": "Hunter Ruiz Master Pallete V3",
@@ -13519,7 +14309,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-04-14T23:17:04.883Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/hunter-ruiz-master-pallete-v3"
     },
     "ruzzihuntuu-master-pallete-v2": {
@@ -13595,7 +14385,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-04-28T21:26:39.522Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzzihuntuu-master-pallete-v2"
     },
     "project-ruzikb-86": {
@@ -13693,7 +14483,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-05-05T20:39:31.549Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/project-ruzikb-86"
     },
     "spoohouse": {
@@ -14357,7 +15147,7 @@
             "vibrant"
         ],
         "createdAt": "2021-06-21T02:15:08.294Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzzi-cpc"
     },
     "ruzikb64": {
@@ -14433,7 +15223,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-06-13T19:15:36.107Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzikb64"
     },
     "ruzzi30": {
@@ -14475,7 +15265,7 @@
             "ruzikb"
         ],
         "createdAt": "2021-06-29T00:52:09.541Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/ruzzi30"
     },
     "sprinkle-cake-36": {
@@ -22752,7 +23542,7 @@
             "slavfox"
         ],
         "createdAt": "2021-05-11T18:45:57.938Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/evening32"
     },
     "blue-monochrome-lcd": {
@@ -25183,7 +25973,7 @@
             "ruzikb"
         ],
         "createdAt": "2020-10-15T01:31:35.704Z",
-        "authorName": "RuzziOther",
+        "authorName": "RuziKB\u00b2",
         "url": "https://lospec.com/palette-list/super-cassette-vision"
     },
     "vocodes-62": {
@@ -25254,10 +26044,11 @@
             "f8bf99"
         ],
         "tags": [
+            "ruzikb",
             "texttospeech"
         ],
         "createdAt": "2020-10-22T19:01:02.686Z",
-        "authorName": "RuzziOther",
+        "authorName": "RuziKB\u00b2",
         "url": "https://lospec.com/palette-list/vocodes-62"
     },
     "bumble-bee": {
@@ -27386,9 +28177,11 @@
             "5c024a",
             "300020"
         ],
-        "tags": [],
+        "tags": [
+            "ruzikb"
+        ],
         "createdAt": "2020-12-02T12:23:46.489Z",
-        "authorName": "RuzziOther",
+        "authorName": "RuziKB\u00b2",
         "url": "https://lospec.com/palette-list/winterfes-16"
     },
     "nyankos16": {
@@ -27623,7 +28416,7 @@
             "vmu"
         ],
         "createdAt": "2020-11-27T17:54:35.508Z",
-        "authorName": "RuzziOther",
+        "authorName": "RuziKB\u00b2",
         "url": "https://lospec.com/palette-list/sega-vmu-boy"
     },
     "energy7": {
@@ -31737,7 +32530,7 @@
             "vibrant"
         ],
         "createdAt": "2021-02-01T01:17:03.804Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/theruzikineb0i-master"
     },
     "reverie38": {
@@ -32126,7 +32919,7 @@
             "martin lambie nairn"
         ],
         "createdAt": "2021-01-11T13:07:28.751Z",
-        "authorName": "RuzziHuntuu",
+        "authorName": "RuziKB\u00b9",
         "url": "https://lospec.com/palette-list/channel-4-1982-cgi"
     },
     "16dan": {
@@ -33203,7 +33996,7 @@
         ],
         "tags": [],
         "createdAt": "2020-12-06T12:29:17.366Z",
-        "authorName": "Juniper Moon",
+        "authorName": "tokki",
         "url": "https://lospec.com/palette-list/server-colors"
     },
     "power-38": {
@@ -35414,7 +36207,7 @@
         ],
         "tags": [],
         "createdAt": "2020-11-24T20:39:08.930Z",
-        "authorName": "RuzziOther",
+        "authorName": "RuziKB\u00b2",
         "url": "https://lospec.com/palette-list/mega-20"
     },
     "isla-negra": {
