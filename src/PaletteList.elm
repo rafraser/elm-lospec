@@ -1,6 +1,6 @@
 module PaletteList exposing
     ( paletteList
-    , p1Bit, p1BitAppleGreen, p1BitChill, p1BitFlames, p1BitPepper, p100, p1000Degrees, p106ColorPalette, p13rusque, p16ColorArtNouveau, p16dan, p1985, p1bitBlackAndWhite, p1bitRainbowHorror, p1pecksPalette, p2BitBlue, p2BitMatrix, p2020Vision, p20ShadesOfSkinDecay, p2022RPlacePallette, p24Universal, p2bitDemiboy, p2bitDemichrome, p2bitSunrise, p2much, p2sois, p3BitCmy, p3BitRgbPerceptuallyLinear, p3ColorGray, p31, p32, p3bitCatgirlsNishCyra, p3xdesk, p4Bit, p4BitRgb, p4Spoopy4U, p420BlazeIt, p4pi, p4seas, p5Crowns, p5Sheep, p5leepy, p5yan, p6Bit12ColourChallenge, p6Violets, p70sZine, p8BitPalatte, p8BitRgbm, p8Vision, p80sAmerican, p8lueens, p90schina, aDarkishSky, aHorribleDeath, aLot, aM90INFRA, aMANITA, aSIAN15, aShortHike, aSweetRevamp, aapDga16, aapRadiantplus, absxii, abyss9, acidicGb, acradeHero, adbHybrid16, adobeGb, adventure, adventure28, aerugo, afr32, ag500, aj8, ajmsx, ajsPico8Palette, aka, akc12, algunosColores, alienGb, allAround30, allioop20, amaryllisGarden8, amazon8, amberCrtgb, ambr0sia, americana, amigaPixels64, amp29, amphibian8, anarkis27, anb16, ancientAnimation, ancientheritage30, andrewKensler16Stylized, andrewKenslers16, angelic, animalCrossingPatternPalette, anomalyB8, anomalyRg8, anotherRetro, ansi32, antiquity16, anxietas, apollo, appleIiHiRes, apricot, aquaColors, arcadian16, arch, archaon15, archerer36, archerer48, archererer24, archersMasterPalette, archipelago, arcticDust, ardoh18, argeebey8, arjibi8, ark4, armyPallet, arneFrontier16, arq4yyy4, artHoeAesthetic7, aspiria32, astro, astroBoy, astro16V2, astronSt16, astronSte32, atari2600PaletteNtscVersion, atari2600PalettePalVersion, atari8BitFamilyGtia, atari8BitSeriesGtia, atbLava, atlantis, atom20, atom8, atomicHeat, aubrey32, auler99, autumVillan6, autumnBreeze, autumnChill, autumnComfort18, autumnDecay, autumnFire12, autumnGlow, autumnTree, autumnal16, autumngb, avatarPalette, avocado, awkward8, ayaka18, azione16, azul5, bLUSHROOM, babaIsYouDefaultColor, baba32, backward12, backwoodsPlague, baksu13, banan4, bananaCartoon, bananaDoubleberry, barbieTheSlasherMovie, bareCopper, barrel, baseWhite, basic14ColorPalette, basic16, basicBubblegum, basicolor, battlenights, battletaleGb, bauhaus, beachFront, beachyGb, beret12, berryJam, berryNebula, besalt, bigCat, bioChronicle, biohazard9, biome19, birdbath, birthdaysPc98TitleScreen, bitInterior, bitUnit8, bitbee, bitbitsNeon, bittersweet, blackAndBlood, blackCherry, blackGameboy, blackTar, blackm0ld, blankCanvas, blankVhsBox, blend32, blindfold, blithefulDemo, blkNx64, bloo20, bloo22, bloodCrow, bloodMints, bloodinkAndPaper, bloodmoon21, bloody, bloom, bloom16, bloxelsPalette, bluash4, blueExe, blueGlass, blueMania, blueMonochromeLcd, blueNewspaper, blueNight, blueSix, blueSkyes, blueSnow, bluebellRot, blueberryGb, bluedawn7, bluedream4, bluem0ld, bluerown1Bit, blues, bluetiger3C, blushGb, blushNGunmetal, bly14, bly16, bmo, bobobo, bold30, bolder28, boldsouls16, borkfest, bornana12, bosque, bottomlessAbyss, bounce16, brGbDesaturated, brashPink, brawlin, brazilFlag, breathlessCalm, brenyonsRainbow, brewerviridis, bricklinkCatalog, bright, brightAndEarly, brightnessGpy, bronzePalette, brzezinski32, bubblegum6, bulbOrb14, bulbOrb17, bumbleBee, bumblebit, burningNeon, burntsweet, byrne5, byte12, cafeNouveau, cafearisuki, calm48, calmSunset, calm18, calmerThanCalm17, calmingGrey, calmness, camoGb, camouflage7, campfireGb, canD, candy12, candypop, capp5, caramel4, carnival32, carpetRose, cartoonCandy, cartooners, carver6, casioBasic, catk1ng26, cattales56, caveMoss, cave4, cc29, celestial, celestialhalo9, centennialFruitcake, cerealGb, cgax16, challenge9, channel41982Cgi, chaos, chariot, chasm, chee48, cheerful24, cheerful32, cheesePalette, cherryBlossomGb, cherryBomb6, cherryCreamSodaGb, cherryLove, cherryPoptarts, cherry7, chiba, chlnge8, chocoDream, chocolate, chocomilk8, choconana2, christmasGb, christmasGbV2, christmasTime, chromaNoir, ciboulette6, cica26, circuitBoard, circusTwitter, citrink, cityStreet6, city28, cl8uds, classicRedSauce, clement8, cliffcamp, cloudfrenzy, cloudsAtSunset, cloudy28, clownWingMonster, clubSeoul16, clubhouseGamesChat, cmyk, cnpUltimate, cobsOfficialColourKit, codeGreen, coffee, coffee9, coffeeCafe, coffeeGb, coinGold, coldLight, coldMorning32, coldSands, coldShoulder9, coldWar8, coldWintryNight, coldgb, coldsnow, coldwood8, colir28, collaborative64betaLospec1000, colodoreVic64, colorCity8, colorMore12, colorbase32, colorbit16, colorblind16, colordome24, colordome32, colorful42, colorpop28, colorpop32, colorquest16, colorquestRetroRecolor, colors, colortastic, colourful6, combi16, comfy52, comicscapes50, commodore4R4G3B, commodore8, compliment6, consistent15, console16, contrast4, cookie, cookiebox16, coolBeansOfficial, coolBone7, coolcolors11, coolours31, coolpix, cophee4, copicGb, copperCut, coral4, coralGb, coralReef, corruption16, cosmic, cosmicCastleByClonethirteen, cosmo4, cosmonaut64, cottonCandy, cottonCity, cottoncandy, cottoncandy3, cozyChristmas, cozyCupOCoffee, crabsOrangeRedPalette, crayola13, crayola84, crayonPaint, crayon16, crazyMoon, creamy, cretaceous16, crimsonBlood4, crimsonGold, crm37, cromatica, crtgb, crypticOcean, cryptidcore6, crystalFlames, cubicle32Sticker, curiosities, custodian8, cvd3, cvd6, cvd8, cyanAbyss, cybear9, cyber37, cyberCharge, cyberPingPong, cyberPunk, cybergum6, cyberpunkNeons, cyclope6, damageDice106, darkAutumn, darkKnight, darkNight, darkflower20, darkness18, darkpastel36, darkstalkers30, darkvania, dawn14, daybreak, daydream20, daydreams24, daylight16, dbpaip18, deadCrabExoskeleton, deadFlowers, deadIce, deadWeight8, deadbeatGb, decoyworld2, deep16, deepForest, deepForest16, deepForest24, deepMaze, deepblue, deepfry, def16, default48, delete, deleteThisPalette, denim, depths, derezzed, desat, desatur8, desertSunset, desserted, deuteranopi8, deuteraruzi, deuterospill, dialupSunset, diamondGold, diamondGoldAnIron, dibbles, digitalDisco, dingy99, diplomacy, dirtyGlass14, discord2021, discord8, discordSquares, discord32, dmcToRgbConversionPart1, dmcToRgbConversionPart2, dnotFroget, dollar, doodle16, dossGloomyGloss, downgraded32, downgraded36, downwellVivid, dr20, dralette, draxalette, dream6, dreamCandy, dreamHaze8, dreamer3, dreamer5, dreamfulSpace, dreamhaze8, dreamscape8, dreamyForest, drowsy16, ds34, dstnr48, dubiousGb, dullGlow8, dullishRainbow, dumptruck12, duneGb, dustbyte, dustyRainbow9, dusty36, dusty4, dynamite, dystopia19, e16, e36, earthVibes, earthbun20, easy8, ebGbBananaFlavour, ebGbMintFlavour, ebGbPeanutFlavour, ebGbPlainFlavour, ebGbStrawberryFlavour, echo8, edg77, edgy28, eerieGlow, eg32, eggdealer6, eggplantWitch, eibre19, elemental, ellenCPirogArt, elpm15, emeraldPeach, emeraldVision, emphasis10, emptyNight, emptytitle123, enamoredDemo, enby4, enbydiade6, enchanted6, enchantedPurple, endless13, energy7, enhancedGraphicsAdapter, enneagon, entomophobia, enviromentalStationAlpha, ephemera, equalrgb, eroge48, escape, escape9, essentialEarth, etern16, eulbink, evaladarr, evening32, everglowDiamond, evergreenGb, evilCurse, ex24, existentialDemo, expandeddreamland, explorers16, fade12, fadedNature13, fadedpage12, fading16, fairydust8, fake24BitModdedWeb, fallin, famicube16, fanmoji, fantasy, farlands48, farmland20, fartgator07, feelinwitchy9, feelthesun16, felixgb, festiveGb, festive30, festivepanthera10, fevrier, fieryPlagueGb, final14, final8, final32, finale53, firecracker, firelight23, fireplaceglow, fishfighters8, fiveB, flamingoGb, flatColorUpdated, flipnote3Ds, flipnoteDsi, florast8, florentine24, florescence, flowerGarden42, fluffy, fluffyCats, fluffy8, foggy, foggyDepths8, forest, forest16, forgottenCherryBlossom, fourGreen, fourbit, fourseasons, foxfire, fr0lic, franzston30, frappeFour, freezingwinter4, friendsPallete, frilxy, fromBlueToGreen, frost, frostical, frostyCoco, frostyGb, frozenFire, fruitJuice, fruitful24, fruitpunch8, fruity26, fullCircle, fullofjoy20, funkItUp, funkyMan, funny31, funtime5, gEEDEEPEE, gOBLIN, g4b8Bit, gameBoySnowflake, gameWatchGb, game27, gameboyYellow, gamer19, gamingInTheFlowers, garden18, garfieldGameboydBlue, garo4, gasStation12, gaz74, gbBlueJpi, gbcslinger, gbfriendlyspider, gbgTextureSpriteEditor, gemsInTheForrest, gemsShinies, genderBinary, genderQueer6, genericMilkCarton, genericgb, genericmonochrome, ggameos, ghostTown, girlsbestfriend12, giveMeGrey52, glacial, gloomyDungeon, glossFinish22, goLine, gob48, godblood8, gogreen, goldGb, golden6, goldenHaze, goldenSunset, goldenstar32, goldiblocks, goodboy, goosebumpsGold, gora63, gotham30, gothicBit, gothicWinterGb, gracefulLich, grafx2DefaultPalette, grapeSodaArcade, grapeTreeGb, graveyardMist, grayfruit8, grayscale16, greedpit, greekfire7, greenTopDown, greenestGreen8, greenyBoy4, grenade8, greyMist, grh4, griefwardsAndThrough, grim32, grixelGrotto, grue, gty21, gulfsRainbow, gumGameboy, gumballBoyGb, gumdrop, gunMetalRussia, guyWithAGoldenCircleOnHead, gxGame, h2o, hags4, halloween, halloweenInJulyWhyNot, halloweenPalette, hallowenDream, hallucinationQuest, hamburgerTime, hamletum, hammerSickle5, hamond, hardPearl, hardWorkingRobots, harpy16, harvestGoldy, haunted14, haveANiceDay, hazyGlow, headache96, heart4, hellfireGb, hemospectrum, henge5, hept32, heroBeyondTime, hetzelfde, highHeavens, hilda, hillGb, hollow, hollowkeen4, hollowo20, honeyMilk, honeyskinPalette, hopeDiamond, horehound4, hortensiaDiamond, hotHighlightsColdShadows, hotSand6, hotelPaintings6, hotgirl9, huc16, huemeister, huemongous, hunterRuizMasterPalleteV3, hydrangea11, hyperchill10, hypernova5, hypocrites, iAccidentallyRuzzihuntuu, iNeedGlasses, ibm51, ibmColorBlindSafe, ibmQualitative, iceAndFireAndFire, iceCream16, iceCreamLand, iceCreamSpice, iceGb, iceberg, icedCoffee, icyCold, icyNight, icywitch, igb36, illumination, infinite6, inkAndCream, inkCrimson, inkpink, insecta, intacto14, intellivision, interstate28, interstellar15, interstellarIndigo, introspection01, iridescentCrystal, irlboy, ironBlues, iroshizuku16, isagamersRamps, isas20, isasLimitedRamps, isasMasterPalette, isasTrueMasterPalette, islaNegra, isolated16, isoween, itCrowd, itatsi23, izkOasis8, janvier, japan26, jariPalette, jeepers12, jewerlriesEmbededCrown, jigglypuff11, jm, joker6, jollyElf, jonk16, journey6, jr16, jrComp, jrTattoo, jsot1, juliet, juneFlower, jungle8, junglePunch5Colors, junglecandy8, justAddWater, kANAGAWA, kArambole, kalciumGameboy, kalimba26, kankei4, karu36, kawaii16, keeby, kidpixDeluxe4Pallette, kikekako, king16, kinkan, kippetsQuares16, kjottusOctober2021, knockia3310, kotomasho8, krea8, krzywinskiColorblind16, kule16, kyu, laBruja4, lacking64, ladyday14, lagoNenufarLakeWaterLily, lagoon, lakeHorizon8, lamoreLuce, landscapebase18, laserLab, lateNightBath, lateValentines, laugh8, lava, lavaGb, lavaLevel, lavenderBliss, lavenderGb, lavender4, layingInTheShade, lazyBitExtended, lazybit, leMasterosPaletas, lePlace, leavedPallete35, legacyColorblind8, legoBrick2016Palette, legoColorsPearl, legoColorsSolid, legoColorsTransparent, legoColours2021, lemon16, lemonlimeGb, leonSoul, leopoldsDreams, lethargic8, lf28, lightAcademia8, lightFantasyGame, lighthouseIsland, lightningCrush, lilacSkies5, limeMagenta, limelight18, limsLostIsMissingVirbants, limted16, linkAwakeningLinksColour, lite34, lithium64, lmao, lns15, logDog, loopHero, lospec2000, lospec2000Mini, lospecCdi, lospecEmoji, lospecGb, lospecGetsTrolled, lostCentury, lostCentury24, lostInTheDesert, lostgb, lovePuppy, lovepal16, loveyDovey16, low8, lowcolors, lowlands15, ltro1, luap40, lucky13, ludi25, luftrausers7, lump16, lushGreen, luxa, mUSHBLOOM, macPaint, machiniePalette, macintosh8BitSystemPalette, magicWaters9, magicolor16, magik16, magis18, mahyellaw22, makecodeArcadeExpanded, mamaEarth, manaRift, mandelaCatalogue, mangaPallete, mangavania, manicPink, manuscriptMmxx, maomaoytsDoodle, mappletosh16, marbleOlive, mariposa4, marshMadness, martianMadness, marumaruGum, massillon6, massillon8, master28, masterful103, matt36, maurice, maw, mcFuperyArtmapShadesGg, medor9, mega20, megaDriveBlue, megaball, melanie, meldPlus, melody16, melon8, melonMix, melonTree, merlot, mesaVapor, messengerFromDarkNightPc98, metalFlower48, metallicGb, meteor4, mf16, mf8, miamiSunset8, miau, mico17, micro86, microsoftMakecodeArcade, microsoftMetro, microsoftVga, midnight, midnightAblaze, midnightGameboy, midnightIllustrator, migue, mindaro14, minecraftConcrete, minecraftDyes, minecraftMapPaletteFor116, minecraftMapPaletteFor117, minecraftWool, miniJamPower, minimalistRetro, mintJams, minty4, mintyFresh, miqbat27, mistyshore28, mixedbag20, mocha, moderna24, mojave20, mokky, moltenGod7, molten5, mona, monday4, monkeyBrains, monometalic, mononokeAshitaka, mononokeSan, monsterBit, moo4, moonCrystal, moonGb, moonSquid7, moonlight, moonlight15, moonlightGb, moonlightgb, moonlit3, moonlitGb, moor64, moorland46, moradosAzulados, morning32, morningcoffee3, mortmortRetro, moss, mossy20, moth, moth4, motherNature, mountain, mrColors, mrColorsV3, mroning, msPaintBasic, msPaintPlus, mspaintVistaPalette, mspaintWindows7, muckAndGrime13, muddygrass16, mulfok32, mulfok62, mulfokv2, multa24, multa32, mupix9, muralGb, murky16, murkyWater10, mushfairy, mushroom, mutedAlly6, mutedRoseLeaf, myPalette, myst4, mystic16, mysticForest, mysticSs, mysticalLeaf, mystiqueLife3, nLEs, nanner16, nanner32, nannerJam, nannerMuffins, nannerPancakes, nanoc16, nanones, naples2Bit, natura28, natural26, naturalColourSystem16, naturalColourSystem8, nature10, nature20, naturesGrasp, neapolitan, neapolitan45, neapolitan5, nebula, nectarJackpot, neo5, neonCyber, neonFlesh, neonLightsFloatingtable, neonMinusTheNeon, neonNightSky, neongp, neonscape, nes13, nesAdvanced, nesAesprite, nesDimmed, nesMakerPaletteColors, nesWikipedia, nestopia, neutral32, new, newTableau10, newWorlds46, niceRabbit, nice24, nice69, nicolePunk82, nieu15, nigh7, nightLight, nightclub, nightskyBricks, nighty, ninetiesNine, ninja23, nintendoInternal, nirvana7, nm5, noellesRoom, noireTruth, nokia3310, nordTheme, northernWoods38, northwestGb, nostalgi14, nostalgi2, nostalgi8, nostalgiaColorPalette, nostalgia15, nostalgia36, nostalgia48, notDeadDesignPallet, note2C, notepad, nvidiaGaugan, nyankos16, ocean, oceanGb, oceanGlass, oceanides20, od10, oddFeeling, oekaki, oekakinl, oekakinl8, oilOak, oldComputersBeLike, oldGold7, oldSch8L, old90s, oldsand16, oldsummer, olooPalette, omnia, on70, ongbit, oni, onionPalette, ooo, opixal, optimism, optimizedGrayscale4, orangeCityGlow, orangeDreamsicle, orangeYouSad, orbeesMasterPalette, orbitron32, orchids4, organicChristmas8, oria20, origamiClouds, originalGameboy, outrunner16, overgrowth, overpast, oxyd, oxygen16, pacific, padhiRangulu, paintedParchment9, paintnetBaseColors, paintnetPalette, paletteOfMarseille, pantoneRevItUp, paper8, paperPalette, paperPixels, paperback2, papier4, paradise30, pastari16, pastel, pastel64, pastelAlienGoop, pastelAndDarks58Palette, pastelColorPalette, pastelHorizon, pastelIndia, pastelLove, pastelQt, pastelRanibow9, pastelVivid, pastelapple, pastelito2, pastleCuteMinimalLofiColors, pastry, pastryShop, patina, patreon, pb4801, pbAndJ, pc66, peachyKeen, peelyweelybananyicecreamy, penNPaper, pencilSketch, penny, pepeNoMore, perilsndragons, photocorp, pico4, picoDb, picoDeLasPaletas, picoMicro, pictoon, pieceOfCake, piet, piggyPink, pigment, pinballDisplayColours, pinkNeonSign6, pinkPuffGb, pinkgreen, piratesAdventure, piratesAdventureIi, pixBrix, pixByrg, pixelJointRanks, pixelMage, pixelStreet, pixelartSmpZ1, pixelplacePaletteSelection, pixelunalivedPaletteV1, pixilartDefault, pixlten, pjDiscordCollab, pk32, plague, plantAesthetic5, plantAesthetic7, plumbersParadise, plumeEdema, plushy, pocketgb, poisonBubble8, poisson23, pokemonGen2OverworldObjects, pokemonRubySapphireExterior, pokemonRubySapphireInterior, polxel42, polxel43, poly32, ponder, pong4, popcorn12, popstarGb, popular32, portrait, posca12, power38, primary8, primeiroProjeto, prism, prismatica, projectRuzikb86, proportion32, prospecal8, prospeccal, psyche16, puffball8, pumpkinGb, punolit, punolite, punolitePlus, punolitePlusPlus, punolitePlusRemake, punoliteStreetlight, purblu8, purpleSpider, purpleSunset, purplemorning8, purpleskin, purpleskygb, puyo26, pxlsDefault, pyxel, quak60, qualm12, queenBee, questedMountain, questedValley, quinn, rABBIT9, rPlace202232Colors, rPlace2022Day2, rPlace2022Day3, rPlace2022Expanded, r05, radioactiveIceCream, radioactive13, rainbow24, rainbowErosion, rainbowGod, rainbowPlague32, rainbowpop11, rainbowtears, raindrop65, rainyAfternoon, rainyDream, ramp20, rampRainbow, rampy16, random16, rangedPunch, raspberryPalette, ratFlavour, rayleigh, razzmatazz5, redDragon18, redHorns, redIsDead, redIshDbLyDesertLikePallet, redPanda, redPoster, redSand, redVelvet, redboyvibes, redeV1, redreen, redux63, reesesPuffs1Bit, reformedRainbow, regal10, reggae5, reteocal9, retro115, retro2600, retroBlue, retroMemories, retroPerfect, retroVibes, retrobubble, retrocal, retrocal4, retrocal8, retromud, retrorainbow, retrostalgia, retrotronic, reunion46, reverie38, rewild64, rgbPunch, rgbp, rggb4BitColorPalette, rhb14, rhythmmmo90, rhythmmmo95, risingSunGb, risingTide, risograph3, robotDistopia, robotic, robotsAreCool, rollercoasterTycoon2ColorMap, rommhakk12Color, roseGold, rosemoss8, roserust, roughSeas, royalMonarchViii, royal4, royal8, royalguard, rpgPaletteVerdachtig, rpgvania, ru5ty, rubble4, rubiksCubeColors, rubiksPaint, rubix48, ruggedGb, russian12, rust, rustGold8, rusticRainbow, rustyCryaonBox9, rustySteam, ruzGb, ruzicold, ruzikb32Color, ruzikb64, ruziwarm, ruzxSpectrum, ruzxSpectrumRevision2, ruzziCpc, ruzzi30, ruzzidore96, ruzzihuntuuMasterPalleteV2, ruzzisUltimatePaletteYet, ruzzishakedmilk, ruzzishakedmilkV2, ry32, ry64, ryb12, sLucky, sSunset7, s16, sad, sadakiyo5, sadness, saharaPastell, sailersFriday, sailorMoonBackground, salmon9, sand6, sandwich6Ramps, sandy06, sangre, sanguineGb, sashimi, satelliteSky16, saturatedGold8, saturation16, sawbuzz12, scaledAndIcy, scattered4, scenery28, scenery12, sckMidnight27, scold2Bit, scrapMechanic, scrix24, scrjXxxvi, seaOfFire, seaSaltIceCream, seaSeaweed, seabed1, seaflower15, seafoam, seagull8, seaside5, segaCube, segaVmuBoy, senpai, sepia15, sepia6, serenitas, serenity25, serpentineEmergence, serverColors, shadow4, shadowSlime, shadowViolet, shallowmarsh26, shanty, sheepsheep, shelf6, sherbertShark, shido10, shido101, shido25, shido50, shido50X, shido75, shidoCyberneon, shido50, shifty16, shine16, shiny20022, shiver14, shockwaverV1, shockwaverV2, shortenedNes, shroom69, siegraassFavoriteColors, simple14, simpleFeudalJapanese, simple64, sin, singularity, sirensAtNight, sk16, sk42ll, skedd16, skeletalSimberg, sketchHeadsPalette, sketchy, skribblioPalette, skyHighPallette, skyPirateStudiosPalette, sky5, skyline, skyline12, sleepyBoy, slime16, slimeGirl, slimy05, slowly, slurryGb, slynyrd128, smallSpriteBright32, smallSpriteGreedy40, smm2superballGameBoyPalette, smooth16, smooth24, smoothPolishedGold, smoothPolishedSilver, snailVillage, snowflake4, snowl16, snowmansLand, sobeachy8, sodaCap, softAndCat, softBoiled, softCga, softDemon7, softDirty, softGameboy, softIceCreamKl, softRainbow, softThirty, softdecayGb, softie108, softlyConventional33, softserve4, soggyNewspapers, solarEclipse, solarize, soldier16, somber, sombreDemo, somturn, sonicManiaMainPalette, soulOfTheSea, soul32, soup11, spaceDust9, spaceIcecream, spaceMagicCocainePyramid, spaceRainbow, spaceTree, spacecake20, spacian, spaff16, spaff8, spazbol8, spectralScarab, spemge, spicy07, spinstar, spiral16, spirit4X, splashy08, spongebobPalette, spoohouse, spook12, spooky15, spoopyKnight, spoozy, spoozy2, springMorning, sprinkleCake36, squidgame6, sriracha, srkXl, ss24, ss8, st1BitEndgame, st16Commodore, st16Natural, st24, st24Christmas, st64Natural, st8BlueNPink, st8Greenery, st8Halloween, st8Moonlight, st8Ocean, st8Phoenix, st8RBRemake, st8Sapphire, stGameboy, stGameboyAqua, stGameboyCga, stGameboyDeluxe, stGameboyLightgrey, stGameboyMagma, stGameboyRedrose, stGameboyRemake, star3a28, stardust32, stardust5, starea28, starthrall, steampunk4, steamstep, steellic72, stellaSaturn, stonehearth, stop, stranger6, stratus, strawberry, submergedChimera, suburbGameboy, suez30, sugaryStupor, summersPast16, sundropDiamond, sunfall12, sunflowerPainting7, sunnyDay, sunnyDays, sunnyMeadow32, sunnyValley6, sunset8, sunsetDrive, sunsetFunk, sunsetGb, sunsetHorizon, sunsetLantern, sunsetMkIii, sunsetMkii, sunsetRed, sunsetRedIi, sunshine35, sunshineValley, superCassetteVision, superColorful3, superGameBoyMenu1PaletteA, superGameBoyMenu1PaletteB, superGameBoyMenu1PaletteC, superGameBoyMenu1PaletteD, superMarioGoompa, superNesMaker, superPocketBoy, super16, superficial35, superjail, swamperRomper, sweet10, sweet28, sweetCanyon32, sweetCanyonExtended64, sweetDreams, sweet24, sweetdusk5, sweets16, switch, synthetic80S, synthwave9, synthwaveCity, systemMini16, tLollipop, t60Vibrant, taliwan, tandyColorComputerRgb, tankPalette, tanopal48, tauriel16, teaGb, team16, teamFortress2Official, tearsOnTheSand, technobike, tenfourRamp82, ternaryRgb, terracotta49, tetravibe6, textdoc15, thanksmas16, thatOneTacobellTable, theAmazingSpiderMan, theAtomi2700Palette, theBloodyThree, theIllegal, theInternetRaisedYou, theJungle, theLastAutumn, theLospecSnackbar, theMixBit18, theNight, thePerfectPalette, thePerfectPalette20, thePerfectPalettePocket, thePurpleVibe, thePurrfectCrimeGamejam, theReckoning, theRgbPalette, theRoarOfTheOwl, theRoarin80S, theRoarin80SV2, theSilverKnight, theSpookyChase, theWood, theYGiganteReverted, theYMasters, theYPastelia, the16wonder, thebattlesofcoloursV2, theo, theoryOf5, theruzikineb0iMaster, thunderstormBeneathTheSummit, ti84PlusCe256, timeless, tinkercad, tinyfolks, tinylittlegirl, titanstone, tnr64, tnr8, tofu20K, tomioka, torchflame, toxicSlime, toxicTumblr, trashPanda, treeFrog, trekeWastes, trickOrTreat8, trike12, tripleFin, trirampo, tritanomalic, tritanopi8, tritanopia, tritaruzi, tritone, trkLosat16, tropica33, tropicalCone24, trs80, truckAnimal, trueSide, tsunami, turtle16, tvc, twelvePeriod, twilioquest76, ty4ThDimensionRealm28, tyAdventureKit16, tyAncientMagis10, tyAncientMagis16, tyAncientRocca5, tyArcanixium13, tyArtificialHappiness12, tyArtificialHappiness16, tyArtificialHappiness8, tyBlackSouls16, tyBlueMoon5, tyBonesAshes16, tyBonesAshes27, tyCaveExplorer20, tyCelestialSapien26, tyChillWave6, tyChillingSpine21, tyChillingSpine8, tyColdBlooded14, tyCollectiveData13, tyColorConsole17, tyDarkAutumns15, tyDarkGoon25, tyDarkRebellion24Color, tyDarkRebellion25, tyDarkRebellion36, tyDeathParadise20, tyDementiaGirl16, tyDementiaGirl24, tyDesertedWasteland14, tyDisasterGirl16, tyDistortedKingdom16, tyDistortedKingdom24, tyDistortedPrincess10, tyFateDestiny12, tyFateDice16, tyFateDice6, tyFictionalComputerOs16, tyFictionalComputerOs32, tyFutureComputer20, tyGlassFeelings12, tyGlassFeelings4, tyHeartOfTheBeast16, tyHighFantasy40, tyIndustrialFactory10, tyIndustrialFactory16, tyJingleGems6, tyKingsQueens10, tyLegendOfTheLoop7, tyLivingMachine4, tyMicroPastel16, tyMurderMystery16, tyMurderMystery8, tyNightCreeper16, tyNightLight2, tyNightLight7, tyOld90SAdventure16, tyOld90SAdventure29, tyOldNostalgia16, tyPlayWin7, tyQuietNight10, tyQuietNight4, tySacrilland28, tyShadesOfNokia12, tyShadesOfNokia4, tySpaceMission14, tyTaikoncolor16, tyTaikoncolor24, tyWashedOut16, tyYellowMan4, tyndustre22042201, tzi24, uinbrowGuyPalette, underTheSeas, undertaleBitsAndPiecesRuins, unearthly, unicorn6, universalis42, untitled37, uranium5, urbanHaze, urbex16, usefle8, useful25, vampire16, vanillaMilkshake, vapornes, vaporsthetic, vaporwaveVibes, velvetCherryGb, versitle16, verso56, verso64, vexio11, vibrant14, vibrant26, vibrantBanana8, vibrantGun24, vibrantRamps, vibrant09, vicron, victorian24, videoGraphicsArray, vieillesCartes, vieleFarben66, vintageVoltage, vintagedalsy, violetDreams, viridianBlue, viridianVibrant, virtualBoy, virtualBoyBlue, virtualBoyCorrectedPalette, virtualBoyExpanded, virtualPop36, virtualSky, vivid2BitScream, vnes16Palette, vocodes62, voltageWarning, vosp, waldgeist, walkInTheWoods9, walkingInTheWoods8, wall10, wam, warIsHell, warTrain, wariowareDiyPalette, warmFallGb, warmSpringSunset, warm32, warmlight, warmySpring, washedOver16, washedOver8, watchmen64, waterShallows, wave17, webMemories, webSafe216, wednesdayPink, ween8, whatColorPalette, whatTheDec, whatTheDec21, wheatField, wheatGb, wheee27, whiteToBlack, wholePunch64, wholesome76, wickedSkies, wild21, wildWest, wild19, wildflowers, windowOfOpportunity, windows95256Colours, wineGameboy, wingedYeti, winterNight, winterfes16, wishingpotion9, wisteriaMystery, wisteric17, witch, wizardsBreath34, wlk44, wlk44V2, woefulHarvest, wonderbubbles, woodenGameboy, woodenTeeth, woodland5, workbenchPalette, worldOfHorror, wortmore10, woygab24, wyrm24, wyrmMoth48, xMas, yamazaki, yanasModernizedPokemonSgb, yeOldePirateModde, yeet24, yeet32, yeetzi32, yellowAdrift, yellue, yoghurtish, yogurtGb, yperochaChromata, ys1Bit, ysCoffeCalm, ysConcreteJungle, ysFlowersAndAsbestos, ysFunkyJam, ysNeutralGreen, ysPaperAndDust, ysPopIt, ysPostapocalypticSunset, yukoTomitaTime, yumeNikki, zamphaMasterPal, zant, zantasticdiscord, zantsPastels, zantsgame, zencillo14, zenit241, zenith, zenpaint, ziga1000, zombieApocalipse, zombieOutbreak, zool, zxSpectrum
+    , p1Bit, p1BitAppleGreen, p1BitChill, p1BitFlames, p1BitPepper, p100, p1000Degrees, p106ColorPalette, p13rusque, p16ColorArtNouveau, p16dan, p1985, p1bitBlackAndWhite, p1bitRainbowHorror, p1pecksPalette, p2BitBlue, p2BitMatrix, p2020Vision, p20ShadesOfSkinDecay, p2022RPlacePallette, p24Universal, p2bitDemiboy, p2bitDemichrome, p2bitSunrise, p2sois, p3BitCmy, p3BitRgbPerceptuallyLinear, p3ColorGray, p31, p32, p3bitCatgirlsNishCyra, p3xdesk, p4Bit, p4BitRgb, p4Spoopy4U, p420BlazeIt, p4pi, p4seas, p5Crowns, p5Sheep, p5leepy, p5yan, p6Bit12ColourChallenge, p6Violets, p70sZine, p8BitPalatte, p8BitRgbm, p8Vision, p80sAmerican, p8lueens, p90schina, aDarkishSky, aHorribleDeath, aSIAN15, aShortHike, aSweetRevamp, aapDga16, aapRadiantplus, absxii, abyss9, acidicGb, acradeHero, adbHybrid16, adobeGb, adventure, adventure28, aerugo, afr32, ag500, agb, aj8, ajmsx, ajsPico8Palette, aka, akc12, algunosColores, alienGb, allAround30, allioop20, am90, amanita, amaryllisGarden8, amazon8, amberCrtgb, ambr0sia, americana, amigaPixels64, amp29, amphibian8, anarkis27, anb16, ancientAnimation, ancientheritage30, andrewKensler16Stylized, andrewKenslers16, angelic, animalCrossingPatternPalette, anomalyB8, anomalyRg8, anotherRetro, ansi32, antiquity16, anxietas, apollo, appleIiHiRes, apricot, aquaColors, arcadian16, arch, archaon15, archerer36, archerer48, archererer24, archersMasterPalette, archipelago, arcticDust, ardoh18, argeebey8, arjibi8, ark4, armyPallet, arneFrontier16, arq4yyy4, artHoeAesthetic7, aspiria32, astro, astroBoy, astro16V2, astronSt16, astronSte32, atari2600PaletteNtscVersion, atari2600PalettePalVersion, atari8BitFamilyGtia, atari8BitSeriesGtia, atbLava, atlantis, atom20, atom8, atomicHeat, auler99, autumVillan6, autumnBreeze, autumnChill, autumnComfort18, autumnDecay, autumnFire12, autumnGlow, autumnTree, autumnal16, autumngb, avatarPalette, avocado, awkward8, ayaka18, azione16, azul5, babaIsYouDefaultColor, baba32, backward12, backwoodsPlague, baksu13, banan4, bananaCartoon, bananaDoubleberry, barbieTheSlasherMovie, bareCopper, barrel, baseWhite, basic14ColorPalette, basic16, basicBubblegum, basicolor, battlenights, battletaleGb, bauhaus, beachFront, beachyGb, beret12, berryJam, berryNebula, besalt, bigCat, bioChronicle, biohazard9, biome19, birdbath, birthdaysPc98TitleScreen, bitInterior, bitUnit8, bitbee, bitbitsNeon, bittersweet, blackAndBlood, blackCherry, blackGameboy, blackTar, blackm0ld, blankCanvas, blankVhsBox, blend32, blindfold, blithefulDemo, blkNx64, bloo20, bloo22, bloodCrow, bloodMints, bloodinkAndPaper, bloodmoon21, bloody, bloom, bloom16, bloxelsPalette, bluash4, blueExe, blueGlass, blueMania, blueMonochromeLcd, blueNewspaper, blueNight, blueSix, blueSkyes, blueSnow, bluebellRot, blueberryGb, bluedawn7, bluedream4, bluem0ld, bluerown1Bit, blues, bluetiger3C, blushGb, blushNGunmetal, blushroom, bly14, bly16, bmo, bobobo, bold30, bolder28, boldsouls16, borkfest, bornana12, bosque, bottomlessAbyss, bounce16, brGbDesaturated, brashPink, brawlin, brazilFlag, breathlessCalm, brenyonsRainbow, brewerviridis, bricklinkCatalog, bright, brightAndEarly, brightnessGpy, bronzePalette, brzezinski32, bubblegum6, bulbOrb14, bulbOrb17, bumbleBee, bumblebit, burningNeon, burntsweet, byrne5, byte12, cafeNouveau, cafearisuki, calm48, calm18, calmerThanCalm17, calmingGrey, calmness, camoGb, camo2, camouflage7, campfireGb, candy12, candypop, capp5, caramel4, carnival32, carpetRose, cartoonCandy, cartooners, carver6, casioBasic, catk1ng26, cattales56, caveMoss, cave4, celestial, celestialhalo9, centennialFruitcake, cerealGb, cgax16, challenge9, channel41982Cgi, chaos, chariot, chasm, chee48, cheerful24, cheerful32, cheesePalette, cherryBlossomGb, cherryBomb6, cherryCreamSodaGb, cherryLove, cherryPoptarts, cherry7, chiba, chlnge8, chocoDream, chocolate, chocomilk8, choconana2, christmasGb, christmasGbV2, christmasTime, chromaNoir, ciboulette6, cica26, circuitBoard, circusTwitter, citrink, cityStreet6, city28, cl8uds, classicRedSauce, clement8, cliffcamp, cloudfrenzy, cloudsAtSunset, cloudy28, clownWingMonster, clubSeoul16, clubhouseGamesChat, cmyk, cnpUltimate, cobsOfficialColourKit, codeGreen, coffee, coffee9, coffeeCafe, coffeeGb, coinGold, coldLight, coldMorning32, coldSands, coldShoulder9, coldWar8, coldWintryNight, coldgb, coldsnow, coldwood8, colir28, collaborative64betaLospec1000, colodoreVic64, colorCity8, colorMore12, colorbase32, colorbit16, colorblind16, colordome24, colordome32, colorful42, colorpop28, colorpop32, colorquest16, colorquestRetroRecolor, colors, colorsOfCascadia, colortastic, colourful6, combi16, comfy52, comicscapes50, commodore4R4G3B, commodore8, compliment6, consistent15, console16, contrast4, cookie, cookiebox16, coolBeansOfficial, coolBone7, coolcolors11, coolours31, coolpix, cophee4, copicGb, copperCut, coral4, coralGb, coralReef, corruption16, cosmic, cosmicCastleByClonethirteen, cosmo4, cosmonaut64, cottonCandy, cottonCity, cottoncandy, cottoncandy3, cozyChristmas, cozyCupOCoffee, crabsOrangeRedPalette, crayola13, crayola84, crayonPaint, crayon16, crazyMoon, creamy, cretaceous16, crimsonBlood4, crimsonGold, crm37, cromatica, crtgb, crypticOcean, cryptidcore6, crystalFlames, cubicle32Sticker, curiosities, custodian8, cvd3, cvd6, cvd8, cyanAbyss, cybear9, cyber37, cyberCharge, cyberPingPong, cyberPunk, cybergum6, cyberpunkNeons, cyclope6, damageDice106, darkAutumn, darkKnight, darkNight, darkflower20, darkness18, darkpastel36, darkstalkers30, darkvania, dawn14, daybreak, daydream20, daydreams24, daylight16, dbpaip18, deadCrabExoskeleton, deadFlowers, deadIce, deadWeight8, deadbeatGb, decoyworld2, deep16, deepForest, deepForest16, deepMaze, deepblue, deepfry, def16, default48, delete, deleteThisPalette, denim, depths, derezzed, desat, desatur8, desertSunset, desserted, deuteranopi8, deuteraruzi, deuterospill, dialupSunset, diamondGold, diamondGoldAnIron, dibbles, digitalDisco, dingy99, diplomacy, dirtyGlass14, discord2021, discord8, discordSquares, discord32, dmcToRgbConversionPart1, dmcToRgbConversionPart2, dnotFroget, dollar, doodle16, dossGloomyGloss, downgraded32, downgraded36, downwellVivid, dr20, dralette, draxalette, dream6, dreamCandy, dreamHaze8, dreamer3, dreamer5, dreamfulSpace, dreamhaze8, dreamscape8, dreamyForest, drowsy16, ds34, dstnr48, dubiousGb, dullGlow8, dullishRainbow, dumptruck12, duneGb, dustbyte, dustyRainbow9, dusty36, dusty4, dynamite, dystopia19, e16, e36, earthVibes, earthbun20, easy8, ebGbBananaFlavour, ebGbMintFlavour, ebGbPeanutFlavour, ebGbPlainFlavour, ebGbStrawberryFlavour, echo8, edg77, edgy28, eerieGlow, eg32, eggdealer6, eggplantWitch, eibre19, elemental, ellenCPirogArt, elpm15, emeraldPeach, emeraldVision, emphasis10, emptyNight, emptytitle123, enamoredDemo, enby4, enbydiade6, enchanted6, enchantedPurple, endless13, energy7, enhancedGraphicsAdapter, enneagon, entomophobia, enviromentalStationAlpha, ephemera, equalrgb, eroge48, escape, escape9, essentialEarth, eulbink, evaladarr, evening32, everglowDiamond, evergreenGb, evilCurse, ex24, existentialDemo, expandeddreamland, explorers16, fade12, fadedNature13, fadedpage12, fading16, fairydust8, fake24BitModdedWeb, fallin, famicube16, fanmoji, fantasy, farlands48, farmland20, fartgator07, feelinwitchy9, feelthesun16, felixgb, festiveGb, festive30, festivepanthera10, fevrier, fieryPlagueGb, final14, final8, final32, finale53, firecracker, firelight23, fireplaceglow, fishfighters8, fiveB, flamingoGb, flatColorUpdated, flipnote3Ds, flipnoteDsi, florast8, florentine24, florescence, flowerGarden42, fluffy, fluffyCats, fluffy8, foggy, foggyDepths8, forest, forest16, forgottenCherryBlossom, fourGreen, fourbit, fourseasons, foxfire, fr0lic, franzston30, frappeFour, freezingwinter4, friendsPallete, frilxy, fromBlueToGreen, frost, frostical, frostyCoco, frostyGb, frozenFire, fruitJuice, fruitful24, fruitpunch8, fruity26, fullCircle, fullofjoy20, funkItUp, funkyMan, funny31, funtime5, g4b8Bit, gameBoySnowflake, gameWatchGb, game27, gameboyYellow, gamer19, gamingInTheFlowers, garden18, garfieldGameboydBlue, garo4, gasStation12, gaz74, gbBlueJpi, gbcslinger, gbfriendlyspider, gbgTextureSpriteEditor, gemsInTheForrest, gemsShinies, genderBinary, genderQueer6, genericMilkCarton, genericgb, genericmonochrome, ggameos, ghostTown, girlsbestfriend12, giveMeGrey52, glacial, gloomyDungeon, glossFinish22, goLine, gob48, goblin, godblood8, gogreen, goldGb, golden6, goldenHaze, goldenSunset, goldenstar32, goldiblocks, goodboy, goosebumpsGold, gora63, gotham30, gothicBit, gothicWinterGb, gracefulLich, grapeSodaArcade, grapeTreeGb, grapeboy, graveyardMist, grayfruit8, grayscale16, greedpit, greekfire7, greenTopDown, greenestGreen8, greenyBoy4, grenade8, greyMist, grh4, griefwardsAndThrough, grim32, grixelGrotto, grue, gty21, gulfsRainbow, gumGameboy, gumballBoyGb, gumdrop, gunMetalRussia, guyWithAGoldenCircleOnHead, gxGame, h2o, hags4, halloween, halloweenInJulyWhyNot, halloweenPalette, hallowenDream, hallucinationQuest, hamburgerTime, hamletum, hammerSickle5, hamond, hardPearl, hardWorkingRobots, harpy16, harvestGoldy, haunted14, haveANiceDay, hazyGlow, headache96, heart4, hellfireGb, hemospectrum, henge5, heroBeyondTime, hetzelfde, hidingInTheWildflowers, highHeavens, hiker20, hilda, hillGb, hollow, hollowkeen4, hollowo20, honeyMilk, honeyskinPalette, hopeDiamond, horehound4, hortensiaDiamond, hotHighlightsColdShadows, hotSand6, hotelPaintings6, hotgirl9, huc16, huemeister, huemongous, hunterRuizMasterPalleteV3, hydrangea11, hyperchill10, hypernova5, hypocrites, iAccidentallyRuzzihuntuu, iNeedGlasses, ibm51, ibmColorBlindSafe, ibmQualitative, iceAndFireAndFire, iceCream16, iceCreamLand, iceCreamSpice, iceGb, iceberg, icedCoffee, icyCold, icyNight, icywitch, igb36, illumination, infinite6, inkAndCream, inkCrimson, inkpink, insecta, intacto14, intellivision, interstate28, interstellar15, interstellarIndigo, introspection01, invertCompatible, iridescentCrystal, irlboy, ironBlues, iroshizuku16, isagamersRamps, isas20, isasLimitedRamps, isasMasterPalette, isasTrueMasterPalette, islaNegra, isolated16, isoween, itCrowd, itatsi23, izkOasis8, janvier, japan26, jeepers12, jewerlriesEmbededCrown, jigglypuff11, joker6, jollyElf, jonk16, journey6, jr16, jrComp, jrTattoo, jsot1, juliet, juneFlower, jungle8, junglePunch5Colors, junglecandy8, justAddWater, kArambole, kalciumGameboy, kalimba26, kanagawa, kankei4, karu36, kawaii16, keeby, kidpixDeluxe4Pallette, kikekako, king16, kinkan, kippetsQuares16, kjottusOctober2021, knockia3310, kotomasho8, krea8, krzywinskiColorblind16, kule16, kyu, laBruja4, lacking64, ladyday14, lagoNenufarLakeWaterLily, lagoon, lakeHorizon8, lamoreLuce, landscapebase18, laserLab, lateNightBath, lateValentines, laugh8, lava, lavaGb, lavaLevel, lavenderBliss, lavenderGb, lavender4, layingInTheShade, lazyBitExtended, lazybit, leMasterosPaletas, lePlace, leavedPallete35, leflautt0, legacyColorblind8, legoBrick2016Palette, legoColorsPearl, legoColorsSolid, legoColorsTransparent, legoColours2021, lemon16, lemonlimeGb, leonSoul, leopoldsDreams, lethargic8, lf28, libra8, lightAcademia8, lightFantasyGame, lighthouseIsland, lightningCrush, lilacSkies5, limeMagenta, limelight18, limsLostIsMissingVirbants, limted16, linkAwakeningLinksColour, lithium64, lmao, lns15, logDog, loopHero, lospec2000, lospec2000Mini, lospecCdi, lospecEmoji, lospecGb, lospecGetsTrolled, lostCentury, lostCentury24, lostInTheDesert, lostgb, lovePuppy, lovepal16, loveyDovey16, low8, lowcolors, lowlands15, ltro1, luap40, lucky13, ludi25, luftrausers7, lump16, lushGreen, luxa, macPaint, machiniePalette, macintosh8BitSystemPalette, magicWaters9, magicolor16, magik16, magis18, mahyellaw22, makecodeArcadeExpanded, mamaEarth, manaRift, mandelaCatalogue, mangaPallete, mangavania, manicPink, manuscriptMmxx, maomaoytsDoodle, mappletosh16, marbleOlive, mariposa4, marshMadness, martianMadness, marumaruGum, massillon6, massillon8, master28, masterful103, maurice, maw, mazzical20, mcFuperyArtmapShadesGg, medor9, mega20, megaDriveBlue, megaball, melanie, meldPlus, melody16, melon8, melonMix, melonTree, merlot, mesaVapor, messengerFromDarkNightPc98, messy12, metallicGb, meteor4, mf16, mf8, miamiSunset8, miau, mico17, micro86, microsoftMakecodeArcade, microsoftVga, midnight, midnightAblaze, midnightGameboy, midnightIllustrator, migue, mindaro14, minecraftConcrete, minecraftDyes, minecraftMapPaletteFor116, minecraftMapPaletteFor117, minecraftWool, miniJamPower, minimalistRetro, mintJams, minty4, mintyFresh, miqbat27, mistyshore28, mixedbag20, mocha, moderna24, mojave20, mokky, moltenGod7, molten5, mona, monday4, monkeyBrains, monometalic, mononokeAshitaka, mononokeSan, monsterBit, moo4, moonCrystal, moonGb, moonSquid7, moonlight, moonlight15, moonlightGb, moonlightgb, moonlit3, moonlitGb, moor64, moorland46, moradosAzulados, morning32, morningcoffee3, mortmortRetro, moss, mossy20, moth, moth4, motherNature, mountain, mrColors, mrColorsV3, mroning, msPaintBasic, msPaintPlus, mspaintVistaPalette, mspaintWindows7, muckAndGrime13, muddygrass16, mulfok32, mulfok62, mulfokv2, multa24, multa32, mupix9, muralGb, murky16, murkyWater10, mushbloom, mushfairy, mushroom, mutedAlly6, mutedRoseLeaf, myPalette, myst4, mystic16, mysticForest, mysticSs, mysticalLeaf, mystiqueLife3, nLEs, nanner16, nanner32, nannerJam, nannerMuffins, nannerPancakes, nanoc16, nanones, naples2Bit, natura28, natural26, naturalColourSystem16, naturalColourSystem8, nature10, nature20, naturesGrasp, neapolitan, neapolitan45, neapolitan5, nebula, nectarJackpot, neo5, neonCyber, neonFlesh, neonLightsFloatingtable, neonMinusTheNeon, neonNightSky, neongp, neonscape, nes13, nesAdvanced, nesAesprite, nesDimmed, nesMakerPaletteColors, nesWikipedia, nestopia, neutral32, newTableau10, newWorlds46, niceRabbit, nice24, nice69, nicolePunk82, nieu15, nightLight, nightclub, nightskyBricks, nighty, ninetiesNine, ninja23, nintendoInternal, nirvana7, nm5, noellesRoom, noireTruth, nokia3310, nordTheme, northernWoods38, northwestGb, nostalgi14, nostalgi2, nostalgi8, nostalgiaColorPalette, nostalgia15, nostalgia36, nostalgia48, notDeadDesignPallet, note2C, notepad, nvidiaGaugan, nyankos16, ocean, oceanGb, oceanGlass, oceanides20, od10, oddFeeling, oekaki, oekakinl, oekakinl8, oilOak, oldComputersBeLike, oldGold7, oldSch8L, old90s, oldsand16, oldsummer, olooPalette, omnia, on70, ongbit, oni, onionPalette, ooo, opixal, optimism, optimizedGrayscale4, orangeCityGlow, orangeDreamsicle, orangeYouSad, orbeesMasterPalette, orbitron32, orchids4, organicChristmas8, oria20, origamiClouds, originalGameboy, outrunner16, overgrowth, overpast, oxyd, oxygen16, pacific, padhiRangulu, paintedParchment9, paintnetBaseColors, paintnetPalette, paletteOfMarseille, pantoneRevItUp, paper8, paperPalette, paperPixels, paperback2, papier4, paradise30, pastari16, pastel, pastel64, pastelAlienGoop, pastelAndDarks58Palette, pastelColorPalette, pastelHorizon, pastelIndia, pastelLove, pastelQt, pastelRanibow9, pastelapple, pastelito2, pastleCuteMinimalLofiColors, pastry, pastryShop, patina, patreon, pb4801, pbAndJ, pc66, peachyKeen, peelyweelybananyicecreamy, penNPaper, pencilSketch, pepeNoMore, perilsndragons, photocorp, pico4, picoDb, picoDeLasPaletas, picoMicro, pictoon, pieceOfCake, piet, piggyPink, pigment, pinballDisplayColours, pinkNeonSign6, pinkPuffGb, pinkgreen, piratesAdventure, piratesAdventureIi, pixBrix, pixByrg, pixelJointRanks, pixelMage, pixelStreet, pixelartSmpZ1, pixelplacePaletteSelection, pixelunalivedPaletteV1, pixilartDefault, pixlten, pjDiscordCollab, pk32, plague, plantAesthetic5, plantAesthetic7, plumbersParadise, plumeEdema, plushy, pocketgb, poisonBubble8, poisson23, pokemonDppPoketchBlue, pokemonDppPoketchOrange, pokemonDppPoketchPurple, pokemonDppPoketchRed, pokemonDppPoketchYellow, pokemonGen2OverworldObjects, pokemonRubySapphireExterior, pokemonRubySapphireInterior, polxel42, polxel43, poly32, ponder, pong4, popcorn12, popstarGb, popular32, portrait, posca12, power38, primary8, primeiroProjeto, prism, prismatica, projectRuzikb86, proportion32, prospecal8, prospeccal, psyche16, puffball8, pumpkinGb, punolit, punolite, punolitePlus, punolitePlusPlus, punolitePlusRemake, punoliteStreetlight, purblu8, purpleSpider, purpleSunset, purplemorning8, purpleskin, purpleskygb, puyo26, pxlsDefault, quak60, queenBee, questedMountain, questedValley, quinn, rPlace202232Colors, rPlace2022Day2, rPlace2022Day3, rPlace2022Expanded, r05, rabbit5am, rabbit5pm, rabbitking, radioactiveIceCream, radioactive13, rainbow24, rainbowErosion, rainbowGod, rainbowPlague32, rainbowpop11, rainbowtears, raindrop65, rainyAfternoon, rainyDream, ramp20, rampRainbow, rampy16, random16, rangedPunch, raspberryPalette, ratFlavour, rayleigh, razzmatazz5, redBloodPain, redDragon18, redHorns, redIsDead, redIshDbLyDesertLikePallet, redPanda, redPoster, redSand, redVelvet, redboyvibes, redeV1, redreen, redux63, reesesPuffs1Bit, regal10, reggae5, reteocal9, retro115, retro2600, retroBlue, retroMemories, retroPerfect, retroVibes, retrobubble, retrocal, retrocal4, retrocal8, retromud, retrorainbow, retrostalgia, retrotronic, reunion46, reverie38, rewild64, rgbPunch, rgbp, rggb4BitColorPalette, rhb14, rhythmmmo90, rhythmmmo95, risingSunGb, risingTide, risograph3, robotDistopia, robotic, robotsAreCool, rollercoasterTycoon2ColorMap, rommhakk12Color, roseGold, rosemoss8, roserust, roughSeas, royalMonarchViii, royal4, royal8, royalguard, rpgPaletteVerdachtig, rpgvania, ru5ty, rubble4, rubiksCubeColors, rubiksPaint, rubix48, ruggedGb, russian12, rust, rustGold8, rusticRainbow, rustyCryaonBox9, rustySteam, ruzGb, ruzicold, ruzikb32Color, ruzikb64, ruziwarm, ruzxSpectrum, ruzxSpectrumRevision2, ruzziCpc, ruzzi30, ruzzidore96, ruzzihuntuuMasterPalleteV2, ruzzisUltimatePaletteYet, ruzzishakedmilk, ruzzishakedmilkV2, ry32, ry64, ryb12, sLucky, sSunset7, s16, sad, sadakiyo5, sadness, saharaPastell, sailersFriday, sailorMoonBackground, salmon9, sand6, sandwich6Ramps, sandy06, sangre, sanguineGb, sashimi, satelliteSky16, saturatedGold8, saturation16, sawbuzz12, scaledAndIcy, scattered4, scenery28, scenery12, sckMidnight27, scold2Bit, scrapMechanic, scrix24, scrjXxxvi, seaOfFire, seaSaltIceCream, seaSeaweed, seabed1, seaflower15, seafoam, seagull8, seaside5, segaCube, segaVmuBoy, senpai, sepia15, sepia6, serenitas, serenity25, serpentineEmergence, serverColors, shadow4, shadowSlime, shadowViolet, shallowmarsh26, shanty, sheepsheep, shelf6, sherbertShark, shido10, shido101, shido25, shido50, shido50X, shido75, shidoCyberneon, shido50, shifty16, shine16, shiny20022, shiver14, shockwaverV1, shockwaverV2, shortenedNes, shroom69, siegraassFavoriteColors, simple14, simpleFeudalJapanese, simple64, sin, singularity, sirensAtNight, sk16, sk42ll, skedd16, skeletalSimberg, sketchHeadsPalette, sketchy, skribblioPalette, skyHighPallette, skyPirateStudiosPalette, sky5, skyline, skyline12, sleepyBoy, slime16, slimeGirl, slimy05, slowly, slurryGb, slynyrd128, smallSpriteBright32, smallSpriteGreedy40, smm2superballGameBoyPalette, smoky09, smooth16, smooth24, smoothPolishedGold, smoothPolishedSilver, snailVillage, snowflake4, snowl16, snowmansLand, sobeachy8, sodaCap, softAndCat, softBoiled, softCga, softDemon7, softDirty, softGameboy, softIceCreamKl, softRainbow, softThirty, softdecayGb, softie108, softlyConventional33, softserve4, soggyNewspapers, solarEclipse, solarize, soldier16, somber, sombreDemo, somturn, sonicManiaMainPalette, soulOfTheSea, soul32, soup11, spaceDust9, spaceIcecream, spaceMagicCocainePyramid, spaceRainbow, spaceTree, spacecake20, spacian, spaff16, spaff8, spazbol8, spectralScarab, spemge, spicy07, spinstar, spiral16, spirit4X, splashy08, spongebobPalette, spoohouse, spook12, spooky15, spoopyKnight, spoozy, spoozy2, springMorning, sprinkleCake36, squidgame6, sriracha, srkXl, ss24, ss8, st1BitEndgame, st16Commodore, st16Natural, st24, st24Christmas, st64Natural, st8BlueNPink, st8Greenery, st8Halloween, st8Moonlight, st8Ocean, st8Phoenix, st8RBRemake, st8Sapphire, stGameboy, stGameboyAqua, stGameboyCga, stGameboyDeluxe, stGameboyLightgrey, stGameboyMagma, stGameboyRedrose, stGameboyRemake, star3a28, stardust5, starea28, starthrall, steampunk4, steamstep, steellic72, stellaSaturn, stonehearth, stop, stranger6, stratus, strawberry, submergedChimera, suburbGameboy, suez30, sugaryStupor, sulu, summersPast16, sundropDiamond, sunfall12, sunflowerPainting7, sunnyDay, sunnyDays, sunnyMeadow32, sunnyValley6, sunset8, sunsetDrive, sunsetFunk, sunsetGb, sunsetHorizon, sunsetLantern, sunsetMkIii, sunsetMkii, sunsetRed, sunsetRedIi, sunshine35, sunshineValley, superCassetteVision, superColorful3, superGameBoyMenu1PaletteA, superGameBoyMenu1PaletteB, superGameBoyMenu1PaletteC, superGameBoyMenu1PaletteD, superMarioGoompa, superNesMaker, superPocketBoy, super16, superficial35, superjail, swamperRomper, sweet10, sweet28, sweetCanyon32, sweetCanyonExtended64, sweetDreams, sweet24, sweetdusk5, sweets16, switch, synthetic80S, synthwave9, synthwaveCity, systemMini16, tLollipop, t60Vibrant, taliwan, tandyColorComputerRgb, tankPalette, tanopal48, tauriel16, teaGb, team16, teamFortress2Official, tearsOnTheSand, technobike, tenfourRamp82, ternaryRgb, terracotta49, tetravibe6, textdoc15, thanksmas16, thatOneTacobellTable, theAmazingSpiderMan, theAtomi2700Palette, theBloodyThree, theIllegal, theInternetRaisedYou, theJungle, theLastAutumn, theLospecSnackbar, theMixBit18, theNight, thePerfectPalette, thePerfectPalette20, thePerfectPalettePocket, thePurpleVibe, thePurrfectCrimeGamejam, theReckoning, theRgbPalette, theRoarOfTheOwl, theRoarin80S, theRoarin80SV2, theSilverKnight, theSpookyChase, theWood, theYGiganteReverted, theYMasters, theYPastelia, the16wonder, thebattlesofcoloursV2, theo, theoryOf5, theruzikineb0iMaster, thunderstormBeneathTheSummit, ti84PlusCe256, timeless, tinkercad, tinyfolks, tinylittlegirl, titanstone, tnr64, tnr8, tofu20K, tomioka, torchflame, toxicSlime, toxicTumblr, trashPanda, treeFrog, trekeWastes, trickOrTreat8, trike12, tripleFin, trirampo, tritanomalic, tritanopi8, tritanopia, tritaruzi, tritone, trkLosat16, tropica33, tropicalCone24, trs80, truckAnimal, trueSide, tsunami, turquoiseEclipse, turtle16, tvc, twelvePeriod, twilioquest76, ty4ThDimensionRealm28, tyAdventureKit16, tyAncientMagis10, tyAncientMagis16, tyAncientRocca5, tyArcanixium13, tyArtificialHappiness12, tyArtificialHappiness16, tyArtificialHappiness8, tyBlackSouls16, tyBlueMoon12, tyBlueMoon5, tyBonesAshes16, tyBonesAshes27, tyCaveExplorer20, tyCelestialSapien26, tyChillWave6, tyChillingSpine21, tyChillingSpine8, tyColdBlooded14, tyCollectiveData13, tyColorConsole17, tyDarkAutumns15, tyDarkGoon25, tyDarkRebellion24Color, tyDarkRebellion25, tyDarkRebellion36, tyDeathParadise20, tyDementiaGirl16, tyDementiaGirl24, tyDesertedWasteland14, tyDisasterGirl16, tyDisasterGirl20, tyDistortedKingdom16, tyDistortedKingdom24, tyDistortedPrincess10, tyFateDestiny12, tyFateDice16, tyFateDice6, tyFictionalComputerOs16, tyFictionalComputerOs32, tyFutureComputer20, tyGlassFeelings12, tyGlassFeelings4, tyHeartOfTheBeast16, tyHighFantasy40, tyIndustrialFactory10, tyIndustrialFactory16, tyJingleGems6, tyKingsQueens10, tyLegendOfTheLoop7, tyLivingMachine4, tyMicroPastel16, tyMurderMystery16, tyMurderMystery8, tyNightCreeper16, tyNightLight2, tyNightLight7, tyOld90SAdventure16, tyOld90SAdventure29, tyOldNostalgia16, tyPlayWin7, tyPsygnosia26, tyQuietNight10, tyQuietNight4, tySacrilland28, tySeedOfDespair10, tyShadesOfNokia12, tyShadesOfNokia4, tySpaceMission14, tyTaikoncolor16, tyTaikoncolor24, tyWashedOut16, tyYellowMan4, tyndustre22042201, tzi24, uinbrowGuyPalette, underTheSeas, undertaleBitsAndPiecesRuins, unearthly, unicorn6, universalis42, untitled37, uranium5, urbanHaze, urbex16, usefle8, useful25, vampire16, vanillaMilkshake, vapornes, vaporsthetic, vaporwaveVibes, velvetCherryGb, versitle16, verso56, verso64, vexio11, vibrant14, vibrant26, vibrantBanana8, vibrantGun24, vibrantRamps, vibrant09, vicron, victorian24, videoGraphicsArray, vieillesCartes, vieleFarben66, vintageVoltage, vintagedalsy, violetDreams, viridianBlue, viridianVibrant, virtualBoy, virtualBoyBlue, virtualBoyCorrectedPalette, virtualBoyExpanded, virtualPop36, virtualSky, vivid2BitScream, vnes16Palette, vocodes62, voltageWarning, vosp, waldgeist, walkInTheWoods9, walkingInTheWoods8, wall10, wam, wanted21, warIsHell, warTrain, wariowareDiyPalette, warmFallGb, warmSpringSunset, warm32, warmlight, warmySpring, washedOver16, washedOver8, watchmen64, waterShallows, wave17, webMemories, webSafe216, wednesdayPink, ween8, whatColorPalette, whatTheDec, whatTheDec21, wheatField, wheatGb, wheee27, whiteToBlack, wholePunch64, wholesome76, wickedSkies, wild21, wildWest, wild19, wildflowers, windowOfOpportunity, windows95256Colours, wineGameboy, wingedYeti, winterNight, winterfes16, wishingpotion9, wisteriaMystery, wisteric17, witch, wizardsBreath34, wlk44V2, woefulHarvest, wonderbubbles, woodenGameboy, woodenTeeth, woodland5, workbenchPalette, worldOfHorror, wortmore10, woygab24, wyrm24, wyrmMoth48, xMas, yamazaki, yanasModernizedPokemonSgb, yeOldePirateModde, yeet24, yeet32, yeetzi32, yellowAdrift, yellue, yoghurtish, yogurtGb, yperochaChromata, ys1Bit, ysCoffeCalm, ysConcreteJungle, ysFlowersAndAsbestos, ysFunkyJam, ysNeutralGreen, ysPaperAndDust, ysPopIt, ysPostapocalypticSunset, yukoTomitaTime, yumeNikki, zamphaMasterPal, zant, zantasticdiscord, zantsPastels, zantsgame, zencillo14, zenit241, zenith, zenpaint, ziga1000, zombieApocalipse, zool, zxSpectrum
     )
 
 {-| The comprehensive list of Lospec palettes
@@ -12,7 +12,7 @@ The list of all palettes follows. There's a lot of them!
 If you need a specific one, it's probably easier to check the official list
 <https://lospec.com/palette-list>
 
-@docs p1Bit, p1BitAppleGreen, p1BitChill, p1BitFlames, p1BitPepper, p100, p1000Degrees, p106ColorPalette, p13rusque, p16ColorArtNouveau, p16dan, p1985, p1bitBlackAndWhite, p1bitRainbowHorror, p1pecksPalette, p2BitBlue, p2BitMatrix, p2020Vision, p20ShadesOfSkinDecay, p2022RPlacePallette, p24Universal, p2bitDemiboy, p2bitDemichrome, p2bitSunrise, p2much, p2sois, p3BitCmy, p3BitRgbPerceptuallyLinear, p3ColorGray, p31, p32, p3bitCatgirlsNishCyra, p3xdesk, p4Bit, p4BitRgb, p4Spoopy4U, p420BlazeIt, p4pi, p4seas, p5Crowns, p5Sheep, p5leepy, p5yan, p6Bit12ColourChallenge, p6Violets, p70sZine, p8BitPalatte, p8BitRgbm, p8Vision, p80sAmerican, p8lueens, p90schina, aDarkishSky, aHorribleDeath, aLot, aM90INFRA, aMANITA, aSIAN15, aShortHike, aSweetRevamp, aapDga16, aapRadiantplus, absxii, abyss9, acidicGb, acradeHero, adbHybrid16, adobeGb, adventure, adventure28, aerugo, afr32, ag500, aj8, ajmsx, ajsPico8Palette, aka, akc12, algunosColores, alienGb, allAround30, allioop20, amaryllisGarden8, amazon8, amberCrtgb, ambr0sia, americana, amigaPixels64, amp29, amphibian8, anarkis27, anb16, ancientAnimation, ancientheritage30, andrewKensler16Stylized, andrewKenslers16, angelic, animalCrossingPatternPalette, anomalyB8, anomalyRg8, anotherRetro, ansi32, antiquity16, anxietas, apollo, appleIiHiRes, apricot, aquaColors, arcadian16, arch, archaon15, archerer36, archerer48, archererer24, archersMasterPalette, archipelago, arcticDust, ardoh18, argeebey8, arjibi8, ark4, armyPallet, arneFrontier16, arq4yyy4, artHoeAesthetic7, aspiria32, astro, astroBoy, astro16V2, astronSt16, astronSte32, atari2600PaletteNtscVersion, atari2600PalettePalVersion, atari8BitFamilyGtia, atari8BitSeriesGtia, atbLava, atlantis, atom20, atom8, atomicHeat, aubrey32, auler99, autumVillan6, autumnBreeze, autumnChill, autumnComfort18, autumnDecay, autumnFire12, autumnGlow, autumnTree, autumnal16, autumngb, avatarPalette, avocado, awkward8, ayaka18, azione16, azul5, bLUSHROOM, babaIsYouDefaultColor, baba32, backward12, backwoodsPlague, baksu13, banan4, bananaCartoon, bananaDoubleberry, barbieTheSlasherMovie, bareCopper, barrel, baseWhite, basic14ColorPalette, basic16, basicBubblegum, basicolor, battlenights, battletaleGb, bauhaus, beachFront, beachyGb, beret12, berryJam, berryNebula, besalt, bigCat, bioChronicle, biohazard9, biome19, birdbath, birthdaysPc98TitleScreen, bitInterior, bitUnit8, bitbee, bitbitsNeon, bittersweet, blackAndBlood, blackCherry, blackGameboy, blackTar, blackm0ld, blankCanvas, blankVhsBox, blend32, blindfold, blithefulDemo, blkNx64, bloo20, bloo22, bloodCrow, bloodMints, bloodinkAndPaper, bloodmoon21, bloody, bloom, bloom16, bloxelsPalette, bluash4, blueExe, blueGlass, blueMania, blueMonochromeLcd, blueNewspaper, blueNight, blueSix, blueSkyes, blueSnow, bluebellRot, blueberryGb, bluedawn7, bluedream4, bluem0ld, bluerown1Bit, blues, bluetiger3C, blushGb, blushNGunmetal, bly14, bly16, bmo, bobobo, bold30, bolder28, boldsouls16, borkfest, bornana12, bosque, bottomlessAbyss, bounce16, brGbDesaturated, brashPink, brawlin, brazilFlag, breathlessCalm, brenyonsRainbow, brewerviridis, bricklinkCatalog, bright, brightAndEarly, brightnessGpy, bronzePalette, brzezinski32, bubblegum6, bulbOrb14, bulbOrb17, bumbleBee, bumblebit, burningNeon, burntsweet, byrne5, byte12, cafeNouveau, cafearisuki, calm48, calmSunset, calm18, calmerThanCalm17, calmingGrey, calmness, camoGb, camouflage7, campfireGb, canD, candy12, candypop, capp5, caramel4, carnival32, carpetRose, cartoonCandy, cartooners, carver6, casioBasic, catk1ng26, cattales56, caveMoss, cave4, cc29, celestial, celestialhalo9, centennialFruitcake, cerealGb, cgax16, challenge9, channel41982Cgi, chaos, chariot, chasm, chee48, cheerful24, cheerful32, cheesePalette, cherryBlossomGb, cherryBomb6, cherryCreamSodaGb, cherryLove, cherryPoptarts, cherry7, chiba, chlnge8, chocoDream, chocolate, chocomilk8, choconana2, christmasGb, christmasGbV2, christmasTime, chromaNoir, ciboulette6, cica26, circuitBoard, circusTwitter, citrink, cityStreet6, city28, cl8uds, classicRedSauce, clement8, cliffcamp, cloudfrenzy, cloudsAtSunset, cloudy28, clownWingMonster, clubSeoul16, clubhouseGamesChat, cmyk, cnpUltimate, cobsOfficialColourKit, codeGreen, coffee, coffee9, coffeeCafe, coffeeGb, coinGold, coldLight, coldMorning32, coldSands, coldShoulder9, coldWar8, coldWintryNight, coldgb, coldsnow, coldwood8, colir28, collaborative64betaLospec1000, colodoreVic64, colorCity8, colorMore12, colorbase32, colorbit16, colorblind16, colordome24, colordome32, colorful42, colorpop28, colorpop32, colorquest16, colorquestRetroRecolor, colors, colortastic, colourful6, combi16, comfy52, comicscapes50, commodore4R4G3B, commodore8, compliment6, consistent15, console16, contrast4, cookie, cookiebox16, coolBeansOfficial, coolBone7, coolcolors11, coolours31, coolpix, cophee4, copicGb, copperCut, coral4, coralGb, coralReef, corruption16, cosmic, cosmicCastleByClonethirteen, cosmo4, cosmonaut64, cottonCandy, cottonCity, cottoncandy, cottoncandy3, cozyChristmas, cozyCupOCoffee, crabsOrangeRedPalette, crayola13, crayola84, crayonPaint, crayon16, crazyMoon, creamy, cretaceous16, crimsonBlood4, crimsonGold, crm37, cromatica, crtgb, crypticOcean, cryptidcore6, crystalFlames, cubicle32Sticker, curiosities, custodian8, cvd3, cvd6, cvd8, cyanAbyss, cybear9, cyber37, cyberCharge, cyberPingPong, cyberPunk, cybergum6, cyberpunkNeons, cyclope6, damageDice106, darkAutumn, darkKnight, darkNight, darkflower20, darkness18, darkpastel36, darkstalkers30, darkvania, dawn14, daybreak, daydream20, daydreams24, daylight16, dbpaip18, deadCrabExoskeleton, deadFlowers, deadIce, deadWeight8, deadbeatGb, decoyworld2, deep16, deepForest, deepForest16, deepForest24, deepMaze, deepblue, deepfry, def16, default48, delete, deleteThisPalette, denim, depths, derezzed, desat, desatur8, desertSunset, desserted, deuteranopi8, deuteraruzi, deuterospill, dialupSunset, diamondGold, diamondGoldAnIron, dibbles, digitalDisco, dingy99, diplomacy, dirtyGlass14, discord2021, discord8, discordSquares, discord32, dmcToRgbConversionPart1, dmcToRgbConversionPart2, dnotFroget, dollar, doodle16, dossGloomyGloss, downgraded32, downgraded36, downwellVivid, dr20, dralette, draxalette, dream6, dreamCandy, dreamHaze8, dreamer3, dreamer5, dreamfulSpace, dreamhaze8, dreamscape8, dreamyForest, drowsy16, ds34, dstnr48, dubiousGb, dullGlow8, dullishRainbow, dumptruck12, duneGb, dustbyte, dustyRainbow9, dusty36, dusty4, dynamite, dystopia19, e16, e36, earthVibes, earthbun20, easy8, ebGbBananaFlavour, ebGbMintFlavour, ebGbPeanutFlavour, ebGbPlainFlavour, ebGbStrawberryFlavour, echo8, edg77, edgy28, eerieGlow, eg32, eggdealer6, eggplantWitch, eibre19, elemental, ellenCPirogArt, elpm15, emeraldPeach, emeraldVision, emphasis10, emptyNight, emptytitle123, enamoredDemo, enby4, enbydiade6, enchanted6, enchantedPurple, endless13, energy7, enhancedGraphicsAdapter, enneagon, entomophobia, enviromentalStationAlpha, ephemera, equalrgb, eroge48, escape, escape9, essentialEarth, etern16, eulbink, evaladarr, evening32, everglowDiamond, evergreenGb, evilCurse, ex24, existentialDemo, expandeddreamland, explorers16, fade12, fadedNature13, fadedpage12, fading16, fairydust8, fake24BitModdedWeb, fallin, famicube16, fanmoji, fantasy, farlands48, farmland20, fartgator07, feelinwitchy9, feelthesun16, felixgb, festiveGb, festive30, festivepanthera10, fevrier, fieryPlagueGb, final14, final8, final32, finale53, firecracker, firelight23, fireplaceglow, fishfighters8, fiveB, flamingoGb, flatColorUpdated, flipnote3Ds, flipnoteDsi, florast8, florentine24, florescence, flowerGarden42, fluffy, fluffyCats, fluffy8, foggy, foggyDepths8, forest, forest16, forgottenCherryBlossom, fourGreen, fourbit, fourseasons, foxfire, fr0lic, franzston30, frappeFour, freezingwinter4, friendsPallete, frilxy, fromBlueToGreen, frost, frostical, frostyCoco, frostyGb, frozenFire, fruitJuice, fruitful24, fruitpunch8, fruity26, fullCircle, fullofjoy20, funkItUp, funkyMan, funny31, funtime5, gEEDEEPEE, gOBLIN, g4b8Bit, gameBoySnowflake, gameWatchGb, game27, gameboyYellow, gamer19, gamingInTheFlowers, garden18, garfieldGameboydBlue, garo4, gasStation12, gaz74, gbBlueJpi, gbcslinger, gbfriendlyspider, gbgTextureSpriteEditor, gemsInTheForrest, gemsShinies, genderBinary, genderQueer6, genericMilkCarton, genericgb, genericmonochrome, ggameos, ghostTown, girlsbestfriend12, giveMeGrey52, glacial, gloomyDungeon, glossFinish22, goLine, gob48, godblood8, gogreen, goldGb, golden6, goldenHaze, goldenSunset, goldenstar32, goldiblocks, goodboy, goosebumpsGold, gora63, gotham30, gothicBit, gothicWinterGb, gracefulLich, grafx2DefaultPalette, grapeSodaArcade, grapeTreeGb, graveyardMist, grayfruit8, grayscale16, greedpit, greekfire7, greenTopDown, greenestGreen8, greenyBoy4, grenade8, greyMist, grh4, griefwardsAndThrough, grim32, grixelGrotto, grue, gty21, gulfsRainbow, gumGameboy, gumballBoyGb, gumdrop, gunMetalRussia, guyWithAGoldenCircleOnHead, gxGame, h2o, hags4, halloween, halloweenInJulyWhyNot, halloweenPalette, hallowenDream, hallucinationQuest, hamburgerTime, hamletum, hammerSickle5, hamond, hardPearl, hardWorkingRobots, harpy16, harvestGoldy, haunted14, haveANiceDay, hazyGlow, headache96, heart4, hellfireGb, hemospectrum, henge5, hept32, heroBeyondTime, hetzelfde, highHeavens, hilda, hillGb, hollow, hollowkeen4, hollowo20, honeyMilk, honeyskinPalette, hopeDiamond, horehound4, hortensiaDiamond, hotHighlightsColdShadows, hotSand6, hotelPaintings6, hotgirl9, huc16, huemeister, huemongous, hunterRuizMasterPalleteV3, hydrangea11, hyperchill10, hypernova5, hypocrites, iAccidentallyRuzzihuntuu, iNeedGlasses, ibm51, ibmColorBlindSafe, ibmQualitative, iceAndFireAndFire, iceCream16, iceCreamLand, iceCreamSpice, iceGb, iceberg, icedCoffee, icyCold, icyNight, icywitch, igb36, illumination, infinite6, inkAndCream, inkCrimson, inkpink, insecta, intacto14, intellivision, interstate28, interstellar15, interstellarIndigo, introspection01, iridescentCrystal, irlboy, ironBlues, iroshizuku16, isagamersRamps, isas20, isasLimitedRamps, isasMasterPalette, isasTrueMasterPalette, islaNegra, isolated16, isoween, itCrowd, itatsi23, izkOasis8, janvier, japan26, jariPalette, jeepers12, jewerlriesEmbededCrown, jigglypuff11, jm, joker6, jollyElf, jonk16, journey6, jr16, jrComp, jrTattoo, jsot1, juliet, juneFlower, jungle8, junglePunch5Colors, junglecandy8, justAddWater, kANAGAWA, kArambole, kalciumGameboy, kalimba26, kankei4, karu36, kawaii16, keeby, kidpixDeluxe4Pallette, kikekako, king16, kinkan, kippetsQuares16, kjottusOctober2021, knockia3310, kotomasho8, krea8, krzywinskiColorblind16, kule16, kyu, laBruja4, lacking64, ladyday14, lagoNenufarLakeWaterLily, lagoon, lakeHorizon8, lamoreLuce, landscapebase18, laserLab, lateNightBath, lateValentines, laugh8, lava, lavaGb, lavaLevel, lavenderBliss, lavenderGb, lavender4, layingInTheShade, lazyBitExtended, lazybit, leMasterosPaletas, lePlace, leavedPallete35, legacyColorblind8, legoBrick2016Palette, legoColorsPearl, legoColorsSolid, legoColorsTransparent, legoColours2021, lemon16, lemonlimeGb, leonSoul, leopoldsDreams, lethargic8, lf28, lightAcademia8, lightFantasyGame, lighthouseIsland, lightningCrush, lilacSkies5, limeMagenta, limelight18, limsLostIsMissingVirbants, limted16, linkAwakeningLinksColour, lite34, lithium64, lmao, lns15, logDog, loopHero, lospec2000, lospec2000Mini, lospecCdi, lospecEmoji, lospecGb, lospecGetsTrolled, lostCentury, lostCentury24, lostInTheDesert, lostgb, lovePuppy, lovepal16, loveyDovey16, low8, lowcolors, lowlands15, ltro1, luap40, lucky13, ludi25, luftrausers7, lump16, lushGreen, luxa, mUSHBLOOM, macPaint, machiniePalette, macintosh8BitSystemPalette, magicWaters9, magicolor16, magik16, magis18, mahyellaw22, makecodeArcadeExpanded, mamaEarth, manaRift, mandelaCatalogue, mangaPallete, mangavania, manicPink, manuscriptMmxx, maomaoytsDoodle, mappletosh16, marbleOlive, mariposa4, marshMadness, martianMadness, marumaruGum, massillon6, massillon8, master28, masterful103, matt36, maurice, maw, mcFuperyArtmapShadesGg, medor9, mega20, megaDriveBlue, megaball, melanie, meldPlus, melody16, melon8, melonMix, melonTree, merlot, mesaVapor, messengerFromDarkNightPc98, metalFlower48, metallicGb, meteor4, mf16, mf8, miamiSunset8, miau, mico17, micro86, microsoftMakecodeArcade, microsoftMetro, microsoftVga, midnight, midnightAblaze, midnightGameboy, midnightIllustrator, migue, mindaro14, minecraftConcrete, minecraftDyes, minecraftMapPaletteFor116, minecraftMapPaletteFor117, minecraftWool, miniJamPower, minimalistRetro, mintJams, minty4, mintyFresh, miqbat27, mistyshore28, mixedbag20, mocha, moderna24, mojave20, mokky, moltenGod7, molten5, mona, monday4, monkeyBrains, monometalic, mononokeAshitaka, mononokeSan, monsterBit, moo4, moonCrystal, moonGb, moonSquid7, moonlight, moonlight15, moonlightGb, moonlightgb, moonlit3, moonlitGb, moor64, moorland46, moradosAzulados, morning32, morningcoffee3, mortmortRetro, moss, mossy20, moth, moth4, motherNature, mountain, mrColors, mrColorsV3, mroning, msPaintBasic, msPaintPlus, mspaintVistaPalette, mspaintWindows7, muckAndGrime13, muddygrass16, mulfok32, mulfok62, mulfokv2, multa24, multa32, mupix9, muralGb, murky16, murkyWater10, mushfairy, mushroom, mutedAlly6, mutedRoseLeaf, myPalette, myst4, mystic16, mysticForest, mysticSs, mysticalLeaf, mystiqueLife3, nLEs, nanner16, nanner32, nannerJam, nannerMuffins, nannerPancakes, nanoc16, nanones, naples2Bit, natura28, natural26, naturalColourSystem16, naturalColourSystem8, nature10, nature20, naturesGrasp, neapolitan, neapolitan45, neapolitan5, nebula, nectarJackpot, neo5, neonCyber, neonFlesh, neonLightsFloatingtable, neonMinusTheNeon, neonNightSky, neongp, neonscape, nes13, nesAdvanced, nesAesprite, nesDimmed, nesMakerPaletteColors, nesWikipedia, nestopia, neutral32, new, newTableau10, newWorlds46, niceRabbit, nice24, nice69, nicolePunk82, nieu15, nigh7, nightLight, nightclub, nightskyBricks, nighty, ninetiesNine, ninja23, nintendoInternal, nirvana7, nm5, noellesRoom, noireTruth, nokia3310, nordTheme, northernWoods38, northwestGb, nostalgi14, nostalgi2, nostalgi8, nostalgiaColorPalette, nostalgia15, nostalgia36, nostalgia48, notDeadDesignPallet, note2C, notepad, nvidiaGaugan, nyankos16, ocean, oceanGb, oceanGlass, oceanides20, od10, oddFeeling, oekaki, oekakinl, oekakinl8, oilOak, oldComputersBeLike, oldGold7, oldSch8L, old90s, oldsand16, oldsummer, olooPalette, omnia, on70, ongbit, oni, onionPalette, ooo, opixal, optimism, optimizedGrayscale4, orangeCityGlow, orangeDreamsicle, orangeYouSad, orbeesMasterPalette, orbitron32, orchids4, organicChristmas8, oria20, origamiClouds, originalGameboy, outrunner16, overgrowth, overpast, oxyd, oxygen16, pacific, padhiRangulu, paintedParchment9, paintnetBaseColors, paintnetPalette, paletteOfMarseille, pantoneRevItUp, paper8, paperPalette, paperPixels, paperback2, papier4, paradise30, pastari16, pastel, pastel64, pastelAlienGoop, pastelAndDarks58Palette, pastelColorPalette, pastelHorizon, pastelIndia, pastelLove, pastelQt, pastelRanibow9, pastelVivid, pastelapple, pastelito2, pastleCuteMinimalLofiColors, pastry, pastryShop, patina, patreon, pb4801, pbAndJ, pc66, peachyKeen, peelyweelybananyicecreamy, penNPaper, pencilSketch, penny, pepeNoMore, perilsndragons, photocorp, pico4, picoDb, picoDeLasPaletas, picoMicro, pictoon, pieceOfCake, piet, piggyPink, pigment, pinballDisplayColours, pinkNeonSign6, pinkPuffGb, pinkgreen, piratesAdventure, piratesAdventureIi, pixBrix, pixByrg, pixelJointRanks, pixelMage, pixelStreet, pixelartSmpZ1, pixelplacePaletteSelection, pixelunalivedPaletteV1, pixilartDefault, pixlten, pjDiscordCollab, pk32, plague, plantAesthetic5, plantAesthetic7, plumbersParadise, plumeEdema, plushy, pocketgb, poisonBubble8, poisson23, pokemonGen2OverworldObjects, pokemonRubySapphireExterior, pokemonRubySapphireInterior, polxel42, polxel43, poly32, ponder, pong4, popcorn12, popstarGb, popular32, portrait, posca12, power38, primary8, primeiroProjeto, prism, prismatica, projectRuzikb86, proportion32, prospecal8, prospeccal, psyche16, puffball8, pumpkinGb, punolit, punolite, punolitePlus, punolitePlusPlus, punolitePlusRemake, punoliteStreetlight, purblu8, purpleSpider, purpleSunset, purplemorning8, purpleskin, purpleskygb, puyo26, pxlsDefault, pyxel, quak60, qualm12, queenBee, questedMountain, questedValley, quinn, rABBIT9, rPlace202232Colors, rPlace2022Day2, rPlace2022Day3, rPlace2022Expanded, r05, radioactiveIceCream, radioactive13, rainbow24, rainbowErosion, rainbowGod, rainbowPlague32, rainbowpop11, rainbowtears, raindrop65, rainyAfternoon, rainyDream, ramp20, rampRainbow, rampy16, random16, rangedPunch, raspberryPalette, ratFlavour, rayleigh, razzmatazz5, redDragon18, redHorns, redIsDead, redIshDbLyDesertLikePallet, redPanda, redPoster, redSand, redVelvet, redboyvibes, redeV1, redreen, redux63, reesesPuffs1Bit, reformedRainbow, regal10, reggae5, reteocal9, retro115, retro2600, retroBlue, retroMemories, retroPerfect, retroVibes, retrobubble, retrocal, retrocal4, retrocal8, retromud, retrorainbow, retrostalgia, retrotronic, reunion46, reverie38, rewild64, rgbPunch, rgbp, rggb4BitColorPalette, rhb14, rhythmmmo90, rhythmmmo95, risingSunGb, risingTide, risograph3, robotDistopia, robotic, robotsAreCool, rollercoasterTycoon2ColorMap, rommhakk12Color, roseGold, rosemoss8, roserust, roughSeas, royalMonarchViii, royal4, royal8, royalguard, rpgPaletteVerdachtig, rpgvania, ru5ty, rubble4, rubiksCubeColors, rubiksPaint, rubix48, ruggedGb, russian12, rust, rustGold8, rusticRainbow, rustyCryaonBox9, rustySteam, ruzGb, ruzicold, ruzikb32Color, ruzikb64, ruziwarm, ruzxSpectrum, ruzxSpectrumRevision2, ruzziCpc, ruzzi30, ruzzidore96, ruzzihuntuuMasterPalleteV2, ruzzisUltimatePaletteYet, ruzzishakedmilk, ruzzishakedmilkV2, ry32, ry64, ryb12, sLucky, sSunset7, s16, sad, sadakiyo5, sadness, saharaPastell, sailersFriday, sailorMoonBackground, salmon9, sand6, sandwich6Ramps, sandy06, sangre, sanguineGb, sashimi, satelliteSky16, saturatedGold8, saturation16, sawbuzz12, scaledAndIcy, scattered4, scenery28, scenery12, sckMidnight27, scold2Bit, scrapMechanic, scrix24, scrjXxxvi, seaOfFire, seaSaltIceCream, seaSeaweed, seabed1, seaflower15, seafoam, seagull8, seaside5, segaCube, segaVmuBoy, senpai, sepia15, sepia6, serenitas, serenity25, serpentineEmergence, serverColors, shadow4, shadowSlime, shadowViolet, shallowmarsh26, shanty, sheepsheep, shelf6, sherbertShark, shido10, shido101, shido25, shido50, shido50X, shido75, shidoCyberneon, shido50, shifty16, shine16, shiny20022, shiver14, shockwaverV1, shockwaverV2, shortenedNes, shroom69, siegraassFavoriteColors, simple14, simpleFeudalJapanese, simple64, sin, singularity, sirensAtNight, sk16, sk42ll, skedd16, skeletalSimberg, sketchHeadsPalette, sketchy, skribblioPalette, skyHighPallette, skyPirateStudiosPalette, sky5, skyline, skyline12, sleepyBoy, slime16, slimeGirl, slimy05, slowly, slurryGb, slynyrd128, smallSpriteBright32, smallSpriteGreedy40, smm2superballGameBoyPalette, smooth16, smooth24, smoothPolishedGold, smoothPolishedSilver, snailVillage, snowflake4, snowl16, snowmansLand, sobeachy8, sodaCap, softAndCat, softBoiled, softCga, softDemon7, softDirty, softGameboy, softIceCreamKl, softRainbow, softThirty, softdecayGb, softie108, softlyConventional33, softserve4, soggyNewspapers, solarEclipse, solarize, soldier16, somber, sombreDemo, somturn, sonicManiaMainPalette, soulOfTheSea, soul32, soup11, spaceDust9, spaceIcecream, spaceMagicCocainePyramid, spaceRainbow, spaceTree, spacecake20, spacian, spaff16, spaff8, spazbol8, spectralScarab, spemge, spicy07, spinstar, spiral16, spirit4X, splashy08, spongebobPalette, spoohouse, spook12, spooky15, spoopyKnight, spoozy, spoozy2, springMorning, sprinkleCake36, squidgame6, sriracha, srkXl, ss24, ss8, st1BitEndgame, st16Commodore, st16Natural, st24, st24Christmas, st64Natural, st8BlueNPink, st8Greenery, st8Halloween, st8Moonlight, st8Ocean, st8Phoenix, st8RBRemake, st8Sapphire, stGameboy, stGameboyAqua, stGameboyCga, stGameboyDeluxe, stGameboyLightgrey, stGameboyMagma, stGameboyRedrose, stGameboyRemake, star3a28, stardust32, stardust5, starea28, starthrall, steampunk4, steamstep, steellic72, stellaSaturn, stonehearth, stop, stranger6, stratus, strawberry, submergedChimera, suburbGameboy, suez30, sugaryStupor, summersPast16, sundropDiamond, sunfall12, sunflowerPainting7, sunnyDay, sunnyDays, sunnyMeadow32, sunnyValley6, sunset8, sunsetDrive, sunsetFunk, sunsetGb, sunsetHorizon, sunsetLantern, sunsetMkIii, sunsetMkii, sunsetRed, sunsetRedIi, sunshine35, sunshineValley, superCassetteVision, superColorful3, superGameBoyMenu1PaletteA, superGameBoyMenu1PaletteB, superGameBoyMenu1PaletteC, superGameBoyMenu1PaletteD, superMarioGoompa, superNesMaker, superPocketBoy, super16, superficial35, superjail, swamperRomper, sweet10, sweet28, sweetCanyon32, sweetCanyonExtended64, sweetDreams, sweet24, sweetdusk5, sweets16, switch, synthetic80S, synthwave9, synthwaveCity, systemMini16, tLollipop, t60Vibrant, taliwan, tandyColorComputerRgb, tankPalette, tanopal48, tauriel16, teaGb, team16, teamFortress2Official, tearsOnTheSand, technobike, tenfourRamp82, ternaryRgb, terracotta49, tetravibe6, textdoc15, thanksmas16, thatOneTacobellTable, theAmazingSpiderMan, theAtomi2700Palette, theBloodyThree, theIllegal, theInternetRaisedYou, theJungle, theLastAutumn, theLospecSnackbar, theMixBit18, theNight, thePerfectPalette, thePerfectPalette20, thePerfectPalettePocket, thePurpleVibe, thePurrfectCrimeGamejam, theReckoning, theRgbPalette, theRoarOfTheOwl, theRoarin80S, theRoarin80SV2, theSilverKnight, theSpookyChase, theWood, theYGiganteReverted, theYMasters, theYPastelia, the16wonder, thebattlesofcoloursV2, theo, theoryOf5, theruzikineb0iMaster, thunderstormBeneathTheSummit, ti84PlusCe256, timeless, tinkercad, tinyfolks, tinylittlegirl, titanstone, tnr64, tnr8, tofu20K, tomioka, torchflame, toxicSlime, toxicTumblr, trashPanda, treeFrog, trekeWastes, trickOrTreat8, trike12, tripleFin, trirampo, tritanomalic, tritanopi8, tritanopia, tritaruzi, tritone, trkLosat16, tropica33, tropicalCone24, trs80, truckAnimal, trueSide, tsunami, turtle16, tvc, twelvePeriod, twilioquest76, ty4ThDimensionRealm28, tyAdventureKit16, tyAncientMagis10, tyAncientMagis16, tyAncientRocca5, tyArcanixium13, tyArtificialHappiness12, tyArtificialHappiness16, tyArtificialHappiness8, tyBlackSouls16, tyBlueMoon5, tyBonesAshes16, tyBonesAshes27, tyCaveExplorer20, tyCelestialSapien26, tyChillWave6, tyChillingSpine21, tyChillingSpine8, tyColdBlooded14, tyCollectiveData13, tyColorConsole17, tyDarkAutumns15, tyDarkGoon25, tyDarkRebellion24Color, tyDarkRebellion25, tyDarkRebellion36, tyDeathParadise20, tyDementiaGirl16, tyDementiaGirl24, tyDesertedWasteland14, tyDisasterGirl16, tyDistortedKingdom16, tyDistortedKingdom24, tyDistortedPrincess10, tyFateDestiny12, tyFateDice16, tyFateDice6, tyFictionalComputerOs16, tyFictionalComputerOs32, tyFutureComputer20, tyGlassFeelings12, tyGlassFeelings4, tyHeartOfTheBeast16, tyHighFantasy40, tyIndustrialFactory10, tyIndustrialFactory16, tyJingleGems6, tyKingsQueens10, tyLegendOfTheLoop7, tyLivingMachine4, tyMicroPastel16, tyMurderMystery16, tyMurderMystery8, tyNightCreeper16, tyNightLight2, tyNightLight7, tyOld90SAdventure16, tyOld90SAdventure29, tyOldNostalgia16, tyPlayWin7, tyQuietNight10, tyQuietNight4, tySacrilland28, tyShadesOfNokia12, tyShadesOfNokia4, tySpaceMission14, tyTaikoncolor16, tyTaikoncolor24, tyWashedOut16, tyYellowMan4, tyndustre22042201, tzi24, uinbrowGuyPalette, underTheSeas, undertaleBitsAndPiecesRuins, unearthly, unicorn6, universalis42, untitled37, uranium5, urbanHaze, urbex16, usefle8, useful25, vampire16, vanillaMilkshake, vapornes, vaporsthetic, vaporwaveVibes, velvetCherryGb, versitle16, verso56, verso64, vexio11, vibrant14, vibrant26, vibrantBanana8, vibrantGun24, vibrantRamps, vibrant09, vicron, victorian24, videoGraphicsArray, vieillesCartes, vieleFarben66, vintageVoltage, vintagedalsy, violetDreams, viridianBlue, viridianVibrant, virtualBoy, virtualBoyBlue, virtualBoyCorrectedPalette, virtualBoyExpanded, virtualPop36, virtualSky, vivid2BitScream, vnes16Palette, vocodes62, voltageWarning, vosp, waldgeist, walkInTheWoods9, walkingInTheWoods8, wall10, wam, warIsHell, warTrain, wariowareDiyPalette, warmFallGb, warmSpringSunset, warm32, warmlight, warmySpring, washedOver16, washedOver8, watchmen64, waterShallows, wave17, webMemories, webSafe216, wednesdayPink, ween8, whatColorPalette, whatTheDec, whatTheDec21, wheatField, wheatGb, wheee27, whiteToBlack, wholePunch64, wholesome76, wickedSkies, wild21, wildWest, wild19, wildflowers, windowOfOpportunity, windows95256Colours, wineGameboy, wingedYeti, winterNight, winterfes16, wishingpotion9, wisteriaMystery, wisteric17, witch, wizardsBreath34, wlk44, wlk44V2, woefulHarvest, wonderbubbles, woodenGameboy, woodenTeeth, woodland5, workbenchPalette, worldOfHorror, wortmore10, woygab24, wyrm24, wyrmMoth48, xMas, yamazaki, yanasModernizedPokemonSgb, yeOldePirateModde, yeet24, yeet32, yeetzi32, yellowAdrift, yellue, yoghurtish, yogurtGb, yperochaChromata, ys1Bit, ysCoffeCalm, ysConcreteJungle, ysFlowersAndAsbestos, ysFunkyJam, ysNeutralGreen, ysPaperAndDust, ysPopIt, ysPostapocalypticSunset, yukoTomitaTime, yumeNikki, zamphaMasterPal, zant, zantasticdiscord, zantsPastels, zantsgame, zencillo14, zenit241, zenith, zenpaint, ziga1000, zombieApocalipse, zombieOutbreak, zool, zxSpectrum
+@docs p1Bit, p1BitAppleGreen, p1BitChill, p1BitFlames, p1BitPepper, p100, p1000Degrees, p106ColorPalette, p13rusque, p16ColorArtNouveau, p16dan, p1985, p1bitBlackAndWhite, p1bitRainbowHorror, p1pecksPalette, p2BitBlue, p2BitMatrix, p2020Vision, p20ShadesOfSkinDecay, p2022RPlacePallette, p24Universal, p2bitDemiboy, p2bitDemichrome, p2bitSunrise, p2sois, p3BitCmy, p3BitRgbPerceptuallyLinear, p3ColorGray, p31, p32, p3bitCatgirlsNishCyra, p3xdesk, p4Bit, p4BitRgb, p4Spoopy4U, p420BlazeIt, p4pi, p4seas, p5Crowns, p5Sheep, p5leepy, p5yan, p6Bit12ColourChallenge, p6Violets, p70sZine, p8BitPalatte, p8BitRgbm, p8Vision, p80sAmerican, p8lueens, p90schina, aDarkishSky, aHorribleDeath, aSIAN15, aShortHike, aSweetRevamp, aapDga16, aapRadiantplus, absxii, abyss9, acidicGb, acradeHero, adbHybrid16, adobeGb, adventure, adventure28, aerugo, afr32, ag500, agb, aj8, ajmsx, ajsPico8Palette, aka, akc12, algunosColores, alienGb, allAround30, allioop20, am90, amanita, amaryllisGarden8, amazon8, amberCrtgb, ambr0sia, americana, amigaPixels64, amp29, amphibian8, anarkis27, anb16, ancientAnimation, ancientheritage30, andrewKensler16Stylized, andrewKenslers16, angelic, animalCrossingPatternPalette, anomalyB8, anomalyRg8, anotherRetro, ansi32, antiquity16, anxietas, apollo, appleIiHiRes, apricot, aquaColors, arcadian16, arch, archaon15, archerer36, archerer48, archererer24, archersMasterPalette, archipelago, arcticDust, ardoh18, argeebey8, arjibi8, ark4, armyPallet, arneFrontier16, arq4yyy4, artHoeAesthetic7, aspiria32, astro, astroBoy, astro16V2, astronSt16, astronSte32, atari2600PaletteNtscVersion, atari2600PalettePalVersion, atari8BitFamilyGtia, atari8BitSeriesGtia, atbLava, atlantis, atom20, atom8, atomicHeat, auler99, autumVillan6, autumnBreeze, autumnChill, autumnComfort18, autumnDecay, autumnFire12, autumnGlow, autumnTree, autumnal16, autumngb, avatarPalette, avocado, awkward8, ayaka18, azione16, azul5, babaIsYouDefaultColor, baba32, backward12, backwoodsPlague, baksu13, banan4, bananaCartoon, bananaDoubleberry, barbieTheSlasherMovie, bareCopper, barrel, baseWhite, basic14ColorPalette, basic16, basicBubblegum, basicolor, battlenights, battletaleGb, bauhaus, beachFront, beachyGb, beret12, berryJam, berryNebula, besalt, bigCat, bioChronicle, biohazard9, biome19, birdbath, birthdaysPc98TitleScreen, bitInterior, bitUnit8, bitbee, bitbitsNeon, bittersweet, blackAndBlood, blackCherry, blackGameboy, blackTar, blackm0ld, blankCanvas, blankVhsBox, blend32, blindfold, blithefulDemo, blkNx64, bloo20, bloo22, bloodCrow, bloodMints, bloodinkAndPaper, bloodmoon21, bloody, bloom, bloom16, bloxelsPalette, bluash4, blueExe, blueGlass, blueMania, blueMonochromeLcd, blueNewspaper, blueNight, blueSix, blueSkyes, blueSnow, bluebellRot, blueberryGb, bluedawn7, bluedream4, bluem0ld, bluerown1Bit, blues, bluetiger3C, blushGb, blushNGunmetal, blushroom, bly14, bly16, bmo, bobobo, bold30, bolder28, boldsouls16, borkfest, bornana12, bosque, bottomlessAbyss, bounce16, brGbDesaturated, brashPink, brawlin, brazilFlag, breathlessCalm, brenyonsRainbow, brewerviridis, bricklinkCatalog, bright, brightAndEarly, brightnessGpy, bronzePalette, brzezinski32, bubblegum6, bulbOrb14, bulbOrb17, bumbleBee, bumblebit, burningNeon, burntsweet, byrne5, byte12, cafeNouveau, cafearisuki, calm48, calm18, calmerThanCalm17, calmingGrey, calmness, camoGb, camo2, camouflage7, campfireGb, candy12, candypop, capp5, caramel4, carnival32, carpetRose, cartoonCandy, cartooners, carver6, casioBasic, catk1ng26, cattales56, caveMoss, cave4, celestial, celestialhalo9, centennialFruitcake, cerealGb, cgax16, challenge9, channel41982Cgi, chaos, chariot, chasm, chee48, cheerful24, cheerful32, cheesePalette, cherryBlossomGb, cherryBomb6, cherryCreamSodaGb, cherryLove, cherryPoptarts, cherry7, chiba, chlnge8, chocoDream, chocolate, chocomilk8, choconana2, christmasGb, christmasGbV2, christmasTime, chromaNoir, ciboulette6, cica26, circuitBoard, circusTwitter, citrink, cityStreet6, city28, cl8uds, classicRedSauce, clement8, cliffcamp, cloudfrenzy, cloudsAtSunset, cloudy28, clownWingMonster, clubSeoul16, clubhouseGamesChat, cmyk, cnpUltimate, cobsOfficialColourKit, codeGreen, coffee, coffee9, coffeeCafe, coffeeGb, coinGold, coldLight, coldMorning32, coldSands, coldShoulder9, coldWar8, coldWintryNight, coldgb, coldsnow, coldwood8, colir28, collaborative64betaLospec1000, colodoreVic64, colorCity8, colorMore12, colorbase32, colorbit16, colorblind16, colordome24, colordome32, colorful42, colorpop28, colorpop32, colorquest16, colorquestRetroRecolor, colors, colorsOfCascadia, colortastic, colourful6, combi16, comfy52, comicscapes50, commodore4R4G3B, commodore8, compliment6, consistent15, console16, contrast4, cookie, cookiebox16, coolBeansOfficial, coolBone7, coolcolors11, coolours31, coolpix, cophee4, copicGb, copperCut, coral4, coralGb, coralReef, corruption16, cosmic, cosmicCastleByClonethirteen, cosmo4, cosmonaut64, cottonCandy, cottonCity, cottoncandy, cottoncandy3, cozyChristmas, cozyCupOCoffee, crabsOrangeRedPalette, crayola13, crayola84, crayonPaint, crayon16, crazyMoon, creamy, cretaceous16, crimsonBlood4, crimsonGold, crm37, cromatica, crtgb, crypticOcean, cryptidcore6, crystalFlames, cubicle32Sticker, curiosities, custodian8, cvd3, cvd6, cvd8, cyanAbyss, cybear9, cyber37, cyberCharge, cyberPingPong, cyberPunk, cybergum6, cyberpunkNeons, cyclope6, damageDice106, darkAutumn, darkKnight, darkNight, darkflower20, darkness18, darkpastel36, darkstalkers30, darkvania, dawn14, daybreak, daydream20, daydreams24, daylight16, dbpaip18, deadCrabExoskeleton, deadFlowers, deadIce, deadWeight8, deadbeatGb, decoyworld2, deep16, deepForest, deepForest16, deepMaze, deepblue, deepfry, def16, default48, delete, deleteThisPalette, denim, depths, derezzed, desat, desatur8, desertSunset, desserted, deuteranopi8, deuteraruzi, deuterospill, dialupSunset, diamondGold, diamondGoldAnIron, dibbles, digitalDisco, dingy99, diplomacy, dirtyGlass14, discord2021, discord8, discordSquares, discord32, dmcToRgbConversionPart1, dmcToRgbConversionPart2, dnotFroget, dollar, doodle16, dossGloomyGloss, downgraded32, downgraded36, downwellVivid, dr20, dralette, draxalette, dream6, dreamCandy, dreamHaze8, dreamer3, dreamer5, dreamfulSpace, dreamhaze8, dreamscape8, dreamyForest, drowsy16, ds34, dstnr48, dubiousGb, dullGlow8, dullishRainbow, dumptruck12, duneGb, dustbyte, dustyRainbow9, dusty36, dusty4, dynamite, dystopia19, e16, e36, earthVibes, earthbun20, easy8, ebGbBananaFlavour, ebGbMintFlavour, ebGbPeanutFlavour, ebGbPlainFlavour, ebGbStrawberryFlavour, echo8, edg77, edgy28, eerieGlow, eg32, eggdealer6, eggplantWitch, eibre19, elemental, ellenCPirogArt, elpm15, emeraldPeach, emeraldVision, emphasis10, emptyNight, emptytitle123, enamoredDemo, enby4, enbydiade6, enchanted6, enchantedPurple, endless13, energy7, enhancedGraphicsAdapter, enneagon, entomophobia, enviromentalStationAlpha, ephemera, equalrgb, eroge48, escape, escape9, essentialEarth, eulbink, evaladarr, evening32, everglowDiamond, evergreenGb, evilCurse, ex24, existentialDemo, expandeddreamland, explorers16, fade12, fadedNature13, fadedpage12, fading16, fairydust8, fake24BitModdedWeb, fallin, famicube16, fanmoji, fantasy, farlands48, farmland20, fartgator07, feelinwitchy9, feelthesun16, felixgb, festiveGb, festive30, festivepanthera10, fevrier, fieryPlagueGb, final14, final8, final32, finale53, firecracker, firelight23, fireplaceglow, fishfighters8, fiveB, flamingoGb, flatColorUpdated, flipnote3Ds, flipnoteDsi, florast8, florentine24, florescence, flowerGarden42, fluffy, fluffyCats, fluffy8, foggy, foggyDepths8, forest, forest16, forgottenCherryBlossom, fourGreen, fourbit, fourseasons, foxfire, fr0lic, franzston30, frappeFour, freezingwinter4, friendsPallete, frilxy, fromBlueToGreen, frost, frostical, frostyCoco, frostyGb, frozenFire, fruitJuice, fruitful24, fruitpunch8, fruity26, fullCircle, fullofjoy20, funkItUp, funkyMan, funny31, funtime5, g4b8Bit, gameBoySnowflake, gameWatchGb, game27, gameboyYellow, gamer19, gamingInTheFlowers, garden18, garfieldGameboydBlue, garo4, gasStation12, gaz74, gbBlueJpi, gbcslinger, gbfriendlyspider, gbgTextureSpriteEditor, gemsInTheForrest, gemsShinies, genderBinary, genderQueer6, genericMilkCarton, genericgb, genericmonochrome, ggameos, ghostTown, girlsbestfriend12, giveMeGrey52, glacial, gloomyDungeon, glossFinish22, goLine, gob48, goblin, godblood8, gogreen, goldGb, golden6, goldenHaze, goldenSunset, goldenstar32, goldiblocks, goodboy, goosebumpsGold, gora63, gotham30, gothicBit, gothicWinterGb, gracefulLich, grapeSodaArcade, grapeTreeGb, grapeboy, graveyardMist, grayfruit8, grayscale16, greedpit, greekfire7, greenTopDown, greenestGreen8, greenyBoy4, grenade8, greyMist, grh4, griefwardsAndThrough, grim32, grixelGrotto, grue, gty21, gulfsRainbow, gumGameboy, gumballBoyGb, gumdrop, gunMetalRussia, guyWithAGoldenCircleOnHead, gxGame, h2o, hags4, halloween, halloweenInJulyWhyNot, halloweenPalette, hallowenDream, hallucinationQuest, hamburgerTime, hamletum, hammerSickle5, hamond, hardPearl, hardWorkingRobots, harpy16, harvestGoldy, haunted14, haveANiceDay, hazyGlow, headache96, heart4, hellfireGb, hemospectrum, henge5, heroBeyondTime, hetzelfde, hidingInTheWildflowers, highHeavens, hiker20, hilda, hillGb, hollow, hollowkeen4, hollowo20, honeyMilk, honeyskinPalette, hopeDiamond, horehound4, hortensiaDiamond, hotHighlightsColdShadows, hotSand6, hotelPaintings6, hotgirl9, huc16, huemeister, huemongous, hunterRuizMasterPalleteV3, hydrangea11, hyperchill10, hypernova5, hypocrites, iAccidentallyRuzzihuntuu, iNeedGlasses, ibm51, ibmColorBlindSafe, ibmQualitative, iceAndFireAndFire, iceCream16, iceCreamLand, iceCreamSpice, iceGb, iceberg, icedCoffee, icyCold, icyNight, icywitch, igb36, illumination, infinite6, inkAndCream, inkCrimson, inkpink, insecta, intacto14, intellivision, interstate28, interstellar15, interstellarIndigo, introspection01, invertCompatible, iridescentCrystal, irlboy, ironBlues, iroshizuku16, isagamersRamps, isas20, isasLimitedRamps, isasMasterPalette, isasTrueMasterPalette, islaNegra, isolated16, isoween, itCrowd, itatsi23, izkOasis8, janvier, japan26, jeepers12, jewerlriesEmbededCrown, jigglypuff11, joker6, jollyElf, jonk16, journey6, jr16, jrComp, jrTattoo, jsot1, juliet, juneFlower, jungle8, junglePunch5Colors, junglecandy8, justAddWater, kArambole, kalciumGameboy, kalimba26, kanagawa, kankei4, karu36, kawaii16, keeby, kidpixDeluxe4Pallette, kikekako, king16, kinkan, kippetsQuares16, kjottusOctober2021, knockia3310, kotomasho8, krea8, krzywinskiColorblind16, kule16, kyu, laBruja4, lacking64, ladyday14, lagoNenufarLakeWaterLily, lagoon, lakeHorizon8, lamoreLuce, landscapebase18, laserLab, lateNightBath, lateValentines, laugh8, lava, lavaGb, lavaLevel, lavenderBliss, lavenderGb, lavender4, layingInTheShade, lazyBitExtended, lazybit, leMasterosPaletas, lePlace, leavedPallete35, leflautt0, legacyColorblind8, legoBrick2016Palette, legoColorsPearl, legoColorsSolid, legoColorsTransparent, legoColours2021, lemon16, lemonlimeGb, leonSoul, leopoldsDreams, lethargic8, lf28, libra8, lightAcademia8, lightFantasyGame, lighthouseIsland, lightningCrush, lilacSkies5, limeMagenta, limelight18, limsLostIsMissingVirbants, limted16, linkAwakeningLinksColour, lithium64, lmao, lns15, logDog, loopHero, lospec2000, lospec2000Mini, lospecCdi, lospecEmoji, lospecGb, lospecGetsTrolled, lostCentury, lostCentury24, lostInTheDesert, lostgb, lovePuppy, lovepal16, loveyDovey16, low8, lowcolors, lowlands15, ltro1, luap40, lucky13, ludi25, luftrausers7, lump16, lushGreen, luxa, macPaint, machiniePalette, macintosh8BitSystemPalette, magicWaters9, magicolor16, magik16, magis18, mahyellaw22, makecodeArcadeExpanded, mamaEarth, manaRift, mandelaCatalogue, mangaPallete, mangavania, manicPink, manuscriptMmxx, maomaoytsDoodle, mappletosh16, marbleOlive, mariposa4, marshMadness, martianMadness, marumaruGum, massillon6, massillon8, master28, masterful103, maurice, maw, mazzical20, mcFuperyArtmapShadesGg, medor9, mega20, megaDriveBlue, megaball, melanie, meldPlus, melody16, melon8, melonMix, melonTree, merlot, mesaVapor, messengerFromDarkNightPc98, messy12, metallicGb, meteor4, mf16, mf8, miamiSunset8, miau, mico17, micro86, microsoftMakecodeArcade, microsoftVga, midnight, midnightAblaze, midnightGameboy, midnightIllustrator, migue, mindaro14, minecraftConcrete, minecraftDyes, minecraftMapPaletteFor116, minecraftMapPaletteFor117, minecraftWool, miniJamPower, minimalistRetro, mintJams, minty4, mintyFresh, miqbat27, mistyshore28, mixedbag20, mocha, moderna24, mojave20, mokky, moltenGod7, molten5, mona, monday4, monkeyBrains, monometalic, mononokeAshitaka, mononokeSan, monsterBit, moo4, moonCrystal, moonGb, moonSquid7, moonlight, moonlight15, moonlightGb, moonlightgb, moonlit3, moonlitGb, moor64, moorland46, moradosAzulados, morning32, morningcoffee3, mortmortRetro, moss, mossy20, moth, moth4, motherNature, mountain, mrColors, mrColorsV3, mroning, msPaintBasic, msPaintPlus, mspaintVistaPalette, mspaintWindows7, muckAndGrime13, muddygrass16, mulfok32, mulfok62, mulfokv2, multa24, multa32, mupix9, muralGb, murky16, murkyWater10, mushbloom, mushfairy, mushroom, mutedAlly6, mutedRoseLeaf, myPalette, myst4, mystic16, mysticForest, mysticSs, mysticalLeaf, mystiqueLife3, nLEs, nanner16, nanner32, nannerJam, nannerMuffins, nannerPancakes, nanoc16, nanones, naples2Bit, natura28, natural26, naturalColourSystem16, naturalColourSystem8, nature10, nature20, naturesGrasp, neapolitan, neapolitan45, neapolitan5, nebula, nectarJackpot, neo5, neonCyber, neonFlesh, neonLightsFloatingtable, neonMinusTheNeon, neonNightSky, neongp, neonscape, nes13, nesAdvanced, nesAesprite, nesDimmed, nesMakerPaletteColors, nesWikipedia, nestopia, neutral32, newTableau10, newWorlds46, niceRabbit, nice24, nice69, nicolePunk82, nieu15, nightLight, nightclub, nightskyBricks, nighty, ninetiesNine, ninja23, nintendoInternal, nirvana7, nm5, noellesRoom, noireTruth, nokia3310, nordTheme, northernWoods38, northwestGb, nostalgi14, nostalgi2, nostalgi8, nostalgiaColorPalette, nostalgia15, nostalgia36, nostalgia48, notDeadDesignPallet, note2C, notepad, nvidiaGaugan, nyankos16, ocean, oceanGb, oceanGlass, oceanides20, od10, oddFeeling, oekaki, oekakinl, oekakinl8, oilOak, oldComputersBeLike, oldGold7, oldSch8L, old90s, oldsand16, oldsummer, olooPalette, omnia, on70, ongbit, oni, onionPalette, ooo, opixal, optimism, optimizedGrayscale4, orangeCityGlow, orangeDreamsicle, orangeYouSad, orbeesMasterPalette, orbitron32, orchids4, organicChristmas8, oria20, origamiClouds, originalGameboy, outrunner16, overgrowth, overpast, oxyd, oxygen16, pacific, padhiRangulu, paintedParchment9, paintnetBaseColors, paintnetPalette, paletteOfMarseille, pantoneRevItUp, paper8, paperPalette, paperPixels, paperback2, papier4, paradise30, pastari16, pastel, pastel64, pastelAlienGoop, pastelAndDarks58Palette, pastelColorPalette, pastelHorizon, pastelIndia, pastelLove, pastelQt, pastelRanibow9, pastelapple, pastelito2, pastleCuteMinimalLofiColors, pastry, pastryShop, patina, patreon, pb4801, pbAndJ, pc66, peachyKeen, peelyweelybananyicecreamy, penNPaper, pencilSketch, pepeNoMore, perilsndragons, photocorp, pico4, picoDb, picoDeLasPaletas, picoMicro, pictoon, pieceOfCake, piet, piggyPink, pigment, pinballDisplayColours, pinkNeonSign6, pinkPuffGb, pinkgreen, piratesAdventure, piratesAdventureIi, pixBrix, pixByrg, pixelJointRanks, pixelMage, pixelStreet, pixelartSmpZ1, pixelplacePaletteSelection, pixelunalivedPaletteV1, pixilartDefault, pixlten, pjDiscordCollab, pk32, plague, plantAesthetic5, plantAesthetic7, plumbersParadise, plumeEdema, plushy, pocketgb, poisonBubble8, poisson23, pokemonDppPoketchBlue, pokemonDppPoketchOrange, pokemonDppPoketchPurple, pokemonDppPoketchRed, pokemonDppPoketchYellow, pokemonGen2OverworldObjects, pokemonRubySapphireExterior, pokemonRubySapphireInterior, polxel42, polxel43, poly32, ponder, pong4, popcorn12, popstarGb, popular32, portrait, posca12, power38, primary8, primeiroProjeto, prism, prismatica, projectRuzikb86, proportion32, prospecal8, prospeccal, psyche16, puffball8, pumpkinGb, punolit, punolite, punolitePlus, punolitePlusPlus, punolitePlusRemake, punoliteStreetlight, purblu8, purpleSpider, purpleSunset, purplemorning8, purpleskin, purpleskygb, puyo26, pxlsDefault, quak60, queenBee, questedMountain, questedValley, quinn, rPlace202232Colors, rPlace2022Day2, rPlace2022Day3, rPlace2022Expanded, r05, rabbit5am, rabbit5pm, rabbitking, radioactiveIceCream, radioactive13, rainbow24, rainbowErosion, rainbowGod, rainbowPlague32, rainbowpop11, rainbowtears, raindrop65, rainyAfternoon, rainyDream, ramp20, rampRainbow, rampy16, random16, rangedPunch, raspberryPalette, ratFlavour, rayleigh, razzmatazz5, redBloodPain, redDragon18, redHorns, redIsDead, redIshDbLyDesertLikePallet, redPanda, redPoster, redSand, redVelvet, redboyvibes, redeV1, redreen, redux63, reesesPuffs1Bit, regal10, reggae5, reteocal9, retro115, retro2600, retroBlue, retroMemories, retroPerfect, retroVibes, retrobubble, retrocal, retrocal4, retrocal8, retromud, retrorainbow, retrostalgia, retrotronic, reunion46, reverie38, rewild64, rgbPunch, rgbp, rggb4BitColorPalette, rhb14, rhythmmmo90, rhythmmmo95, risingSunGb, risingTide, risograph3, robotDistopia, robotic, robotsAreCool, rollercoasterTycoon2ColorMap, rommhakk12Color, roseGold, rosemoss8, roserust, roughSeas, royalMonarchViii, royal4, royal8, royalguard, rpgPaletteVerdachtig, rpgvania, ru5ty, rubble4, rubiksCubeColors, rubiksPaint, rubix48, ruggedGb, russian12, rust, rustGold8, rusticRainbow, rustyCryaonBox9, rustySteam, ruzGb, ruzicold, ruzikb32Color, ruzikb64, ruziwarm, ruzxSpectrum, ruzxSpectrumRevision2, ruzziCpc, ruzzi30, ruzzidore96, ruzzihuntuuMasterPalleteV2, ruzzisUltimatePaletteYet, ruzzishakedmilk, ruzzishakedmilkV2, ry32, ry64, ryb12, sLucky, sSunset7, s16, sad, sadakiyo5, sadness, saharaPastell, sailersFriday, sailorMoonBackground, salmon9, sand6, sandwich6Ramps, sandy06, sangre, sanguineGb, sashimi, satelliteSky16, saturatedGold8, saturation16, sawbuzz12, scaledAndIcy, scattered4, scenery28, scenery12, sckMidnight27, scold2Bit, scrapMechanic, scrix24, scrjXxxvi, seaOfFire, seaSaltIceCream, seaSeaweed, seabed1, seaflower15, seafoam, seagull8, seaside5, segaCube, segaVmuBoy, senpai, sepia15, sepia6, serenitas, serenity25, serpentineEmergence, serverColors, shadow4, shadowSlime, shadowViolet, shallowmarsh26, shanty, sheepsheep, shelf6, sherbertShark, shido10, shido101, shido25, shido50, shido50X, shido75, shidoCyberneon, shido50, shifty16, shine16, shiny20022, shiver14, shockwaverV1, shockwaverV2, shortenedNes, shroom69, siegraassFavoriteColors, simple14, simpleFeudalJapanese, simple64, sin, singularity, sirensAtNight, sk16, sk42ll, skedd16, skeletalSimberg, sketchHeadsPalette, sketchy, skribblioPalette, skyHighPallette, skyPirateStudiosPalette, sky5, skyline, skyline12, sleepyBoy, slime16, slimeGirl, slimy05, slowly, slurryGb, slynyrd128, smallSpriteBright32, smallSpriteGreedy40, smm2superballGameBoyPalette, smoky09, smooth16, smooth24, smoothPolishedGold, smoothPolishedSilver, snailVillage, snowflake4, snowl16, snowmansLand, sobeachy8, sodaCap, softAndCat, softBoiled, softCga, softDemon7, softDirty, softGameboy, softIceCreamKl, softRainbow, softThirty, softdecayGb, softie108, softlyConventional33, softserve4, soggyNewspapers, solarEclipse, solarize, soldier16, somber, sombreDemo, somturn, sonicManiaMainPalette, soulOfTheSea, soul32, soup11, spaceDust9, spaceIcecream, spaceMagicCocainePyramid, spaceRainbow, spaceTree, spacecake20, spacian, spaff16, spaff8, spazbol8, spectralScarab, spemge, spicy07, spinstar, spiral16, spirit4X, splashy08, spongebobPalette, spoohouse, spook12, spooky15, spoopyKnight, spoozy, spoozy2, springMorning, sprinkleCake36, squidgame6, sriracha, srkXl, ss24, ss8, st1BitEndgame, st16Commodore, st16Natural, st24, st24Christmas, st64Natural, st8BlueNPink, st8Greenery, st8Halloween, st8Moonlight, st8Ocean, st8Phoenix, st8RBRemake, st8Sapphire, stGameboy, stGameboyAqua, stGameboyCga, stGameboyDeluxe, stGameboyLightgrey, stGameboyMagma, stGameboyRedrose, stGameboyRemake, star3a28, stardust5, starea28, starthrall, steampunk4, steamstep, steellic72, stellaSaturn, stonehearth, stop, stranger6, stratus, strawberry, submergedChimera, suburbGameboy, suez30, sugaryStupor, sulu, summersPast16, sundropDiamond, sunfall12, sunflowerPainting7, sunnyDay, sunnyDays, sunnyMeadow32, sunnyValley6, sunset8, sunsetDrive, sunsetFunk, sunsetGb, sunsetHorizon, sunsetLantern, sunsetMkIii, sunsetMkii, sunsetRed, sunsetRedIi, sunshine35, sunshineValley, superCassetteVision, superColorful3, superGameBoyMenu1PaletteA, superGameBoyMenu1PaletteB, superGameBoyMenu1PaletteC, superGameBoyMenu1PaletteD, superMarioGoompa, superNesMaker, superPocketBoy, super16, superficial35, superjail, swamperRomper, sweet10, sweet28, sweetCanyon32, sweetCanyonExtended64, sweetDreams, sweet24, sweetdusk5, sweets16, switch, synthetic80S, synthwave9, synthwaveCity, systemMini16, tLollipop, t60Vibrant, taliwan, tandyColorComputerRgb, tankPalette, tanopal48, tauriel16, teaGb, team16, teamFortress2Official, tearsOnTheSand, technobike, tenfourRamp82, ternaryRgb, terracotta49, tetravibe6, textdoc15, thanksmas16, thatOneTacobellTable, theAmazingSpiderMan, theAtomi2700Palette, theBloodyThree, theIllegal, theInternetRaisedYou, theJungle, theLastAutumn, theLospecSnackbar, theMixBit18, theNight, thePerfectPalette, thePerfectPalette20, thePerfectPalettePocket, thePurpleVibe, thePurrfectCrimeGamejam, theReckoning, theRgbPalette, theRoarOfTheOwl, theRoarin80S, theRoarin80SV2, theSilverKnight, theSpookyChase, theWood, theYGiganteReverted, theYMasters, theYPastelia, the16wonder, thebattlesofcoloursV2, theo, theoryOf5, theruzikineb0iMaster, thunderstormBeneathTheSummit, ti84PlusCe256, timeless, tinkercad, tinyfolks, tinylittlegirl, titanstone, tnr64, tnr8, tofu20K, tomioka, torchflame, toxicSlime, toxicTumblr, trashPanda, treeFrog, trekeWastes, trickOrTreat8, trike12, tripleFin, trirampo, tritanomalic, tritanopi8, tritanopia, tritaruzi, tritone, trkLosat16, tropica33, tropicalCone24, trs80, truckAnimal, trueSide, tsunami, turquoiseEclipse, turtle16, tvc, twelvePeriod, twilioquest76, ty4ThDimensionRealm28, tyAdventureKit16, tyAncientMagis10, tyAncientMagis16, tyAncientRocca5, tyArcanixium13, tyArtificialHappiness12, tyArtificialHappiness16, tyArtificialHappiness8, tyBlackSouls16, tyBlueMoon12, tyBlueMoon5, tyBonesAshes16, tyBonesAshes27, tyCaveExplorer20, tyCelestialSapien26, tyChillWave6, tyChillingSpine21, tyChillingSpine8, tyColdBlooded14, tyCollectiveData13, tyColorConsole17, tyDarkAutumns15, tyDarkGoon25, tyDarkRebellion24Color, tyDarkRebellion25, tyDarkRebellion36, tyDeathParadise20, tyDementiaGirl16, tyDementiaGirl24, tyDesertedWasteland14, tyDisasterGirl16, tyDisasterGirl20, tyDistortedKingdom16, tyDistortedKingdom24, tyDistortedPrincess10, tyFateDestiny12, tyFateDice16, tyFateDice6, tyFictionalComputerOs16, tyFictionalComputerOs32, tyFutureComputer20, tyGlassFeelings12, tyGlassFeelings4, tyHeartOfTheBeast16, tyHighFantasy40, tyIndustrialFactory10, tyIndustrialFactory16, tyJingleGems6, tyKingsQueens10, tyLegendOfTheLoop7, tyLivingMachine4, tyMicroPastel16, tyMurderMystery16, tyMurderMystery8, tyNightCreeper16, tyNightLight2, tyNightLight7, tyOld90SAdventure16, tyOld90SAdventure29, tyOldNostalgia16, tyPlayWin7, tyPsygnosia26, tyQuietNight10, tyQuietNight4, tySacrilland28, tySeedOfDespair10, tyShadesOfNokia12, tyShadesOfNokia4, tySpaceMission14, tyTaikoncolor16, tyTaikoncolor24, tyWashedOut16, tyYellowMan4, tyndustre22042201, tzi24, uinbrowGuyPalette, underTheSeas, undertaleBitsAndPiecesRuins, unearthly, unicorn6, universalis42, untitled37, uranium5, urbanHaze, urbex16, usefle8, useful25, vampire16, vanillaMilkshake, vapornes, vaporsthetic, vaporwaveVibes, velvetCherryGb, versitle16, verso56, verso64, vexio11, vibrant14, vibrant26, vibrantBanana8, vibrantGun24, vibrantRamps, vibrant09, vicron, victorian24, videoGraphicsArray, vieillesCartes, vieleFarben66, vintageVoltage, vintagedalsy, violetDreams, viridianBlue, viridianVibrant, virtualBoy, virtualBoyBlue, virtualBoyCorrectedPalette, virtualBoyExpanded, virtualPop36, virtualSky, vivid2BitScream, vnes16Palette, vocodes62, voltageWarning, vosp, waldgeist, walkInTheWoods9, walkingInTheWoods8, wall10, wam, wanted21, warIsHell, warTrain, wariowareDiyPalette, warmFallGb, warmSpringSunset, warm32, warmlight, warmySpring, washedOver16, washedOver8, watchmen64, waterShallows, wave17, webMemories, webSafe216, wednesdayPink, ween8, whatColorPalette, whatTheDec, whatTheDec21, wheatField, wheatGb, wheee27, whiteToBlack, wholePunch64, wholesome76, wickedSkies, wild21, wildWest, wild19, wildflowers, windowOfOpportunity, windows95256Colours, wineGameboy, wingedYeti, winterNight, winterfes16, wishingpotion9, wisteriaMystery, wisteric17, witch, wizardsBreath34, wlk44V2, woefulHarvest, wonderbubbles, woodenGameboy, woodenTeeth, woodland5, workbenchPalette, worldOfHorror, wortmore10, woygab24, wyrm24, wyrmMoth48, xMas, yamazaki, yanasModernizedPokemonSgb, yeOldePirateModde, yeet24, yeet32, yeetzi32, yellowAdrift, yellue, yoghurtish, yogurtGb, yperochaChromata, ys1Bit, ysCoffeCalm, ysConcreteJungle, ysFlowersAndAsbestos, ysFunkyJam, ysNeutralGreen, ysPaperAndDust, ysPopIt, ysPostapocalypticSunset, yukoTomitaTime, yumeNikki, zamphaMasterPal, zant, zantasticdiscord, zantsPastels, zantsgame, zencillo14, zenit241, zenith, zenpaint, ziga1000, zombieApocalipse, zool, zxSpectrum
 
 -}
 
@@ -211,14 +211,6 @@ p2bitDemichrome =
 p2bitSunrise : Palette.Palette
 p2bitSunrise =
     createPalette "2BIT Sunrise" [ rgb255 23 23 38, rgb255 128 64 85, rgb255 217 157 98, rgb255 255 242 217 ] [ "2bit", "soundsdotzip", "sunrise" ] (Just "SoundsDotZip") "https://lospec.com/palette-list/2bit-sunrise"
-
-
-{-| 2Much by Alpha6
-<https://lospec.com/palette-list/2much>
--}
-p2much : Palette.Palette
-p2much =
-    createPalette "2Much" [ rgb255 255 255 255, rgb255 194 159 45, rgb255 186 120 61, rgb255 150 83 60, rgb255 112 52 68, rgb255 84 44 63, rgb255 64 38 60, rgb255 6 33 6, rgb255 82 46 62, rgb255 130 59 59, rgb255 158 79 77, rgb255 171 110 72, rgb255 176 130 77, rgb255 186 161 93, rgb255 199 204 121, rgb255 181 169 130, rgb255 150 116 86, rgb255 128 83 90, rgb255 105 59 101, rgb255 79 54 89, rgb255 52 45 69, rgb255 32 34 43, rgb255 48 39 59, rgb255 69 55 68, rgb255 84 66 77, rgb255 107 95 98, rgb255 133 113 113, rgb255 186 158 145, rgb255 168 158 133, rgb255 191 187 151, rgb255 207 198 176, rgb255 161 120 134, rgb255 135 92 132, rgb255 110 59 106, rgb255 57 47 59, rgb255 62 36 71, rgb255 68 44 77, rgb255 87 65 102, rgb255 99 94 138, rgb255 113 138 168, rgb255 109 189 191, rgb255 145 218 180, rgb255 227 222 172, rgb255 141 179 178, rgb255 83 153 152, rgb255 53 115 122, rgb255 53 90 122, rgb255 66 76 102, rgb255 62 55 87, rgb255 69 88 102, rgb255 68 117 116, rgb255 89 131 143, rgb255 104 170 176, rgb255 107 201 187, rgb255 226 230 151, rgb255 200 204 84, rgb255 154 189 49, rgb255 146 156 73, rgb255 82 130 55, rgb255 42 87 45, rgb255 29 69 52, rgb255 46 46 51, rgb255 60 48 69, rgb255 69 73 87, rgb255 60 99 71, rgb255 90 110 66, rgb255 136 138 91, rgb255 146 153 129, rgb255 191 199 161, rgb255 140 136 80, rgb255 112 96 63, rgb255 105 84 53, rgb255 87 80 50, rgb255 64 66 51, rgb255 44 51 39, rgb255 44 35 51, rgb255 19 19 29, rgb255 32 39 59, rgb255 58 57 63, rgb255 87 77 76, rgb255 97 96 68, rgb255 115 128 119, rgb255 163 148 125, rgb255 177 179 107, rgb255 148 135 75, rgb255 135 101 54, rgb255 125 85 64, rgb255 99 69 69, rgb255 79 56 67, rgb255 66 51 71, rgb255 43 45 48, rgb255 70 63 94, rgb255 163 162 116, rgb255 124 130 128, rgb255 224 173 188, rgb255 225 200 247, rgb255 230 229 224, rgb255 176 192 217, rgb255 151 169 196, rgb255 119 138 166, rgb255 88 105 130, rgb255 75 84 97, rgb255 55 58 64, rgb255 74 68 54, rgb255 94 82 54, rgb255 97 93 64, rgb255 122 109 58, rgb255 153 150 64, rgb255 194 194 89, rgb255 232 203 142 ] [ "wow" ] (Just "Alpha6") "https://lospec.com/palette-list/2much"
 
 
 {-| 2sois by luis gustavo
@@ -453,30 +445,6 @@ aHorribleDeath =
     createPalette "A horrible death" [ rgb255 36 22 35, rgb255 130 9 51, rgb255 227 99 151, rgb255 255 229 245, rgb255 234 230 255, rgb255 118 231 205, rgb255 60 120 126, rgb255 2 58 82 ] [] (Just "Endme") "https://lospec.com/palette-list/a-horrible-death"
 
 
-{-| A-Lot by Isa
-<https://lospec.com/palette-list/a-lot>
--}
-aLot : Palette.Palette
-aLot =
-    createPalette "A-Lot" [ rgb255 255 255 255, rgb255 191 213 213, rgb255 136 153 163, rgb255 101 108 126, rgb255 65 64 84, rgb255 47 44 56, rgb255 0 0 0, rgb255 44 6 62, rgb255 104 13 102, rgb255 157 23 111, rgb255 205 41 94, rgb255 241 70 70, rgb255 255 143 111, rgb255 255 241 195, rgb255 255 198 153, rgb255 210 127 103, rgb255 157 76 66, rgb255 129 47 56, rgb255 81 28 45, rgb255 48 14 37, rgb255 31 4 62, rgb255 49 7 95, rgb255 94 19 149, rgb255 153 36 182, rgb255 213 54 210, rgb255 249 95 196, rgb255 255 139 177, rgb255 255 201 195, rgb255 42 1 5, rgb255 84 3 3, rgb255 112 31 8, rgb255 163 81 18, rgb255 196 120 29, rgb255 221 179 40, rgb255 255 251 56, rgb255 255 253 162, rgb255 226 255 111, rgb255 172 255 56, rgb255 84 224 37, rgb255 17 191 49, rgb255 6 160 84, rgb255 0 129 94, rgb255 0 77 81, rgb255 0 29 48, rgb255 185 255 214, rgb255 125 255 220, rgb255 71 234 244, rgb255 63 202 230, rgb255 50 149 210, rgb255 43 121 196, rgb255 32 74 177, rgb255 22 34 151, rgb255 37 10 115 ] [] (Just "Isa") "https://lospec.com/palette-list/a-lot"
-
-
-{-| A M 9 0 // i n f r a by RABBITKING
-<https://lospec.com/palette-list/a-m-9-0-i-n-f-r-a>
--}
-aM90INFRA : Palette.Palette
-aM90INFRA =
-    createPalette "A M 9 0 // i n f r a" [ rgb255 255 34 71, rgb255 180 184 190, rgb255 114 121 126, rgb255 50 56 62 ] [ "4color", "coolgrey", "gamboy", "infrared", "minimal", "nike" ] (Just "RABBITKING") "https://lospec.com/palette-list/a-m-9-0-i-n-f-r-a"
-
-
-{-| A M A N I T A by RABBITKING
-<https://lospec.com/palette-list/a-m-a-n-i-t-a>
--}
-aMANITA : Palette.Palette
-aMANITA =
-    createPalette "A M A N I T A" [ rgb255 241 238 227, rgb255 204 194 184, rgb255 179 71 80, rgb255 77 15 64 ] [ "4color", "amanita", "gameboy", "mario", "mushroom", "nature" ] (Just "RABBITKING") "https://lospec.com/palette-list/a-m-a-n-i-t-a"
-
-
 {-| A S I A N 1 5 by arts.of.win
 <https://lospec.com/palette-list/a-s-i-a-n-1-5>
 -}
@@ -605,6 +573,14 @@ ag500 =
     createPalette "AG-500" [ rgb255 243 243 238, rgb255 192 194 187, rgb255 28 185 181, rgb255 76 142 210, rgb255 99 101 114, rgb255 17 17 17 ] [ "80s", "limited", "panasonic", "retro" ] (Just "John Riggles") "https://lospec.com/palette-list/ag-500"
 
 
+{-| AGB by ANoob
+<https://lospec.com/palette-list/agb>
+-}
+agb : Palette.Palette
+agb =
+    createPalette "AGB" [ rgb255 30 73 89, rgb255 59 161 85, rgb255 160 199 111, rgb255 235 224 178 ] [ "4", "anoob", "artist", "gameboy", "gb", "green", "saturated" ] (Just "ANoob") "https://lospec.com/palette-list/agb"
+
+
 {-| AJ8 by A.J. Otero
 <https://lospec.com/palette-list/aj8>
 -}
@@ -675,6 +651,22 @@ allAround30 =
 allioop20 : Palette.Palette
 allioop20 =
     createPalette "AlliOOP-20" [ rgb255 51 64 46, rgb255 86 113 62, rgb255 123 141 67, rgb255 173 166 62, rgb255 234 190 91, rgb255 162 121 67, rgb255 138 93 60, rgb255 92 68 64, rgb255 59 50 67, rgb255 67 61 105, rgb255 78 90 152, rgb255 85 135 188, rgb255 78 192 201, rgb255 149 234 213, rgb255 237 239 226, rgb255 239 208 216, rgb255 234 146 168, rgb255 190 93 146, rgb255 141 73 134, rgb255 73 46 87 ] [ "20", "alligator07", "allioop", "allioop20", "artist", "blue", "brown", "green", "pink", "purple" ] (Just "Alligator07") "https://lospec.com/palette-list/allioop-20"
+
+
+{-| AM90 by RABBITKING
+<https://lospec.com/palette-list/am90>
+-}
+am90 : Palette.Palette
+am90 =
+    createPalette "AM90" [ rgb255 255 34 71, rgb255 180 184 190, rgb255 114 121 126, rgb255 50 56 62 ] [ "4color", "coolgrey", "gamboy", "infrared", "minimal", "nike" ] (Just "RABBITKING") "https://lospec.com/palette-list/am90"
+
+
+{-| AMANITA by RABBITKING
+<https://lospec.com/palette-list/amanita>
+-}
+amanita : Palette.Palette
+amanita =
+    createPalette "AMANITA" [ rgb255 241 238 227, rgb255 204 194 184, rgb255 179 71 80, rgb255 77 15 64 ] [ "2bit", "amanita", "gameboy", "mario", "mushroom", "nature" ] (Just "RABBITKING") "https://lospec.com/palette-list/amanita"
 
 
 {-| Amaryllis Garden 8 by ralncZ
@@ -1141,14 +1133,6 @@ atomicHeat =
     createPalette "Atomic Heat" [ rgb255 117 154 231, rgb255 51 89 157, rgb255 47 53 134, rgb255 37 11 73, rgb255 31 5 41, rgb255 84 13 72, rgb255 135 17 79, rgb255 177 19 54, rgb255 248 51 51, rgb255 255 249 106, rgb255 140 173 63, rgb255 45 114 65, rgb255 33 71 54, rgb255 223 155 228, rgb255 204 96 200, rgb255 128 61 142, rgb255 61 30 72 ] [ "blue", "cool", "cyber", "hot", "purple", "red" ] (Just "yourhairisonfire") "https://lospec.com/palette-list/atomic-heat"
 
 
-{-| Aubrey-32 by Queen Tide
-<https://lospec.com/palette-list/aubrey-32>
--}
-aubrey32 : Palette.Palette
-aubrey32 =
-    createPalette "Aubrey-32" [ rgb255 245 247 251, rgb255 185 191 201, rgb255 58 56 63, rgb255 3 3 4, rgb255 131 197 197, rgb255 92 150 183, rgb255 53 94 134, rgb255 20 31 67, rgb255 121 170 92, rgb255 69 143 69, rgb255 29 81 55, rgb255 4 31 31, rgb255 210 182 96, rgb255 183 134 50, rgb255 166 103 41, rgb255 107 53 20, rgb255 224 147 99, rgb255 201 109 66, rgb255 179 85 45, rgb255 143 59 30, rgb255 210 118 118, rgb255 197 78 78, rgb255 152 32 32, rgb255 85 11 11, rgb255 217 127 228, rgb255 188 90 188, rgb255 157 64 137, rgb255 103 29 78, rgb255 165 127 215, rgb255 137 102 197, rgb255 103 70 157, rgb255 67 32 103 ] [ "generalpurpose", "linear", "midsaturation" ] (Just "Queen Tide") "https://lospec.com/palette-list/aubrey-32"
-
-
 {-| Auler99 by Coolie172
 <https://lospec.com/palette-list/auler99>
 -}
@@ -1283,14 +1267,6 @@ azione16 =
 azul5 : Palette.Palette
 azul5 =
     createPalette "azul 5" [ rgb255 250 253 255, rgb255 203 227 241, rgb255 104 174 212, rgb255 48 88 129, rgb255 21 38 58 ] [ "blue" ] (Just "GB bro") "https://lospec.com/palette-list/azul-5"
-
-
-{-| B L U S H R O O M by RABBITKING
-<https://lospec.com/palette-list/b-l-u-s-h-r-o-o-m>
--}
-bLUSHROOM : Palette.Palette
-bLUSHROOM =
-    createPalette "B L U S H R O O M" [ rgb255 76 38 61, rgb255 102 84 82, rgb255 178 156 152, rgb255 255 234 230 ] [ "4", "earthy", "gameboy", "pinks" ] (Just "RABBITKING") "https://lospec.com/palette-list/b-l-u-s-h-r-o-o-m"
 
 
 {-| Baba Is You: Default Color by The Pixel Man
@@ -1909,6 +1885,14 @@ blushNGunmetal =
     createPalette "Blush N' Gunmetal" [ rgb255 50 30 40, rgb255 73 43 58, rgb255 159 61 107, rgb255 224 111 139, rgb255 255 170 174, rgb255 85 112 131, rgb255 47 62 78, rgb255 27 38 50, rgb255 0 0 0 ] [] (Just "Aureum ◄") "https://lospec.com/palette-list/blush-n-gunmetal"
 
 
+{-| BLUSHROOM by RABBITKING
+<https://lospec.com/palette-list/blushroom>
+-}
+blushroom : Palette.Palette
+blushroom =
+    createPalette "BLUSHROOM" [ rgb255 76 38 61, rgb255 102 84 82, rgb255 178 156 152, rgb255 255 234 230 ] [ "2bit", "earthy", "gameboy" ] (Just "RABBITKING") "https://lospec.com/palette-list/blushroom"
+
+
 {-| bly14 by musthbly
 <https://lospec.com/palette-list/bly14>
 -}
@@ -2205,14 +2189,6 @@ calm48 =
     createPalette " 🌟calm 48🌟" [ rgb255 201 52 38, rgb255 158 35 47, rgb255 99 27 51, rgb255 64 22 42, rgb255 28 14 18, rgb255 66 28 27, rgb255 125 46 30, rgb255 189 75 30, rgb255 235 126 23, rgb255 250 177 60, rgb255 181 189 43, rgb255 108 168 35, rgb255 49 131 47, rgb255 28 77 63, rgb255 21 52 54, rgb255 14 34 41, rgb255 27 107 78, rgb255 45 150 86, rgb255 108 189 42, rgb255 42 108 108, rgb255 55 158 128, rgb255 81 213 152, rgb255 127 240 217, rgb255 85 198 198, rgb255 53 143 176, rgb255 44 97 153, rgb255 30 58 112, rgb255 39 28 64, rgb255 65 26 74, rgb255 117 30 109, rgb255 161 32 122, rgb255 207 60 138, rgb255 252 134 142, rgb255 232 86 137, rgb255 199 46 104, rgb255 122 32 74, rgb255 255 217 173, rgb255 247 182 116, rgb255 235 134 87, rgb255 222 91 71, rgb255 171 60 60, rgb255 204 91 53, rgb255 250 239 230, rgb255 209 188 184, rgb255 158 139 146, rgb255 104 96 107, rgb255 50 50 56, rgb255 16 16 18 ] [ "48", "artist", "calm48", "colorful", "vibrant", "xina48" ] (Just "Xina") "https://lospec.com/palette-list/calm-48"
 
 
-{-| Calm Sunset by Paulina Riva
-<https://lospec.com/palette-list/calm-sunset>
--}
-calmSunset : Palette.Palette
-calmSunset =
-    createPalette "Calm Sunset" [ rgb255 104 73 113, rgb255 160 99 137, rgb255 203 124 162, rgb255 225 174 164, rgb255 249 216 161, rgb255 255 236 178, rgb255 255 252 241 ] [ "calm", "clouds", "harmony", "sky", "sunset" ] (Just "Paulina Riva") "https://lospec.com/palette-list/calm-sunset"
-
-
 {-| Calm18 by Astroan
 <https://lospec.com/palette-list/calm18>
 -}
@@ -2253,6 +2229,14 @@ camoGb =
     createPalette "Camo GB" [ rgb255 201 206 167, rgb255 97 146 58, rgb255 97 60 60, rgb255 42 28 30 ] [ "isasstudio" ] (Just "Isa") "https://lospec.com/palette-list/camo-gb"
 
 
+{-| Camo2 by CorniferSleeps
+<https://lospec.com/palette-list/camo2>
+-}
+camo2 : Palette.Palette
+camo2 =
+    createPalette "Camo2" [ rgb255 215 209 134, rgb255 76 89 69 ] [ "1bit", "2colours", "simple" ] (Just "CorniferSleeps") "https://lospec.com/palette-list/camo2"
+
+
 {-| Camouflage-7 by Orbitron
 <https://lospec.com/palette-list/camouflage-7>
 -}
@@ -2267,14 +2251,6 @@ camouflage7 =
 campfireGb : Palette.Palette
 campfireGb =
     createPalette "Campfire GB" [ rgb255 217 255 211, rgb255 237 233 105, rgb255 222 128 77, rgb255 179 49 49 ] [ "campfire", "cozy", "gameboy", "nintendo", "warm" ] (Just "Spicygame Studios") "https://lospec.com/palette-list/campfire-gb"
-
-
-{-| Can-D by Alpha6
-<https://lospec.com/palette-list/can-d>
--}
-canD : Palette.Palette
-canD =
-    createPalette "Can-D" [ rgb255 43 10 43, rgb255 59 32 35, rgb255 59 52 51, rgb255 87 42 42, rgb255 94 58 75, rgb255 112 62 54, rgb255 148 89 62, rgb255 189 109 19, rgb255 184 139 84, rgb255 240 224 158, rgb255 212 201 119, rgb255 119 189 87, rgb255 77 148 60, rgb255 38 115 84, rgb255 19 105 53, rgb255 21 82 73, rgb255 32 61 47, rgb255 64 40 62, rgb255 72 76 87, rgb255 99 90 112, rgb255 143 143 136, rgb255 224 143 130, rgb255 209 88 88, rgb255 189 64 79, rgb255 158 60 91, rgb255 148 53 53, rgb255 128 33 103, rgb255 102 43 53, rgb255 86 100 138, rgb255 69 126 179, rgb255 55 159 168, rgb255 100 170 178, rgb255 113 191 217, rgb255 131 208 205 ] [ "bright", "candy", "crazy" ] (Just "Alpha6") "https://lospec.com/palette-list/can-d"
 
 
 {-| Candy-12 by Orbitron
@@ -2387,14 +2363,6 @@ caveMoss =
 cave4 : Palette.Palette
 cave4 =
     createPalette "Cave4" [ rgb255 228 203 191, rgb255 147 130 130, rgb255 79 78 128, rgb255 44 0 22 ] [ "blue", "dark", "gameboy", "gloomy", "polyducks" ] (Just "Polyducks") "https://lospec.com/palette-list/cave4"
-
-
-{-| CC-29 by Alpha6
-<https://lospec.com/palette-list/cc-29>
--}
-cc29 : Palette.Palette
-cc29 =
-    createPalette "CC-29" [ rgb255 242 240 229, rgb255 184 181 185, rgb255 134 129 136, rgb255 100 99 101, rgb255 69 68 79, rgb255 58 56 88, rgb255 33 33 35, rgb255 53 43 66, rgb255 67 67 106, rgb255 75 128 202, rgb255 104 194 211, rgb255 162 220 199, rgb255 237 225 158, rgb255 211 160 104, rgb255 180 82 82, rgb255 106 83 110, rgb255 75 65 88, rgb255 128 73 58, rgb255 167 123 91, rgb255 229 206 180, rgb255 194 211 104, rgb255 138 176 96, rgb255 86 123 121, rgb255 78 88 74, rgb255 123 114 67, rgb255 178 180 126, rgb255 237 200 196, rgb255 207 138 203, rgb255 95 85 106 ] [ "cc29", "color", "cottoncandy", "retro", "simple" ] (Just "Alpha6") "https://lospec.com/palette-list/cc-29"
 
 
 {-| Celestial by FrostLace
@@ -3045,6 +3013,14 @@ colors =
     createPalette "colors" [ rgb255 148 75 83, rgb255 223 222 184, rgb255 224 137 146, rgb255 114 188 224, rgb255 57 138 179 ] [] (Just "moss") "https://lospec.com/palette-list/colors"
 
 
+{-| Colors of Cascadia by JamesTDG
+<https://lospec.com/palette-list/colors-of-cascadia>
+-}
+colorsOfCascadia : Palette.Palette
+colorsOfCascadia =
+    createPalette "Colors of Cascadia" [ rgb255 41 29 80, rgb255 53 53 220, rgb255 24 14 12, rgb255 47 33 24, rgb255 255 255 254, rgb255 171 172 181, rgb255 122 164 36, rgb255 43 67 5, rgb255 37 29 9, rgb255 66 80 234, rgb255 128 156 61, rgb255 80 117 36, rgb255 241 239 233, rgb255 216 209 149, rgb255 223 184 159, rgb255 220 154 118, rgb255 229 176 132, rgb255 191 148 115, rgb255 130 116 116, rgb255 126 92 72, rgb255 93 77 68, rgb255 91 71 57, rgb255 64 49 41, rgb255 65 54 32, rgb255 47 28 20, rgb255 55 44 44, rgb255 66 61 39, rgb255 98 91 74, rgb255 112 107 39, rgb255 49 38 1, rgb255 30 48 0, rgb255 118 128 49, rgb255 150 159 80, rgb255 123 137 169, rgb255 124 136 249, rgb255 137 136 224, rgb255 142 173 215, rgb255 166 179 193, rgb255 223 198 233, rgb255 166 134 177, rgb255 154 112 170, rgb255 65 27 77, rgb255 128 25 52, rgb255 229 24 89, rgb255 209 19 117, rgb255 198 92 150, rgb255 248 73 164, rgb255 196 137 152, rgb255 243 142 192, rgb255 241 168 165, rgb255 245 90 117, rgb255 232 13 34, rgb255 200 7 31, rgb255 252 116 0, rgb255 233 74 32, rgb255 170 98 49, rgb255 241 174 5, rgb255 222 203 18, rgb255 247 220 0, rgb255 236 222 127 ] [ "jamestdg", "natural", "nature" ] (Just "JamesTDG") "https://lospec.com/palette-list/colors-of-cascadia"
+
+
 {-| Colortastic by MrSirDolphin
 <https://lospec.com/palette-list/colortastic>
 -}
@@ -3290,7 +3266,7 @@ cottonCandy =
 -}
 cottonCity : Palette.Palette
 cottonCity =
-    createPalette "cotton city 🌳" [ rgb255 131 66 0, rgb255 50 50 19, rgb255 43 108 33, rgb255 136 141 13, rgb255 255 194 73, rgb255 218 109 0, rgb255 162 40 0, rgb255 100 0 0, rgb255 0 0 0, rgb255 29 29 103, rgb255 38 75 171, rgb255 64 158 158, rgb255 166 218 151, rgb255 255 255 255, rgb255 145 145 170, rgb255 85 85 85 ] [] (Just "polyphrog") "https://lospec.com/palette-list/cotton-city"
+    createPalette "cotton city 🌳" [ rgb255 131 66 0, rgb255 50 50 19, rgb255 43 108 33, rgb255 136 141 13, rgb255 255 194 73, rgb255 218 109 0, rgb255 162 40 0, rgb255 100 0 0, rgb255 0 0 0, rgb255 29 29 103, rgb255 38 75 171, rgb255 64 158 158, rgb255 166 218 151, rgb255 255 255 255, rgb255 145 145 170, rgb255 85 85 85 ] [ "polyphrog" ] (Just "polyphrog") "https://lospec.com/palette-list/cotton-city"
 
 
 {-| CottonCandy by MirruTatep 🦩
@@ -3765,14 +3741,6 @@ deepForest16 =
     createPalette "Deep Forest 16" [ rgb255 51 36 43, rgb255 77 46 46, rgb255 102 67 56, rgb255 217 198 141, rgb255 46 115 80, rgb255 42 77 68, rgb255 35 51 51, rgb255 32 39 41, rgb255 191 134 77, rgb255 153 67 38, rgb255 95 49 140, rgb255 65 103 217, rgb255 109 109 115, rgb255 62 60 71, rgb255 38 34 46, rgb255 22 18 26 ] [ "artist", "dark", "desaturated", "forest", "magic", "shinytseul" ] (Just "ShinyTseul") "https://lospec.com/palette-list/deep-forest-16"
 
 
-{-| Deep Forest 24 by ShinyTseul
-<https://lospec.com/palette-list/deep-forest-24>
--}
-deepForest24 : Palette.Palette
-deepForest24 =
-    createPalette "Deep Forest 24" [ rgb255 26 22 25, rgb255 51 36 43, rgb255 77 42 51, rgb255 115 46 46, rgb255 153 67 38, rgb255 191 134 77, rgb255 217 192 119, rgb255 242 242 170, rgb255 245 255 217, rgb255 206 242 170, rgb255 144 217 119, rgb255 77 191 77, rgb255 38 153 67, rgb255 46 115 80, rgb255 42 77 68, rgb255 36 51 51, rgb255 22 25 26, rgb255 36 43 51, rgb255 49 59 89, rgb255 49 49 140, rgb255 69 29 191, rgb255 95 49 140, rgb255 79 49 89, rgb255 51 36 51 ] [ "artist", "forest", "shinytseul" ] (Just "ShinyTseul") "https://lospec.com/palette-list/deep-forest-24"
-
-
 {-| DEEP MAZE by Ryosuke
 <https://lospec.com/palette-list/deep-maze>
 -}
@@ -4162,7 +4130,7 @@ dreamhaze8 =
 -}
 dreamscape8 : Palette.Palette
 dreamscape8 =
-    createPalette "Dreamscape8" [ rgb255 201 204 161, rgb255 202 160 90, rgb255 174 106 71, rgb255 139 64 73, rgb255 84 51 68, rgb255 81 82 98, rgb255 99 120 125, rgb255 142 160 145 ] [ "", "8", "artist", "dream", "dreamscape", "kerrielake", "low saturation", "mystic", "mystical" ] (Just "Kerrie Lake") "https://lospec.com/palette-list/dreamscape8"
+    createPalette "Dreamscape8" [ rgb255 201 204 161, rgb255 202 160 90, rgb255 174 106 71, rgb255 139 64 73, rgb255 84 51 68, rgb255 81 82 98, rgb255 99 120 125, rgb255 142 160 145 ] [ "artist", "dream", "dreamscape", "kerrielake", "lowsaturation", "mystic", "mystical" ] (Just "Kerrie Lake") "https://lospec.com/palette-list/dreamscape8"
 
 
 {-| Dreamy Forest by Mememellow
@@ -4627,14 +4595,6 @@ escape9 =
 essentialEarth : Palette.Palette
 essentialEarth =
     createPalette "Essential Earth" [ rgb255 36 23 38, rgb255 74 102 188, rgb255 171 194 192, rgb255 169 164 135, rgb255 24 86 24 ] [ "earth", "maps", "minimal", "nature", "simple" ] (Just "Cheeseismysoul") "https://lospec.com/palette-list/essential-earth"
-
-
-{-| eteRN16 by reins910
-<https://lospec.com/palette-list/etern16>
--}
-etern16 : Palette.Palette
-etern16 =
-    createPalette "eteRN16" [ rgb255 0 0 0, rgb255 173 169 125, rgb255 255 219 128, rgb255 230 156 83, rgb255 189 104 58, rgb255 133 79 58, rgb255 99 56 69, rgb255 133 235 129, rgb255 99 212 189, rgb255 86 160 166, rgb255 65 96 120, rgb255 57 54 92, rgb255 33 35 51, rgb255 171 67 46, rgb255 133 23 43, rgb255 87 16 39 ] [] (Just "reins910") "https://lospec.com/palette-list/etern16"
 
 
 {-| Eulbink by Inkpendude
@@ -5293,22 +5253,6 @@ funtime5 =
     createPalette "FUNTIME5" [ rgb255 56 43 0, rgb255 113 108 176, rgb255 224 122 179, rgb255 121 224 207, rgb255 255 208 144 ] [ "calm", "cute", "fun", "pastel" ] (Just "6bits") "https://lospec.com/palette-list/funtime5"
 
 
-{-| G E E D E E P E E by RABBITKING
-<https://lospec.com/palette-list/g-e-e-d-e-e-p-e-e>
--}
-gEEDEEPEE : Palette.Palette
-gEEDEEPEE =
-    createPalette "G E E D E E P E E" [ rgb255 204 189 173, rgb255 153 138 107, rgb255 102 102 71, rgb255 51 5 51 ] [ "4", "gameboy", "green", "purple" ] (Just "RABBITKING") "https://lospec.com/palette-list/g-e-e-d-e-e-p-e-e"
-
-
-{-| G O B L I N by RABBITKING
-<https://lospec.com/palette-list/g-o-b-l-i-n>
--}
-gOBLIN : Palette.Palette
-gOBLIN =
-    createPalette "G O B L I N" [ rgb255 11 12 24, rgb255 118 127 89, rgb255 222 241 167, rgb255 249 23 103 ] [ "4color", "fluorescent", "flyer", "gameboy", "goblin", "minimal", "neon" ] (Just "RABBITKING") "https://lospec.com/palette-list/g-o-b-l-i-n"
-
-
 {-| G4B-8bit by Gabizu46512
 <https://lospec.com/palette-list/g4b-8bit>
 -}
@@ -5565,6 +5509,14 @@ gob48 =
     createPalette "GOB-48" [ rgb255 0 0 0, rgb255 20 15 36, rgb255 34 31 62, rgb255 52 49 91, rgb255 59 72 109, rgb255 76 101 137, rgb255 96 131 156, rgb255 122 162 176, rgb255 156 187 193, rgb255 192 218 220, rgb255 255 255 255, rgb255 170 248 255, rgb255 117 209 228, rgb255 90 166 191, rgb255 90 140 176, rgb255 72 59 109, rgb255 102 64 141, rgb255 150 79 173, rgb255 194 108 201, rgb255 224 137 224, rgb255 255 195 240, rgb255 32 48 64, rgb255 23 70 70, rgb255 32 100 55, rgb255 58 137 42, rgb255 91 176 49, rgb255 155 211 44, rgb255 204 237 39, rgb255 255 241 94, rgb255 255 206 59, rgb255 228 155 53, rgb255 204 112 47, rgb255 177 73 38, rgb255 149 32 8, rgb255 118 8 17, rgb255 73 10 21, rgb255 46 4 15, rgb255 160 12 12, rgb255 190 51 51, rgb255 211 88 88, rgb255 221 147 147, rgb255 88 29 23, rgb255 114 49 27, rgb255 149 79 44, rgb255 167 107 63, rgb255 193 140 86, rgb255 220 171 122, rgb255 237 213 165 ] [ "48", "artist", "goblin", "soft", "warm" ] (Just "Goblin") "https://lospec.com/palette-list/gob-48"
 
 
+{-| GOBLIN by RABBITKING
+<https://lospec.com/palette-list/goblin>
+-}
+goblin : Palette.Palette
+goblin =
+    createPalette "GOBLIN" [ rgb255 11 12 24, rgb255 118 127 89, rgb255 222 241 167, rgb255 249 23 103 ] [ "4color", "fluorescent", "flyer", "gameboy", "goblin", "minimal", "neon" ] (Just "RABBITKING") "https://lospec.com/palette-list/goblin"
+
+
 {-| GODBLOOD8 by Subscribbl
 <https://lospec.com/palette-list/godblood8>
 -}
@@ -5685,14 +5637,6 @@ gracefulLich =
     createPalette "Graceful Lich" [ rgb255 241 248 180, rgb255 114 238 207, rgb255 32 197 184, rgb255 20 129 144, rgb255 10 65 92 ] [] (Just "MirruTatep 🦩") "https://lospec.com/palette-list/graceful-lich"
 
 
-{-| GrafX2 Default Palette by P-Tux7
-<https://lospec.com/palette-list/grafx2-default-palette>
--}
-grafx2DefaultPalette : Palette.Palette
-grafx2DefaultPalette =
-    createPalette "GrafX2 Default Palette" [ rgb255 0 0 0, rgb255 0 0 168, rgb255 0 255 0, rgb255 255 251 0, rgb255 130 255 0, rgb255 0 255 125, rgb255 0 255 255, rgb255 0 130 255, rgb255 0 0 255, rgb255 121 0 255, rgb255 207 0 255, rgb255 255 0 215, rgb255 255 0 130, rgb255 255 0 0, rgb255 255 125 0, rgb255 203 154 69, rgb255 150 60 24, rgb255 97 0 0, rgb255 255 247 130, rgb255 195 255 130, rgb255 130 255 130, rgb255 130 255 190, rgb255 130 255 255, rgb255 130 195 255, rgb255 130 130 255, rgb255 166 130 255, rgb255 207 130 255, rgb255 251 130 255, rgb255 255 130 195, rgb255 255 130 130, rgb255 255 158 130, rgb255 130 0 0, rgb255 130 28 0, rgb255 130 60 0, rgb255 130 81 0, rgb255 130 101 0, rgb255 130 121 0, rgb255 65 130 0, rgb255 0 130 0, rgb255 0 130 60, rgb255 0 130 130, rgb255 0 65 130, rgb255 0 0 130, rgb255 40 0 130, rgb255 77 0 130, rgb255 121 0 130, rgb255 130 0 65, rgb255 16 16 16, rgb255 32 32 32, rgb255 48 48 48, rgb255 69 69 69, rgb255 85 85 85, rgb255 101 101 101, rgb255 117 117 117, rgb255 134 134 134, rgb255 154 154 154, rgb255 170 170 170, rgb255 186 186 186, rgb255 203 203 203, rgb255 223 223 223, rgb255 239 239 239, rgb255 255 255 255, rgb255 77 0 0, rgb255 89 0 0, rgb255 113 0 0, rgb255 134 0 0, rgb255 158 0 0, rgb255 182 0 0, rgb255 207 0 0, rgb255 231 0 0, rgb255 255 28 28, rgb255 255 52 52, rgb255 255 81 81, rgb255 255 109 109, rgb255 255 138 138, rgb255 255 162 162, rgb255 255 190 190, rgb255 77 36 0, rgb255 85 40 0, rgb255 109 52 0, rgb255 134 60 0, rgb255 158 73 0, rgb255 182 89 0, rgb255 207 101 0, rgb255 231 113 0, rgb255 255 142 28, rgb255 255 154 52, rgb255 255 166 81, rgb255 255 178 109, rgb255 255 190 134, rgb255 255 207 162, rgb255 255 223 190, rgb255 77 73 0, rgb255 89 81 0, rgb255 113 105 0, rgb255 134 130 0, rgb255 158 150 0, rgb255 182 174 0, rgb255 207 199 0, rgb255 231 227 0, rgb255 255 255 0, rgb255 255 255 28, rgb255 255 251 52, rgb255 255 251 81, rgb255 255 247 109, rgb255 255 251 134, rgb255 255 251 162, rgb255 255 251 190, rgb255 0 77 0, rgb255 0 97 0, rgb255 0 121 0, rgb255 0 142 0, rgb255 0 166 0, rgb255 0 186 0, rgb255 0 211 0, rgb255 0 235 0, rgb255 28 255 28, rgb255 56 255 52, rgb255 85 255 81, rgb255 113 255 109, rgb255 138 255 134, rgb255 166 255 162, rgb255 195 255 190, rgb255 0 65 65, rgb255 0 89 89, rgb255 0 113 113, rgb255 0 134 134, rgb255 0 158 158, rgb255 0 182 182, rgb255 0 207 207, rgb255 0 231 231, rgb255 89 255 251, rgb255 117 255 251, rgb255 138 255 255, rgb255 158 255 251, rgb255 186 255 255, rgb255 203 255 255, rgb255 219 255 255, rgb255 0 32 65, rgb255 0 44 89, rgb255 0 56 113, rgb255 0 69 134, rgb255 0 81 158, rgb255 0 93 182, rgb255 0 105 207, rgb255 0 117 231, rgb255 28 142 255, rgb255 52 158 255, rgb255 81 170 255, rgb255 109 186 255, rgb255 138 203 255, rgb255 162 215 255, rgb255 190 227 255, rgb255 0 0 77, rgb255 0 0 101, rgb255 0 4 121, rgb255 0 4 142, rgb255 0 4 166, rgb255 0 0 190, rgb255 0 0 211, rgb255 0 0 235, rgb255 28 36 255, rgb255 52 60 255, rgb255 81 93 255, rgb255 109 121 255, rgb255 138 146 255, rgb255 162 170 255, rgb255 190 199 255, rgb255 36 0 77, rgb255 48 0 101, rgb255 65 0 130, rgb255 77 0 154, rgb255 89 0 178, rgb255 101 0 203, rgb255 113 0 231, rgb255 130 0 255, rgb255 142 28 255, rgb255 150 52 255, rgb255 166 81 255, rgb255 174 109 255, rgb255 190 134 255, rgb255 203 162 255, rgb255 219 190 255, rgb255 73 0 77, rgb255 95 0 99, rgb255 117 0 122, rgb255 139 0 144, rgb255 161 0 167, rgb255 183 0 189, rgb255 205 0 212, rgb255 227 0 235, rgb255 230 23 237, rgb255 234 47 240, rgb255 237 71 242, rgb255 241 95 245, rgb255 244 118 247, rgb255 248 142 250, rgb255 251 166 252, rgb255 255 190 255, rgb255 32 0 0, rgb255 44 0 0, rgb255 56 4 4, rgb255 73 12 8, rgb255 85 20 16, rgb255 97 32 24, rgb255 113 40 36, rgb255 125 56 44, rgb255 134 69 56, rgb255 154 89 77, rgb255 170 109 93, rgb255 186 130 117, rgb255 203 154 138, rgb255 223 178 162, rgb255 239 207 190, rgb255 255 235 223, rgb255 32 32 0, rgb255 60 60 0, rgb255 81 77 0, rgb255 101 89 8, rgb255 121 101 12, rgb255 142 109 20, rgb255 162 121 28, rgb255 182 125 40, rgb255 190 130 56, rgb255 199 142 77, rgb255 207 150 97, rgb255 219 166 117, rgb255 227 178 142, rgb255 235 195 166, rgb255 247 211 195, rgb255 172 124 124, rgb255 109 109 109 ] [ "software" ] (Just "P-Tux7") "https://lospec.com/palette-list/grafx2-default-palette"
-
-
 {-| Grape Soda Arcade by Pixle Gator
 <https://lospec.com/palette-list/grape-soda-arcade>
 -}
@@ -5707,6 +5651,14 @@ grapeSodaArcade =
 grapeTreeGb : Palette.Palette
 grapeTreeGb =
     createPalette "Grape Tree GB" [ rgb255 207 182 144, rgb255 132 90 120, rgb255 76 65 56, rgb255 23 7 43 ] [ "ludibrolo" ] (Just "LudiBrolo") "https://lospec.com/palette-list/grape-tree-gb"
+
+
+{-| GRAPEBOY by RABBITKING
+<https://lospec.com/palette-list/grapeboy>
+-}
+grapeboy : Palette.Palette
+grapeboy =
+    createPalette "GRAPEBOY" [ rgb255 204 189 173, rgb255 153 138 107, rgb255 102 102 71, rgb255 51 5 51 ] [ "2bit", "gameboy", "grape", "green", "purple" ] (Just "RABBITKING") "https://lospec.com/palette-list/grapeboy"
 
 
 {-| Graveyard Mist by SoundsDotZip
@@ -6077,14 +6029,6 @@ henge5 =
     createPalette "HENGE5" [ rgb255 128 124 121, rgb255 122 111 111, rgb255 83 90 99, rgb255 57 57 75, rgb255 29 29 46 ] [ "henge", "henge5", "soup", "soup time" ] (Just "soup time") "https://lospec.com/palette-list/henge5"
 
 
-{-| hept32 by ENDESGA
-<https://lospec.com/palette-list/hept32>
--}
-hept32 : Palette.Palette
-hept32 =
-    createPalette "hept32" [ rgb255 0 0 0, rgb255 24 13 47, rgb255 53 54 88, rgb255 104 107 114, rgb255 139 151 182, rgb255 197 205 219, rgb255 255 255 255, rgb255 94 233 233, rgb255 40 144 220, rgb255 24 49 167, rgb255 5 50 57, rgb255 0 95 65, rgb255 8 178 59, rgb255 71 246 65, rgb255 232 255 117, rgb255 251 190 130, rgb255 222 151 81, rgb255 182 104 49, rgb255 138 73 38, rgb255 70 28 20, rgb255 30 9 13, rgb255 114 13 13, rgb255 129 55 4, rgb255 218 36 36, rgb255 239 110 16, rgb255 236 171 17, rgb255 236 233 16, rgb255 247 141 141, rgb255 249 78 109, rgb255 193 36 88, rgb255 132 18 82, rgb255 61 8 59 ] [ "edg", "edg32", "endesga", "hept", "hept32" ] (Just "ENDESGA") "https://lospec.com/palette-list/hept32"
-
-
 {-| Hero beyond time! by ThePixelArtBoy
 <https://lospec.com/palette-list/hero-beyond-time>
 -}
@@ -6101,12 +6045,28 @@ hetzelfde =
     createPalette "Hetzelfde" [ rgb255 62 63 74, rgb255 93 96 107, rgb255 111 104 124, rgb255 145 146 155, rgb255 29 30 38, rgb255 46 42 52, rgb255 41 52 85, rgb255 76 95 129, rgb255 180 216 247, rgb255 255 255 255, rgb255 110 5 61, rgb255 255 1 0 ] [ "black", "blue", "edgy", "gray", "grim", "red", "serious", "white" ] (Just "Phanpy100") "https://lospec.com/palette-list/hetzelfde"
 
 
+{-| Hiding in the wildflowers by Tofu
+<https://lospec.com/palette-list/hiding-in-the-wildflowers>
+-}
+hidingInTheWildflowers : Palette.Palette
+hidingInTheWildflowers =
+    createPalette "Hiding in the wildflowers" [ rgb255 125 28 60, rgb255 201 48 56, rgb255 222 106 56, rgb255 255 173 59, rgb255 247 139 139, rgb255 230 92 133, rgb255 204 51 137, rgb255 137 28 110, rgb255 74 16 54, rgb255 15 8 16, rgb255 9 32 18, rgb255 17 58 28, rgb255 23 85 21, rgb255 50 103 25, rgb255 81 124 31, rgb255 124 146 30, rgb255 175 172 28, rgb255 252 249 96, rgb255 70 152 109, rgb255 62 140 118, rgb255 43 113 70, rgb255 90 98 218, rgb255 48 140 229, rgb255 56 158 236, rgb255 64 175 243, rgb255 85 195 245, rgb255 110 218 249, rgb255 146 228 246, rgb255 184 240 242, rgb255 205 255 237, rgb255 252 255 247 ] [ "bright", "cartoon", "clouds", "happy", "pink", "sunny" ] (Just "Tofu") "https://lospec.com/palette-list/hiding-in-the-wildflowers"
+
+
 {-| High Heavens by MirruTatep 🦩
 <https://lospec.com/palette-list/high-heavens>
 -}
 highHeavens : Palette.Palette
 highHeavens =
     createPalette "High Heavens" [ rgb255 252 241 223, rgb255 240 191 178, rgb255 219 128 172, rgb255 168 93 139, rgb255 101 76 112 ] [] (Just "MirruTatep 🦩") "https://lospec.com/palette-list/high-heavens"
+
+
+{-| Hiker 20 by downgraded
+<https://lospec.com/palette-list/hiker-20>
+-}
+hiker20 : Palette.Palette
+hiker20 =
+    createPalette "Hiker 20" [ rgb255 178 194 72, rgb255 115 158 55, rgb255 69 138 92, rgb255 72 102 50, rgb255 66 77 48, rgb255 23 61 43, rgb255 19 36 8, rgb255 10 8 7, rgb255 54 39 42, rgb255 94 68 38, rgb255 112 106 41, rgb255 176 105 79, rgb255 217 114 54, rgb255 247 182 116, rgb255 255 228 140, rgb255 255 242 214, rgb255 149 201 214, rgb255 103 136 235, rgb255 37 90 125, rgb255 171 154 154 ] [] (Just "downgraded") "https://lospec.com/palette-list/hiker-20"
 
 
 {-| hilda by spector 414
@@ -6509,6 +6469,14 @@ introspection01 =
     createPalette "introspection-01" [ rgb255 91 30 103, rgb255 203 115 135, rgb255 40 112 85, rgb255 150 206 255, rgb255 143 137 108, rgb255 255 219 130, rgb255 255 241 253 ] [] (Just "bloo") "https://lospec.com/palette-list/introspection-01"
 
 
+{-| invert compatible by polyphrog
+<https://lospec.com/palette-list/invert-compatible>
+-}
+invertCompatible : Palette.Palette
+invertCompatible =
+    createPalette "invert compatible " [ rgb255 35 78 175, rgb255 17 171 188, rgb255 114 223 181, rgb255 86 162 47, rgb255 11 106 89, rgb255 29 31 38, rgb255 97 66 36, rgb255 110 111 98, rgb255 145 144 157, rgb255 158 189 219, rgb255 226 224 217, rgb255 244 149 166, rgb255 169 93 208, rgb255 141 32 74, rgb255 238 84 67, rgb255 220 177 80 ] [ "invert", "polyphrog" ] (Just "polyphrog") "https://lospec.com/palette-list/invert-compatible"
+
+
 {-| Iridescent Crystal by LostInIndigo
 <https://lospec.com/palette-list/iridescent-crystal>
 -}
@@ -6645,14 +6613,6 @@ japan26 =
     createPalette "japan26" [ rgb255 26 45 62, rgb255 43 88 51, rgb255 91 128 70, rgb255 144 167 116, rgb255 33 54 110, rgb255 56 97 132, rgb255 104 166 180, rgb255 185 211 211, rgb255 92 41 88, rgb255 132 74 111, rgb255 185 120 144, rgb255 224 160 171, rgb255 106 26 62, rgb255 154 54 81, rgb255 185 76 85, rgb255 233 99 99, rgb255 25 25 35, rgb255 83 83 101, rgb255 161 161 180, rgb255 223 223 237, rgb255 62 22 37, rgb255 97 56 47, rgb255 123 97 75, rgb255 163 150 128, rgb255 171 103 47, rgb255 202 161 52 ] [] (Just "Nizart") "https://lospec.com/palette-list/japan26"
 
 
-{-| jari palette by ARTBOY
-<https://lospec.com/palette-list/jari-palette>
--}
-jariPalette : Palette.Palette
-jariPalette =
-    createPalette "jari palette" [ rgb255 241 183 139, rgb255 149 66 30, rgb255 82 28 20 ] [ "1985" ] (Just "ARTBOY") "https://lospec.com/palette-list/jari-palette"
-
-
 {-| Jeepers12 by beachboogeyman
 <https://lospec.com/palette-list/jeepers12>
 -}
@@ -6675,14 +6635,6 @@ jewerlriesEmbededCrown =
 jigglypuff11 : Palette.Palette
 jigglypuff11 =
     createPalette "Jigglypuff-11" [ rgb255 0 0 0, rgb255 92 60 92, rgb255 135 81 81, rgb255 181 133 94, rgb255 186 178 128, rgb255 99 171 108, rgb255 69 112 128, rgb255 85 69 128, rgb255 173 88 173, rgb255 191 168 191, rgb255 221 232 235 ] [ "light", "ludibrolo" ] (Just "LudiBrolo") "https://lospec.com/palette-list/jigglypuff-11"
-
-
-{-| Jm by Just Maks Pixel
-<https://lospec.com/palette-list/jm>
--}
-jm : Palette.Palette
-jm =
-    createPalette "Jm " [ rgb255 26 4 56, rgb255 28 88 95, rgb255 91 115 36, rgb255 193 154 92 ] [] (Just "Just Maks Pixel") "https://lospec.com/palette-list/jm"
 
 
 {-| Joker-6 by Beta Lyn
@@ -6797,14 +6749,6 @@ justAddWater =
     createPalette "Just add water" [ rgb255 23 18 36, rgb255 92 53 112, rgb255 199 97 156, rgb255 247 148 177, rgb255 136 55 76, rgb255 216 95 111, rgb255 255 156 77, rgb255 237 219 102, rgb255 101 201 111, rgb255 45 117 86, rgb255 33 60 74, rgb255 71 125 168, rgb255 117 192 227, rgb255 184 132 118, rgb255 255 203 163, rgb255 244 245 242 ] [ "16 colors", "soft" ] (Just "Poltergasm") "https://lospec.com/palette-list/just-add-water"
 
 
-{-| K A N A G A W A by RABBITKING
-<https://lospec.com/palette-list/k-a-n-a-g-a-w-a>
--}
-kANAGAWA : Palette.Palette
-kANAGAWA =
-    createPalette "K A N A G A W A" [ rgb255 51 74 101, rgb255 203 154 121, rgb255 191 202 182, rgb255 230 223 207 ] [ "4color", "gameboy", "gameboycolor", "kanagawa", "minimal", "woodblock" ] (Just "RABBITKING") "https://lospec.com/palette-list/k-a-n-a-g-a-w-a"
-
-
 {-| K-arambole by Gabizu46512
 <https://lospec.com/palette-list/k-arambole>
 -}
@@ -6827,6 +6771,14 @@ kalciumGameboy =
 kalimba26 : Palette.Palette
 kalimba26 =
     createPalette "Kalimba 26" [ rgb255 28 28 28, rgb255 62 74 86, rgb255 107 114 122, rgb255 170 175 179, rgb255 210 211 205, rgb255 241 241 241, rgb255 117 59 84, rgb255 160 70 82, rgb255 205 97 87, rgb255 239 132 100, rgb255 108 74 65, rgb255 171 124 78, rgb255 221 152 75, rgb255 243 197 103, rgb255 55 102 92, rgb255 80 136 91, rgb255 149 183 89, rgb255 196 199 110, rgb255 71 89 129, rgb255 85 133 169, rgb255 122 184 195, rgb255 139 202 181, rgb255 106 91 134, rgb255 174 146 184, rgb255 213 142 186, rgb255 237 179 191 ] [ "26", "desaturated", "minimal" ] (Just "JRiggles") "https://lospec.com/palette-list/kalimba-26"
+
+
+{-| KANAGAWA by RABBITKING
+<https://lospec.com/palette-list/kanagawa>
+-}
+kanagawa : Palette.Palette
+kanagawa =
+    createPalette "KANAGAWA" [ rgb255 51 74 101, rgb255 203 154 121, rgb255 191 202 182, rgb255 230 223 207 ] [ "2bit", "gameboy", "gameboycolor", "kanagawa", "minimal", "woodblock" ] (Just "RABBITKING") "https://lospec.com/palette-list/kanagawa"
 
 
 {-| kankei4 by un\_deady
@@ -7149,6 +7101,14 @@ leavedPallete35 =
     createPalette "Leaved Pallete 35" [ rgb255 30 30 50, rgb255 70 70 90, rgb255 125 125 150, rgb255 175 175 200, rgb255 240 240 255, rgb255 45 90 80, rgb255 55 150 100, rgb255 50 200 75, rgb255 190 230 140, rgb255 235 240 195, rgb255 100 55 60, rgb255 180 90 70, rgb255 220 145 75, rgb255 230 185 125, rgb255 240 230 165, rgb255 100 40 65, rgb255 165 50 70, rgb255 230 80 80, rgb255 230 115 95, rgb255 240 168 144, rgb255 60 50 100, rgb255 80 80 140, rgb255 90 125 190, rgb255 90 195 230, rgb255 170 230 225, rgb255 80 50 100, rgb255 130 70 140, rgb255 190 90 190, rgb255 220 140 200, rgb255 240 180 210, rgb255 90 60 60, rgb255 160 110 95, rgb255 210 150 130, rgb255 240 200 170, rgb255 245 170 170 ] [] (Just "Phot0n") "https://lospec.com/palette-list/leaved-pallete-35"
 
 
+{-| Leflautt0 by Lautaro Salas Cismondi
+<https://lospec.com/palette-list/leflautt0>
+-}
+leflautt0 : Palette.Palette
+leflautt0 =
+    createPalette "Leflautt0" [ rgb255 18 23 51, rgb255 106 65 115, rgb255 194 141 152, rgb255 217 206 158, rgb255 60 115 104, rgb255 63 72 115, rgb255 95 99 115, rgb255 94 136 83, rgb255 161 204 149, rgb255 142 189 178, rgb255 225 235 223, rgb255 19 51 45, rgb255 143 125 69, rgb255 102 64 71, rgb255 48 20 46, rgb255 184 53 79 ] [ "16colors", "arithmetically", "complette", "match" ] (Just "Lautaro Salas Cismondi") "https://lospec.com/palette-list/leflautt0"
+
+
 {-| LEGACY COLORBLIND 8 by Ádám Szieberth
 <https://lospec.com/palette-list/legacy-colorblind-8>
 -}
@@ -7245,6 +7205,14 @@ lf28 =
     createPalette "LF 28" [ rgb255 30 29 38, rgb255 50 48 59, rgb255 89 36 36, rgb255 115 71 57, rgb255 63 36 133, rgb255 98 50 143, rgb255 137 67 161, rgb255 179 86 179, rgb255 81 72 112, rgb255 140 112 84, rgb255 214 122 185, rgb255 237 157 190, rgb255 59 69 179, rgb255 78 120 217, rgb255 85 181 217, rgb255 108 230 230, rgb255 179 54 68, rgb255 209 100 84, rgb255 217 152 119, rgb255 242 198 157, rgb255 30 117 23, rgb255 92 153 38, rgb255 204 165 24, rgb255 219 219 44, rgb255 103 103 138, rgb255 133 144 166, rgb255 180 196 204, rgb255 230 242 242 ] [ "nature simple soft 28colors versatile" ] (Just "Lautaro Salas Cismondi") "https://lospec.com/palette-list/lf-28"
 
 
+{-| LIBRA-8 by Solitaire
+<https://lospec.com/palette-list/libra-8>
+-}
+libra8 : Palette.Palette
+libra8 =
+    createPalette "LIBRA-8" [ rgb255 86 70 94, rgb255 142 55 133, rgb255 192 67 148, rgb255 231 174 67, rgb255 205 205 116, rgb255 126 168 129, rgb255 241 237 215, rgb255 255 181 135 ] [ "green", "orange", "purple", "yellow" ] (Just "Solitaire") "https://lospec.com/palette-list/libra-8"
+
+
 {-| Light Academia 8 by Chase Stemel
 <https://lospec.com/palette-list/light-academia-8>
 -}
@@ -7323,14 +7291,6 @@ limted16 =
 linkAwakeningLinksColour : Palette.Palette
 linkAwakeningLinksColour =
     createPalette "link awakening : links colour" [ rgb255 16 173 66, rgb255 0 128 0, rgb255 0 64 0, rgb255 25 132 255, rgb255 0 57 115, rgb255 181 156 189, rgb255 99 66 115, rgb255 58 25 82, rgb255 255 8 41, rgb255 222 0 0, rgb255 255 189 140, rgb255 255 255 140, rgb255 255 181 49, rgb255 128 64 0, rgb255 0 0 0, rgb255 140 140 165 ] [ "gameboys" ] (Just "animamoo") "https://lospec.com/palette-list/link-awakening-links-colour"
-
-
-{-| Lite34 by Isa
-<https://lospec.com/palette-list/lite34>
--}
-lite34 : Palette.Palette
-lite34 =
-    createPalette "Lite34" [ rgb255 153 14 90, rgb255 217 35 56, rgb255 230 116 46, rgb255 242 165 70, rgb255 255 202 87, rgb255 255 253 130, rgb255 198 245 44, rgb255 83 235 28, rgb255 18 196 77, rgb255 0 122 96, rgb255 42 17 143, rgb255 30 40 176, rgb255 33 77 209, rgb255 43 120 227, rgb255 70 180 240, rgb255 130 251 255, rgb255 196 255 247, rgb255 166 214 222, rgb255 141 183 199, rgb255 125 157 181, rgb255 104 128 156, rgb255 90 104 138, rgb255 103 41 128, rgb255 142 57 153, rgb255 184 83 163, rgb255 217 126 182, rgb255 255 184 212, rgb255 255 253 242, rgb255 238 204 176, rgb255 207 150 134, rgb255 179 99 99, rgb255 116 49 57, rgb255 71 21 43, rgb255 34 4 34 ] [] (Just "Isa") "https://lospec.com/palette-list/lite34"
 
 
 {-| LITHIUM-64 by Lotium Hazard
@@ -7565,14 +7525,6 @@ luxa =
     createPalette "luxA" [ rgb255 30 30 60, rgb255 80 80 110, rgb255 190 190 230, rgb255 230 230 255 ] [] (Just "Absolute Error Field") "https://lospec.com/palette-list/luxa"
 
 
-{-| M U S H B L O O M by RABBITKING
-<https://lospec.com/palette-list/m-u-s-h-b-l-o-o-m>
--}
-mUSHBLOOM : Palette.Palette
-mUSHBLOOM =
-    createPalette "M U S H B L O O M" [ rgb255 43 65 88, rgb255 139 111 123, rgb255 202 174 163, rgb255 255 249 241 ] [ "4", "earthy", "gameboy", "sand" ] (Just "RABBITKING") "https://lospec.com/palette-list/m-u-s-h-b-l-o-o-m"
-
-
 {-| Mac Paint by Polyducks
 <https://lospec.com/palette-list/mac-paint>
 -}
@@ -7789,14 +7741,6 @@ masterful103 =
     createPalette "Masterful-103" [ rgb255 0 0 0, rgb255 28 28 74, rgb255 52 45 120, rgb255 96 64 160, rgb255 156 90 190, rgb255 218 133 210, rgb255 243 189 216, rgb255 86 68 175, rgb255 128 102 209, rgb255 185 147 230, rgb255 232 199 243, rgb255 29 18 68, rgb255 49 32 129, rgb255 57 66 172, rgb255 73 113 194, rgb255 107 168 227, rgb255 154 222 246, rgb255 59 31 98, rgb255 104 48 132, rgb255 169 73 169, rgb255 230 118 193, rgb255 255 177 203, rgb255 27 28 40, rgb255 36 49 74, rgb255 46 79 111, rgb255 48 124 138, rgb255 75 187 169, rgb255 147 246 195, rgb255 21 125 135, rgb255 49 187 129, rgb255 149 246 140, rgb255 38 50 61, rgb255 45 89 85, rgb255 53 135 80, rgb255 109 197 79, rgb255 194 233 114, rgb255 25 29 31, rgb255 33 49 48, rgb255 49 86 64, rgb255 75 135 69, rgb255 129 187 86, rgb255 210 224 134, rgb255 42 50 52, rgb255 73 86 84, rgb255 117 132 123, rgb255 164 175 163, rgb255 207 212 197, rgb255 28 14 23, rgb255 45 40 61, rgb255 69 71 92, rgb255 105 116 132, rgb255 148 168 175, rgb255 194 215 213, rgb255 49 35 39, rgb255 80 63 63, rgb255 123 109 101, rgb255 166 160 147, rgb255 209 208 197, rgb255 49 32 20, rgb255 83 57 21, rgb255 123 100 29, rgb255 169 160 54, rgb255 218 218 100, rgb255 52 25 34, rgb255 89 45 45, rgb255 135 86 69, rgb255 184 140 95, rgb255 227 203 129, rgb255 89 40 40, rgb255 144 81 60, rgb255 200 144 67, rgb255 243 213 67, rgb255 154 75 49, rgb255 227 132 38, rgb255 249 204 118, rgb255 58 19 58, rgb255 108 37 78, rgb255 169 75 100, rgb255 221 134 117, rgb255 49 15 49, rgb255 89 21 61, rgb255 147 31 69, rgb255 224 62 62, rgb255 246 143 109, rgb255 252 199 161, rgb255 209 75 98, rgb255 246 140 140, rgb255 255 198 181, rgb255 60 45 89, rgb255 79 75 135, rgb255 108 118 172, rgb255 151 174 209, rgb255 198 220 230, rgb255 62 36 117, rgb255 79 69 190, rgb255 99 121 208, rgb255 125 172 225, rgb255 173 242 249, rgb255 86 67 184, rgb255 116 106 224, rgb255 146 162 240, rgb255 183 216 249, rgb255 255 255 255 ] [ "isasstudio" ] (Just "Isa") "https://lospec.com/palette-list/masterful-103"
 
 
-{-| MATT36 by mattt
-<https://lospec.com/palette-list/matt36>
--}
-matt36 : Palette.Palette
-matt36 =
-    createPalette "MATT36" [ rgb255 61 57 87, rgb255 36 43 74, rgb255 82 33 110, rgb255 145 29 85, rgb255 191 38 81, rgb255 245 79 79, rgb255 255 135 102, rgb255 255 172 127, rgb255 255 211 163, rgb255 230 163 163, rgb255 153 92 149, rgb255 82 74 99, rgb255 114 135 148, rgb255 167 184 194, rgb255 198 219 222, rgb255 223 237 237, rgb255 153 194 219, rgb255 93 139 179, rgb255 77 106 148, rgb255 64 85 120, rgb255 53 121 133, rgb255 76 143 130, rgb255 120 179 146, rgb255 181 224 186, rgb255 240 236 226, rgb255 223 211 195, rgb255 199 177 152, rgb255 153 125 118, rgb255 87 64 78, rgb255 55 40 64, rgb255 102 51 61, rgb255 156 79 65, rgb255 179 120 93, rgb255 214 165 122, rgb255 230 204 138, rgb255 250 250 195 ] [ "matt36", "mattthewafflecat" ] (Just "mattt") "https://lospec.com/palette-list/matt36"
-
-
 {-| maurice by finn
 <https://lospec.com/palette-list/maurice>
 -}
@@ -7811,6 +7755,14 @@ maurice =
 maw : Palette.Palette
 maw =
     createPalette "MAW" [ rgb255 42 0 42, rgb255 0 82 60, rgb255 203 183 50, rgb255 235 235 235 ] [ "420", "antarctica", "awesome", "based", "clor", "color", "cool", "epic", "hipster", "mayancalendar", "sweet" ] (Just "bloo") "https://lospec.com/palette-list/maw"
+
+
+{-| Mazzical 20 by yedamameday
+<https://lospec.com/palette-list/mazzical-20>
+-}
+mazzical20 : Palette.Palette
+mazzical20 =
+    createPalette "Mazzical 20" [ rgb255 227 170 113, rgb255 215 88 65, rgb255 166 30 73, rgb255 69 12 61, rgb255 145 51 98, rgb255 222 93 112, rgb255 235 148 148, rgb255 242 198 184, rgb255 101 170 207, rgb255 51 95 158, rgb255 23 21 89, rgb255 21 10 43, rgb255 43 120 115, rgb255 43 158 98, rgb255 103 217 95, rgb255 214 209 105, rgb255 230 227 216, rgb255 171 150 130, rgb255 84 69 64, rgb255 31 23 24 ] [ "20", "autumn", "desaturated", "fall", "spooky", "yedamameday" ] (Just "yedamameday") "https://lospec.com/palette-list/mazzical-20"
 
 
 {-| MC Fupery Artmap Shades (GG) by Gengyen
@@ -7925,12 +7877,12 @@ messengerFromDarkNightPc98 =
     createPalette "Messenger from Dark Night (PC98)" [ rgb255 0 0 0, rgb255 136 34 68, rgb255 187 17 102, rgb255 238 51 102, rgb255 221 68 85, rgb255 255 136 153, rgb255 255 187 170, rgb255 255 221 136, rgb255 255 221 187, rgb255 255 255 255, rgb255 170 238 119, rgb255 102 153 119, rgb255 187 187 255, rgb255 119 68 255, rgb255 102 68 153, rgb255 85 34 102 ] [ "pc98" ] (Just "lovedelivery") "https://lospec.com/palette-list/messenger-from-dark-night-pc98"
 
 
-{-| METAL FLOWER 48 by Cubic Tree - Graphics
-<https://lospec.com/palette-list/metal-flower-48>
+{-| messy 12 by \_Simy\_
+<https://lospec.com/palette-list/messy-12>
 -}
-metalFlower48 : Palette.Palette
-metalFlower48 =
-    createPalette "METAL FLOWER 48" [ rgb255 255 255 255, rgb255 175 191 199, rgb255 131 154 167, rgb255 62 100 122, rgb255 122 161 255, rgb255 69 114 223, rgb255 48 71 149, rgb255 16 33 89, rgb255 217 214 111, rgb255 194 157 60, rgb255 133 103 25, rgb255 85 67 18, rgb255 239 29 60, rgb255 180 21 67, rgb255 152 3 46, rgb255 97 7 33, rgb255 109 203 107, rgb255 32 126 30, rgb255 17 85 16, rgb255 8 37 8, rgb255 204 113 37, rgb255 154 84 24, rgb255 108 60 20, rgb255 64 35 11, rgb255 221 52 187, rgb255 160 34 134, rgb255 105 21 88, rgb255 70 15 58, rgb255 44 231 225, rgb255 29 144 140, rgb255 24 102 99, rgb255 14 65 64, rgb255 160 93 76, rgb255 128 66 50, rgb255 97 34 18, rgb255 60 15 3, rgb255 190 94 201, rgb255 154 54 165, rgb255 107 27 116, rgb255 56 8 61, rgb255 108 98 130, rgb255 86 77 104, rgb255 45 43 50, rgb255 0 0 0, rgb255 202 202 202, rgb255 219 209 194, rgb255 223 191 144, rgb255 190 155 102 ] [ "linear" ] (Just "Cubic Tree - Graphics") "https://lospec.com/palette-list/metal-flower-48"
+messy12 : Palette.Palette
+messy12 =
+    createPalette "messy 12" [ rgb255 255 26 178, rgb255 255 36 36, rgb255 251 127 9, rgb255 253 255 118, rgb255 94 247 76, rgb255 9 122 57, rgb255 8 255 168, rgb255 87 86 172, rgb255 71 0 120, rgb255 32 9 34, rgb255 82 96 103, rgb255 235 238 215 ] [] (Just "_Simy_") "https://lospec.com/palette-list/messy-12"
 
 
 {-| Metallic GB by Isa
@@ -8003,14 +7955,6 @@ micro86 =
 microsoftMakecodeArcade : Palette.Palette
 microsoftMakecodeArcade =
     createPalette "Microsoft MakeCode Arcade" [ rgb255 255 255 255, rgb255 255 33 33, rgb255 255 147 196, rgb255 255 129 53, rgb255 255 246 9, rgb255 36 156 163, rgb255 120 220 82, rgb255 0 63 173, rgb255 135 242 255, rgb255 142 46 196, rgb255 164 131 159, rgb255 92 64 108, rgb255 229 205 196, rgb255 145 70 61, rgb255 0 0 0 ] [ "makecode", "microsoft" ] (Just "PureAsbestos") "https://lospec.com/palette-list/microsoft-makecode-arcade"
-
-
-{-| Microsoft Metro by The Pixel Man
-<https://lospec.com/palette-list/microsoft-metro>
--}
-microsoftMetro : Palette.Palette
-microsoftMetro =
-    createPalette "Microsoft Metro" [ rgb255 153 180 51, rgb255 0 163 0, rgb255 30 113 69, rgb255 255 0 151, rgb255 159 0 167, rgb255 126 56 120, rgb255 96 60 186, rgb255 29 29 29, rgb255 0 171 169, rgb255 239 244 255, rgb255 45 137 239, rgb255 43 87 151, rgb255 255 196 13, rgb255 227 162 26, rgb255 218 83 44, rgb255 238 17 17, rgb255 185 29 71 ] [ "microsoft", "simple", "windows" ] (Just "The Pixel Man") "https://lospec.com/palette-list/microsoft-metro"
 
 
 {-| MICROSOFT VGA by Ádám Szieberth
@@ -8597,6 +8541,14 @@ murkyWater10 =
     createPalette "Murky Water 10" [ rgb255 23 38 26, rgb255 54 77 57, rgb255 102 128 106, rgb255 155 179 143, rgb255 188 204 173, rgb255 33 23 38, rgb255 61 54 77, rgb255 102 106 128, rgb255 143 155 179, rgb255 173 199 204 ] [ "10", "blue", "dark", "fog", "green", "murky", "pastel", "unsaturated", "water" ] (Just "DaSunfish") "https://lospec.com/palette-list/murky-water-10"
 
 
+{-| MUSHBLOOM by RABBITKING
+<https://lospec.com/palette-list/mushbloom>
+-}
+mushbloom : Palette.Palette
+mushbloom =
+    createPalette "MUSHBLOOM" [ rgb255 43 65 88, rgb255 139 111 123, rgb255 202 174 163, rgb255 255 249 241 ] [ "4", "earthy", "gameboy", "sand" ] (Just "RABBITKING") "https://lospec.com/palette-list/mushbloom"
+
+
 {-| Mushfairy by Polyducks
 <https://lospec.com/palette-list/mushfairy>
 -}
@@ -8981,14 +8933,6 @@ neutral32 =
     createPalette "Neutral-32" [ rgb255 255 252 217, rgb255 245 228 138, rgb255 224 191 163, rgb255 212 160 84, rgb255 199 138 132, rgb255 173 111 79, rgb255 156 100 124, rgb255 132 68 62, rgb255 101 37 31, rgb255 60 29 20, rgb255 33 12 5, rgb255 16 30 62, rgb255 82 55 90, rgb255 48 99 130, rgb255 78 119 162, rgb255 125 144 189, rgb255 138 177 243, rgb255 177 213 251, rgb255 205 242 255, rgb255 169 195 160, rgb255 139 167 97, rgb255 98 123 82, rgb255 57 82 58, rgb255 33 60 33, rgb255 74 55 41, rgb255 97 76 61, rgb255 99 100 103, rgb255 119 112 93, rgb255 119 124 138, rgb255 152 132 116, rgb255 156 160 169, rgb255 173 184 202 ] [ "eclipse89" ] (Just "Eclipse89") "https://lospec.com/palette-list/neutral-32"
 
 
-{-| New by TheVeryCraftyBoss
-<https://lospec.com/palette-list/new>
--}
-new : Palette.Palette
-new =
-    createPalette "New " [ rgb255 58 34 79, rgb255 78 37 87, rgb255 115 50 106, rgb255 163 68 116, rgb255 199 80 107, rgb255 227 117 95, rgb255 237 158 112, rgb255 252 200 141, rgb255 255 215 163, rgb255 255 239 201, rgb255 240 235 168, rgb255 207 242 145, rgb255 160 222 133, rgb255 105 201 118, rgb255 80 171 118, rgb255 54 119 122, rgb255 46 92 107, rgb255 34 61 84, rgb255 31 46 82 ] [] (Just "TheVeryCraftyBoss") "https://lospec.com/palette-list/new"
-
-
 {-| New Tableau 10 by dangerclose117
 <https://lospec.com/palette-list/new-tableau-10>
 -}
@@ -9043,14 +8987,6 @@ nicolePunk82 =
 nieu15 : Palette.Palette
 nieu15 =
     createPalette "Nieu15" [ rgb255 32 4 41, rgb255 19 84 55, rgb255 26 146 60, rgb255 170 177 78, rgb255 224 175 144, rgb255 240 237 180, rgb255 235 203 89, rgb255 235 126 53, rgb255 189 42 47, rgb255 111 22 105, rgb255 102 69 209, rgb255 122 185 239, rgb255 145 121 81, rgb255 139 76 21, rgb255 82 53 50 ] [] (Just "haex") "https://lospec.com/palette-list/nieu15"
-
-
-{-| Nigh7 by Alpha6
-<https://lospec.com/palette-list/nigh7>
--}
-nigh7 : Palette.Palette
-nigh7 =
-    createPalette "Nigh7" [ rgb255 0 0 0, rgb255 26 19 22, rgb255 38 27 35, rgb255 46 38 61, rgb255 43 55 87, rgb255 55 86 122, rgb255 107 149 173 ] [ "blue", "creepy", "dim", "drak", "nigh7", "night", "ocean", "purple", "sea" ] (Just "Alpha6") "https://lospec.com/palette-list/nigh7"
 
 
 {-| night light by helperman
@@ -9789,14 +9725,6 @@ pastelRanibow9 =
     createPalette "Pastel Ranibow 9" [ rgb255 235 166 169, rgb255 239 202 178, rgb255 244 240 187, rgb255 189 211 201, rgb255 152 193 217, rgb255 90 128 166, rgb255 58 86 131, rgb255 133 109 136, rgb255 158 162 171 ] [ "9", "blue", "chase", "green", "light", "orange", "pastel", "purple", "rainbow", "red", "yellow" ] (Just "Chase Stemel") "https://lospec.com/palette-list/pastel-ranibow-9"
 
 
-{-| Pastel - Vivid by Paulina Riva
-<https://lospec.com/palette-list/pastel-vivid>
--}
-pastelVivid : Palette.Palette
-pastelVivid =
-    createPalette "Pastel - Vivid" [ rgb255 185 242 97, rgb255 153 184 81, rgb255 97 242 202, rgb255 81 184 146, rgb255 250 224 88, rgb255 255 191 84, rgb255 247 104 101, rgb255 191 88 94, rgb255 135 94 154, rgb255 83 71 108, rgb255 244 253 255, rgb255 155 145 151, rgb255 84 60 69, rgb255 20 17 31 ] [ "pastel" ] (Just "Paulina Riva") "https://lospec.com/palette-list/pastel-vivid"
-
-
 {-| pastelapple by yedamameday
 <https://lospec.com/palette-list/pastelapple>
 -}
@@ -9907,14 +9835,6 @@ penNPaper =
 pencilSketch : Palette.Palette
 pencilSketch =
     createPalette "Pencil Sketch" [ rgb255 255 255 224, rgb255 252 239 141, rgb255 246 206 152, rgb255 242 165 97, rgb255 211 123 134, rgb255 255 45 85, rgb255 45 255 105, rgb255 174 255 213, rgb255 89 152 255, rgb255 32 32 32, rgb255 96 96 96, rgb255 128 128 128 ] [ "pencilsketch" ] (Just "Dotchadm!n") "https://lospec.com/palette-list/pencil-sketch"
-
-
-{-| Penny by yoshi makes monsters
-<https://lospec.com/palette-list/penny>
--}
-penny : Palette.Palette
-penny =
-    createPalette "Penny " [ rgb255 255 210 164, rgb255 211 129 71, rgb255 47 143 155, rgb255 27 65 74 ] [ "gameboy" ] (Just "yoshi makes monsters") "https://lospec.com/palette-list/penny"
 
 
 {-| Pepe No More by Cheeseismysoul
@@ -10229,6 +10149,46 @@ poisson23 =
     createPalette "Poisson 23" [ rgb255 187 176 148, rgb255 128 118 101, rgb255 89 82 70, rgb255 51 51 51, rgb255 25 31 34, rgb255 47 68 67, rgb255 59 94 88, rgb255 90 140 108, rgb255 139 180 141, rgb255 192 208 165, rgb255 247 239 199, rgb255 161 205 176, rgb255 112 147 149, rgb255 74 120 123, rgb255 56 49 64, rgb255 115 77 92, rgb255 167 103 114, rgb255 204 134 125, rgb255 224 186 139, rgb255 195 130 82, rgb255 161 86 60, rgb255 111 52 45, rgb255 68 39 31 ] [ "aquatic", "artist", "book", "copheemoth", "desaturated", "fish", "old", "vintage" ] (Just "CopheeMoth") "https://lospec.com/palette-list/poisson-23"
 
 
+{-| Pokémon DPP Pokétch - Blue by Sylfare
+<https://lospec.com/palette-list/pokemon-dpp-poketch-blue>
+-}
+pokemonDppPoketchBlue : Palette.Palette
+pokemonDppPoketchBlue =
+    createPalette "Pokémon DPP Pokétch - Blue" [ rgb255 138 138 251, rgb255 65 81 186, rgb255 56 56 105, rgb255 16 24 32 ] [ "blue", "ds", "nintendo", "pokemon", "poketch" ] (Just "Sylfare") "https://lospec.com/palette-list/pokemon-dpp-poketch-blue"
+
+
+{-| Pokémon DPP Pokétch - orange by Sylfare
+<https://lospec.com/palette-list/pokemon-dpp-poketch-orange>
+-}
+pokemonDppPoketchOrange : Palette.Palette
+pokemonDppPoketchOrange =
+    createPalette "Pokémon DPP Pokétch - orange" [ rgb255 195 146 105, rgb255 138 97 56, rgb255 81 65 40, rgb255 40 32 16 ] [ "ds", "nintendo", "orange", "pokemon", "poketch" ] (Just "Sylfare") "https://lospec.com/palette-list/pokemon-dpp-poketch-orange"
+
+
+{-| Pokémon DPP Pokétch - Purple by Sylfare
+<https://lospec.com/palette-list/pokemon-dpp-poketch-purple>
+-}
+pokemonDppPoketchPurple : Palette.Palette
+pokemonDppPoketchPurple =
+    createPalette "Pokémon DPP Pokétch - Purple" [ rgb255 162 113 178, rgb255 121 81 130, rgb255 73 48 81, rgb255 32 16 32 ] [ "ds", "nintendo", "pokemon", "poketch", "purple" ] (Just "Sylfare") "https://lospec.com/palette-list/pokemon-dpp-poketch-purple"
+
+
+{-| Pokémon DPP Pokétch - Red by Sylfare
+<https://lospec.com/palette-list/pokemon-dpp-poketch-red>
+-}
+pokemonDppPoketchRed : Palette.Palette
+pokemonDppPoketchRed =
+    createPalette "Pokémon DPP Pokétch - Red" [ rgb255 219 113 113, rgb255 170 73 73, rgb255 97 32 32, rgb255 32 16 16 ] [ "ds", "nintendo", "pokemon", "poketch", "red" ] (Just "Sylfare") "https://lospec.com/palette-list/pokemon-dpp-poketch-red"
+
+
+{-| Pokémon DPP Pokétch - yellow by Sylfare
+<https://lospec.com/palette-list/pokemon-dpp-poketch-yellow>
+-}
+pokemonDppPoketchYellow : Palette.Palette
+pokemonDppPoketchYellow =
+    createPalette "Pokémon DPP Pokétch - yellow" [ rgb255 186 178 113, rgb255 130 130 65, rgb255 73 81 48, rgb255 32 32 16 ] [ "ds", "nintendo", "pokemon", "poketch", "yellow" ] (Just "Sylfare") "https://lospec.com/palette-list/pokemon-dpp-poketch-yellow"
+
+
 {-| Pokémon Gen 2 Overworld Objects by Jasper Speelman
 <https://lospec.com/palette-list/pokemon-gen-2-overworld-objects>
 -}
@@ -10541,28 +10501,12 @@ pxlsDefault =
     createPalette "Pxls Default" [ rgb255 0 0 0, rgb255 34 34 34, rgb255 85 85 85, rgb255 136 136 136, rgb255 205 205 205, rgb255 255 255 255, rgb255 255 213 188, rgb255 255 183 131, rgb255 182 109 61, rgb255 119 67 31, rgb255 252 117 16, rgb255 252 168 14, rgb255 253 232 23, rgb255 255 244 145, rgb255 190 255 64, rgb255 112 221 19, rgb255 49 161 23, rgb255 11 95 53, rgb255 39 126 108, rgb255 50 182 159, rgb255 136 255 243, rgb255 36 181 254, rgb255 18 92 199, rgb255 38 41 96, rgb255 139 47 168, rgb255 210 76 233, rgb255 255 89 239, rgb255 255 169 217, rgb255 255 100 116, rgb255 240 37 35, rgb255 177 18 6, rgb255 116 12 0 ] [] (Just "Keth") "https://lospec.com/palette-list/pxls-default"
 
 
-{-| PYXEL by her boulion
-<https://lospec.com/palette-list/pyxel>
--}
-pyxel : Palette.Palette
-pyxel =
-    createPalette "PYXEL" [ rgb255 0 0 0, rgb255 43 51 95, rgb255 126 32 114, rgb255 25 149 156, rgb255 139 72 82, rgb255 57 92 152, rgb255 169 193 255, rgb255 238 238 238, rgb255 212 24 108, rgb255 211 132 65, rgb255 233 195 91, rgb255 163 163 163, rgb255 112 198 169, rgb255 118 150 222, rgb255 255 151 152, rgb255 237 199 176 ] [] (Just "her boulion") "https://lospec.com/palette-list/pyxel"
-
-
 {-| Quak60 by Quakmann
 <https://lospec.com/palette-list/quak60>
 -}
 quak60 : Palette.Palette
 quak60 =
     createPalette "Quak60" [ rgb255 0 0 0, rgb255 43 40 33, rgb255 61 61 61, rgb255 98 97 97, rgb255 119 119 119, rgb255 180 180 180, rgb255 40 14 22, rgb255 98 76 60, rgb255 145 108 89, rgb255 176 128 103, rgb255 213 151 118, rgb255 95 44 40, rgb255 137 67 46, rgb255 194 104 61, rgb255 227 207 180, rgb255 244 223 203, rgb255 197 114 102, rgb255 252 150 17, rgb255 251 147 98, rgb255 251 193 165, rgb255 223 178 117, rgb255 185 65 58, rgb255 203 106 6, rgb255 252 199 17, rgb255 254 214 77, rgb255 255 255 255, rgb255 81 139 66, rgb255 35 175 0, rgb255 105 215 44, rgb255 175 237 10, rgb255 5 55 59, rgb255 11 89 90, rgb255 8 135 118, rgb255 8 135 74, rgb255 9 106 71, rgb255 106 96 109, rgb255 6 99 114, rgb255 67 170 182, rgb255 109 234 214, rgb255 144 153 155, rgb255 38 118 158, rgb255 0 132 199, rgb255 122 194 226, rgb255 179 206 219, rgb255 202 209 220, rgb255 84 37 50, rgb255 128 42 77, rgb255 154 33 53, rgb255 180 28 131, rgb255 217 35 117, rgb255 216 126 246, rgb255 68 24 27, rgb255 128 47 53, rgb255 174 25 41, rgb255 218 14 39, rgb255 249 77 26, rgb255 240 0 101, rgb255 232 74 93, rgb255 246 117 122, rgb255 246 126 153 ] [ "bright", "character", "quak", "quak60", "saturated" ] (Just "Quakmann") "https://lospec.com/palette-list/quak60"
-
-
-{-| QUALM12 by mtk
-<https://lospec.com/palette-list/qualm12>
--}
-qualm12 : Palette.Palette
-qualm12 =
-    createPalette "QUALM12" [ rgb255 14 9 23, rgb255 26 20 41, rgb255 40 36 64, rgb255 66 54 63, rgb255 92 71 62, rgb255 138 116 106, rgb255 181 163 156, rgb255 252 248 251, rgb255 159 173 179, rgb255 107 129 138, rgb255 62 83 92, rgb255 64 69 78 ] [ "artist", "grim", "mtk", "muted", "rust" ] (Just "mtk") "https://lospec.com/palette-list/qualm12"
 
 
 {-| Queen Bee by FennecFu Games
@@ -10595,14 +10539,6 @@ questedValley =
 quinn : Palette.Palette
 quinn =
     createPalette "Quinn" [ rgb255 42 37 51, rgb255 50 60 84, rgb255 62 94 115, rgb255 81 133 93, rgb255 159 173 116, rgb255 133 97 73, rgb255 113 62 75, rgb255 85 49 84, rgb255 58 48 69 ] [ "pastel" ] (Just "stanxas") "https://lospec.com/palette-list/quinn"
-
-
-{-| R A B B I T 9 by RABBITKING
-<https://lospec.com/palette-list/r-a-b-b-i-t-9>
--}
-rABBIT9 : Palette.Palette
-rABBIT9 =
-    createPalette "R A B B I T 9" [ rgb255 31 61 76, rgb255 89 125 128, rgb255 141 166 116, rgb255 178 174 161, rgb255 255 248 242, rgb255 230 218 161, rgb255 204 154 143, rgb255 153 92 92, rgb255 102 51 79 ] [ "9", "desaturated", "gameboy", "minimal" ] (Just "RABBITKING") "https://lospec.com/palette-list/r-a-b-b-i-t-9"
 
 
 {-| r/place 2022 32 Colors by Foib1
@@ -10643,6 +10579,30 @@ rPlace2022Expanded =
 r05 : Palette.Palette
 r05 =
     createPalette "R05" [ rgb255 0 0 0, rgb255 102 153 255, rgb255 36 187 66, rgb255 255 51 204, rgb255 255 255 255 ] [] (Just "ninj") "https://lospec.com/palette-list/r05"
+
+
+{-| RABBIT5AM by RABBITKING
+<https://lospec.com/palette-list/rabbit5am>
+-}
+rabbit5am : Palette.Palette
+rabbit5am =
+    createPalette "RABBIT5AM" [ rgb255 255 247 247, rgb255 255 227 200, rgb255 137 170 203, rgb255 99 64 101 ] [ "2bit", "4color", "gameboy" ] (Just "RABBITKING") "https://lospec.com/palette-list/rabbit5am"
+
+
+{-| RABBIT5PM by RABBITKING
+<https://lospec.com/palette-list/rabbit5pm>
+-}
+rabbit5pm : Palette.Palette
+rabbit5pm =
+    createPalette "RABBIT5PM" [ rgb255 255 231 205, rgb255 228 163 159, rgb255 98 144 152, rgb255 76 52 87 ] [ "2bit", "4color", "gameboy", "sunset" ] (Just "RABBITKING") "https://lospec.com/palette-list/rabbit5pm"
+
+
+{-| RABBITKING by RABBITKING
+<https://lospec.com/palette-list/rabbitking>
+-}
+rabbitking : Palette.Palette
+rabbitking =
+    createPalette "RABBITKING" [ rgb255 31 61 76, rgb255 89 125 128, rgb255 141 166 116, rgb255 178 174 161, rgb255 255 248 242, rgb255 230 218 161, rgb255 204 154 143, rgb255 153 92 92, rgb255 102 51 79 ] [ "9", "desaturated", "gameboy", "minimal" ] (Just "RABBITKING") "https://lospec.com/palette-list/rabbitking"
 
 
 {-| Radioactive Ice-Cream by Saultoons
@@ -10805,6 +10765,14 @@ razzmatazz5 =
     createPalette "Razzmatazz 5" [ rgb255 216 224 211, rgb255 61 52 62, rgb255 245 210 60, rgb255 235 139 49, rgb255 223 60 43 ] [ "bright", "contrast", "idkhbtfm" ] (Just "Cheeseismysoul") "https://lospec.com/palette-list/razzmatazz-5"
 
 
+{-| Red-Blood Pain by ahmed
+<https://lospec.com/palette-list/red-blood-pain>
+-}
+redBloodPain : Palette.Palette
+redBloodPain =
+    createPalette "Red-Blood Pain" [ rgb255 126 31 35, rgb255 196 24 31, rgb255 18 10 25, rgb255 94 64 105 ] [ "2bit", "4colors", "blood", "red" ] (Just "ahmed") "https://lospec.com/palette-list/red-blood-pain"
+
+
 {-| Red-Dragon-18 by Valerie Lynn
 <https://lospec.com/palette-list/red-dragon-18>
 -}
@@ -10907,14 +10875,6 @@ redux63 =
 reesesPuffs1Bit : Palette.Palette
 reesesPuffs1Bit =
     createPalette "Reeses Puffs 1-Bit" [ rgb255 111 77 61, rgb255 203 152 103 ] [ "cereal" ] (Just "skeddles") "https://lospec.com/palette-list/reeses-puffs-1-bit"
-
-
-{-| Reformed Rainbow by Gormie
-<https://lospec.com/palette-list/reformed-rainbow>
--}
-reformedRainbow : Palette.Palette
-reformedRainbow =
-    createPalette "Reformed Rainbow" [ rgb255 31 0 49, rgb255 17 5 84, rgb255 36 175 204, rgb255 75 238 87, rgb255 244 249 165, rgb255 251 232 89, rgb255 225 96 50, rgb255 206 14 56, rgb255 154 0 95 ] [ "vibrant" ] (Just "Gormie") "https://lospec.com/palette-list/reformed-rainbow"
 
 
 {-| Regal10 by JRiggles
@@ -12293,6 +12253,14 @@ smm2superballGameBoyPalette =
     createPalette "SMM2SUPERBALL Game Boy Palette" [ rgb255 100 100 50, rgb255 160 160 110, rgb255 188 188 138, rgb255 230 230 180 ] [ "maker", "mario", "nintendo", "smm" ] (Just "Malo") "https://lospec.com/palette-list/smm2superball-game-boy-palette"
 
 
+{-| smoky 09 by green guy
+<https://lospec.com/palette-list/smoky-09>
+-}
+smoky09 : Palette.Palette
+smoky09 =
+    createPalette "smoky 09" [ rgb255 250 250 250, rgb255 212 216 224, rgb255 172 172 172, rgb255 145 139 140, rgb255 107 97 94, rgb255 59 52 46, rgb255 36 33 26, rgb255 14 13 10, rgb255 3 2 1 ] [ "brown", "dark", "gray", "grey", "monoramp", "muted", "smoke", "unsaturated" ] (Just "green guy") "https://lospec.com/palette-list/smoky-09"
+
+
 {-| Smooth 16 by Isa
 <https://lospec.com/palette-list/smooth-16>
 -}
@@ -12997,14 +12965,6 @@ star3a28 =
     createPalette "Star3a28" [ rgb255 178 232 255, rgb255 24 200 240, rgb255 143 169 179, rgb255 42 137 189, rgb255 36 52 143, rgb255 31 35 48, rgb255 41 61 42, rgb255 84 75 75, rgb255 128 100 115, rgb255 176 132 111, rgb255 184 170 184, rgb255 219 199 188, rgb255 222 125 73, rgb255 199 36 58, rgb255 133 56 103, rgb255 72 20 82, rgb255 45 55 112, rgb255 0 117 94, rgb255 94 133 72, rgb255 133 140 129, rgb255 153 173 142, rgb255 194 194 138, rgb255 173 156 130, rgb255 166 106 46, rgb255 133 80 61, rgb255 69 57 60, rgb255 48 17 31, rgb255 24 3 26 ] [] (Just "Stardustea") "https://lospec.com/palette-list/star3a28"
 
 
-{-| Stardust32 by Isa
-<https://lospec.com/palette-list/stardust32>
--}
-stardust32 : Palette.Palette
-stardust32 =
-    createPalette "Stardust32" [ rgb255 0 8 51, rgb255 32 2 97, rgb255 51 10 128, rgb255 133 22 148, rgb255 212 42 110, rgb255 255 91 79, rgb255 255 179 102, rgb255 255 246 115, rgb255 175 240 79, rgb255 72 212 59, rgb255 26 171 135, rgb255 46 81 199, rgb255 35 32 171, rgb255 63 135 217, rgb255 84 184 227, rgb255 120 240 226, rgb255 184 255 217, rgb255 255 255 225, rgb255 255 168 191, rgb255 230 129 172, rgb255 189 68 142, rgb255 255 218 201, rgb255 235 166 152, rgb255 204 110 110, rgb255 161 72 105, rgb255 128 51 94, rgb255 82 29 69, rgb255 43 23 68, rgb255 84 80 138, rgb255 111 117 166, rgb255 145 162 194, rgb255 202 219 232 ] [ "isasstudio" ] (Just "Isa") "https://lospec.com/palette-list/stardust32"
-
-
 {-| Stardust5 by Solitaire
 <https://lospec.com/palette-list/stardust5>
 -}
@@ -13131,6 +13091,14 @@ suez30 =
 sugaryStupor : Palette.Palette
 sugaryStupor =
     createPalette "Sugary Stupor" [ rgb255 189 197 239, rgb255 147 147 235, rgb255 133 103 224, rgb255 117 48 207, rgb255 93 43 151, rgb255 75 31 107, rgb255 55 22 70 ] [] (Just "MirruTatep 🦩") "https://lospec.com/palette-list/sugary-stupor"
+
+
+{-| Sulu by jumbledFox
+<https://lospec.com/palette-list/sulu>
+-}
+sulu : Palette.Palette
+sulu =
+    createPalette "Sulu" [ rgb255 238 112 181, rgb255 238 181 112, rgb255 181 238 112, rgb255 112 238 181, rgb255 112 181 238, rgb255 181 112 238, rgb255 186 186 211, rgb255 71 71 81, rgb255 255 188 236, rgb255 255 236 188, rgb255 236 255 188, rgb255 188 255 236, rgb255 188 236 255, rgb255 236 188 255, rgb255 227 227 242, rgb255 142 142 163 ] [ "bright", "cutesy", "pastel", "weird" ] (Just "jumbledFox") "https://lospec.com/palette-list/sulu"
 
 
 {-| Summers Past-16 by keidding
@@ -14165,6 +14133,14 @@ tsunami =
     createPalette "Tsunami" [ rgb255 157 236 207, rgb255 106 185 185, rgb255 54 134 150, rgb255 39 71 104, rgb255 22 30 60 ] [] (Just "MirruTatep 🦩") "https://lospec.com/palette-list/tsunami"
 
 
+{-| turquoise eclipse by probablyyy
+<https://lospec.com/palette-list/turquoise-eclipse>
+-}
+turquoiseEclipse : Palette.Palette
+turquoiseEclipse =
+    createPalette "turquoise eclipse" [ rgb255 39 179 145, rgb255 40 140 112, rgb255 43 114 85, rgb255 53 72 42, rgb255 41 30 23, rgb255 19 5 23, rgb255 0 0 0 ] [ "blue", "darkness", "eclipse", "green", "moon", "night", "snake", "turquoise" ] (Just "probablyyy") "https://lospec.com/palette-list/turquoise-eclipse"
+
+
 {-| TURTLE-16 by Blylzz
 <https://lospec.com/palette-list/turtle-16>
 -}
@@ -14275,6 +14251,14 @@ tyArtificialHappiness8 =
 tyBlackSouls16 : Palette.Palette
 tyBlackSouls16 =
     createPalette "TY - Black Souls 16" [ rgb255 223 205 183, rgb255 197 164 123, rgb255 154 125 74, rgb255 152 159 63, rgb255 99 101 74, rgb255 41 64 52, rgb255 129 165 152, rgb255 69 107 117, rgb255 49 48 69, rgb255 197 129 50, rgb255 133 75 47, rgb255 80 35 23, rgb255 159 87 69, rgb255 96 65 69, rgb255 53 46 50, rgb255 37 29 34 ] [ "black", "dark", "darkfantasy", "dungeon", "fantasy", "medieval", "rpg", "soul", "souls" ] (Just "Toby_Yasha") "https://lospec.com/palette-list/ty-black-souls-16"
+
+
+{-| TY - Blue Moon 12 by Toby\_Yasha
+<https://lospec.com/palette-list/ty-blue-moon-12>
+-}
+tyBlueMoon12 : Palette.Palette
+tyBlueMoon12 =
+    createPalette "TY - Blue Moon 12" [ rgb255 222 206 180, rgb255 150 167 142, rgb255 85 101 109, rgb255 27 58 78, rgb255 122 98 96, rgb255 90 66 86, rgb255 88 55 46, rgb255 167 154 108, rgb255 135 112 65, rgb255 83 81 39, rgb255 42 36 17, rgb255 4 5 5 ] [] (Just "Toby_Yasha") "https://lospec.com/palette-list/ty-blue-moon-12"
 
 
 {-| TY - Blue Moon 5 by Toby\_Yasha
@@ -14443,6 +14427,14 @@ tyDesertedWasteland14 =
 tyDisasterGirl16 : Palette.Palette
 tyDisasterGirl16 =
     createPalette "TY - Disaster Girl 16" [ rgb255 205 190 172, rgb255 123 125 106, rgb255 78 85 78, rgb255 53 47 40, rgb255 74 72 74, rgb255 60 59 74, rgb255 52 50 52, rgb255 42 37 42, rgb255 197 164 107, rgb255 159 103 62, rgb255 122 92 84, rgb255 96 72 77, rgb255 238 153 156, rgb255 139 72 74, rgb255 97 50 52, rgb255 8 4 0 ] [ "dark", "darkfantasy", "depressing", "dungeon", "dungeoncrawler", "fantasy", "medieval", "retro" ] (Just "Toby_Yasha") "https://lospec.com/palette-list/ty-disaster-girl-16"
+
+
+{-| TY - Disaster Girl 20 by Toby\_Yasha
+<https://lospec.com/palette-list/ty-disaster-girl-20>
+-}
+tyDisasterGirl20 : Palette.Palette
+tyDisasterGirl20 =
+    createPalette "TY - Disaster Girl 20" [ rgb255 205 190 172, rgb255 123 125 106, rgb255 66 90 88, rgb255 60 59 74, rgb255 104 114 187, rgb255 107 94 130, rgb255 96 72 77, rgb255 99 58 53, rgb255 53 47 40, rgb255 42 37 42, rgb255 8 4 0, rgb255 197 164 107, rgb255 203 119 79, rgb255 159 103 62, rgb255 120 92 59, rgb255 74 71 51, rgb255 118 162 177, rgb255 78 141 102, rgb255 81 104 62, rgb255 38 52 51 ] [ "dark", "darkfantasy", "depressing", "dungeon", "dungeoncrawler", "fantasy", "medieval", "retro" ] (Just "Toby_Yasha") "https://lospec.com/palette-list/ty-disaster-girl-20"
 
 
 {-| TY - Distorted Kingdom 16 by Toby\_Yasha
@@ -14677,6 +14669,14 @@ tyPlayWin7 =
     createPalette "TY - Play Win 7" [ rgb255 255 255 255, rgb255 64 160 255, rgb255 101 68 125, rgb255 234 193 60, rgb255 146 145 114, rgb255 208 49 67, rgb255 57 17 17 ] [] (Just "Toby_Yasha") "https://lospec.com/palette-list/ty-play-win-7"
 
 
+{-| TY - Psygnosia 26 by Toby\_Yasha
+<https://lospec.com/palette-list/ty-psygnosia-26>
+-}
+tyPsygnosia26 : Palette.Palette
+tyPsygnosia26 =
+    createPalette "TY - Psygnosia 26" [ rgb255 119 120 91, rgb255 115 97 80, rgb255 82 82 76, rgb255 68 63 65, rgb255 27 30 41, rgb255 0 0 0, rgb255 42 34 42, rgb255 54 39 71, rgb255 90 66 86, rgb255 100 100 124, rgb255 158 164 167, rgb255 203 199 173, rgb255 64 49 141, rgb255 81 108 191, rgb255 121 194 201, rgb255 203 232 247, rgb255 0 51 8, rgb255 8 74 60, rgb255 84 106 0, rgb255 78 141 102, rgb255 114 187 80, rgb255 62 43 34, rgb255 162 50 78, rgb255 162 99 47, rgb255 224 139 121, rgb255 224 201 121 ] [ "psygnosia" ] (Just "Toby_Yasha") "https://lospec.com/palette-list/ty-psygnosia-26"
+
+
 {-| TY - Quiet Night 10 by Toby\_Yasha
 <https://lospec.com/palette-list/ty-quiet-night-10>
 -}
@@ -14699,6 +14699,14 @@ tyQuietNight4 =
 tySacrilland28 : Palette.Palette
 tySacrilland28 =
     createPalette "TY - Sacrilland 28" [ rgb255 58 50 35, rgb255 128 89 46, rgb255 207 134 49, rgb255 218 182 118, rgb255 230 218 197, rgb255 110 112 92, rgb255 154 122 76, rgb255 164 153 131, rgb255 43 49 58, rgb255 64 56 64, rgb255 66 75 90, rgb255 106 141 180, rgb255 0 0 0, rgb255 37 33 36, rgb255 74 72 74, rgb255 115 122 122, rgb255 96 34 23, rgb255 131 56 41, rgb255 159 87 69, rgb255 187 134 111, rgb255 82 56 49, rgb255 90 66 86, rgb255 143 92 102, rgb255 175 170 185, rgb255 52 80 61, rgb255 73 90 79, rgb255 96 106 64, rgb255 138 134 53 ] [ "dark", "darkfantasy", "dungeon", "dungeoncrawler", "fantasy", "game" ] (Just "Toby_Yasha") "https://lospec.com/palette-list/ty-sacrilland-28"
+
+
+{-| TY - Seed of Despair 10 by Toby\_Yasha
+<https://lospec.com/palette-list/ty-seed-of-despair-10>
+-}
+tySeedOfDespair10 : Palette.Palette
+tySeedOfDespair10 =
+    createPalette "TY - Seed of Despair 10" [ rgb255 167 162 123, rgb255 172 129 95, rgb255 135 117 103, rgb255 110 100 63, rgb255 94 74 64, rgb255 127 141 139, rgb255 130 135 85, rgb255 114 114 95, rgb255 82 70 88, rgb255 71 83 75 ] [] (Just "Toby_Yasha") "https://lospec.com/palette-list/ty-seed-of-despair-10"
 
 
 {-| TY - Shades of Nokia 12 by Toby\_Yasha
@@ -15205,6 +15213,14 @@ wam =
     createPalette "Wam" [ rgb255 242 224 136, rgb255 230 188 104, rgb255 217 130 87, rgb255 204 78 78, rgb255 153 46 81, rgb255 115 23 84, rgb255 64 3 64, rgb255 77 8 77, rgb255 93 27 128, rgb255 88 49 166, rgb255 86 86 214, rgb255 115 153 230, rgb255 145 210 242, rgb255 178 255 255, rgb255 207 230 161, rgb255 150 204 122, rgb255 89 179 89, rgb255 53 153 87, rgb255 32 128 96, rgb255 15 102 102, rgb255 4 53 77 ] [ "21", "sus", "wam", "wam21" ] (Just "Mooone") "https://lospec.com/palette-list/wam"
 
 
+{-| Wanted21 by skeddles
+<https://lospec.com/palette-list/wanted21>
+-}
+wanted21 : Palette.Palette
+wanted21 =
+    createPalette "Wanted21" [ rgb255 255 236 189, rgb255 255 233 166, rgb255 255 219 143, rgb255 250 207 122, rgb255 247 188 105, rgb255 237 169 92, rgb255 225 138 80, rgb255 208 122 71, rgb255 174 97 56, rgb255 116 70 49, rgb255 82 55 43, rgb255 54 39 25, rgb255 116 76 63, rgb255 186 107 72, rgb255 211 124 80, rgb255 231 144 85, rgb255 249 166 94, rgb255 115 82 54, rgb255 143 106 64, rgb255 183 139 78, rgb255 225 164 93 ] [ "paper" ] (Just "skeddles") "https://lospec.com/palette-list/wanted21"
+
+
 {-| War Is Hell by Cheeseismysoul
 <https://lospec.com/palette-list/war-is-hell>
 -}
@@ -15539,14 +15555,6 @@ witch =
 wizardsBreath34 : Palette.Palette
 wizardsBreath34 =
     createPalette "Wizards Breath-34" [ rgb255 53 79 90, rgb255 84 146 158, rgb255 91 197 166, rgb255 177 255 173, rgb255 219 255 196, rgb255 18 18 18, rgb255 255 255 255, rgb255 158 245 59, rgb255 99 201 48, rgb255 124 77 59, rgb255 85 45 45 ] [] (Just "PixelPanda") "https://lospec.com/palette-list/wizards-breath-34"
-
-
-{-| WLK44 by WildLeoKnight
-<https://lospec.com/palette-list/wlk44>
--}
-wlk44 : Palette.Palette
-wlk44 =
-    createPalette "WLK44" [ rgb255 2 9 24, rgb255 66 78 102, rgb255 147 165 190, rgb255 242 242 242, rgb255 255 255 153, rgb255 244 208 26, rgb255 166 88 5, rgb255 60 23 1, rgb255 77 10 0, rgb255 157 44 7, rgb255 234 125 16, rgb255 248 190 73, rgb255 195 247 135, rgb255 71 209 99, rgb255 16 122 104, rgb255 1 37 60, rgb255 8 37 37, rgb255 3 104 62, rgb255 33 176 57, rgb255 141 243 79, rgb255 153 231 244, rgb255 18 194 248, rgb255 3 65 181, rgb255 2 10 85, rgb255 3 13 48, rgb255 11 111 157, rgb255 37 228 196, rgb255 229 251 243, rgb255 189 124 238, rgb255 146 50 236, rgb255 48 0 143, rgb255 17 1 50, rgb255 79 2 74, rgb255 131 1 101, rgb255 185 19 141, rgb255 224 87 201, rgb255 250 163 171, rgb255 238 17 61, rgb255 152 11 28, rgb255 63 4 9, rgb255 25 4 0, rgb255 186 80 23, rgb255 244 150 78, rgb255 254 204 129 ] [ "bright", "gameboy", "saturated", "wild", "wildleoknight", "wlk", "wlk44" ] (Just "WildLeoKnight") "https://lospec.com/palette-list/wlk44"
 
 
 {-| WLK44 v2 by WildLeoKnight
@@ -15917,14 +15925,6 @@ zombieApocalipse =
     createPalette "Zombie Apocalipse!" [ rgb255 120 103 117, rgb255 160 144 155, rgb255 180 198 185, rgb255 220 236 225 ] [ "4colors", "green", "zombie" ] (Just "Rexsarus") "https://lospec.com/palette-list/zombie-apocalipse"
 
 
-{-| Zombie Outbreak by tdriling
-<https://lospec.com/palette-list/zombie-outbreak>
--}
-zombieOutbreak : Palette.Palette
-zombieOutbreak =
-    createPalette "Zombie Outbreak" [ rgb255 220 84 158, rgb255 151 37 130, rgb255 95 44 131, rgb255 161 219 232, rgb255 155 208 141, rgb255 22 135 136, rgb255 76 76 76, rgb255 51 51 51 ] [] (Just "tdriling") "https://lospec.com/palette-list/zombie-outbreak"
-
-
 {-| Zool by Craig Robinson
 <https://lospec.com/palette-list/zool>
 -}
@@ -15975,7 +15975,6 @@ paletteList =
         , ( "2bit-demiboy", p2bitDemiboy )
         , ( "2bit-demichrome", p2bitDemichrome )
         , ( "2bit-sunrise", p2bitSunrise )
-        , ( "2much", p2much )
         , ( "2sois", p2sois )
         , ( "3-bit-cmy", p3BitCmy )
         , ( "3-bit-rgb-perceptually-linear", p3BitRgbPerceptuallyLinear )
@@ -16005,9 +16004,6 @@ paletteList =
         , ( "90schina", p90schina )
         , ( "a-darkish-sky", aDarkishSky )
         , ( "a-horrible-death", aHorribleDeath )
-        , ( "a-lot", aLot )
-        , ( "a-m-9-0-i-n-f-r-a", aM90INFRA )
-        , ( "a-m-a-n-i-t-a", aMANITA )
         , ( "a-s-i-a-n-1-5", aSIAN15 )
         , ( "a-short-hike", aShortHike )
         , ( "a-sweet-revamp", aSweetRevamp )
@@ -16024,6 +16020,7 @@ paletteList =
         , ( "aerugo", aerugo )
         , ( "afr-32", afr32 )
         , ( "ag-500", ag500 )
+        , ( "agb", agb )
         , ( "aj8", aj8 )
         , ( "ajmsx", ajmsx )
         , ( "ajs-pico-8-palette", ajsPico8Palette )
@@ -16033,6 +16030,8 @@ paletteList =
         , ( "alien-gb", alienGb )
         , ( "all-around-30", allAround30 )
         , ( "allioop-20", allioop20 )
+        , ( "am90", am90 )
+        , ( "amanita", amanita )
         , ( "amaryllis-garden-8", amaryllisGarden8 )
         , ( "amazon-8", amazon8 )
         , ( "amber-crtgb", amberCrtgb )
@@ -16091,7 +16090,6 @@ paletteList =
         , ( "atom-20", atom20 )
         , ( "atom-8", atom8 )
         , ( "atomic-heat", atomicHeat )
-        , ( "aubrey-32", aubrey32 )
         , ( "auler99", auler99 )
         , ( "autum-villan-6", autumVillan6 )
         , ( "autumn-breeze", autumnBreeze )
@@ -16109,7 +16107,6 @@ paletteList =
         , ( "ayaka-18", ayaka18 )
         , ( "azione-16", azione16 )
         , ( "azul-5", azul5 )
-        , ( "b-l-u-s-h-r-o-o-m", bLUSHROOM )
         , ( "baba-is-you-default-color", babaIsYouDefaultColor )
         , ( "baba32", baba32 )
         , ( "backward-12", backward12 )
@@ -16187,6 +16184,7 @@ paletteList =
         , ( "bluetiger-3c", bluetiger3C )
         , ( "blush-gb", blushGb )
         , ( "blush-n-gunmetal", blushNGunmetal )
+        , ( "blushroom", blushroom )
         , ( "bly14", bly14 )
         , ( "bly16", bly16 )
         , ( "bmo", bmo )
@@ -16224,15 +16222,14 @@ paletteList =
         , ( "cafe-nouveau", cafeNouveau )
         , ( "cafearisuki", cafearisuki )
         , ( "calm-48", calm48 )
-        , ( "calm-sunset", calmSunset )
         , ( "calm18", calm18 )
         , ( "calmer-than-calm-17", calmerThanCalm17 )
         , ( "calming-grey", calmingGrey )
         , ( "calmness", calmness )
         , ( "camo-gb", camoGb )
+        , ( "camo2", camo2 )
         , ( "camouflage-7", camouflage7 )
         , ( "campfire-gb", campfireGb )
-        , ( "can-d", canD )
         , ( "candy-12", candy12 )
         , ( "candypop", candypop )
         , ( "capp-5", capp5 )
@@ -16247,7 +16244,6 @@ paletteList =
         , ( "cattales56", cattales56 )
         , ( "cave-moss", caveMoss )
         , ( "cave4", cave4 )
-        , ( "cc-29", cc29 )
         , ( "celestial", celestial )
         , ( "celestialhalo9", celestialhalo9 )
         , ( "centennial-fruitcake", centennialFruitcake )
@@ -16329,6 +16325,7 @@ paletteList =
         , ( "colorquest-16", colorquest16 )
         , ( "colorquest-retro-recolor", colorquestRetroRecolor )
         , ( "colors", colors )
+        , ( "colors-of-cascadia", colorsOfCascadia )
         , ( "colortastic", colortastic )
         , ( "colourful-6", colourful6 )
         , ( "combi-16", combi16 )
@@ -16419,7 +16416,6 @@ paletteList =
         , ( "deep-16", deep16 )
         , ( "deep-forest", deepForest )
         , ( "deep-forest-16", deepForest16 )
-        , ( "deep-forest-24", deepForest24 )
         , ( "deep-maze", deepMaze )
         , ( "deepblue", deepblue )
         , ( "deepfry", deepfry )
@@ -16527,7 +16523,6 @@ paletteList =
         , ( "escape", escape )
         , ( "escape9", escape9 )
         , ( "essential-earth", essentialEarth )
-        , ( "etern16", etern16 )
         , ( "eulbink", eulbink )
         , ( "evaladarr", evaladarr )
         , ( "evening32", evening32 )
@@ -16610,8 +16605,6 @@ paletteList =
         , ( "funky-man", funkyMan )
         , ( "funny31", funny31 )
         , ( "funtime5", funtime5 )
-        , ( "g-e-e-d-e-e-p-e-e", gEEDEEPEE )
-        , ( "g-o-b-l-i-n", gOBLIN )
         , ( "g4b-8bit", g4b8Bit )
         , ( "game-boy-snowflake", gameBoySnowflake )
         , ( "game-watch-gb", gameWatchGb )
@@ -16644,6 +16637,7 @@ paletteList =
         , ( "gloss-finish-22", glossFinish22 )
         , ( "go-line", goLine )
         , ( "gob-48", gob48 )
+        , ( "goblin", goblin )
         , ( "godblood8", godblood8 )
         , ( "gogreen", gogreen )
         , ( "gold-gb", goldGb )
@@ -16659,9 +16653,9 @@ paletteList =
         , ( "gothic-bit", gothicBit )
         , ( "gothic-winter-gb", gothicWinterGb )
         , ( "graceful-lich", gracefulLich )
-        , ( "grafx2-default-palette", grafx2DefaultPalette )
         , ( "grape-soda-arcade", grapeSodaArcade )
         , ( "grape-tree-gb", grapeTreeGb )
+        , ( "grapeboy", grapeboy )
         , ( "graveyard-mist", graveyardMist )
         , ( "grayfruit8", grayfruit8 )
         , ( "grayscale-16", grayscale16 )
@@ -16708,10 +16702,11 @@ paletteList =
         , ( "hellfire-gb", hellfireGb )
         , ( "hemospectrum", hemospectrum )
         , ( "henge5", henge5 )
-        , ( "hept32", hept32 )
         , ( "hero-beyond-time", heroBeyondTime )
         , ( "hetzelfde", hetzelfde )
+        , ( "hiding-in-the-wildflowers", hidingInTheWildflowers )
         , ( "high-heavens", highHeavens )
+        , ( "hiker-20", hiker20 )
         , ( "hilda", hilda )
         , ( "hill-gb", hillGb )
         , ( "hollow", hollow )
@@ -16762,6 +16757,7 @@ paletteList =
         , ( "interstellar-15", interstellar15 )
         , ( "interstellar-indigo", interstellarIndigo )
         , ( "introspection-01", introspection01 )
+        , ( "invert-compatible", invertCompatible )
         , ( "iridescent-crystal", iridescentCrystal )
         , ( "irlboy", irlboy )
         , ( "iron-blues", ironBlues )
@@ -16779,11 +16775,9 @@ paletteList =
         , ( "izk-oasis-8", izkOasis8 )
         , ( "janvier", janvier )
         , ( "japan26", japan26 )
-        , ( "jari-palette", jariPalette )
         , ( "jeepers12", jeepers12 )
         , ( "jewerlries-embeded-crown", jewerlriesEmbededCrown )
         , ( "jigglypuff-11", jigglypuff11 )
-        , ( "jm", jm )
         , ( "joker-6", joker6 )
         , ( "jolly-elf", jollyElf )
         , ( "jonk-16", jonk16 )
@@ -16798,10 +16792,10 @@ paletteList =
         , ( "jungle-punch-5-colors", junglePunch5Colors )
         , ( "junglecandy-8", junglecandy8 )
         , ( "just-add-water", justAddWater )
-        , ( "k-a-n-a-g-a-w-a", kANAGAWA )
         , ( "k-arambole", kArambole )
         , ( "kalcium-gameboy", kalciumGameboy )
         , ( "kalimba-26", kalimba26 )
+        , ( "kanagawa", kanagawa )
         , ( "kankei4", kankei4 )
         , ( "karu36", karu36 )
         , ( "kawaii16", kawaii16 )
@@ -16842,6 +16836,7 @@ paletteList =
         , ( "le-masteros-paletas", leMasterosPaletas )
         , ( "le-place", lePlace )
         , ( "leaved-pallete-35", leavedPallete35 )
+        , ( "leflautt0", leflautt0 )
         , ( "legacy-colorblind-8", legacyColorblind8 )
         , ( "lego-brick-2016-palette", legoBrick2016Palette )
         , ( "lego-colors-pearl", legoColorsPearl )
@@ -16854,6 +16849,7 @@ paletteList =
         , ( "leopolds-dreams", leopoldsDreams )
         , ( "lethargic8", lethargic8 )
         , ( "lf-28", lf28 )
+        , ( "libra-8", libra8 )
         , ( "light-academia-8", lightAcademia8 )
         , ( "light-fantasy-game", lightFantasyGame )
         , ( "lighthouse-island", lighthouseIsland )
@@ -16864,7 +16860,6 @@ paletteList =
         , ( "lims-lost-is-missing-virbants", limsLostIsMissingVirbants )
         , ( "limted-16", limted16 )
         , ( "link-awakening-links-colour", linkAwakeningLinksColour )
-        , ( "lite34", lite34 )
         , ( "lithium-64", lithium64 )
         , ( "lmao", lmao )
         , ( "lns15", lns15 )
@@ -16894,7 +16889,6 @@ paletteList =
         , ( "lump-16", lump16 )
         , ( "lush-green", lushGreen )
         , ( "luxa", luxa )
-        , ( "m-u-s-h-b-l-o-o-m", mUSHBLOOM )
         , ( "mac-paint", macPaint )
         , ( "machinie-palette", machiniePalette )
         , ( "macintosh-8-bit-system-palette", macintosh8BitSystemPalette )
@@ -16922,9 +16916,9 @@ paletteList =
         , ( "massillon-8", massillon8 )
         , ( "master-28", master28 )
         , ( "masterful-103", masterful103 )
-        , ( "matt36", matt36 )
         , ( "maurice", maurice )
         , ( "maw", maw )
+        , ( "mazzical-20", mazzical20 )
         , ( "mc-fupery-artmap-shades-gg", mcFuperyArtmapShadesGg )
         , ( "medor9", medor9 )
         , ( "mega-20", mega20 )
@@ -16939,7 +16933,7 @@ paletteList =
         , ( "merlot", merlot )
         , ( "mesa-vapor", mesaVapor )
         , ( "messenger-from-dark-night-pc98", messengerFromDarkNightPc98 )
-        , ( "metal-flower-48", metalFlower48 )
+        , ( "messy-12", messy12 )
         , ( "metallic-gb", metallicGb )
         , ( "meteor-4", meteor4 )
         , ( "mf-16", mf16 )
@@ -16949,7 +16943,6 @@ paletteList =
         , ( "mico17", mico17 )
         , ( "micro-86", micro86 )
         , ( "microsoft-makecode-arcade", microsoftMakecodeArcade )
-        , ( "microsoft-metro", microsoftMetro )
         , ( "microsoft-vga", microsoftVga )
         , ( "midnight", midnight )
         , ( "midnight-ablaze", midnightAblaze )
@@ -17023,6 +17016,7 @@ paletteList =
         , ( "mural-gb", muralGb )
         , ( "murky-16", murky16 )
         , ( "murky-water-10", murkyWater10 )
+        , ( "mushbloom", mushbloom )
         , ( "mushfairy", mushfairy )
         , ( "mushroom", mushroom )
         , ( "muted-ally-6", mutedAlly6 )
@@ -17071,7 +17065,6 @@ paletteList =
         , ( "nes-wikipedia", nesWikipedia )
         , ( "nestopia", nestopia )
         , ( "neutral-32", neutral32 )
-        , ( "new", new )
         , ( "new-tableau-10", newTableau10 )
         , ( "new-worlds-46", newWorlds46 )
         , ( "nice-rabbit", niceRabbit )
@@ -17079,7 +17072,6 @@ paletteList =
         , ( "nice69", nice69 )
         , ( "nicole-punk-82", nicolePunk82 )
         , ( "nieu15", nieu15 )
-        , ( "nigh7", nigh7 )
         , ( "night-light", nightLight )
         , ( "nightclub", nightclub )
         , ( "nightsky-bricks", nightskyBricks )
@@ -17172,7 +17164,6 @@ paletteList =
         , ( "pastel-love", pastelLove )
         , ( "pastel-qt", pastelQt )
         , ( "pastel-ranibow-9", pastelRanibow9 )
-        , ( "pastel-vivid", pastelVivid )
         , ( "pastelapple", pastelapple )
         , ( "pastelito2", pastelito2 )
         , ( "pastle-cute-minimal-lofi-colors", pastleCuteMinimalLofiColors )
@@ -17187,7 +17178,6 @@ paletteList =
         , ( "peelyweelybananyicecreamy", peelyweelybananyicecreamy )
         , ( "pen-n-paper", penNPaper )
         , ( "pencil-sketch", pencilSketch )
-        , ( "penny", penny )
         , ( "pepe-no-more", pepeNoMore )
         , ( "perilsndragons", perilsndragons )
         , ( "photocorp", photocorp )
@@ -17227,6 +17217,11 @@ paletteList =
         , ( "pocketgb", pocketgb )
         , ( "poison-bubble-8", poisonBubble8 )
         , ( "poisson-23", poisson23 )
+        , ( "pokemon-dpp-poketch-blue", pokemonDppPoketchBlue )
+        , ( "pokemon-dpp-poketch-orange", pokemonDppPoketchOrange )
+        , ( "pokemon-dpp-poketch-purple", pokemonDppPoketchPurple )
+        , ( "pokemon-dpp-poketch-red", pokemonDppPoketchRed )
+        , ( "pokemon-dpp-poketch-yellow", pokemonDppPoketchYellow )
         , ( "pokemon-gen-2-overworld-objects", pokemonGen2OverworldObjects )
         , ( "pokemon-ruby-sapphire-exterior", pokemonRubySapphireExterior )
         , ( "pokemon-ruby-sapphire-interior", pokemonRubySapphireInterior )
@@ -17266,19 +17261,19 @@ paletteList =
         , ( "purpleskygb", purpleskygb )
         , ( "puyo-26", puyo26 )
         , ( "pxls-default", pxlsDefault )
-        , ( "pyxel", pyxel )
         , ( "quak60", quak60 )
-        , ( "qualm12", qualm12 )
         , ( "queen-bee", queenBee )
         , ( "quested-mountain", questedMountain )
         , ( "quested-valley", questedValley )
         , ( "quinn", quinn )
-        , ( "r-a-b-b-i-t-9", rABBIT9 )
         , ( "r-place-2022-32-colors", rPlace202232Colors )
         , ( "r-place-2022-day2", rPlace2022Day2 )
         , ( "r-place-2022-day3", rPlace2022Day3 )
         , ( "r-place-2022-expanded", rPlace2022Expanded )
         , ( "r05", r05 )
+        , ( "rabbit5am", rabbit5am )
+        , ( "rabbit5pm", rabbit5pm )
+        , ( "rabbitking", rabbitking )
         , ( "radioactive-ice-cream", radioactiveIceCream )
         , ( "radioactive13", radioactive13 )
         , ( "rainbow-24", rainbow24 )
@@ -17299,6 +17294,7 @@ paletteList =
         , ( "rat-flavour", ratFlavour )
         , ( "rayleigh", rayleigh )
         , ( "razzmatazz-5", razzmatazz5 )
+        , ( "red-blood-pain", redBloodPain )
         , ( "red-dragon-18", redDragon18 )
         , ( "red-horns", redHorns )
         , ( "red-is-dead", redIsDead )
@@ -17312,7 +17308,6 @@ paletteList =
         , ( "redreen", redreen )
         , ( "redux63", redux63 )
         , ( "reeses-puffs-1-bit", reesesPuffs1Bit )
-        , ( "reformed-rainbow", reformedRainbow )
         , ( "regal10", regal10 )
         , ( "reggae-5", reggae5 )
         , ( "reteocal-9", reteocal9 )
@@ -17485,6 +17480,7 @@ paletteList =
         , ( "small-sprite-bright-32", smallSpriteBright32 )
         , ( "small-sprite-greedy-40", smallSpriteGreedy40 )
         , ( "smm2superball-game-boy-palette", smm2superballGameBoyPalette )
+        , ( "smoky-09", smoky09 )
         , ( "smooth-16", smooth16 )
         , ( "smooth-24", smooth24 )
         , ( "smooth-polished-gold", smoothPolishedGold )
@@ -17573,7 +17569,6 @@ paletteList =
         , ( "st-gameboy-redrose", stGameboyRedrose )
         , ( "st-gameboy-remake", stGameboyRemake )
         , ( "star3a28", star3a28 )
-        , ( "stardust32", stardust32 )
         , ( "stardust5", stardust5 )
         , ( "starea28", starea28 )
         , ( "starthrall", starthrall )
@@ -17590,6 +17585,7 @@ paletteList =
         , ( "suburb-gameboy", suburbGameboy )
         , ( "suez-30", suez30 )
         , ( "sugary-stupor", sugaryStupor )
+        , ( "sulu", sulu )
         , ( "summers-past-16", summersPast16 )
         , ( "sundrop-diamond", sundropDiamond )
         , ( "sunfall-12", sunfall12 )
@@ -17719,6 +17715,7 @@ paletteList =
         , ( "truck-animal", truckAnimal )
         , ( "true-side", trueSide )
         , ( "tsunami", tsunami )
+        , ( "turquoise-eclipse", turquoiseEclipse )
         , ( "turtle-16", turtle16 )
         , ( "tvc", tvc )
         , ( "twelve-period", twelvePeriod )
@@ -17733,6 +17730,7 @@ paletteList =
         , ( "ty-artificial-happiness-16", tyArtificialHappiness16 )
         , ( "ty-artificial-happiness-8", tyArtificialHappiness8 )
         , ( "ty-black-souls-16", tyBlackSouls16 )
+        , ( "ty-blue-moon-12", tyBlueMoon12 )
         , ( "ty-blue-moon-5", tyBlueMoon5 )
         , ( "ty-bones-ashes-16", tyBonesAshes16 )
         , ( "ty-bones-ashes-27", tyBonesAshes27 )
@@ -17754,6 +17752,7 @@ paletteList =
         , ( "ty-dementia-girl-24", tyDementiaGirl24 )
         , ( "ty-deserted-wasteland-14", tyDesertedWasteland14 )
         , ( "ty-disaster-girl-16", tyDisasterGirl16 )
+        , ( "ty-disaster-girl-20", tyDisasterGirl20 )
         , ( "ty-distorted-kingdom-16", tyDistortedKingdom16 )
         , ( "ty-distorted-kingdom-24", tyDistortedKingdom24 )
         , ( "ty-distorted-princess-10", tyDistortedPrincess10 )
@@ -17783,9 +17782,11 @@ paletteList =
         , ( "ty-old-90s-adventure-29", tyOld90SAdventure29 )
         , ( "ty-old-nostalgia-16", tyOldNostalgia16 )
         , ( "ty-play-win-7", tyPlayWin7 )
+        , ( "ty-psygnosia-26", tyPsygnosia26 )
         , ( "ty-quiet-night-10", tyQuietNight10 )
         , ( "ty-quiet-night-4", tyQuietNight4 )
         , ( "ty-sacrilland-28", tySacrilland28 )
+        , ( "ty-seed-of-despair-10", tySeedOfDespair10 )
         , ( "ty-shades-of-nokia-12", tyShadesOfNokia12 )
         , ( "ty-shades-of-nokia-4", tyShadesOfNokia4 )
         , ( "ty-space-mission-14", tySpaceMission14 )
@@ -17849,6 +17850,7 @@ paletteList =
         , ( "walking-in-the-woods-8", walkingInTheWoods8 )
         , ( "wall-10", wall10 )
         , ( "wam", wam )
+        , ( "wanted21", wanted21 )
         , ( "war-is-hell", warIsHell )
         , ( "war-train", warTrain )
         , ( "warioware-diy-palette", wariowareDiyPalette )
@@ -17891,7 +17893,6 @@ paletteList =
         , ( "wisteric-17", wisteric17 )
         , ( "witch", witch )
         , ( "wizards-breath-34", wizardsBreath34 )
-        , ( "wlk44", wlk44 )
         , ( "wlk44-v2", wlk44V2 )
         , ( "woeful-harvest", woefulHarvest )
         , ( "wonderbubbles", wonderbubbles )
@@ -17938,7 +17939,6 @@ paletteList =
         , ( "zenpaint", zenpaint )
         , ( "ziga-1000", ziga1000 )
         , ( "zombie-apocalipse", zombieApocalipse )
-        , ( "zombie-outbreak", zombieOutbreak )
         , ( "zool", zool )
         , ( "zx-spectrum", zxSpectrum )
         ]
