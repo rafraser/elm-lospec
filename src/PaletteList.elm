@@ -5989,12 +5989,12 @@ hollowkeen4 =
     createPalette "Hollowkeen4" [ rgb255 25 14 14, rgb255 161 88 21, rgb255 205 169 8, rgb255 180 205 6, rgb255 214 214 206 ] [ "5color" ] (Just "MisspeltPengin") "https://lospec.com/palette-list/hollowkeen4"
 
 
-{-| HOLLOWO-20 by P0keePanda P
+{-| HOLLOWO-20 by P0kePanda
 <https://lospec.com/palette-list/hollowo-20>
 -}
 hollowo20 : Palette.Palette
 hollowo20 =
-    createPalette "HOLLOWO-20" [ rgb255 23 23 38, rgb255 80 84 100, rgb255 0 0 0, rgb255 178 79 79, rgb255 146 42 42, rgb255 174 176 205, rgb255 234 237 255, rgb255 122 156 178, rgb255 76 105 146, rgb255 98 150 63, rgb255 109 182 108, rgb255 153 109 168, rgb255 93 72 132, rgb255 219 187 103, rgb255 200 165 89, rgb255 137 84 52, rgb255 59 23 7, rgb255 214 148 73, rgb255 196 119 55, rgb255 223 141 141, rgb255 178 106 106 ] [ "cold", "hollow", "hot", "owo" ] (Just "P0keePanda P") "https://lospec.com/palette-list/hollowo-20"
+    createPalette "HOLLOWO-20" [ rgb255 23 23 38, rgb255 80 84 100, rgb255 0 0 0, rgb255 178 79 79, rgb255 146 42 42, rgb255 174 176 205, rgb255 234 237 255, rgb255 122 156 178, rgb255 76 105 146, rgb255 98 150 63, rgb255 109 182 108, rgb255 153 109 168, rgb255 93 72 132, rgb255 219 187 103, rgb255 200 165 89, rgb255 137 84 52, rgb255 59 23 7, rgb255 214 148 73, rgb255 196 119 55, rgb255 223 141 141, rgb255 178 106 106 ] [ "cold", "hollow", "hot", "owo" ] (Just "P0kePanda") "https://lospec.com/palette-list/hollowo-20"
 
 
 {-| Honey Milk by SoundsDotZip
@@ -6613,12 +6613,12 @@ juneFlower =
     createPalette "June Flower" [ rgb255 255 255 255, rgb255 190 171 255, rgb255 202 112 177, rgb255 139 55 186 ] [ "2bit", "flower", "monoramp", "pink" ] (Just "CopheeMoth") "https://lospec.com/palette-list/june-flower"
 
 
-{-| jungle punch 5 colors by P0keePanda P
+{-| jungle punch 5 colors by P0kePanda
 <https://lospec.com/palette-list/jungle-punch-5-colors>
 -}
 junglePunch5Colors : Palette.Palette
 junglePunch5Colors =
-    createPalette "jungle punch 5 colors" [ rgb255 237 159 125, rgb255 252 239 156, rgb255 20 36 27, rgb255 149 148 70, rgb255 66 99 13 ] [ "5colors", "darkgreen", "green", "jungle", "orange", "yellow" ] (Just "P0keePanda P") "https://lospec.com/palette-list/jungle-punch-5-colors"
+    createPalette "jungle punch 5 colors" [ rgb255 237 159 125, rgb255 252 239 156, rgb255 20 36 27, rgb255 149 148 70, rgb255 66 99 13 ] [ "5colors", "darkgreen", "green", "jungle", "orange", "yellow" ] (Just "P0kePanda") "https://lospec.com/palette-list/jungle-punch-5-colors"
 
 
 {-| Just add water by Poltergasm
@@ -9197,12 +9197,12 @@ on70 =
     createPalette "On70" [ rgb255 105 6 83, rgb255 125 16 89, rgb255 143 29 88, rgb255 163 44 92, rgb255 179 61 96, rgb255 194 79 100, rgb255 210 100 113, rgb255 99 33 33, rgb255 112 45 45, rgb255 125 57 57, rgb255 140 73 73, rgb255 153 89 89, rgb255 166 104 104, rgb255 179 121 121, rgb255 87 33 15, rgb255 102 50 23, rgb255 117 73 36, rgb255 133 98 50, rgb255 150 125 69, rgb255 163 142 85, rgb255 176 165 104, rgb255 29 30 97, rgb255 42 50 112, rgb255 47 63 117, rgb255 61 91 133, rgb255 75 114 150, rgb255 96 142 168, rgb255 117 169 186, rgb255 45 97 26, rgb255 50 112 38, rgb255 57 130 49, rgb255 61 143 64, rgb255 83 163 95, rgb255 94 168 110, rgb255 114 184 135 ] [] (Just "By8Bits") "https://lospec.com/palette-list/on70"
 
 
-{-| ongbit by P0keePanda P
+{-| ongbit by P0kePanda
 <https://lospec.com/palette-list/ongbit>
 -}
 ongbit : Palette.Palette
 ongbit =
-    createPalette "ongbit" [ rgb255 21 29 36, rgb255 237 132 99 ] [ "black", "ong" ] (Just "P0keePanda P") "https://lospec.com/palette-list/ongbit"
+    createPalette "ongbit" [ rgb255 21 29 36, rgb255 237 132 99 ] [ "black", "ong" ] (Just "P0kePanda") "https://lospec.com/palette-list/ongbit"
 
 
 {-| Oni by Nukman147
