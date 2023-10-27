@@ -3653,12 +3653,12 @@ desat =
     createPalette "desat" [ rgb255 41 26 31, rgb255 103 86 80, rgb255 190 168 125, rgb255 240 224 207 ] [ "brown", "coffee", "decaf", "gb", "polyphrog" ] (Just "polyphrog") "https://lospec.com/palette-list/desat"
 
 
-{-| Desatur8 by O2C
+{-| Desatur8 by o-n
 <https://lospec.com/palette-list/desatur8>
 -}
 desatur8 : Palette.Palette
 desatur8 =
-    createPalette "Desatur8" [ rgb255 240 240 235, rgb255 255 255 143, rgb255 123 224 152, rgb255 132 154 216, rgb255 232 179 130, rgb255 216 130 142, rgb255 167 118 193, rgb255 84 81 85 ] [ "8", "desaturated", "limited", "pastel", "rainbow" ] (Just "O2C") "https://lospec.com/palette-list/desatur8"
+    createPalette "Desatur8" [ rgb255 240 240 235, rgb255 255 255 143, rgb255 123 224 152, rgb255 132 154 216, rgb255 232 179 130, rgb255 216 130 142, rgb255 167 118 193, rgb255 84 81 85 ] [ "8", "desaturated", "limited", "pastel", "rainbow" ] (Just "o-n") "https://lospec.com/palette-list/desatur8"
 
 
 {-| Desaturated Survival Horror 29 by ShatteredReality
@@ -6765,12 +6765,12 @@ kule16 =
     createPalette "KULE-16" [ rgb255 41 20 13, rgb255 117 51 85, rgb255 174 95 80, rgb255 229 105 78, rgb255 233 142 112, rgb255 255 159 43, rgb255 255 185 134, rgb255 255 205 44, rgb255 242 241 213, rgb255 124 227 252, rgb255 56 217 137, rgb255 62 161 216, rgb255 101 98 189, rgb255 198 119 234, rgb255 248 167 212, rgb255 176 156 184 ] [ "bright", "kule", "tokipona" ] (Just "Cuymacu") "https://lospec.com/palette-list/kule-16"
 
 
-{-| kulupu kule by O2C
+{-| kulupu kule by o-n
 <https://lospec.com/palette-list/kulupu-kule>
 -}
 kulupuKule : Palette.Palette
 kulupuKule =
-    createPalette "kulupu kule" [ rgb255 255 211 26, rgb255 246 147 29, rgb255 246 83 28, rgb255 223 35 44, rgb255 137 29 113, rgb255 117 47 214, rgb255 33 144 160, rgb255 34 166 69, rgb255 109 212 56, rgb255 255 255 133, rgb255 99 75 40, rgb255 249 126 136, rgb255 101 16 34, rgb255 144 239 255, rgb255 24 45 78, rgb255 21 21 25, rgb255 54 57 61, rgb255 130 138 136, rgb255 238 239 233 ] [ "colorful", "rainbow", "saturated", "tokipona" ] (Just "O2C") "https://lospec.com/palette-list/kulupu-kule"
+    createPalette "kulupu kule" [ rgb255 255 211 26, rgb255 246 147 29, rgb255 246 83 28, rgb255 223 35 44, rgb255 137 29 113, rgb255 117 47 214, rgb255 33 144 160, rgb255 34 166 69, rgb255 109 212 56, rgb255 255 255 133, rgb255 99 75 40, rgb255 249 126 136, rgb255 101 16 34, rgb255 144 239 255, rgb255 24 45 78, rgb255 21 21 25, rgb255 54 57 61, rgb255 130 138 136, rgb255 238 239 233 ] [ "colorful", "rainbow", "saturated", "tokipona" ] (Just "o-n") "https://lospec.com/palette-list/kulupu-kule"
 
 
 {-| kulupu kule suli by jan Sipiki
@@ -9685,12 +9685,12 @@ picoMicro =
     createPalette "Pico micro" [ rgb255 0 0 0, rgb255 84 78 94, rgb255 77 142 217, rgb255 0 212 59, rgb255 255 228 210, rgb255 255 187 13, rgb255 255 59 122, rgb255 145 63 51 ] [ "pico8" ] (Just "Space Sandwich") "https://lospec.com/palette-list/pico-micro"
 
 
-{-| Picotron (WIP v.3) by Bo Tie
+{-| Picotron (WIP v3) by Bo Tie
 <https://lospec.com/palette-list/picotron-wip-v3>
 -}
 picotronWipV3 : Palette.Palette
 picotronWipV3 =
-    createPalette "Picotron (WIP v.3)" [ rgb255 0 0 0, rgb255 29 43 83, rgb255 126 37 83, rgb255 0 135 81, rgb255 171 82 54, rgb255 95 87 79, rgb255 194 195 199, rgb255 255 241 232, rgb255 255 0 77, rgb255 255 163 0, rgb255 255 236 39, rgb255 0 228 54, rgb255 41 173 255, rgb255 131 118 156, rgb255 255 119 168, rgb255 255 204 170, rgb255 103 45 138, rgb255 10 98 190, rgb255 66 33 54, rgb255 18 83 89, rgb255 116 47 41, rgb255 212 142 111, rgb255 162 136 121, rgb255 255 245 125, rgb255 190 18 38, rgb255 255 108 36, rgb255 168 241 46, rgb255 0 178 81, rgb255 131 235 245, rgb255 189 154 223, rgb255 185 55 184, rgb255 255 172 197 ] [ "fantasyconsole", "pico8", "picotron" ] (Just "Bo Tie") "https://lospec.com/palette-list/picotron-wip-v3"
+    createPalette "Picotron (WIP v3)" [ rgb255 0 0 0, rgb255 29 43 83, rgb255 126 37 83, rgb255 0 135 81, rgb255 171 82 54, rgb255 95 87 79, rgb255 194 195 199, rgb255 255 241 232, rgb255 255 0 77, rgb255 255 163 0, rgb255 255 236 39, rgb255 0 228 54, rgb255 41 173 255, rgb255 131 118 156, rgb255 255 119 168, rgb255 255 204 170, rgb255 103 45 138, rgb255 10 98 190, rgb255 66 33 54, rgb255 18 83 89, rgb255 116 47 41, rgb255 212 142 111, rgb255 162 136 121, rgb255 255 245 125, rgb255 190 18 38, rgb255 255 108 36, rgb255 168 241 46, rgb255 0 178 81, rgb255 131 235 245, rgb255 189 154 223, rgb255 185 55 184, rgb255 255 172 197 ] [ "fantasyconsole", "pico8", "picotron" ] (Just "Bo Tie") "https://lospec.com/palette-list/picotron-wip-v3"
 
 
 {-| piece of cake by YeimsBaxter
