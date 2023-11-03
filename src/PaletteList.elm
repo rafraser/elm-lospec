@@ -1469,12 +1469,12 @@ blindfold =
     createPalette "Blindfold" [ rgb255 46 7 29, rgb255 33 56 71, rgb255 72 110 107, rgb255 179 143 134, rgb255 219 208 191 ] [ "beige", "blue", "brown" ] (Just "Solitaire") "https://lospec.com/palette-list/blindfold"
 
 
-{-| BLK NX64 by BlackedIRL
+{-| BLK NX64 by BurakoIRL
 <https://lospec.com/palette-list/blk-nx64>
 -}
 blkNx64 : Palette.Palette
 blkNx64 =
-    createPalette "BLK NX64" [ rgb255 0 0 0, rgb255 18 23 61, rgb255 41 50 104, rgb255 70 75 140, rgb255 107 116 178, rgb255 144 158 221, rgb255 193 217 242, rgb255 255 255 255, rgb255 162 147 196, rgb255 123 106 165, rgb255 83 66 127, rgb255 60 44 104, rgb255 67 30 102, rgb255 93 47 140, rgb255 133 76 191, rgb255 180 131 239, rgb255 140 255 155, rgb255 66 188 127, rgb255 34 137 110, rgb255 20 102 91, rgb255 15 74 76, rgb255 10 42 51, rgb255 29 26 89, rgb255 50 45 137, rgb255 53 74 178, rgb255 62 131 209, rgb255 80 185 235, rgb255 140 218 255, rgb255 83 161 173, rgb255 59 118 143, rgb255 33 82 107, rgb255 22 55 85, rgb255 0 135 130, rgb255 0 170 165, rgb255 39 211 203, rgb255 120 250 230, rgb255 205 197 153, rgb255 152 143 100, rgb255 92 93 65, rgb255 53 63 35, rgb255 145 155 69, rgb255 175 211 112, rgb255 255 224 145, rgb255 255 170 110, rgb255 255 105 90, rgb255 178 60 64, rgb255 255 102 117, rgb255 221 55 69, rgb255 165 38 57, rgb255 114 28 47, rgb255 178 46 105, rgb255 229 66 134, rgb255 255 110 175, rgb255 255 165 213, rgb255 255 211 173, rgb255 204 129 122, rgb255 137 86 84, rgb255 97 57 59, rgb255 63 31 60, rgb255 114 51 82, rgb255 153 76 105, rgb255 195 114 137, rgb255 242 159 170, rgb255 255 204 208 ] [ "artist", "blkirl", "multiuse", "pixelart", "update" ] (Just "BlackedIRL") "https://lospec.com/palette-list/blk-nx64"
+    createPalette "BLK NX64" [ rgb255 0 0 0, rgb255 18 23 61, rgb255 41 50 104, rgb255 70 75 140, rgb255 107 116 178, rgb255 144 158 221, rgb255 193 217 242, rgb255 255 255 255, rgb255 162 147 196, rgb255 123 106 165, rgb255 83 66 127, rgb255 60 44 104, rgb255 67 30 102, rgb255 93 47 140, rgb255 133 76 191, rgb255 180 131 239, rgb255 140 255 155, rgb255 66 188 127, rgb255 34 137 110, rgb255 20 102 91, rgb255 15 74 76, rgb255 10 42 51, rgb255 29 26 89, rgb255 50 45 137, rgb255 53 74 178, rgb255 62 131 209, rgb255 80 185 235, rgb255 140 218 255, rgb255 83 161 173, rgb255 59 118 143, rgb255 33 82 107, rgb255 22 55 85, rgb255 0 135 130, rgb255 0 170 165, rgb255 39 211 203, rgb255 120 250 230, rgb255 205 197 153, rgb255 152 143 100, rgb255 92 93 65, rgb255 53 63 35, rgb255 145 155 69, rgb255 175 211 112, rgb255 255 224 145, rgb255 255 170 110, rgb255 255 105 90, rgb255 178 60 64, rgb255 255 102 117, rgb255 221 55 69, rgb255 165 38 57, rgb255 114 28 47, rgb255 178 46 105, rgb255 229 66 134, rgb255 255 110 175, rgb255 255 165 213, rgb255 255 211 173, rgb255 204 129 122, rgb255 137 86 84, rgb255 97 57 59, rgb255 63 31 60, rgb255 114 51 82, rgb255 153 76 105, rgb255 195 114 137, rgb255 242 159 170, rgb255 255 204 208 ] [ "artist", "blkirl", "multiuse", "pixelart", "update" ] (Just "BurakoIRL") "https://lospec.com/palette-list/blk-nx64"
 
 
 {-| Blood Crow by Groxguy
@@ -9469,12 +9469,12 @@ pastelColorPalette =
     createPalette "Pastel Color Palette" [ rgb255 0 0 0, rgb255 190 255 224, rgb255 162 217 190, rgb255 145 193 190, rgb255 127 168 181, rgb255 98 131 151, rgb255 234 212 170, rgb255 232 183 150, rgb255 217 172 157, rgb255 201 159 162, rgb255 176 139 157, rgb255 152 255 106, rgb255 131 222 109, rgb255 123 193 127, rgb255 109 171 143, rgb255 87 136 134, rgb255 255 162 150, rgb255 245 139 131, rgb255 246 117 122, rgb255 216 103 122, rgb255 182 88 124, rgb255 255 101 237, rgb255 207 83 207, rgb255 174 69 209, rgb255 154 61 204, rgb255 124 48 200, rgb255 255 253 149, rgb255 210 210 156, rgb255 178 178 164, rgb255 152 152 171, rgb255 120 120 158, rgb255 174 194 187, rgb255 151 168 189, rgb255 132 148 192, rgb255 105 117 178, rgb255 76 84 155, rgb255 255 195 55, rgb255 254 174 52, rgb255 227 154 59, rgb255 190 128 66, rgb255 158 106 67, rgb255 255 150 78, rgb255 255 134 67, rgb255 255 105 50, rgb255 209 88 66, rgb255 177 74 80 ] [ "blue", "colorful", "cool", "cute", "green", "muted", "pale", "pastel", "pink", "purple", "red", "warm", "yellow" ] (Just "Roni Tzabari") "https://lospec.com/palette-list/pastel-color-palette"
 
 
-{-| PASTEL HORIZON by BlackedIRL
+{-| PASTEL HORIZON by BurakoIRL
 <https://lospec.com/palette-list/pastel-horizon>
 -}
 pastelHorizon : Palette.Palette
 pastelHorizon =
-    createPalette "PASTEL HORIZON" [ rgb255 83 67 127, rgb255 168 159 204, rgb255 255 255 255, rgb255 255 217 232, rgb255 255 155 182, rgb255 153 104 226, rgb255 190 155 255, rgb255 127 206 255, rgb255 109 129 255, rgb255 44 111 153, rgb255 0 188 170, rgb255 196 143 158, rgb255 142 88 111, rgb255 255 84 112, rgb255 255 155 113, rgb255 255 217 174 ] [ "aesthetic", "futurefunk", "vaporwave" ] (Just "BlackedIRL") "https://lospec.com/palette-list/pastel-horizon"
+    createPalette "PASTEL HORIZON" [ rgb255 83 67 127, rgb255 168 159 204, rgb255 255 255 255, rgb255 255 217 232, rgb255 255 155 182, rgb255 153 104 226, rgb255 190 155 255, rgb255 127 206 255, rgb255 109 129 255, rgb255 44 111 153, rgb255 0 188 170, rgb255 196 143 158, rgb255 142 88 111, rgb255 255 84 112, rgb255 255 155 113, rgb255 255 217 174 ] [ "aesthetic", "futurefunk", "vaporwave" ] (Just "BurakoIRL") "https://lospec.com/palette-list/pastel-horizon"
 
 
 {-| pastel qt by polyphrog
